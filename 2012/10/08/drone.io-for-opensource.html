@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Blog &middot; drone.io</title>
+		<title>Free for Open Source &middot; drone.io</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 		<link rel="icon" type="image/png" href="img/favicon.png">
@@ -32,14 +32,30 @@
 		<div class="container">
 			<div class="container-inner">
 				<div class="container-fluid container-blog">
-					<!-- Blog Posts
-					================================================== -->
+					<!-- Blog Post
+					======================================================== -->
 					<div class="span9">
-						{{ .content }}
+						<h1>Free for Open Source</h1>
+						<cite>Posted by <a href="https://drone.io/bradrydzewski" target="_blank">Brad Rydzewski</a> on 2012-10-08</cite>
+
+						<p>Starting today <a href="https://drone.io">drone.io</a> has a free plan available for open
+source projects.</p>
+
+<p><a href="https://drone.io">Create a free account</a>.</p>
+
+<p>It will work with any project&rsquo;s source code that is publicly accessible (meaning
+it can&rsquo;t require a username/password, or specific ssh key to copy/clone the
+source code).</p>
+
+<p>The free plan has a few limits, but it should be enough for most open source projects.
+If you start running into the limits please <a href="http://docs.drone.io/contact.html">contact</a> us.</p>
+
+<p>Let us know what you think <a href="http://twitter.com/droneio">@droneio</a></p>
+
 					</div>
 
 					<!-- Sub Navigation
-					================================================== -->
+					======================================================== -->
 					<div class="span3 pull-right">
 						<p><a href="https://drone.io">Drone.io</a> is a fully-managed Continuous Integration service. <a href="https://drone.io">Try it free today!</a></p>
 						<p style="border-top: 1px solid #EEE;margin-top: 20px;padding-top: 20px;">
@@ -49,9 +65,17 @@
 						</p>
 						<h3 style="margin-top:30px;padding-top: 10px;border-top: 1px solid #EEE;margin-top: 20px;">Recent Posts</h3>
 						<ul class="nav nav-pills nav-stacked nav-posts">
-							{{ range .site.posts }}
-							<li><a href="/{{ .url }}">{{ .title }} </a>{{ .author }} on {{ .date | date_to_string }}</li>
-							{{ end }}
+							
+							<li><a href="/2012/11/08/real-time-output.html">Watch your Build Output in Real Time.  It's Fun! </a>Tom Burke on 2012-11-08</li>
+							
+							<li><a href="/2012/10/23/php-and-scala-support.html">PHP and Scala Support </a>Brad Rydzewski on 2012-10-23</li>
+							
+							<li><a href="/2012/10/17/drone.io-support-for-teams.html">Business Plans and Team Support </a>Brad Rydzewski on 2012-10-17</li>
+							
+							<li><a href="/2012/10/08/drone.io-for-opensource.html">Free for Open Source </a>Brad Rydzewski on 2012-10-08</li>
+							
+							<li><a href="/2012/10/02/drone.io-is-live.html">Drone.io is Live </a>Tom Burke on 2012-10-02</li>
+							
 						</ul>
 
 					</div><!-- end .span3-->
@@ -60,7 +84,7 @@
 		</div>
 
 		<!-- Footer
-		================================================== -->
+		==================================================================== -->
 		<footer>
 			<ul>
 				<li><a href="https://drone.io/pricing">Plans and Pricing</a></li>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>{{ .page.title }} &middot; drone.io</title>
+		<title>PHP and Scala Support &middot; drone.io</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 		<link rel="icon" type="image/png" href="img/favicon.png">
@@ -35,10 +35,40 @@
 					<!-- Blog Post
 					======================================================== -->
 					<div class="span9">
-						<h1>{{ .page.title }}</h1>
-						<cite>Posted by <a href="{{ .page.authorlink }}" target="_blank">{{ .page.author }}</a> on {{ .page.date | date_to_string }}</cite>
+						<h1>PHP and Scala Support</h1>
+						<cite>Posted by <a href="https://drone.io/bradrydzewski" target="_blank">Brad Rydzewski</a> on 2012-10-23</cite>
 
-						{{ .content }}
+						<p>Just three weeks ago we launched <a href="https://drone.io">drone.io</a>, a hosted
+continous integration solution. We appreciate all the feedback we&rsquo;ve received.
+Many users requested support for more languages. Today we&rsquo;re excited to
+announce Beta support for <strong>Scala</strong> and <strong>PHP</strong>.</p>
+
+<p>When creating a new Project you will see options for PHP and Scala languages:</p>
+
+<p><img src="/img/screenshot_new-scala-php.png" alt="Select Project Owner" />
+</p>
+
+<h3>Scala Builds</h3>
+
+<p>Scala versions 2.8.2 and 2.9.2 are both supported. For dependency management
+and unit testing we&rsquo;ve included <strong>SBT</strong> and <strong>Maven</strong>.</p>
+
+<p>You can read more about our Scala builds <a href="http://docs.drone.io/scala.html">here</a>.</p>
+
+<h3>PHP Builds</h3>
+
+<p>PHP 5.4 is currently supported, including a long list of extensions. For dependency
+management we&rsquo;ve included <strong>pear</strong> and <strong>composer</strong>, along with <strong>phpunit</strong> to
+run your tests.</p>
+
+<p>Read more about our PHP builds <a href="http://docs.drone.io/php.html">here</a>.</p>
+
+<h3>Now Supporting 10 Languages</h3>
+
+<p><a href="https://drone.io">drone.io</a> now officially supports 10 different programming
+languages, with more langauges coming soon! Follow us on <a href="https://twitter.com/droneio">twitter</a>
+to keep up to date with our latest announcements.</p>
+
 					</div>
 
 					<!-- Sub Navigation
@@ -52,9 +82,17 @@
 						</p>
 						<h3 style="margin-top:30px;padding-top: 10px;border-top: 1px solid #EEE;margin-top: 20px;">Recent Posts</h3>
 						<ul class="nav nav-pills nav-stacked nav-posts">
-							{{ range .site.posts }}
-							<li><a href="/{{ .url }}">{{ .title }} </a>{{ .author }} on {{ .date | date_to_string }}</li>
-							{{ end }}
+							
+							<li><a href="/2012/11/08/real-time-output.html">Watch your Build Output in Real Time.  It's Fun! </a>Tom Burke on 2012-11-08</li>
+							
+							<li><a href="/2012/10/23/php-and-scala-support.html">PHP and Scala Support </a>Brad Rydzewski on 2012-10-23</li>
+							
+							<li><a href="/2012/10/17/drone.io-support-for-teams.html">Business Plans and Team Support </a>Brad Rydzewski on 2012-10-17</li>
+							
+							<li><a href="/2012/10/08/drone.io-for-opensource.html">Free for Open Source </a>Brad Rydzewski on 2012-10-08</li>
+							
+							<li><a href="/2012/10/02/drone.io-is-live.html">Drone.io is Live </a>Tom Burke on 2012-10-02</li>
+							
 						</ul>
 
 					</div><!-- end .span3-->
