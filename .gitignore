@@ -1,4 +1,5 @@
 *_site/
+*_deploy/
 *_jekyll_s3.yml
 *~
 
