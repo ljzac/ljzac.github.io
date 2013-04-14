@@ -2,11 +2,11 @@
 layout: posts
 title: "Primer demo"
 author: Viejo
-categories: [prueba]
+categories: prueba
 authorlink: https://drone.io/bradrydzewski
 ---
 
-Just three weeks ago we launched [drone.io](https://drone.io), a hosted
+![Alt text](http://i.imgur.com/ITpV0m7m.jpg) Just three weeks ago we launched [drone.io](https://drone.io), a hosted
 continous integration solution. We appreciate all the feedback we've received.
 Many users requested support for more languages. Today we're excited to
 announce Beta support for **Scala** and **PHP**.
@@ -35,4 +35,3 @@ Read more about our PHP builds [here](http://docs.drone.io/php.html).
 [drone.io](https://drone.io) now officially supports 10 different programming
 languages, with more langauges coming soon! Follow us on [twitter](https://twitter.com/droneio)
 to keep up to date with our latest announcements.
-
