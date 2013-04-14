@@ -4,7 +4,7 @@ title: "Prueba imagen"
 author: Viejo
 categories: [prueba]
 authorlink: https://drone.io/bradrydzewski
-published: false
+published: true
 ---
 
 ![Alt text](http://i.imgur.com/ITpV0m7m.jpg) Just three weeks ago we launched [drone.io](https://drone.io), a hosted
