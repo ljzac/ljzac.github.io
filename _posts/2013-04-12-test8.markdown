@@ -2,7 +2,7 @@
 layout: posts
 title: "Primer demo"
 author: Viejo
-category: "prueba"
+categories: "prueba"
 authorlink: https://drone.io/bradrydzewski
 ---
 
