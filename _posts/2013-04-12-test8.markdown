@@ -2,7 +2,7 @@
 layout: posts
 title: "Prueba imagen"
 author: Viejo
-categories: ["prueba4"]
+categories: ["prueba4", "prueba6"]
 authorlink: https://drone.io/bradrydzewski
 published: true
 ---
