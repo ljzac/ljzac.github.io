@@ -3,6 +3,7 @@ layout: posts
 title: "Primer demo"
 author: Viejo
 authorlink: https://drone.io/bradrydzewski
+category: prueba
 ---
 
 Just three weeks ago we launched [drone.io](https://drone.io), a hosted
