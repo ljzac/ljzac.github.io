@@ -47,16 +47,11 @@
                          <ul>
                                           <li><a href="#" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones  <span>&nbsp;</span></a>  
-
-<ul>
-<li><a href="#" title="Ciencía y tecnologia">Ciencía y tecnologia</a></li>
-<li><a href="#" title="Deportes">Deportes</a></li>
-<li><a href="#" title="Cultura y espectáculos">Cultura y espectáculos</a></li>
-<li><a href="#" title="Politica">Politica</a></li>
-<li><a href="#" title="Economía">Economía</a></li>
-<li><a href="#" title="Educación">Educación</a></li>
-
-</ul>
+                                            <ul>
+                                              {{ range .site.categories }}
+                                              <li><a href="#" title="{{ . }}">{{ . }}</a></li>
+                                              {{end}}
+                                            </ul>
 
                                                 
                                         </li>
