@@ -48,8 +48,8 @@
                                           <li><a href="#" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones  <span>&nbsp;</span></a>  
                                             <ul>
-                                              {{ range .site.categories }}
-                                              <li><a href="#" title="{{ .category }}">{{ .category }}</a></li>
+                                              {{ range .site }}
+                                              <li><a href="#" title="{{ .categories }}">{{ .categories }}</a></li>
                                               {{end}}
                                             </ul>
 
