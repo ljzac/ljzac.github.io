@@ -1,9 +1,10 @@
 ---
 layout: posts
-title: "Primer demo"
+title: "Prueba imagen"
 author: Viejo
-categories: prueba
+categories: [prueba]
 authorlink: https://drone.io/bradrydzewski
+published: false
 ---
 
 ![Alt text](http://i.imgur.com/ITpV0m7m.jpg) Just three weeks ago we launched [drone.io](https://drone.io), a hosted
