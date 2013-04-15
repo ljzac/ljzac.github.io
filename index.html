@@ -6,7 +6,8 @@ layout: default
 <article>
 	<h4>{{ .title }}</h4>
 	<cite>Posted by <a href="{{ .authorlink }}" target="_blank">{{ .author }}</a> on {{ .date | date_to_string }}</cite>
-	{{ .page.content }}
+{{	if .site.categories.CATEGORY == "prueba4" { 
+				.page.content 	}   }}
 </article>
 {{ end }}
 
