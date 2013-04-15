@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ range .site.categories[prueba4] }}
+{{ range .site.categories.CATEGORY }}
 <article>
 	<h4>{{ .title }}</h4>
 	<cite>Posted by <a href="{{ .authorlink }}" target="_blank">{{ .author }}</a> on {{ .date | date_to_string }}</cite>
