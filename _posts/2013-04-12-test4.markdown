@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Post 2"
+title: "la cat Prueba 4 debe tener dos posts"
 author: Brad Rydzewski
 authorlink: https://drone.io/bradrydzewski
-categories: ['prueba4', 'prueba6']
+categories: ['prueba4']
 published: true
 ---
 
