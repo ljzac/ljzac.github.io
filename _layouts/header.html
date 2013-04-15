@@ -48,7 +48,7 @@
                                           <li><a href="#" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones  <span>&nbsp;</span></a>  
                                             <ul>
-                                              {{ range $catName, _ := .site.Categories }}
+                                              {{ range $catName, _ := .site.categories }}
                                               <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
                                               {{end}}
                                             </ul>
