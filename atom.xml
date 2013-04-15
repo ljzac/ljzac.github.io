@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-15T00:04:49Z</updated>
+	<updated>2013-04-15T00:29:44Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -50,11 +50,13 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>PHP and Scala Support</title>
+		<title>Post 2</title>
 		<link href="http://blog.drone.io/2013/04/12/test4.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
 		<id>http://blog.drone.io/2013/04/12/test4.html</id>
-		<content type="html">&lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
+		<content type="html">&lt;h3&gt;Aqui empieza el post&lt;/h3&gt;
+
+&lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
 Many users requested support for more languages. Today we&amp;rsquo;re excited to
 announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
@@ -71,19 +73,7 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 
 &lt;p&gt;You can read more about our Scala builds &lt;a href=&#34;http://docs.drone.io/scala.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3&gt;PHP Builds&lt;/h3&gt;
-
-&lt;p&gt;PHP 5.4 is currently supported, including a long list of extensions. For dependency
-management we&amp;rsquo;ve included &lt;strong&gt;pear&lt;/strong&gt; and &lt;strong&gt;composer&lt;/strong&gt;, along with &lt;strong&gt;phpunit&lt;/strong&gt; to
-run your tests.&lt;/p&gt;
-
-&lt;p&gt;Read more about our PHP builds &lt;a href=&#34;http://docs.drone.io/php.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Now Supporting 10 Languages&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt; now officially supports 10 different programming
-languages, with more langauges coming soon! Follow us on &lt;a href=&#34;https://twitter.com/droneio&#34;&gt;twitter&lt;/a&gt;
-to keep up to date with our latest announcements.&lt;/p&gt;
+&lt;h3&gt;Aqui termina el POST&lt;/h3&gt;
 </content>
 	</entry>
 	
