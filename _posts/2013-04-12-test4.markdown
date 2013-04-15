@@ -3,6 +3,7 @@ layout: posts
 title: "Post 2"
 author: Brad Rydzewski
 authorlink: https://drone.io/bradrydzewski
+categories: ['prueba4']
 ---
 
 ### Aqui empieza el post
