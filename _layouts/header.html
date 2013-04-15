@@ -18,12 +18,9 @@
                                           <li><a href="#" title="Secciones">Secciones</a> 
                                                 <div class="dropdwon">
 <ul class="first-and-second-carousel jcarousel-skin-tango">
-<li><a href="#" title="Ciencía y tecnologia">Ciencía y tecnologia</a></li>
-<li><a href="#" title="Deportes">Deportes</a></li>
-<li><a href="#" title="Cultura y espectáculos">Cultura y espectáculos</a></li>
-<li><a href="#" title="Politica">Politica</a></li>
-<li><a href="#" title="Economía">Economía</a></li>
-<li><a href="#" title="Educación">Educación</a></li>
+  {{ range $catName,$catPosts := .site.categories }}
+  <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
+  {{end}}
 </ul>
 </div> 
                                                 
