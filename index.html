@@ -2,12 +2,14 @@
 layout: default
 ---
 
-{{ range .site.posts }}
+{{ range $catname,$catposts := .site.categories }}
+<h4>{{ $catname }}</h4>
+{{ range $catposts }}
 <article>
-	<h4>{{ .title }}</h4>
+	<h2>{{ .title }}</h2>
 	<cite>Posted by <a href="{{ .authorlink }}" target="_blank">{{ .author }}</a> on {{ .date | date_to_string }}</cite>
-{{	if .site.categories.CATEGORY == "prueba4" { 
-				.page.content 	}   }}
+			{{	.page.content  }}
 </article>
+{{ end }}
 {{ end }}
 
