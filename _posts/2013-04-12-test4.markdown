@@ -4,6 +4,7 @@ title: "Post 2"
 author: Brad Rydzewski
 authorlink: https://drone.io/bradrydzewski
 categories: ['prueba4']
+published: true
 ---
 
 ### Aqui empieza el post
