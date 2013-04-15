@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-15T01:17:46Z</updated>
+	<updated>2013-04-15T04:51:40Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -50,7 +50,7 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Post 2</title>
+		<title>la cat Prueba 4 debe tener dos posts</title>
 		<link href="http://blog.drone.io/2013/04/12/test4.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
 		<id>http://blog.drone.io/2013/04/12/test4.html</id>
