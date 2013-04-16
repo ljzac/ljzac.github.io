@@ -3,13 +3,24 @@ layout: default
 ---
 
 {{ range $catname,$catposts := .site.categories }}
-<h4>{{ $catname }}</h4>
-{{ range $catposts }}
-<article>
-	<h2>{{ .title }}</h2>
-	<cite>Posted by <a href="{{ .authorlink }}" target="_blank">{{ .author }}</a> on {{ .date | date_to_string }}</cite>
+<!-- section frst -->
+<div class="news_tpoic">
+<div class="title">
+	<h4>{{ $catname }}</h4>
+</div>
+<div class="figure"> <img src="/Assets/images/image-2.jpg" alt="pic" /></div>
+<ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
+{{ range .site.categories }}
+	<li>
+	<h3>{{ .title }}</h3>
+	<a href="#" > {{ .author }} 
 			{{	.page.content  }}
-</article>
+	</a>
+</li>
 {{ end }}
+</ul>
+</div>
+<!-- section frst end -->
+	<div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 {{ end }}
 
