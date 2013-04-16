@@ -4,11 +4,24 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-16T20:07:29Z</updated>
+	<updated>2013-04-16T20:12:42Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
 	</author>
+	
+	<entry>
+		<title>Nota s'olo de prueba 6</title>
+		<link href="http://blog.drone.io/2013/04/16/test9.html" />
+		<updated>2013-04-16T00:00:00Z</updated>
+		<id>http://blog.drone.io/2013/04/16/test9.html</id>
+		<content type="html">&lt;h1&gt;How does it work?&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/cAP2Fiom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+
+Enter Text in Markdown format.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Prueba imagen</title>
