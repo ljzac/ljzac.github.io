@@ -9,7 +9,7 @@ published: true
 ---
 
 ### Aqui empieza el post
-Just three weeks ago we launched [drone.io](https://drone.io), a hosted
+![Alt text](http://i.imgur.com/BRyk6wxm.jpg) Just three weeks ago we launched [drone.io](https://drone.io), a hosted
 continous integration solution. We appreciate all the feedback we've received.
 Many users requested support for more languages. Today we're excited to
 announce Beta support for **Scala** and **PHP**.
