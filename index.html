@@ -14,7 +14,7 @@ layout: default
 	<li>
 	<h3>{{ .title }}</h3>
 	<a href="#" > {{ .author }} 
-			{{html .content  }}
+			 {{printf "[%10.10s]\n" .content }}
 	</a>
 </li>
 {{ end }}
