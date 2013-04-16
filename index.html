@@ -8,12 +8,12 @@ layout: default
 <div class="title">
 	<h4>{{ $catname }}</h4>
 </div>
-<div class="figure"> <img src="{{index $catposts 0 | .MainImg }}" alt="pic" /></div>
+<div class="figure"> <img src="{{$first := index $catposts 0 }} {{$first.MainImg}}" alt="pic" /></div>
 <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
 {{ range $catposts }}
 	<li>
 	<h3>{{ .title }}</h3>
-	<a href="#" > {{ .author }} {{ .MainImg}} {{ .twitt}}
+	<a href="#" > {{ .author }} {{ .twitt}}
 	</a>
 </li>
 {{ end }}
