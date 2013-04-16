@@ -8,12 +8,12 @@ layout: default
 <div class="title">
 	<h4>{{ $catname }}</h4>
 </div>
-<div class="figure"> <img src="/Assets/images/image-2.jpg" alt="pic" /></div>
+<div class="figure"> <img src="{{index $catposts 0 | .MainImg }}" alt="pic" /></div>
 <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
 {{ range $catposts }}
 	<li>
 	<h3>{{ .title }}</h3>
-	<a href="#" > {{ .author }} {{ .GetLayout}} {{ .twitt}}
+	<a href="#" > {{ .author }} {{ .MainImg}} {{ .twitt}}
 	</a>
 </li>
 {{ end }}
@@ -22,4 +22,3 @@ layout: default
 <!-- section frst end -->
 	<div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 {{ end }}
-
