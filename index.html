@@ -13,7 +13,7 @@ layout: default
 {{ range $catposts }}
 	<li>
 	<h3>{{ .title }}</h3>
-	<a href="#" > {{ .author }} {{ .twitt}}
+	<a href="#" > {{ .author }} {{ .GetLayout}} {{ .twitt}}
 	</a>
 </li>
 {{ end }}
