@@ -14,7 +14,7 @@ layout: default
 	<li>
 	<h3>{{ .title }}</h3>
 	<a href="#" > {{ .author }} 
-			{{	.content  }}
+			{{html .content  }}
 	</a>
 </li>
 {{ end }}
