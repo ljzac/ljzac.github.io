@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-16T19:56:31Z</updated>
+	<updated>2013-04-16T20:01:33Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -56,7 +56,8 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 		<id>http://blog.drone.io/2013/04/12/test4.html</id>
 		<content type="html">&lt;h3&gt;Aqui empieza el post&lt;/h3&gt;
 
-&lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/BRyk6wxm.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+ Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
 Many users requested support for more languages. Today we&amp;rsquo;re excited to
 announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
