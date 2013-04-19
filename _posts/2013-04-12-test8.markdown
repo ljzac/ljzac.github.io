@@ -8,7 +8,20 @@ authorlink: https://drone.io/bradrydzewski
 published: true
 ---
 
-![Alt text](http://i.imgur.com/YUJNvKom.jpg) Just three weeks ago we launched [drone.io](https://drone.io), a hosted
+<!--  figure-slider -->                  
+<div class="figure-slider">
+<div class="slider flexslider">
+   <ul class="slides">
+	  <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
+     <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
+    <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
+  </ul>
+</div>
+<span>Don Armando Huertas aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.</span>
+</div>
+<!--  figure-slider End-->
+
+Just three weeks ago we launched [drone.io](https://drone.io), a hosted
 continous integration solution. We appreciate all the feedback we've received.
 Many users requested support for more languages. Today we're excited to
 announce Beta support for **Scala** and **PHP**.
