@@ -16,4 +16,3 @@ published: false
 ![Alt text](http://i.imgur.com/VUFVD3Um.jpg) 
 
 > "When you are in the cutting edge you get cut (elviejo)
-Enter Text in Markdown format.
