@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-16T20:14:58Z</updated>
+	<updated>2013-04-22T14:38:40Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -15,11 +15,14 @@
 		<link href="http://blog.drone.io/2013/04/16/test9.html" />
 		<updated>2013-04-16T00:00:00Z</updated>
 		<id>http://blog.drone.io/2013/04/16/test9.html</id>
-		<content type="html">&lt;h1&gt;How does it work?&lt;/h1&gt;
+		<content type="html">&lt;h1&gt;No lo s&amp;rsquo;e&amp;hellip;&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/cAP2Fiol.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 
 Enter Text in Markdown format.&lt;/p&gt;
+
+&lt;p&gt;lo escribo
+otra nota&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -28,8 +31,24 @@ Enter Text in Markdown format.&lt;/p&gt;
 		<link href="http://blog.drone.io/2013/04/12/test8.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
 		<id>http://blog.drone.io/2013/04/12/test8.html</id>
-		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
- Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
+		<content type="html">&lt;!--  figure-slider --&gt;                  
+
+&lt;p&gt;&lt;div class=&#34;figure-slider&#34;&gt;
+&lt;div class=&#34;slider flexslider&#34;&gt;
+   &lt;ul class=&#34;slides&#34;&gt;
+      &lt;li&gt;&lt;a href=&#34;javascript:void(0)&#34;&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href=&#34;javascript:void(0)&#34;&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;javascript:void(0)&#34;&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+&lt;span&gt;Don Armando Huertas aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.&lt;/span&gt;
+&lt;/div&gt;
+&amp;lt;!&amp;ndash;  figure-slider End&amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
 Many users requested support for more languages. Today we&amp;rsquo;re excited to
 announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
