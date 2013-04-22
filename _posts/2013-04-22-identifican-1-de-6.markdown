@@ -10,6 +10,6 @@ published: false
 
 # La madre reconoce el cadaver
 
-Durante la tarde de este sabado, fue identificado uno de lo seis sujetos armados en la maniana de ese mismo dia.
+![Alt text](http://i.imgur.com/CVjrQ1om.jpg) Durante la tarde de este sabado, fue identificado uno de lo seis sujetos armados en la maniana de ese mismo dia.
 
 > Writing is thinking on paper. (no-more)
