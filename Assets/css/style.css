@@ -1055,6 +1055,7 @@ Footer Section Css
 	border:3px solid #fff;
 }
 .figure-slider .flex-viewport li a img {
+	width:100%;
 	display:block;
 }
 .ralated {
