@@ -10,14 +10,14 @@ published: true
 
 <!--  figure-slider -->                  
 <div class="figure-slider">
-<div class="slider flexslider">
-   <ul class="slides">
-	  <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
-     <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
-    <li><a href="javascript:void(0)">![Alt text](http://i.imgur.com/YUJNvKom.jpg)</a></li>
-  </ul>
-</div>
-<span>Don Armando Huertas aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.</span>
+	<div class="slider flexslider">
+	<ul class="slides">
+		<li>
+	  		![Alt text](http://i.imgur.com/YUJNvKom.jpg)
+	  	</li>
+	 </ul>
+	</div> 
+<span>Don Armando Huertas Y YO aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.</span>
 </div>
 <!--  figure-slider End-->
 

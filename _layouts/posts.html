@@ -37,7 +37,7 @@
 <!-- Para los botones de Facebook, tweeter y Print -->
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript"> stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", lang:"es" doNotHash: false, doNotCopy: false, hashAddressBar: false}); </script>
 
   </head>
 
@@ -252,7 +252,7 @@
 
           <section class="bar">
 
-                <div class="time-date"> <span>Martes 13 de Julio de 2013 :: <small>3:59:51 P.M.</small></span> </div>
+                <div class="time-date"> <span>Martes 13 de Julio de 2013 :: <small> {{ .site.time }} P.M.</small></span> </div>
 
                 <div class="social_icon">
 
@@ -302,7 +302,7 @@
 
                                 <div class="title">
 
-                                          <h4>{{ .page.categories }}</h4>
+                                          <h4>{{ index .page.categories 0}}</h4>
 
                                   </div>
 
@@ -316,9 +316,9 @@
 
                                   <li class="social-plugin">
 
-                                  <span class='st_facebook_hcount' displayText='Facebook'></span>
-                                  <span class='st_twitter_hcount' displayText='Tweet'></span>
-                                  <span class='st_email_hcount' displayText='Email'></span>
+                                  <li> <span class='st_facebook_hcount' displayText='Facebook'></span> </li>
+                                  <li> <span class='st_twitter_hcount' displayText='Tweet'></span> </li>
+                                  <li> <span class='st_email_hcount' displayText='Email'></span> </li>
 
                                   <li class="printer"><a href="#"></a></li>
 
@@ -345,7 +345,7 @@
 
                                          <ul class="comment">
 
-                                                       <li><a href="{{ .page.authorlink }}" target="_blank" >{{ .page.author }}</a> on {{ .page.date | date_to_string }}/</li>
+                                                       <li><a href="{{ .page.authorlink }}" target="_blank" >{{ .page.author }}</a>   /{{ .page.date | date_to_string }}/</li>
 
                                                         
 
@@ -728,21 +728,21 @@
 
                           <ul>
 
-                                <li class="grid"><a href="#" title="AGUASCALIENTES">AGUASCALIENTES</a></li>
+                                <li class="grid"><a href="http://www.lja.mx" title="AGUASCALIENTES">AGUASCALIENTES</a></li>
 
-                                <li><a href="#" title="GUERRERO">GUERRERO</a></li>
+                                <li><a href="http://www.lajornadaguerrero.com.mx" title="GUERRERO">GUERRERO</a></li>
 
-                                <li><a href="#" title="JALISCO">JALISCO</a></li>
+                                <li><a href="http://www.lajornadajalisco.com.mx" title="JALISCO">JALISCO</a></li>
 
-                                <li class="grid"><a href="#" title="MICHOACAN">MICHOACAN</a></li>
+                                <li class="grid"><a href="http://www.lajornadamichoacan.com.mx" title="MICHOACAN">MICHOACAN</a></li>
 
-                                <li><a href="#" title="MORELOS">MORELOS</a></li>
+                                <li><a href="http://www.jornadamorelos.com" title="MORELOS">MORELOS</a></li>
 
-                                <li><a href="#" title="ORIENTE">ORIENTE</a></li>
+                                <li><a href="http://www.lajornadadeoriente.com.mx" title="ORIENTE">ORIENTE</a></li>
 
-                                <li class="grid"><a href="#" title="SAN LUIS">SAN LUIS</a></li>
+                                <li class="grid"><a href="http://www.lajornadasanluis.com.mx" title="SAN LUIS">SAN LUIS</a></li>
 
-                                <li><a href="#" title="VERACRUZ">VERACRUZ</a></li>
+                                <li><a href="http://www.jornadaveracruz.com.mx" title="VERACRUZ">VERACRUZ</a></li>
 
                         </ul>
 
@@ -758,19 +758,19 @@
 
                           <ul>
 
-                                <li><a href="#"><img src="/Assets/images/lajornada.jpg" alt="link" /></a></li>
+                                <li><a href="/"><img src="/Assets/images/lajornada.jpg" alt="link" /></a></li>
 
-                                <li><a href="#"><img src="/Assets/images/proceso.jpg" alt="link" /></a></li>
+                                <li><a href="http://www.proceso.com.mx"><img src="/Assets/images/proceso.jpg" alt="link" /></a></li>
 
-                                <li><a href="#"><img src="/Assets/images/El-universal.jpg" alt="link" /></a></li>
+                                <li><a href="http://www.eluniversal.com.mx"><img src="/Assets/images/El-universal.jpg" alt="link" /></a></li>
 
-                                <li><a href="#"><img src="/Assets/images/milinio.jpg" alt="link" /></a></li>
+                                <li><a href="http://www.milenio.com"><img src="/Assets/images/milinio.jpg" alt="link" /></a></li>
 
-                                <li><a href="#"><img src="/Assets/images/elpais.jpg" alt="link" /></a></li>
+                                <li><a href="http://www.elpais.com"><img src="/Assets/images/elpais.jpg" alt="link" /></a></li>
 
-                                <li><a href="#"><img src="/Assets/images/theClinic.jpg" alt="link" /></a></li>
+                                <li><a href="http://www.theclinic.cl/"><img src="/Assets/images/theClinic.jpg" alt="link" /></a></li>
 
-                                <li class="last"><a href="#"><img src="/Assets/images/monde.jpg" alt="link" /></a></li>
+                                <li class="last"><a href="http://www.monde-diplomatique.es/"><img src="/Assets/images/monde.jpg" alt="link" /></a></li>
 
                         </ul>
 
