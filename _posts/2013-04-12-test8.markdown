@@ -12,14 +12,11 @@ published: true
 <div class="figure-slider">
 	<div class="slider flexslider">
 	<ul class="slides">
-		<li>
-	  		![Alt text](http://i.imgur.com/YUJNvKom.jpg)
-	  	</li>
+		<li> ![Alt text](http://i.imgur.com/YUJNvKom.jpg) </li>
 	 </ul>
 	</div> 
-<span>Don Armando Huertas Y YO aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.</span>
+<span>Don Armando Huertas aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.</span>
 </div>
-<!--  figure-slider End-->
 
 Just three weeks ago we launched [drone.io](https://drone.io), a hosted
 continous integration solution. We appreciate all the feedback we've received.
