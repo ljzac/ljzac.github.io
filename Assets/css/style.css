@@ -1028,7 +1028,7 @@ Footer Section Css
 	padding-top:27px;
 }
 .figure-slider {
-	width:42%;
+	width:47%;
 	float:left;
 	padding:17px 18px;
 	margin-right:14px;
@@ -1055,7 +1055,6 @@ Footer Section Css
 	border:3px solid #fff;
 }
 .figure-slider .flex-viewport li a img {
-	width:100%;
 	display:block;
 }
 .ralated {
