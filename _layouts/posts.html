@@ -37,8 +37,23 @@
 <!-- Para los botones de Facebook, tweeter y Print -->
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript"> stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", lang:"es" doNotHash: false, doNotCopy: false, hashAddressBar: false}); </script>
+<head>
+<script type="text/javascript">stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript">
+function printDiv(divName) {
+     var printContents = document.getElementById(divName).innerHTML;
+     var originalContents = document.body.innerHTML;
 
+     document.body.innerHTML = printContents;
+
+     window.print();
+</script>
+<script type="text/javascript"> stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", lang:"es" doNotHash: false, doNotCopy: false, hashAddressBar: false}); </script>
+>>>>>>> 5c7cf3761e0e585c67231732b9b936e2538eadee
+
+     document.body.innerHTML = originalContents;
+}
+</script>
   </head>
 
 
@@ -320,7 +335,7 @@
                                   <li> <span class='st_twitter_hcount' displayText='Tweet'></span> </li>
                                   <li> <span class='st_email_hcount' displayText='Email'></span> </li>
 
-                                  <li class="printer"><a href="#"></a></li>
+                                  <li class="printer"><a onclick="printDiv('printableArea')" href="#"></a></li>
 
 
                                   <li class="minus_icon"><a href="#" id="jfontsize-m" title="Font Size Minus"></a></li>
@@ -336,7 +351,7 @@
                            <!-- widget Section end-->
 
                            <!-- Article Section -->
-
+				<div id="printableArea">
                                 <article class="article">
 
                                           <h1 class="font-resize">{{ .page.title }}</h1>
@@ -358,6 +373,7 @@
 
 
   </article>
+  </div>
   <!-- comment-post Section -->
 
     <div id="disqus_thread"></div>
