@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-23T17:34:36Z</updated>
+	<updated>2013-04-23T17:35:42Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -201,8 +201,18 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 
 &lt;p&gt;Try it out by going to your build&amp;rsquo;s setting&amp;rsquo;s page, click &lt;strong&gt;Build Now&lt;/strong&gt;, then follow the link to &lt;strong&gt;Build Output&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/screenshot_stdout-color.png&#34; alt=&#34;Real time Output&#34; /&gt;
-&lt;/p&gt;
+&lt;!--  figure-slider --&gt;                  
+
+&lt;div class=&#34;figure-slider&#34;&gt;
+    &lt;div class=&#34;slider flexslider&#34;&gt;
+    &lt;ul class=&#34;slides&#34;&gt;
+        &lt;li&gt;
+            ![Alt text](http://i.imgur.com/ocb6MMdm.jpg)
+        &lt;/li&gt;
+     &lt;/ul&gt;
+    &lt;/div&gt; 
+&lt;span&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/span&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/p&gt;
 
