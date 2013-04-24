@@ -43,158 +43,38 @@ layout: default
 	  </div>
 	  <div class="currentNews">
 	    <div class="new-content">
-	      <h1>Da triunfo 'Chicharito' Hernández al ManU: 3-2 y quita lo invicto a Chelsea</h1>
+
 	      <div class="slider flexslider">
 	        <ul class="slides">
+                  {{ range . }}
 	          <li>
 	            <article class="SubContent">
+	            <h1>{{ .title }}</h1>
 	              <div class="grid_7 alpha">
 	                <ul class="comment">
-	                  <li><a href="#">Carlos A. Navarrete </a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
+	                  <li><a href="#">{{ .author }} </a>/</li>
+	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
 	                  <li class="comment_icon"><a href="#">12</a></li>
 	                </ul>
-	                <p><em>LONDRES.</em> EI Manchester United ganó este domingo al Chelsea (3-2), que se quedó con nueve jugadores, con un tanto denfinitivo del mexicano Javier Chicharito Hemández (minuto 75), en partido de la novena jornada de la liga Inglesa disputado en Londres. <a href="#">Leer mas...</a> </p>
+
+	                <p>{{ .twitt }} <a href="{{ .url }}">Leer más...</a> </p>
 	                <ul class="news_list">
 	                  <li><a href="#">Crónica de un encuentro con Javier "Chicharito" Hernández.</a></li>
 	                  <li><a href="#">Chicharito: "La picardia no tiene nada de malo".</a></li>
 	                </ul>
 	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
+	              <div class="grid_9 omega"> <img src="http://www.ljz.mx/{{ .MainImg }}" alt="pic" /> </div>
 	            </article>
 	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
-	          <li>
-	            <article class="SubContent">
-	              <div class="grid_7 alpha">
-	                <ul class="comment">
-	                  <li><a href="#">Lorem Ipsum</a>/</li>
-	                  <li><a href="#">22-10-2012</a>/</li>
-	                  <li class="comment_icon"><a href="#">12</a></li>
-	                </ul>
-	                <p><em>Lorem</em> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Ipsum is simply dummy text of  the printing </a></li>
-	                  <li><a href="#">Ipsum is simply dummy text of the printing </a></li>
-	                </ul>
-	              </div>
-	              <div class="grid_9 omega"> <img src="/Assets/images/pic.png" alt="pic" /> </div>
-	            </article>
-	          </li>
+	          {{ end }}
 	        </ul>
 	      </div>
 	      <div class="carousel_slider">
 	        <div class="carousels flexslider">
 	          <ul class="slides">
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
-	            <li><img src="/Assets/images/slide-image.jpg" alt="pic"></li>
+                    {{ range . }}
+	            <li><img src="http://www.ljz.mx/{{ .MainImg }}" width="89px" height="69px" alt="pic"></li>
+                    {{ end }}
 	          </ul>
 	        </div>
 	      </div>
@@ -207,6 +87,26 @@ layout: default
 {{ end }}
 
 {{ template "laNotaPrincipal" index .site.categories "Portada"}}
+
+<div class="grid_16 dot">
+	  <div class="grid_8 alpha">
+	    <!-- section frst -->
+
+	    <div class="search ipod-search">
+	      <label>Buscar:</label>
+	      <span>
+	        <input type="text" name="search" />
+	        <input type="submit" name="search" />
+	      </span> <a href="#">Búsqueda avanzada</a> </div>
+
+
+	    <div class="news_section ipod-search">
+	      <div class="title">
+	        <h4>JORNADA TV</h4>
+	      </div>
+	      <p>Capataz de la empresa coreana Sam Won ubicade en el Parque Industrial Querétaro, golpeó a un trabajador mexicano.</p>
+	      <figure> <img src="/Assets/images/video_img.jpg" alt="video"> </figure>
+	    </div>
 
 {{ template "seccion" index .site.categories "Principales" }}
 {{ template "seccion" index .site.categories "Destacadas" }}
