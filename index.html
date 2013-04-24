@@ -3,6 +3,7 @@ layout: default
 ---
 
 {{define "seccion"}}
+{{if .}}
 {{$first := index . 0 }}
 <!-- section {{ $first.GetCategories }} -->
 <div class="news_tpoic">
@@ -27,10 +28,13 @@ layout: default
 <!-- section frst end -->
         <div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 
-
+{{else}}
+        No hay notas de esta sección
+{{end}}
 {{end}}
 
 {{define "laNotaPrincipal"}}
+{{if .}}
 {{$first := index . 0 }}
 
 	<div class="carousel_Section">
@@ -197,8 +201,10 @@ layout: default
 	    </div>
 	  </div>
 	</div>
-
-        {{ end }}
+{{ else }}
+  No hay nota principal
+{{ end }}
+{{ end }}
 
 {{ template "laNotaPrincipal" index .site.categories "Portada"}}
 
