@@ -13,6 +13,7 @@
   <link rel="stylesheet" type="text/css" href="/Assets/css/print.css" media="print">
   <link rel="stylesheet" type="text/css" href="/Assets/css/skin.css">
   <link rel="stylesheet" type="text/css" href="/Assets/css/responsive.css">
+  <link rel="stylesheet" type="text/css" href="/Assets/css/caption.css"/>
 <!--[if IE]>
     <script src="Assets/js/html5.js"></script>
 <![endif]-->
@@ -23,6 +24,7 @@
  <!-- FlexSlider -->
   <script defer src="/Assets/js/jquery.flexslider.js"></script>
   <script src="/Assets/js/custom.js"></script>
+  <script type="text/javascript" src="/Assets/js/jcaption.min.js" /></script>
    <!--[if IE]>
       <script defer src="Assets/js/html5.js"></script>
 <![endif]-->
@@ -50,6 +52,12 @@ function printDiv(divName) {
 </script>
 <script type="text/javascript"> stLight.options({publisher: "d7017de9-0205-4a99-8951-e8de0904a880", lang:'es', doNotHash: false, doNotCopy: false, hashAddressBar: false}); 
 </script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+        $('#text img').jcaption();
+});
+</script> 
   </head>
 
 
@@ -326,7 +334,7 @@ function printDiv(divName) {
                                       <li> <span class='st_facebook_hcount' displayText='Facebook'></span> </li>
                                       <li> <span class='st_twitter_hcount' displayText='Tweet'></span> </li>
                                       <li> <span class='st_email_hcount' displayText='Email'></span> </li>
-                                      <li class="printer"><a onclick="printDiv('printableArea')" href="#"></a></li>
+                                      <li class="printer"><a onclick="printDiv('text')" href="#"></a></li>
                                       <li class="minus_icon"><a href="#" id="jfontsize-m" title="Font Size Minus"></a></li>
                                        <li class="plus_icon"><a href="#" id="jfontsize-p" title="Font Size Plus"></a></li>
 
@@ -339,7 +347,7 @@ function printDiv(divName) {
                            <!-- widget Section end-->
 
                            <!-- Article Section -->
-				<div id="printableArea">
+				<div id="text">
                                 <article class="article">
 
                                           <h1 class="font-resize">{{ .page.title }}</h1>
@@ -820,7 +828,6 @@ function printDiv(divName) {
         </section> 
 		<!-- Le javascript
 		================================================== -->
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
 		<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 		<script>$("a.gallery").fancybox();</script>
 
