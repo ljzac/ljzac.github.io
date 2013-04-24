@@ -4,7 +4,7 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-23T21:07:13Z</updated>
+	<updated>2013-04-24T16:53:41Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
@@ -19,18 +19,18 @@
 
 &lt;!--  figure-slider --&gt;                  
 
-&lt;div class=&#34;figure-slider&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;figure-slider&#34;&gt;
     &lt;div class=&#34;slider flexslider&#34;&gt;
     &lt;ul class=&#34;slides&#34;&gt;
         &lt;li&gt;
-            ![Una puerta](http://i.imgur.com/ocb6MMdm.jpg)
+            &lt;img src=&#34;http://i.imgur.com/ocb6MMdm.jpg&#34; alt=&#34;Una puerta&#34; /&gt;
+
         &lt;/li&gt;
      &lt;/ul&gt;
-    &lt;/div&gt; 
+    &lt;/div&gt;
 &lt;span&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/span&gt;
 &lt;/div&gt;
-
-&lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
+Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -121,14 +121,18 @@ otra nota&lt;/p&gt;
 		<id>http://blog.drone.io/2013/04/12/test8.html</id>
 		<content type="html">&lt;!--  figure-slider --&gt;                  
 
-&lt;div class=&#34;figure-slider&#34;&gt;
-    &lt;div class=&#34;slider flexslider&#34;&gt;
-    &lt;ul class=&#34;slides&#34;&gt;
-        &lt;li&gt; ![Alt text](http://i.imgur.com/YUJNvKom.jpg) &lt;/li&gt;
-     &lt;/ul&gt;
-    &lt;/div&gt; 
+&lt;p&gt;&lt;div class=&#34;figure-slider&#34;&gt;
+&lt;div class=&#34;slider flexslider&#34;&gt;
+   &lt;ul class=&#34;slides&#34;&gt;
+    &lt;li&gt;&lt;a href=&#34;javascript:void(0)&#34;&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
 &lt;span&gt;Don Armando Huertas aún no logra recuperarse de los estragos de los fenómenos meteorológicos ocurridos desde el pasado mes de septiembre.&lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;ESTA ES LA NUEVA MODIFICACION!!!!&lt;/p&gt;
 
 &lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
