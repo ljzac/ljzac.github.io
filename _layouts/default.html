@@ -285,12 +285,9 @@
 	<!-- Left Section End-->
       </div>
       <div class="grid_4 omega">
-	<div class="search desktop-search">
-	  <label>Buscar:</label>
-	  <span>
-	    <input type="text" name="search" />
-	    <input type="submit" name="search" />
-	  </span> <a href="#">Búsqueda avanzada</a> </div>
+	<div class="news_section p-top">
+	  {{template "gsb.html" .}}
+	</div>
 	<div class="title">
 	  <h4>NOTICIAS AL DÍA</h4>
 	</div>
@@ -405,88 +402,7 @@
     </section>
     <!-- Container Section End-->
     <!-- Bottom Section -->
-    <div class="grid_16 bottomSection">
-      <div class="title">
-	<h4>Secciones</h4>
-	<strong>MAS SECCIONES</strong>
-      </div>
-      <div class="carousel">
-	<div class="carouse-bottom flexslider">
-	  <ul class="slides">
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Ciencia y tecnología</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Deportes</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Cultura y espectáculos</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Política</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Ciencia y tecnología</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Deportes</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Cultura y espectáculos</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-	    <li>
-	      <div class="carousel-content">
-	        <h5>Política</h5>
-	        <a href="#"> <img src="/Assets/images/img-1.jpg" alt="Lorem Ipsum" /> <span>. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </span> </a> </div>
-	    </li>
-
-
-
-	  </ul>
-	</div>
-      </div>
-      <div class="bottom-nav"> <a href="#"><img src="/Assets/images/bottom-logo.png" alt="logo" /></a>
-	<ul>
-	  <li class="grid"><a href="#" title="AGUASCALIENTES">AGUASCALIENTES</a></li>
-	  <li><a href="#" title="GUERRERO">GUERRERO</a></li>
-	  <li><a href="#" title="JALISCO">JALISCO</a></li>
-	  <li class="grid"><a href="#" title="MICHOACAN">MICHOACAN</a></li>
-	  <li><a href="#" title="MORELOS">MORELOS</a></li>
-	  <li><a href="#" title="ORIENTE">ORIENTE</a></li>
-	  <li class="grid"><a href="#" title="SAN LUIS">SAN LUIS</a></li>
-	  <li><a href="#" title="VERACRUZ">VERACRUZ</a></li>
-	</ul>
-      </div>
-      <div class="link_interes">
-	<div class="title">
-	  <h4>LINKS de interes</h4>
-	</div>
-	<ul>
-	  <li><a href="#"><img src="/Assets/images/lajornada.jpg" alt="link" /></a></li>
-	  <li><a href="#"><img src="/Assets/images/proceso.jpg" alt="link" /></a></li>
-	  <li><a href="#"><img src="/Assets/images/El-universal.jpg" alt="link" /></a></li>
-	  <li><a href="#"><img src="/Assets/images/milinio.jpg" alt="link" /></a></li>
-	  <li><a href="#"><img src="/Assets/images/elpais.jpg" alt="link" /></a></li>
-	  <li><a href="#"><img src="/Assets/images/theClinic.jpg" alt="link" /></a></li>
-	  <li class="last"><a href="#"><img src="/Assets/images/monde.jpg" alt="link" /></a></li>
-	</ul>
-      </div>
-    </div>
+    {{template "interestlinks.html" . }}
     <!-- Bottom Section End-->
 </div>
 <!-- wrapper Section End-->
@@ -512,6 +428,18 @@
   </footer>
 
 </section>
+<script>
+  (function() {
+    var cx = '014239042459755020844:-qcfzqn8piu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
 
 <!--Footer-->
 
