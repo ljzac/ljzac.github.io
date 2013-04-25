@@ -2,6 +2,7 @@
 	margin: 0 10px 10px 10px;
 	border: 1px solid #ccc;
 	padding: 5px;
+	float: left;
 }
 
 #text div.right {margin-right: 0;}

@@ -340,20 +340,12 @@
 
 	  </div>
 	</div>
-	<div class="news_section">
-	  <div class="title">
-	    <h4>SUSCRIPCIÓN AL BOLETÍN</h4>
-	  </div>
-	  <div class="subscribe"> <span>
-	      <label for="Nombre">Nombre:</label>
-	      <input type="text" name="name" id="Nombre">
-	    </span> <span>
-	      <label for="Correco">Correco:</label>
-	      <input type="text" name="mail" id="Correco">
-	    </span>
-	    <input type="submit" name="submit" value="SUSCRIBIRME">
-	  </div>
-	</div>
+	<!-- Sección del boletín -->
+
+	{{template "boletin.html" .}}
+
+	<!--Fin de sección de boletín-->
+
 	<div class="news_section">
 	  <div class="title">
 	    <h4>ESPECIALES LA JORNADA</h4>

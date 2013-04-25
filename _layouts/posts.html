@@ -55,7 +55,7 @@ function printDiv(divName) {
 
 <script type="text/javascript">
 $(document).ready(function(){
-        $('#text img').jcaption();
+        $('#text img').jcaption({copyFloatToClass: false});
 });
 </script> 
 
@@ -592,36 +592,14 @@ $(document).ready(function(){
 
                            {{template "lajornadatv.html" .}}
 			                     {{template "gsb.html" .}}
-                          <div class="news_section">
 
-                                <div class="title">
+			  <!-- Sección de boletín -->
 
-                                          <h4>SUSCRIPCIÓN AL BOLETÍN</h4>
+			  {{template "boletin.html" .}}
 
-                                  </div>
-
-                                <div class="subscribe"> <span>
-
-                                        <label for="Nombre">Nombre:</label>
-
-                                        <input type="text" name="name" id="Nombre">
-
-                                        </span> <span>
-
-                                        <label for="Correco">Correco:</label>
-
-                                        <input type="text" name="mail" id="Correco">
-
-                                        </span>
-
-                                          <input type="submit" name="submit" value="SUSCRIBIRME">
-
-                                  </div>
-
-                        </div>
+			  <!-- fin de sección de boletín-->
 
                           <div class="news_section">
-
                                 <div class="title">
 
                                           <h4>ESPECIALES LA JORNADA</h4>
