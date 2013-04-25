@@ -58,6 +58,7 @@ $(document).ready(function(){
         $('#text img').jcaption();
 });
 </script> 
+
   </head>
 
 
@@ -612,17 +613,7 @@ $(document).ready(function(){
                         </div>
 
                           <div class="search desktop-search">
-
-                                <label>Buscar:</label>
-
-                                <span>
-
-                                  <input type="text" name="search" />
-
-                                  <input type="submit" name="search" />
-
-                                  </span> <a href="#">Búsqueda avanzada</a> </div>
-
+				<gcse:search></gcse:search>	
                           <div class="news_section">
 
                                 <div class="title">
@@ -865,6 +856,17 @@ $(document).ready(function(){
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
     </script>
-
+<script>
+  (function() {
+    var cx = '014239042459755020844:-qcfzqn8piu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
 	</body>
 </html>
