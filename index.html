@@ -56,12 +56,7 @@ layout: default
 	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
 	                  <li class="comment_icon"><a href="{{ .url }}#disqus_thread"># </a></li>
 	                </ul>
-
-	                <p>{{ .twitt }} <a href="{{ .url }}">Leer más...</a> </p>
-	                <ul class="news_list">
-	                  <li><a href="#">Crónica de un encuentro con Javier "Chicharito" Hernández.</a></li>
-	                  <li><a href="#">Chicharito: "La picardia no tiene nada de malo".</a></li>
-	                </ul>
+	                <p>{{ .GetIntrotext }} <a href="{{ .url }}">Leer más...</a> </p>
 	              </div>
 	              <div class="grid_9 omega" style="max-height: 320px;">
                   <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
