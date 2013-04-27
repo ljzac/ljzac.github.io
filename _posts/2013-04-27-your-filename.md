@@ -1,18 +1,17 @@
 ---
-layout: posts
-title: "SW Zac"
-twitt: "#StartupWeekendZacatecas . El equipo con toda la actitud. Yeah"
-author: Potter y Paco
-categories: ['Portada']
-authorlink: https://101pro.wordpress.com
+layout: posts 
+title: Arranca el 2do día de actividades del Startup Weekend Zacatecas 
+twitt: Con mucha actividad comienza el 2do día de #SWZac 
+author: Pepe Hernández
+categories: Portada
+authorlink: http://twtter.com/tu_cuenta 
 published: true
 ---
 
-### STARTUP WEEKEND ZAC
+# Día 2. Startup Weekend Zacatecas.
 
-##EL MEJOR EQUIPO 
+![Alt text](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/164670_10151582298613307_588052194_n.jpg)
 
-![Alt text](http://i.imgur.com/K0PP9vJm.jpg)
-El equipo de tortilla web momentos antes de su victoria contundente ante los demás equipos del fin de semana. 
+Los diferentes equipos están trabajando en sus proyectos. Varios se desvelaron, toda la noche tratando de alcanzar el premio y más importante crear la empresa de sus sueños.
 
-#Felicidades
+
