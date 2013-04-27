@@ -3,7 +3,7 @@ layout: posts
 title: "Rinden protesta candidatos priístas"
 twitt: "Hay que ganar a pulso ayuntamientos y diputaciones, llama el Presidente Nacional del PRI, a los aspirantes a puestos de elección popular"
 author: Geremías Springfield
-categories: ['prueba6']
+categories: ['Politica']
 authorlink: https://drone.io/bradrydzewski
 published: false
 ---

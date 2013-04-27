@@ -5,7 +5,6 @@ layout: default
 {{define "seccion"}}
 {{if .}}
 {{$first := index . 0 }}
-<!-- section {{ $first.GetCategories }} -->
 <div class="news_tpoic">
 <div class="title">
   <h4>{{ $first.GetCategories }}</h4>
@@ -29,7 +28,11 @@ layout: default
         <div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 
 {{else}}
-        No hay notas de esta sección
+	<div class="news_tpoic">
+<div class="title">
+  	        No hay notas de esta sección
+</div>
+</div>
 {{end}}
 {{end}}
 
@@ -82,31 +85,281 @@ layout: default
 {{ end }}
 {{ end }}
 
-{{ template "laNotaPrincipal" index .site.categories "Portada"}}
 
-<div class="grid_16 dot">
-	  <div class="grid_8 alpha">
+
+{{define "cuadrosecciones"}}
+{{if .}}
+{{$first := index . 0 }}
+{{ $first.GetCategories }}
+		  <a href="{{ $first.url }}">	
+		  <li>
+        	<div class="carousel-content">
+        		<h5>{{ $first.GetCategories }}</h5>
+        		<img src="{{$first.MainImgThumb}}" alt="pic" />
+        			<p>{{ $first.twitt}}</p>
+        		</a>
+        	</div>
+           </li>
+       </a>
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
+
+<!-- TERMINA PARTE DEFINICIONES -->
+
+
+<!-- INICIA CONTENIDO DE PAGINA PRINCIPAL -->
+<!--side tweet-->
+    <a href="#" class="side-tweet">tweet</a>
+    <!--side tweet -->
+
+
+    <!--header-->
+    {{template "header.html" .}}
+    <!--header-->
+
+    <!-- Bar Section -->
+    <section class="bar">
+      <div class="time-date"> <span>Martes 13 de Julio de 2013 :: <small>3:59:51 P.M.</small></span> </div>
+      <div class="social_icon">
+	<ul>
+	  <li class="rss"><a href="#">RSS</a></li>
+	  <li class="tweet"><a href="#">TWEET</a></li>
+	  <li class="facebook"><a href="#">FACEBOOK</a></li>
+	  <li class="youtube"><a href="#">YOUTUBE</a></li>
+	</ul>
+      </div>
+      <div class="temperature"> <span>Zacatecas, Mexico.</span> <span>36<small>&deg;C</small></span> </div>
+    </section>
+    <!-- Bar Section -->
+
+    <!-- Container Section -->
+    <section class="container">
+
+      <!-- Left Section -->
+      <div class="grid_12 alpha">
+      		{{ template "laNotaPrincipal" index .site.categories "Portada"}}
+      <div class="grid_16 dot">
+                                <div class="grid_8 alpha"> 
+                                          <!-- section frst -->
+                                          
+                                <div class="search ipod-search">
+                                <label>Buscar:</label>
+                                <span>
+                                <input type="text" name="search" />
+                                <input type="submit" name="search" />
+                                </span> <a href="#">Búsqueda avanzada</a> </div>
+                                  
+                                <div class="news_section ipod-search">
+	                                <div class="title">
+	                                          <h4>JORNADA TV</h4>
+	                                </div>
+	                                <p>Capataz de la empresa coreana Sam Won ubicade en el Parque Industrial Querétaro, golpeó a un trabajador mexicano.</p>
+	                                <figure> <img src="Assets/images/video_img.jpg" alt="video"> </figure>
+                                </div>
 	    <!-- section frst -->
-
-	    <div class="search ipod-search">
-	      <label>Buscar:</label>
-	      <span>
-	        <input type="text" name="search" />
-	        <input type="submit" name="search" />
-	      </span> <a href="#">Búsqueda avanzada</a> </div>
-
-
-	    <div class="news_section ipod-search">
+	    	{{ template "seccion" index .site.categories "Principales" }}
+	    	{{ template "seccion" index .site.categories "Destacadas" }}
+	   		{{ template "seccion" index .site.categories "Mundo" }}
+	    <!-- section frst end -->
+	  </div>
+	  <div class="grid_8 omega">
+	    <div class="figure"> <a href="#"><img src="/Assets/images/add-3.jpg" alt="add" /></a> </div>
+	    <div class="news_tpoic">
 	      <div class="title">
-	        <h4>JORNADA TV</h4>
+	        <h4>COLUMNAS</h4>
 	      </div>
-	      <p>Capataz de la empresa coreana Sam Won ubicade en el Parque Industrial Querétaro, golpeó a un trabajador mexicano.</p>
-	      <figure> <img src="/Assets/images/video_img.jpg" alt="video"> </figure>
+	      <article class="section"> <strong>EDITORIAL</strong>
+	        <h2>SEC-SNTE: efectos de la captura del estado</h2>
+	        <ul class="comment">
+	          <li><a href="#">Lorem Ipsum</a>/</li>
+	          <li><a href="#">22-10-2012</a>/</li>
+	          <li class="comment_icon"><a href="#">12</a></li>
+	        </ul>
+	        <div class="description">
+	          <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam Libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut offici.<a href="#">Leer mas... </a> </p>
+	        </div>
+	      </article>
+	      <article class="section"> <strong>LA JIRIBILLA</strong>
+	        <h2>Doble discurso</h2>
+	        <ul class="comment">
+	          <li><a href="#">El Refranero</a>/</li>
+	          <li><a href="#">22-10-2012</a>/</li>
+	          <li class="comment_icon"><a href="#">12</a></li>
+	        </ul>
+	        <div class="description">
+	          <div class="news-content"> <a href="#"> <strong>Uno:</strong>Busca llegar a Bernárdez un próximo exalcalde.</a>
+	            <a href="#"> <strong>Dos:</strong>Segunda explosión en Concepción del Oro </a>
+	            <a href="#"> <strong>Tres:</strong>  Ojocaliente: ! Ay, Chihuahua, cuanto apache! </a>
+	            <a href="#"> <strong>Cuatro:</strong> Armando Moreira va por la renovación del Sutsemop.</a>
+	            <a href="#"> <strong>Cinco:</strong> Se quedan solos Jaime Limón y Efraín Chavez.</a> <a href="#">Leer más... </a></div>
+	          <img src="/Assets/images/cartoon_pic.jpg" alt="cartton" /> </div>
+	      </article>
+	      <article class="section"> <strong>OPINION</strong>
+	        <h2>El negocio actual de la democracia</h2>
+	        <ul class="comment">
+	          <li><a href="#">Carlos A. Navarrete</a>/</li>
+	          <li><a href="#">22-10-2012</a>/</li>
+	          <li class="comment_icon"><a href="#">12</a></li>
+	        </ul>
+	        <div class="description">
+	          <div class="news-content"> <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis.</p> <a href="#">Leer más...</a></div>
+	          <img src="/Assets/images/image.jpg" alt="" /> </div>
+	      </article>
+
+	      <!-- section frst -->
+	      <div class="news-sub-headline">
+	        <div class="title">
+	          <h4>A DEBATE</h4>
+	        </div>
+	        <div class="figure"> <img src="/Assets/images/images.jpg" alt="pic" /> </div>
+	        <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
+	          <li>
+	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
+	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
+	          <li>
+	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
+	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
+	          <li>
+	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
+	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
+	          <li>
+	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
+	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
+	          <li>
+	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
+	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
+	          <li>
+	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
+	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
+	          <li>
+	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
+	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
+	          <li>
+	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
+	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
+	          <li>
+	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
+	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
+
+	        </ul>
+	      </div>
+
+	      <!-- section frst end -->
+
+	      <div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
+	    </div>
+	  </div>
+	</div>
+	<!-- Left Section End-->
+      </div>
+      <div class="grid_4 omega">
+	<div class="news_section p-top">
+	  {{template "gsb.html" .}}
+	</div>
+	<div class="title">
+	  <h4>NOTICIAS AL DÍA</h4>
+	</div>
+	<div class="list">
+	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
+	    <li><a href="#">Requisitos deseables para ser candidato</a></li>
+	    <li><a href="#">Aunque sea martes 13...</a></li>
+	    <li><a href="#">¿Cuándo principia la grave crisis agropecuaria que se vive actualmente?</a></li>
+	    <li><a href="#">Por favor, sea feliz</a></li>
+	    <li><a href="#">Fomento a las cooperativas</a></li>
+	    <li><a href="#">El sexenio de la muerte</a></li>
+	    <li><a href="#">Reflexiones en torno al presupuesto</a></li>
+	    <li><a href="#">Alianzas electorales vs candidaturas ciudadanas</a></li>
+	    <li><a href="#">La paradoja y el futuro</a></li>
+	    <li><a href="#">Propuesta alterna para un cambio económico con orientacion social</a></li>
+	    <li><a href="#">¿Qué esperar para el presupuesto 2013</a></li>
+	    <li><a href="#">De niňos y androides sujetos de derecho</a></li>
+	    <li><a href="#">Caciques contra periodistas</a></li>
+	    <li><a href="#">Televisa, el monopolio es el mensaje </a></li>
+	    <li><a href="#">Estados Unidos: elecciones y chantaje</a></li>
+
+	    <li><a href="#">De niňos y androides sujetos de derecho</a></li>
+	    <li><a href="#">Caciques contra periodistas</a></li>
+	    <li><a href="#">Televisa, el monopolio es el mensaje </a></li>
+	    <li><a href="#">Estados Unidos: elecciones y chantaje</a></li>
+	  </ul>
+	</div>
+	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
+	<div class="news_section desktop-search">
+	  {{template "lajornadatv.html" .}}
+	</div>
+	<div class="news_section">
+	  <div class="title">
+	    <h4>FUERA DE FOCO</h4>
+	  </div>
+	  <div class="news"> <h3><a href="#">Galería de fotografías interactivas de actualidad</a></h3>
+	    <div class="slider flexslider">
+	      <ul class="slides">
+	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
+	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
+	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
+	      </ul>
 	    </div>
 
-{{ template "seccion" index .site.categories "Principales" }}
-{{ template "seccion" index .site.categories "Destacadas" }}
-{{ template "seccion" index .site.categories "Mundo" }}
+	    <p>Catedral de Zacatecas, declarada Patrimonio Cultural de la Humanidad por la UNESCO...</p>
+
+	  </div>
+	</div>
+	<!-- Sección del boletín -->
+
+	{{template "boletin.html" .}}
+
+	<!--Fin de sección de boletín-->
+
+	<div class="news_section">
+	  <div class="title">
+	    <h4>ESPECIALES LA JORNADA</h4>
+	  </div>
+	  <div class="news"> <h3><a href="#">Guía XXI Historia y Geografía de Zacatecas</a></h3>
+	    <figure> <img src="/Assets/images/book.png" alt="video"> </figure>
+	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
+	  </div>
+	</div>
+	
+	  {{template "encuesta.html" . }}
+	
+	<div class="news_section app">
+	  <div class="title">
+	    <h4>LAS APPS</h4>
+	  </div>
+	  <a href="#"><img src="/Assets/images/app.png" alt="app"></a>
+	</div>
+      </div>
+    </section>
+    <!-- Container Section End-->
+    <!-- Bottom Section -->
+    <div class="grid_16 bottomSection">
+				<div class="title">
+	  				<h4>Secciones</h4>
+	  			<strong>MAS SECCIONES</strong>
+			</div>
+<div class="carousel">
+     <div class="carouse-bottom flexslider">
+           <ul class="slides">
+				{{ template "cuadrosecciones" index .site.categories "Ciencia y Tecnología" }}
+				{{ template "cuadrosecciones" index .site.categories "Portada" }}
+				{{ template "cuadrosecciones" index .site.categories "Cultura y Espectáculos" }}
+				{{ template "cuadrosecciones" index .site.categories "Politica" }}
+  </ul>
+  </div>
+  </div>
+    	{{template "interestlinks.html" . }}
+	</div>
+    <!-- Bottom Section End-->
+</div>
+<!-- wrapper Section End-->
+
+<!--  TERMINA CONTENIDO DE LA PAGINA PRINCIPAL  -->
+
+
+
+
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
