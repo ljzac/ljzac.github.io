@@ -4,23 +4,18 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-27T18:41:49Z</updated>
+	<updated>2013-04-27T18:42:46Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
 	</author>
 	
 	<entry>
-		<title>Diseñadores, programadores y expertos en negocios. Juntos.</title>
+		<title>Probando desde Argentina para el mundo</title>
 		<link href="http://blog.drone.io/2013/04/27/your-filename.html" />
 		<updated>2013-04-27T00:00:00Z</updated>
 		<id>http://blog.drone.io/2013/04/27/your-filename.html</id>
-		<content type="html">&lt;h1&gt;Diseñadores, programadores y expertos en negocios&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/5E18MArm.jpg&#34; alt=&#34;Construyendo la empresa del mañana&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Los chavos de TW cantando &amp;ldquo;Bohemian Rapsody&amp;rdquo;&amp;hellip; Programado a ese ritmo. Que tal!&lt;/p&gt;
+		<content type="html">&lt;p&gt;Diego explorando nuevas opciones para dar consultoría con tecnología del momento.&lt;/p&gt;
 </content>
 	</entry>
 	
