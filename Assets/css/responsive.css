@@ -1,0 +1,450 @@
+@charset "utf-8";
+html {
+	-webkit-text-size-adjust: 100%;
+}
+input[type="submit"] {
+	-webkit-appearance: none;
+}
+input {
+	-webkit-border-radius:0;
+}
+
+@media only screen and (min-width:1023px) and (max-width:1024px) {
+.carousel li {
+	width: 220px !important;
+}
+.bottom-nav ul li {
+	margin-left: 13px;
+	padding-left: 10px;
+}
+.link_interes li {
+	margin-right: 9px;
+}
+.nav li a {
+	padding: 13px 11.5px 7px;
+}
+.check fieldset{ padding: 5px 2px 5px 17px;}
+.widget ul > li.social-plugin {
+	margin:-2px 2% 0 4%; 
+}
+}
+@media only screen and (max-width:1023px) {
+h1 {
+	font-size:3em;
+}
+h2 {
+	font-size:2.2em;
+}
+h3 {
+	font-size:1.7em;
+}
+h4 {
+	font-size:1.4em;
+}
+h5 {
+	font-size:1.3em;
+}
+.wrapper, .header {
+	width:98%;
+}
+.app img{width:100%;}
+/* navigation css */
+.addSection a {
+	width:75.5%;
+}
+.addSection a + a {
+	width:23.5%;
+}
+.addSection a img {
+	width:100%;
+}
+.navigation {
+	min-height:85px;
+}
+.nav li a {
+	font-size:1.2em;
+	padding-right:8px;
+	padding-left:8px;
+}
+.sub-nav {
+	padding-top:26px;
+}
+.sub-nav li {
+	padding:0 8px;
+}
+.sub-nav li a {
+	font-size:1.3em
+}
+.dropdwon {
+	padding:5px 0;
+	top: 36px;
+}
+.dropdwon .jcarousel-skin-tango .jcarousel-clip-horizontal {
+	margin-left:27px;
+}
+.dropdwon {
+	max-width:474px;
+}
+.dropdwon .jcarousel-skin-tango .jcarousel-container-horizontal {
+	width:100%;
+}
+.dropdwon .jcarousel-skin-tango .jcarousel-clip-horizontal {
+	width:88%;
+}
+.nav li:first-child a {
+	padding-left: 18px;
+}
+/* navigation css end */
+.papper {
+	width:15%;
+	text-align:right;
+	margin-right: 8px;
+}
+.papper img {
+	width:79%;
+}
+.social_icon li a {
+	background-size:100% !important;
+	height:20px !important
+}
+.bar span {
+	font-size:1em;
+}
+.time-date {
+	width: 30%;
+}
+.temperature {
+	width: 23%;
+}
+.social_icon {
+	width: 45%;
+}
+.social_icon li {
+	margin-left: 7px;
+	margin-top:2px;
+}
+.bar {
+	background-size:100%;
+}
+.social_icon li.rss a {
+	width:54px;
+	margin-top:2px;
+}
+.social_icon li.tweet a {
+	width:83px;
+	margin-top:2px;
+}
+.social_icon li.facebook a {
+	width:84px;
+	margin-top:2px;
+}
+.social_icon li.youtube a {
+	width:54px;
+	margin-top:2px;
+}
+.comment li {
+	padding-right:3px;
+}
+.comment li a {
+	padding-right:0;
+}
+.container_16 .grid_7 {
+	width: 51%;
+}
+.container_16 .grid_9 {
+	width: 46%;
+}
+.carousel_slider .carousels li {
+	margin-right:10px;
+}
+.carousel_slider .carousels li img {
+	border:2px solid #fff;
+}
+.bottomSection .title strong {
+	line-height:1.4;
+	padding-top:3px;
+}
+.carousel_slider .carousels li {
+	margin-right:7px;
+}
+.carousel_slider .flex-next {
+	right:-8px;
+}
+.carousel_slider .flex-prev {
+	left:-8px;
+}
+.news_tpoic strong {
+	font-size:1.5em;
+}
+.description img {
+	width:49%;
+}
+.list ul li a {
+	font-size:1.4em;
+}
+.search span {
+	width:73%;
+}
+.search input[type="text"] {
+	width:78%;
+}
+.search input[type="submit"] {
+	/*background-size:100%;
+	width:10%;*/
+}
+.news-pagination small {
+	font-size:1.2em;
+}
+.news_section .news h3 {
+	font-size:1.5em;
+}
+.subscribe span label {
+	font-size:1.2em;
+}
+.subscribe span input[type="text"] {
+	width:57%;
+	height:18px;
+}
+.subscribe input[type="submit"] {
+	margin-left:30%;
+}
+.subscribe h3 {
+	font-size:1.5em;
+}
+.check fieldset {
+	padding-left:5%;
+	padding-right:0;
+}
+.checkBox span a {
+	font-size:1.2em;
+}
+.carousel-content a img {
+	width:84%;
+}
+.carousel-content span {
+	font-size:1.3em;
+}
+.bottom-nav ul li {
+	padding-left:6px;
+	margin-left:5px;
+}
+.bottom-nav ul li a {
+	font-size:1.2em
+}
+.link_interes ul{padding-bottom:0;}
+.link_interes li {
+	width:12.8%;
+	margin-right:10px;
+	display:inline-block;
+	vertical-align:middle;
+	float:none;
+}
+.link_interes li a {
+	display:block;
+	width:100%;
+}
+.link_interes li img {
+	width:93%;
+	display:block
+}
+.link_interes {
+	padding-bottom:15px;
+}
+.carousel-content span {
+	padding-left:9px;
+}
+.carousel li {
+	margin-right:29px;
+}
+.footer-content {
+	width:86%;
+	padding-left:7%;
+	padding-right:7%;
+}
+/* inner page css */
+.comment-details {
+	width:84%;
+}
+.partner li figure, .partner li .intro {
+	float:none;
+}
+.partner li .intro {
+	width:100%;
+	padding-top:5px;
+}
+.partner p {
+	padding-bottom:10px;
+}
+.widget > ul ul {
+	margin-right:2%;
+}
+.widget ul > li ul li {
+	margin-right:1px;
+}
+.widget ul > li {
+	display:inline-block;
+	vertical-align:middle;
+	float:none;
+	margin-right:1px;
+}
+.widget ul > li.plus_icon {
+	float:none;
+}
+.widget ul > li.pdf_icon {
+	margin:0;
+}
+.widget ul > li.social-plugin {
+	margin:0;
+	width:31%;
+}
+.widget ul > li.social-plugin img {
+	width:100%;
+}
+.widget ul > li.printer a, .widget ul > li.pdf_icon a, .widget ul > li.mail_icon a {
+	width:12px;
+	background-size:100%;
+}
+.comment-details {
+    width: 82%;
+}
+.widget ul > li.minus_icon {
+    margin-left: 0;
+}
+.subscribe .check span label {
+    min-width: 56px;
+}
+.widget ul > li.minus_icon a{width: 13px;background-size:100%;}
+.widget ul > li.plus_icon a {width: 17px;background-size:100%;}
+.widget > ul{width: 103%;}
+.widget ul > li.comment-icon{margin-top: -7px;}
+.widget > ul ul{margin-top: -7px;}
+.widget ul > li a,.widget ul > li strong{font-size:1em;}
+}
+ @media only screen and (max-width:767px) {
+	 .side-tweet{ display:none;}
+.container, .dot {
+	background:none;
+}
+
+.bar, .container_16 .grid_9,.addSection,.nav,.papper,.widget {
+	display:none;
+}
+.ipod-nav{ display:block;}
+.wrapper, .header {
+	width:96%;
+}
+.header{min-height:0;}
+.container_16 .grid_12, .container_16 .grid_4, .container_16 .grid_8, .container_16 .grid_16 .grid_8 + .grid_8, .container_16 .grid_16, .container_16 .grid_7 {
+	width:100%;
+	margin-right:0;
+	margin-left:0;
+	padding-left:0;
+	padding-right:0;
+	float:none;
+}
+.logo{width:100%; display:block;}
+.logo img{width:100%;}
+.carousel_slider {
+	display:none;
+}
+.new-content {
+	padding:12px 9px 22px;
+}
+.bottom-nav {
+	text-align:center;
+}
+.bottom-nav ul{padding-top:10px;}
+.bottom-nav ul li {
+	margin-left: 16px;
+	padding-left:28px
+}
+.bottom-nav ul li {
+	float:none;
+	display:inline-block;
+}
+.bottom-nav ul li.grid {
+	background:none;
+	padding:0;
+	margin:0;
+}
+.link_interes li {
+	width: 30%;
+	display:inline-block;
+}
+.navigation{ display:block;}
+.sub-nav ul{ text-align:center; margin:0;}
+.sub-nav li{float:none; display:inline-block;}
+.sub-nav li.grid{background:none;}
+.sub-nav li {
+    margin-bottom: 5px;
+    padding: 0 19px;
+}
+.shadow{background-size:100%; padding-bottom:4px;margin-bottom:10px; overflow:inherit;}
+.navigation{overflow:inherit;}
+.sub-nav{padding-top:10px;}
+.subscribe span input[type="text"]{width:71%;}
+.check fieldset {
+    padding-left:18%;
+    padding-right:6%;
+}
+.carousel li {
+    margin-left: 101px;
+}
+.app a{ display:block;}
+.app a img{ display:block; margin:0 auto;}
+.news_section figure,.link_interes ul{ text-align:center;}
+.ipod-search{ display:block;}
+.desktop-search{ display:none;}
+.partner .jcarousel-skin-tango .jcarousel-container-vertical {
+    height: 515px;
+}
+.partner .jcarousel-skin-tango .jcarousel-clip-vertical {
+    height: 515px;
+}
+.news_section .slider li a img{width: 98%;}
+}
+
+@media only screen and (max-width:479px) {
+.carousel li {
+	margin-left:31px;
+	
+}
+.search span {
+    width: 82%;
+}
+.comment-details {
+    width: 73%;
+}
+.partner .jcarousel-skin-tango .jcarousel-container-vertical {
+    height: 560px;
+}
+.partner .jcarousel-skin-tango .jcarousel-clip-vertical {
+    height: 560px;
+}
+.jcarousel-skin-tango .jcarousel-container-vertical {
+    height: 268px;
+    }
+.jcarousel-skin-tango .jcarousel-clip-vertical {
+    height: 268px;
+}
+.list .jcarousel-skin-tango .jcarousel-container-vertical {
+    height:473px;
+}
+.list .jcarousel-skin-tango .jcarousel-clip-vertical {
+    height:486px;
+}
+.figure-slider{width:94%;margin-right:0;padding: 12px 10px;margin-bottom:15px;}
+.figure-slider ul li{width:265px !important; margin-right:9px;}
+.figure-slider .flex-viewport li a{width:100%;}
+.news_section .slider li{padding:3px 0;}
+
+}
+ @media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+.carousel li {
+	width: 225px !important;
+}
+}
+ @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
+	.figure-slider ul li{width:287px !important; margin-right:0px;} 
+	
+ }
