@@ -105,6 +105,24 @@ layout: default
 {{end}}
 {{end}}
 
+
+{{define "columnas"}}
+{{if .}}
+{{$first := index . 0 }}
+			<article class="section"> <strong> {{ $first.GetCategories }}</strong>
+				<h2> {{ $first.title}} </h2>
+				<ul class="comment">
+	                  <li><a href="#">{{ $first.author }} </a>/</li>
+	                  <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
+	                  <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
+	                </ul>
+	                <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
+	        </article>	
+		 
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
 <!-- TERMINA PARTE DEFINICIONES -->
 
 
@@ -169,44 +187,9 @@ layout: default
 	      <div class="title">
 	        <h4>COLUMNAS</h4>
 	      </div>
-	      <article class="section"> <strong>EDITORIAL</strong>
-	        <h2>SEC-SNTE: efectos de la captura del estado</h2>
-	        <ul class="comment">
-	          <li><a href="#">Lorem Ipsum</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam Libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut offici.<a href="#">Leer mas... </a> </p>
-	        </div>
-	      </article>
-	      <article class="section"> <strong>LA JIRIBILLA</strong>
-	        <h2>Doble discurso</h2>
-	        <ul class="comment">
-	          <li><a href="#">El Refranero</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <div class="news-content"> <a href="#"> <strong>Uno:</strong>Busca llegar a Bernárdez un próximo exalcalde.</a>
-	            <a href="#"> <strong>Dos:</strong>Segunda explosión en Concepción del Oro </a>
-	            <a href="#"> <strong>Tres:</strong>  Ojocaliente: ! Ay, Chihuahua, cuanto apache! </a>
-	            <a href="#"> <strong>Cuatro:</strong> Armando Moreira va por la renovación del Sutsemop.</a>
-	            <a href="#"> <strong>Cinco:</strong> Se quedan solos Jaime Limón y Efraín Chavez.</a> <a href="#">Leer más... </a></div>
-	          <img src="/Assets/images/cartoon_pic.jpg" alt="cartton" /> </div>
-	      </article>
-	      <article class="section"> <strong>OPINION</strong>
-	        <h2>El negocio actual de la democracia</h2>
-	        <ul class="comment">
-	          <li><a href="#">Carlos A. Navarrete</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <div class="news-content"> <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis.</p> <a href="#">Leer más...</a></div>
-	          <img src="/Assets/images/image.jpg" alt="" /> </div>
-	      </article>
-
+	       {{ template "columnas" index .site.categories "Editorial"}}
+		   {{ template "columnas" index .site.categories "La Jiribilla"}}
+	       {{ template "columnas" index .site.categories "Opinión"}}
 	      <!-- section frst -->
 	      <div class="news-sub-headline">
 	        <div class="title">
