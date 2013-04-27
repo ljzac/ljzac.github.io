@@ -11,5 +11,9 @@ published: true
 
 # Diseñadores, programadores y expertos en negocios
 
+![Construyendo la empresa del mañana](http://i.imgur.com/5E18MArm.jpg)
+
 Los chavos de TW cantando "Bohemian Rapsody"... Programado a ese ritmo. Que tal!
+
+
 
