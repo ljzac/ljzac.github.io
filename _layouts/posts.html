@@ -408,193 +408,27 @@ $(document).ready(function(){
 
                           <div class="title">
 
-                                <h4>COLABORADORES </h4>
-
-                        </div>
-
+                            <h4>COLABORADORES </h4>
+                          </div>
                           <div class="partner">
-
-                          <ul class="mycarousel jcarousel jcarousel-skin-tango">
-
-                          <li>
-
-                          <figure>
-
+                            <ul class="mycarousel jcarousel jcarousel-skin-tango">
+			      {{range $a,$al :=.site.authors}}
+                              <li>
+				<figure>
                                   <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                          <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
+                                </figure>
+				<div class="intro">
+				  <h6><a href="#">{{$a}}</a></h6>
+				  <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
+				</div>
+                              </li>
+			      {{end}}
+                            </ul>
                           </div>
-
-                          
-
-                          </li>
-
-                          
-
-                          <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                         <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          
-
-                          <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                          <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          
-
-                          <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                          <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          
-
-                          <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                          <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          
-
-                            <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                         <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          
-
-                          <li>
-
-                          <figure>
-
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-
-                                   </figure>
-
-                          <div class="intro">
-
-                          <h6><a href="#">Ernesto Villanueva</a></h6>
-
-                          <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-
-                          
-
-                          </div>
-
-                          
-
-                          </li>
-
-                          </ul>
-
-                                
-
-                        </div>
-
                           <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-
                            {{template "lajornadatv.html" .}}
 			                     {{template "gsb.html" .}}
-
 			  <!-- Sección de boletín -->
-
 			  {{template "boletin.html" .}}
 
 			  <!-- fin de sección de boletín-->
