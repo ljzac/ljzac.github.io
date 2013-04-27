@@ -263,26 +263,9 @@ layout: default
 	</div>
 	<div class="list">
 	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
-	    <li><a href="#">Requisitos deseables para ser candidato</a></li>
-	    <li><a href="#">Aunque sea martes 13...</a></li>
-	    <li><a href="#">¿Cuándo principia la grave crisis agropecuaria que se vive actualmente?</a></li>
-	    <li><a href="#">Por favor, sea feliz</a></li>
-	    <li><a href="#">Fomento a las cooperativas</a></li>
-	    <li><a href="#">El sexenio de la muerte</a></li>
-	    <li><a href="#">Reflexiones en torno al presupuesto</a></li>
-	    <li><a href="#">Alianzas electorales vs candidaturas ciudadanas</a></li>
-	    <li><a href="#">La paradoja y el futuro</a></li>
-	    <li><a href="#">Propuesta alterna para un cambio económico con orientacion social</a></li>
-	    <li><a href="#">¿Qué esperar para el presupuesto 2013</a></li>
-	    <li><a href="#">De niňos y androides sujetos de derecho</a></li>
-	    <li><a href="#">Caciques contra periodistas</a></li>
-	    <li><a href="#">Televisa, el monopolio es el mensaje </a></li>
-	    <li><a href="#">Estados Unidos: elecciones y chantaje</a></li>
-
-	    <li><a href="#">De niňos y androides sujetos de derecho</a></li>
-	    <li><a href="#">Caciques contra periodistas</a></li>
-	    <li><a href="#">Televisa, el monopolio es el mensaje </a></li>
-	    <li><a href="#">Estados Unidos: elecciones y chantaje</a></li>
+	    {{range .site.MinuteByMinute}}
+	    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
+	    {{end}}
 	  </ul>
 	</div>
 	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
