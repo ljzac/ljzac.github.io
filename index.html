@@ -105,33 +105,28 @@ layout: default
 {{end}}
 {{end}}
 
+
+{{define "columnas"}}
+{{if .}}
+{{$first := index . 0 }}
+			<article class="section"> <strong> {{ $first.GetCategories }}</strong>
+				<h2> {{ $first.title}} </h2>
+				<ul class="comment">
+	                  <li><a href="#">{{ $first.author }} </a>/</li>
+	                  <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
+	                  <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
+	                </ul>
+	                <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
+	        </article>	
+		 
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
 <!-- TERMINA PARTE DEFINICIONES -->
 
 
 <!-- INICIA CONTENIDO DE PAGINA PRINCIPAL -->
-<!--side tweet-->
-    <a href="#" class="side-tweet">tweet</a>
-    <!--side tweet -->
-
-
-    <!--header-->
-    {{template "header.html" .}}
-    <!--header-->
-
-    <!-- Bar Section -->
-    <section class="bar">
-      <div class="time-date"> <span>Martes 13 de Julio de 2013 :: <small>3:59:51 P.M.</small></span> </div>
-      <div class="social_icon">
-	<ul>
-	  <li class="rss"><a href="#">RSS</a></li>
-	  <li class="tweet"><a href="#">TWEET</a></li>
-	  <li class="facebook"><a href="#">FACEBOOK</a></li>
-	  <li class="youtube"><a href="#">YOUTUBE</a></li>
-	</ul>
-      </div>
-      <div class="temperature"> <span>Zacatecas, Mexico.</span> <span>36<small>&deg;C</small></span> </div>
-    </section>
-    <!-- Bar Section -->
 
     <!-- Container Section -->
     <section class="container">
@@ -161,6 +156,7 @@ layout: default
 	    	{{ template "seccion" index .site.categories "Principales" }}
 	    	{{ template "seccion" index .site.categories "Destacadas" }}
 	   		{{ template "seccion" index .site.categories "Mundo" }}
+
 	    <!-- section frst end -->
 	  </div>
 	  <div class="grid_8 omega">
@@ -169,81 +165,11 @@ layout: default
 	      <div class="title">
 	        <h4>COLUMNAS</h4>
 	      </div>
-	      <article class="section"> <strong>EDITORIAL</strong>
-	        <h2>SEC-SNTE: efectos de la captura del estado</h2>
-	        <ul class="comment">
-	          <li><a href="#">Lorem Ipsum</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam Libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut offici.<a href="#">Leer mas... </a> </p>
-	        </div>
-	      </article>
-	      <article class="section"> <strong>LA JIRIBILLA</strong>
-	        <h2>Doble discurso</h2>
-	        <ul class="comment">
-	          <li><a href="#">El Refranero</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <div class="news-content"> <a href="#"> <strong>Uno:</strong>Busca llegar a Bernárdez un próximo exalcalde.</a>
-	            <a href="#"> <strong>Dos:</strong>Segunda explosión en Concepción del Oro </a>
-	            <a href="#"> <strong>Tres:</strong>  Ojocaliente: ! Ay, Chihuahua, cuanto apache! </a>
-	            <a href="#"> <strong>Cuatro:</strong> Armando Moreira va por la renovación del Sutsemop.</a>
-	            <a href="#"> <strong>Cinco:</strong> Se quedan solos Jaime Limón y Efraín Chavez.</a> <a href="#">Leer más... </a></div>
-	          <img src="/Assets/images/cartoon_pic.jpg" alt="cartton" /> </div>
-	      </article>
-	      <article class="section"> <strong>OPINION</strong>
-	        <h2>El negocio actual de la democracia</h2>
-	        <ul class="comment">
-	          <li><a href="#">Carlos A. Navarrete</a>/</li>
-	          <li><a href="#">22-10-2012</a>/</li>
-	          <li class="comment_icon"><a href="#">12</a></li>
-	        </ul>
-	        <div class="description">
-	          <div class="news-content"> <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis.</p> <a href="#">Leer más...</a></div>
-	          <img src="/Assets/images/image.jpg" alt="" /> </div>
-	      </article>
-
+	       {{ template "columnas" index .site.categories "Editorial"}}
+		   {{ template "columnas" index .site.categories "La Jiribilla"}}
+	       {{ template "columnas" index .site.categories "Opinión"}}
 	      <!-- section frst -->
-	      <div class="news-sub-headline">
-	        <div class="title">
-	          <h4>A DEBATE</h4>
-	        </div>
-	        <div class="figure"> <img src="/Assets/images/images.jpg" alt="pic" /> </div>
-	        <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
-	          <li>
-	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
-	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
-	          <li>
-	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
-	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
-	          <li>
-	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
-	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
-	          <li>
-	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
-	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
-	          <li>
-	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
-	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
-	          <li>
-	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
-	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
-	          <li>
-	            <h3>Cameron pierde votacion en el Parlamento de GB sobre presupuesto europeo</h3>
-	            <a href="#">REDACCION El Coordinador Estatal de Bibliotecas,...</a></li>
-	          <li>
-	            <h3>Destaca Profesor de Nochistlán en Concurso Nacional de Educación Física </h3>
-	            <a href="#">REDACCION Carlos Alberto Gutiérrez García, Profesor...</a> </li>
-	          <li>
-	            <h3>Reporta Guadalupe listos los Panteones para este DÍa de Muertos</h3>
-	            <a href="#">REDACCIÓN Guadalupe, ZAC. El municipio informa que...</a> </li>
-
-	        </ul>
-	      </div>
+	      {{ template "seccion" index .site.categories "Mundo" }}
 
 	      <!-- section frst end -->
 
@@ -251,7 +177,7 @@ layout: default
 	    </div>
 	  </div>
 	</div>
-	<!-- Left Section End-->
+	<!-- Left Section End -->
       </div>
       <div class="grid_4 omega">
 	<div class="news_section p-top">
@@ -344,12 +270,12 @@ height:auto;
 
       <div class="carousel">
         <ul class="mycarousel2 jcarousel jcarousel-skin-tango">
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
-      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
+      		{{ template "cuadrosecciones" index .site.categories "Tecnología"}}
+      		{{ template "cuadrosecciones" index .site.categories "Deportes"}}
+      		{{ template "cuadrosecciones" index .site.categories "Fueradefoco"}}
+      		{{ template "cuadrosecciones" index .site.categories "Opinión"}}
+      		{{ template "cuadrosecciones" index .site.categories "Politica"}}
+      		{{ template "cuadrosecciones" index .site.categories "Editorial"}}
           </ul>
       </div>
     	{{template "interestlinks.html" . }}
@@ -359,20 +285,3 @@ height:auto;
 <!-- wrapper Section End-->
 
 <!--  TERMINA CONTENIDO DE LA PAGINA PRINCIPAL  -->
-
-
-
-
-
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'ljzbot2'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>

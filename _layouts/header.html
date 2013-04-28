@@ -14,23 +14,38 @@
                 <!-- Desktop and ipad Navigation -->
                           <nav class="nav">
                                 <ul>
-                                          <li><a href="#" title="Inicio">Inicio</a></li>
+                                          <li><a href="/" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones</a> 
                                                 <div class="dropdwon">
 <ul class="first-and-second-carousel jcarousel-skin-tango">
   {{ range $catName,$catPosts := .site.categories }}
-  <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
+  <li><a href="/seccion/{{ $catName }}.html" title="{{ $catName }}">{{ $catName }}</a></li>
   {{end}}
 </ul>
 </div> 
                                                 
                                         </li>
-                                          <li><a href="#" title="Columnas">Columnas</a></li>
-                                          <li><a href="#" title="Fuera de Foco">Fuera de Foco</a></li>
-                                          <li><a href="#" title="Cartones">Cartones</a></li>
+                                          <li><a href="#" title="Columnas">Columnas</a>
+                                            <div class="dropdwon">
+                                              <ul class="first-and-second-carousel jcarousel-skin-tango">
+                                                <li><a href="/seccion/Editorial.html" title="Editorial">Editorial</a></li>
+                                                <li><a href="/seccion/La Jiribilla.html" title="La Jiribilla">La Jiribilla</a></li>
+                                                <li><a href="/seccion/Opinión.html" title="Opinión">Opinión</a></li>
+                                              </ul>
+                                            </div>
+                                          </li>
+                                           <li><a href="/seccion/Fueradefoco.html" title="Fuera de Foco">Fuera de Foco</a></li>
+                                          <li><a href="/seccion/Cartones.html" title="Cartones">Cartones</a></li>
                                           <li><a href="#" title="Hemeroteca">Hemeroteca</a></li>
-                                          <li><a href="#" title="Suplementos">Suplementos</a></li>
-                                          <li class="none"><a href="#" title="Contacto">Contacto</a></li>
+                                          <li><a href="#" title="Suplementos">Suplementos</a>
+                                              <div class="dropdwon">
+                                              <ul class="first-and-second-carousel jcarousel-skin-tango">
+                                                <li><a href="/suplementos/" title="La Jornada Laboral"> La Jornada Laboral</a></li>
+                                                <li><a href="/suplementos/" title="Aprender ">Aprender</a></li>
+                                              </ul>
+                                            </div>
+                                          </li>
+                                          <li class="none"><a href="/contacto.html" title="Contacto">Contacto</a></li>
                                   </ul>
                         </nav>
                          <!-- Desktop and ipad Navigation End-->
@@ -42,11 +57,11 @@
                           <span>&nbsp;</span>
                           </div>
                          <ul>
-                                          <li><a href="#" title="Inicio">Inicio</a></li>
+                                          <li><a href="/" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones  <span>&nbsp;</span></a>  
                                             <ul>
                                               {{ range $catName,$catPosts := .site.categories }}
-                                              <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
+                                              <li><a href="seccion/{{ $catName }}.html" title="{{ $catName }}">{{ $catName }}</a></li>
                                               {{end}}
                                             </ul>
 

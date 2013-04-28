@@ -4,7 +4,7 @@ title: "la cat Prueba 4 debe tener dos posts"
 twitt: "¿Quieres que te recuerde @wera_supernova la forma en que fui fusilado y cómo me fue cortada la cabeza por querer un México independiente?"
 author: Brad Rydzewski
 authorlink: https://drone.io/bradrydzewski
-categories: ['prueba4']
+categories: ['La Jiribilla']
 published: true
 ---
 

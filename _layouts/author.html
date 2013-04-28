@@ -357,7 +357,7 @@ $(document).ready(function(){
 
                                          <ul class="comment">
 
-                                                       <li><a href="{{ .page.authorlink }}" target="_blank" >{{ .page.author }}</a> /{{ .page.date | date_to_string }}/</li>
+                                                       <li><a href="{{ .page.authorlink }}" target="_blank" >{{ .page.author }}</a> </li>
 
                                                         
 
@@ -412,14 +412,14 @@ $(document).ready(function(){
                           </div>
                           <div class="partner">
                             <ul class="mycarousel jcarousel jcarousel-skin-tango">
-			      {{range index .site.categories "Autor"}}
+			      {{range $a,$al :=.site.authors}}
                               <li>
 				<figure>
-                                  <img src="{{.MainImgThumb}}" width="97" height="103" alt="avtar">
+                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
                                 </figure>
 				<div class="intro">
-				  <h6><a href="{{.GetAuthorLink}}">{{.GetAuthor}}</a></h6>
-				  <p>{{.twitt}} </p>
+				  <h6><a href="#">{{$a}}</a></h6>
+				  <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
 				</div>
                               </li>
 			      {{end}}
