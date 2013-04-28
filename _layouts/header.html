@@ -14,12 +14,12 @@
                 <!-- Desktop and ipad Navigation -->
                           <nav class="nav">
                                 <ul>
-                                          <li><a href="#" title="Inicio">Inicio</a></li>
+                                          <li><a href="/" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones</a> 
                                                 <div class="dropdwon">
 <ul class="first-and-second-carousel jcarousel-skin-tango">
   {{ range $catName,$catPosts := .site.categories }}
-  <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
+  <li><a href="/seccion/{{ $catName }}.html" title="{{ $catName }}">{{ $catName }}</a></li>
   {{end}}
 </ul>
 </div> 
@@ -42,11 +42,11 @@
                           <span>&nbsp;</span>
                           </div>
                          <ul>
-                                          <li><a href="#" title="Inicio">Inicio</a></li>
+                                          <li><a href="/" title="Inicio">Inicio</a></li>
                                           <li><a href="#" title="Secciones">Secciones  <span>&nbsp;</span></a>  
                                             <ul>
                                               {{ range $catName,$catPosts := .site.categories }}
-                                              <li><a href="#" title="{{ $catName }}">{{ $catName }}</a></li>
+                                              <li><a href="seccion/{{ $catName }}.html" title="{{ $catName }}">{{ $catName }}</a></li>
                                               {{end}}
                                             </ul>
 
