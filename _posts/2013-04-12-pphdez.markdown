@@ -1,0 +1,15 @@
+---
+layout: author
+title: "Prueba imagen"
+twitt: "#Honduras teleSURtv: Jean Todt elegido nuevo presidente de la FIA http://tinyurl.com/ykrwlxj http://ow.ly/15WRgr"
+author: Pepe Hernández
+categories: ['Autor']
+authorlink: /autor/pphdez.html
+published: true
+---
+
+![Alt text](http://i.imgur.com/YUJNvKom.jpg)
+Hola soy Pepe Hernández...
+
+...and this is jackass!!!
+
