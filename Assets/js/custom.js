@@ -44,11 +44,37 @@ $(document).ready(function(){
  //contten scroll function
 jQuery(document).ready(function() {
 	jQuery('.first-and-second-carousel').jcarousel();
-    jQuery('.mycarousel').jcarousel({
-        vertical: true,
+  jQuery('.mycarousel').jcarousel({
+    vertical: true,
+    scroll: 1,
+	  wrap: 'circular',
+	  auto:500
+  });
+
+
+/**
+ * We use the initCallback callback
+ * to assign functionality to the controls
+ */
+function mycarousel2_initCallback(carousel) {
+    jQuery('#mycarousel2-next').bind('click', function() {
+        carousel.next();
+        return false;
+    });
+
+    jQuery('#mycarousel2-prev').bind('click', function() {
+        carousel.prev();
+        return false;
+    });
+};
+
+    jQuery('.mycarousel2').jcarousel({
+      visible: 4,
         scroll: 1,
-	wrap: 'circular',
-	auto:500
+        initCallback: mycarousel2_initCallback,
+        // This tells jCarousel NOT to autobuild prev/next buttons
+        buttonNextHTML: null,
+        buttonPrevHTML: null
     });
     
     //font resize function

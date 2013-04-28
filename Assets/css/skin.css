@@ -6,7 +6,7 @@
 }
 .jcarousel-skin-tango .jcarousel-container-horizontal {
 	width: 245px;
-	padding: 20px 40px;
+	padding-bottom: 20px;
 }
 .jcarousel-skin-tango .jcarousel-container-vertical {
 	width:100%;
@@ -17,7 +17,6 @@
 }
 .jcarousel-skin-tango .jcarousel-clip-horizontal {
 	width:  245px;
-	height: 75px;
 }
 .jcarousel-skin-tango .jcarousel-clip-vertical {
 	width:100%;
@@ -43,6 +42,35 @@
 	background: #fff;
 	color: #000;
 }
+
+#mycarousel2-prev {
+    background:url(../images/prev.jpg) left top no-repeat;
+    width:8px;
+    height:12px;
+    margin-top:6px;
+	opacity:1 !important;
+	float:left;
+	text-indent:-99999px;
+	cursor:pointer;
+	position:absolute;
+	right:29px;
+}
+
+#mycarousel2-next  {
+    background:url(../images/prev.jpg) -8px top no-repeat;
+    width:8px;
+    height:12px;
+
+    margin-top:6px;
+	float:left;
+	text-indent:-99999px;
+	opacity:1 !important;
+	cursor:pointer;
+	position:absolute;
+	right:11px;
+}
+
+
 .jcarousel-skin-tango .jcarousel-prev-vertical {
 	background:url(../images/news-pagination.png) left top no-repeat;
 	width:17px;
