@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-{{ $miseccion := index .site.categories "FueradeFoco"}}
+{{ $miseccion := index .site.categories "Hemeroteca"}}
  <section class="container">
 <div class="grid_12 alpha"> 
 <div class="title">
-	    <h4> Fuera de Foco</h4>
+	    <h4>Hemeroteca</h4>
 </div>
 
 {{ range $miseccion }}
@@ -15,6 +15,13 @@ layout: default
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
                   <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+	              <div class="grid_7 alpha">
+	                <ul class="comment">
+	                  <li><a href="#">{{ .author }} </a>/</li>
+	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	                  <li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
+	                </ul>
+	              </div>
 	            </article>
 	            <br><br><br>
 	            <hr>

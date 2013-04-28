@@ -1,8 +1,11 @@
 ---
 layout: posts
 title: "Free for Open Source"
+twitt: "Free for Open Source"
 author: Brad Rydzewski
 authorlink: https://drone.io/bradrydzewski
+categories: ['Hemeroteca']
+published: true
 ---
 
 Starting today [drone.io](https://drone.io) has a free plan available for open

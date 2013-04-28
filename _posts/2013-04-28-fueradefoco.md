@@ -3,7 +3,7 @@ layout: posts
 title: Fuera de Foco 1
 twitt: Fuera de Foco 1
 author: Redacción 
-categories: Fuera de Foco
+categories: [FueradeFoco]
 authorlink: http://twtter.com/tu_cuenta 
 published: true
 ---
