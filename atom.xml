@@ -4,11 +4,31 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-28T21:12:24Z</updated>
+	<updated>2013-04-28T22:06:36Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
 	</author>
+	
+	<entry>
+		<title>Fuera de Foco 1</title>
+		<link href="http://blog.drone.io/2013/04/28/fueradefoco.html" />
+		<updated>2013-04-28T00:00:00Z</updated>
+		<id>http://blog.drone.io/2013/04/28/fueradefoco.html</id>
+		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/dE80ktPm.jpg&#34; alt=&#34;swzac&#34; /&gt;
+&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Carton 1</title>
+		<link href="http://blog.drone.io/2013/04/28/carton1.html" />
+		<updated>2013-04-28T00:00:00Z</updated>
+		<id>http://blog.drone.io/2013/04/28/carton1.html</id>
+		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/1uUyZ3Fm.jpg&#34; alt=&#34;Hijo das pena&#34; /&gt;
+&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Arranca el 2do día de actividades del Startup Weekend Zacatecas</title>
@@ -57,18 +77,10 @@ Los equipos trabajando a todo lo que dan.&lt;/p&gt;
 		<id>http://blog.drone.io/2013/04/23/testIMG.html</id>
 		<content type="html">&lt;h1&gt;How does it work?&lt;/h1&gt;
 
-&lt;!--  figure-slider --&gt;                  
+&lt;pre&gt;&lt;code&gt;        ![Una puerta](http://i.imgur.com/ocb6MMdm.jpg)
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;div class=&#34;figure-slider&#34;&gt;
-    &lt;div class=&#34;slider flexslider&#34;&gt;
-    &lt;ul class=&#34;slides&#34;&gt;
-        &lt;li&gt;
-            ![Una puerta](http://i.imgur.com/ocb6MMdm.jpg)
-        &lt;/li&gt;
-     &lt;/ul&gt;
-    &lt;/div&gt; 
-&lt;span&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/span&gt;
-&lt;/div&gt;
+&lt;p&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/p&gt;
 
 &lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
 </content>
@@ -148,9 +160,6 @@ A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/cAP2Fiol.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 
 Enter Text in Markdown format.&lt;/p&gt;
-
-&lt;p&gt;lo escribo
-otra nota&lt;/p&gt;
 </content>
 	</entry>
 	
