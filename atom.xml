@@ -4,11 +4,30 @@
 	<link href="http://blog.drone.io/atom.xml" rel="self"/>
 	<link href="http://blog.drone.io/"/>
 	<id>http://blog.drone.io/</id>
-	<updated>2013-04-29T06:42:12Z</updated>
+	<updated>2013-04-29T17:46:38Z</updated>
 	<author>
 		<name>Thomas Burke</name>
 		<email>burke@drone.io</email>
 	</author>
+	
+	<entry>
+		<title>Sorpresa en el Startup Weekend</title>
+		<link href="http://blog.drone.io/2013/04/29/your-filename.html" />
+		<updated>2013-04-29T00:00:00Z</updated>
+		<id>http://blog.drone.io/2013/04/29/your-filename.html</id>
+		<content type="html">&lt;h1&gt;Resultados del Startup Weekend Zacatecas 2013&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/sZUOToBm.jpg&#34; alt=&#34;Startup Weekend Zacatecas 2013&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;10 equipos estuvieron compitiendo para obtener el premio a la mejor idea de negocio en Startup Weekend Zacatecas.
+De las 10 ideas que quedaron el primer lugar fue para ECOCLETA. Un solución de taxis sustentables para el Centro Histórico de Zacatecas.
+En 2do lugar, quedó ybdrive.com que es una alternativa para almacenamiento privado en la nube. Similar a Dropbox, pero más barato.
+En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tardará tu camión en llegar a la parada que acostumbras.&lt;/p&gt;
+
+&lt;p&gt;Los demás equipos tuvieron una buena participación.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Fuera de Foco 1</title>
