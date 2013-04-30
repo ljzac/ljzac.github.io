@@ -94,7 +94,7 @@ layout: default
 <li>
   <div class="carousel-content">
     <h5>{{ $first.GetCategories }}</h5>
-		<a href="{{ $first.url }}">	
+		<a href="{{ $first.url }}">
       <img src="{{$first.MainImgSize "b"}}" alt="pic" />
       <p>{{ $first.twitt}}</p>
     </a>
@@ -117,8 +117,8 @@ layout: default
 	                  <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
 	                </ul>
 	                <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
-	        </article>	
-		 
+	        </article>
+
 {{else}}
         No hay notas de esta sección
 {{end}}
@@ -135,16 +135,16 @@ layout: default
       <div class="grid_12 alpha">
       		{{ template "laNotaPrincipal" index .site.categories "Portada"}}
       <div class="grid_16 dot">
-                                <div class="grid_8 alpha"> 
+                                <div class="grid_8 alpha">
                                           <!-- section frst -->
-                                          
+
                                 <div class="search ipod-search">
                                 <label>Buscar:</label>
                                 <span>
                                 <input type="text" name="search" />
                                 <input type="submit" name="search" />
                                 </span> <a href="#">Búsqueda avanzada</a> </div>
-                                  
+
                                 <div class="news_section ipod-search">
 	                                <div class="title">
 	                                          <h4>JORNADA TV</h4>
@@ -173,7 +173,6 @@ layout: default
 
 	      <!-- section frst end -->
 
-	      <div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 	    </div>
 	  </div>
 	</div>
@@ -229,9 +228,9 @@ layout: default
 	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
 	  </div>
 	</div>
-	
+
 	  {{template "encuesta.html" . }}
-	
+
 	<div class="news_section app">
 	  <div class="title">
 	    <h4>LAS APPS</h4>
