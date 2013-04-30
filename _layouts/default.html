@@ -49,24 +49,45 @@
     {{ .content}}
 <!-- Bottom Section -->
     <div class="grid_16 bottomSection">
-        <div class="title">
-            <h4>Secciones</h4>
-          <strong>MAS SECCIONES</strong>
+			<div class="title">
+	  		<h4>Secciones</h4>
+	      <div style="display:inline;"><strong>MAS SECCIONES</strong> 
+        <a href="#" id="mycarousel2-prev">&laquo; Prev</a>
+        <a href="#" id="mycarousel2-next">Next &raquo;</a>
+</div>
+			</div>
+
+
+<style type="text/css">
+
+/**
+ * Overwrite for having a carousel with dynamic width.
+ */
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 100%;
+height:auto;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width: 100%;
+}
+
+</style>
+
+      <div class="carousel">
+        <ul class="mycarousel2 jcarousel jcarousel-skin-tango">
+      		{{ template "cuadrosecciones" index .site.categories "Tecnología"}}
+      		{{ template "cuadrosecciones" index .site.categories "prueba4"}}
+      		{{ template "cuadrosecciones" index .site.categories "Cartones"}}
+      		{{ template "cuadrosecciones" index .site.categories "Politica"}}
+      		{{ template "cuadrosecciones" index .site.categories "Portada"}}
+          </ul>
       </div>
-<div class="carousel">
-     <div class="carouse-bottom flexslider">
-           <ul class="slides">
-        {{ template "cuadrosecciones" index .site.categories "prueba4" }}
-        {{ template "cuadrosecciones" index .site.categories "Opinión" }}
-        {{ template "cuadrosecciones" index .site.categories "Tecnología" }}
-        {{ template "cuadrosecciones" index .site.categories "Politica" }}
-  </ul>
-  </div>
-  </div>
-      {{template "interestlinks.html" . }}
-  </div>
+    	{{template "interestlinks.html" . }}
+	</div>
     <!-- Bottom Section End-->
-<!--Footer-->
+</div>
+<!-- wrapper Section End-->
 
 <section class="footer-wrap">
 

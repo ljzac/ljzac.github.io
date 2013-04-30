@@ -90,16 +90,16 @@ layout: default
 {{define "cuadrosecciones"}}
 {{if .}}
 {{$first := index . 0 }}
-{{ $first.GetCategories }}
-		  	
-		  <li>
-        	<div class="carousel-content">
-        		<h5>{{ $first.GetCategories }}</h5>
-        		<a href="{{ $first.url }}"><img src="{{$first.MainImgThumb}}" alt="pic" />
-        			<p>{{ $first.twitt}}</p>
-        		</a>
-        	</div>
-           </li>
+
+<li>
+  <div class="carousel-content">
+    <h5>{{ $first.GetCategories }}</h5>
+		<a href="{{ $first.url }}">	
+      <img src="{{$first.MainImgSize "b"}}" alt="pic" />
+      <p>{{ $first.twitt}}</p>
+    </a>
+  </div>
+</li>
 {{else}}
         No hay notas de esta sección
 {{end}}
@@ -241,7 +241,3 @@ layout: default
       </div>
     </section>
     <!-- Container Section End-->
-    
-<!-- wrapper Section End-->
-
-<!--  TERMINA CONTENIDO DE LA PAGINA PRINCIPAL  -->
