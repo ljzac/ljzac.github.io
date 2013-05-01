@@ -3,9 +3,9 @@ layout: posts
 title: "Softek sigue creciendo. Adquiere Systech Integrators."
 twitt: "Softek adquiere Systech para afianzarse en el mercado de E.U. El desarrollo de personal"
 author: Pphdez
-categories: ['Tecnología']
+categories: ['Zacatecas', 'Tecnología']
 authorlink: http://novador.blogspot.mx
-published: false
+published: true
 ---
 
 ![Alt text](http://i.imgur.com/bsLMV94m.jpg)A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció la adquisición de la empresa Systech Integrators, con sede en San José, California y opreaciones en Bangalore, India. *"Esta operación la hicimos para mejorar la entrega de servicios a clientes en Estados Unidos"*
