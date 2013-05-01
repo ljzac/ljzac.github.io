@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-{{ $miseccion := index .site.categories "Cartones"}}
+{{ $miseccion := index .site.categories "Mundo"}}
  <section class="container">
-<div class="grid_12 alpha"> 
+<div class="grid_12 alpha">
 <div class="title">
-	    <h4>Cartones</h4>
+	    <h4> A Debate </h4>
 </div>
 
 {{ range $miseccion }}
@@ -15,6 +15,14 @@ layout: default
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
                   <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+	              <div class="grid_7 alpha">
+	                <ul class="comment">
+	                  <li><a href="#">{{ .author }} </a>/</li>
+	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	                  <li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
+	                </ul>
+	                <p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p>
+	              </div>
 	            </article>
 	            <br><br><br>
 	            <hr>
@@ -71,9 +79,9 @@ layout: default
 	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
 	  </div>
 	</div>
-	
+
 	  {{template "encuesta.html" . }}
-	
+
 	<div class="news_section app">
 	  <div class="title">
 	    <h4>LAS APPS</h4>
@@ -82,5 +90,4 @@ layout: default
 	</div>
       </div>
 
-</section>z
-
+</section>

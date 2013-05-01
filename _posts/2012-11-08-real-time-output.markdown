@@ -3,6 +3,8 @@ layout: posts
 title: "Watch your Build Output in Real Time.  It's Fun!"
 author: Tom Burke
 authorlink: https://drone.io/tdburke
+categories: ['Mundo']
+published: true
 ---
 
 Now when you view a build's details you'll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io's service hook.
