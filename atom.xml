@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Drone.io Blog</title>
-	<link href="http://blog.drone.io/atom.xml" rel="self"/>
-	<link href="http://blog.drone.io/"/>
-	<id>http://blog.drone.io/</id>
-	<updated>2013-05-01T00:13:09Z</updated>
-	<author>
-		<name>Thomas Burke</name>
-		<email>burke@drone.io</email>
-	</author>
+	<title>La Jornada Zacatecas</title>
+	<link href="http://ljzac.dev/atom.xml" rel="self"/>
+	<link href="http://ljzac.dev/"/>
+	<id>http://ljzac.dev/</id>
+	<updated>2013-05-01T15:40:55Z</updated>
 	
 	<entry>
 		<title>Sorpresa en el Startup Weekend</title>
-		<link href="http://blog.drone.io/2013/04/29/your-filename.html" />
+		<link href="http://ljzac.dev/2013/04/29/your-filename.html" />
 		<updated>2013-04-29T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/29/your-filename.html</id>
+		<id>http://ljzac.dev/2013/04/29/your-filename.html</id>
 		<content type="html">&lt;h1&gt;Resultados del Startup Weekend Zacatecas 2013&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/sZUOToBm.jpg&#34; alt=&#34;Startup Weekend Zacatecas 2013&#34; /&gt;
@@ -31,9 +27,9 @@ En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tard
 	
 	<entry>
 		<title>Fuera de Foco 1</title>
-		<link href="http://blog.drone.io/2013/04/28/fueradefoco.html" />
+		<link href="http://ljzac.dev/2013/04/28/fueradefoco.html" />
 		<updated>2013-04-28T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/28/fueradefoco.html</id>
+		<id>http://ljzac.dev/2013/04/28/fueradefoco.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/dE80ktPm.jpg&#34; alt=&#34;swzac&#34; /&gt;
 &lt;/p&gt;
 </content>
@@ -41,9 +37,9 @@ En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tard
 	
 	<entry>
 		<title>Carton 1</title>
-		<link href="http://blog.drone.io/2013/04/28/carton1.html" />
+		<link href="http://ljzac.dev/2013/04/28/carton1.html" />
 		<updated>2013-04-28T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/28/carton1.html</id>
+		<id>http://ljzac.dev/2013/04/28/carton1.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/1uUyZ3Fm.jpg&#34; alt=&#34;Hijo das pena&#34; /&gt;
 &lt;/p&gt;
 </content>
@@ -51,9 +47,9 @@ En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tard
 	
 	<entry>
 		<title>Arranca el 2do día de actividades del Startup Weekend Zacatecas</title>
-		<link href="http://blog.drone.io/2013/04/27/dia-2-en-swzac.html" />
+		<link href="http://ljzac.dev/2013/04/27/dia-2-en-swzac.html" />
 		<updated>2013-04-27T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/27/dia-2-en-swzac.html</id>
+		<id>http://ljzac.dev/2013/04/27/dia-2-en-swzac.html</id>
 		<content type="html">&lt;h1&gt;Día 2. Startup Weekend Zacatecas.&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/7T9sMbRm.jpg&#34; alt=&#34;Los mejores desarrolladores de zacatecas&#34; /&gt;
@@ -65,9 +61,9 @@ En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tard
 	
 	<entry>
 		<title>Startup Weekend Zacatecas: Un Éxito</title>
-		<link href="http://blog.drone.io/2013/04/27/aqui-probando.html" />
+		<link href="http://ljzac.dev/2013/04/27/aqui-probando.html" />
 		<updated>2013-04-27T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/27/aqui-probando.html</id>
+		<id>http://ljzac.dev/2013/04/27/aqui-probando.html</id>
 		<content type="html">&lt;h3&gt;Un exito&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/XKAGgnKm.jpg&#34; alt=&#34;Alt text&#34; /&gt;
@@ -78,9 +74,9 @@ Los equipos en SWZAC han trabajado arduamente desde el viernes pasado.&lt;/p&gt;
 	
 	<entry>
 		<title>Los equipos del Startup Weekend están estresados por toda la chamba que hay que hacer.</title>
-		<link href="http://blog.drone.io/2013/04/27/Estresados.html" />
+		<link href="http://ljzac.dev/2013/04/27/Estresados.html" />
 		<updated>2013-04-27T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/27/Estresados.html</id>
+		<id>http://ljzac.dev/2013/04/27/Estresados.html</id>
 		<content type="html">&lt;h1&gt;Startup Día 2. Weekend Zacatecas.&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/sOHwgtam.jpg&#34; alt=&#34;Serenidad...&#34; /&gt;
@@ -91,9 +87,9 @@ Los equipos trabajando a todo lo que dan.&lt;/p&gt;
 	
 	<entry>
 		<title>Título de la nota</title>
-		<link href="http://blog.drone.io/2013/04/23/testIMG.html" />
+		<link href="http://ljzac.dev/2013/04/23/testIMG.html" />
 		<updated>2013-04-23T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/23/testIMG.html</id>
+		<id>http://ljzac.dev/2013/04/23/testIMG.html</id>
 		<content type="html">&lt;h1&gt;How does it work?&lt;/h1&gt;
 
 &lt;pre&gt;&lt;code&gt;        ![Una puerta](http://i.imgur.com/ocb6MMdm.jpg)
@@ -107,9 +103,9 @@ Los equipos trabajando a todo lo que dan.&lt;/p&gt;
 	
 	<entry>
 		<title>Softek sigue creciendo. Adquiere Systech Integrators.</title>
-		<link href="http://blog.drone.io/2013/04/22/softek-adquiere-systech.html" />
+		<link href="http://ljzac.dev/2013/04/22/softek-adquiere-systech.html" />
 		<updated>2013-04-22T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/22/softek-adquiere-systech.html</id>
+		<id>http://ljzac.dev/2013/04/22/softek-adquiere-systech.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/bsLMV94m.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció la adquisición de la empresa Systech Integrators, con sede en San José, California y opreaciones en Bangalore, India. &lt;em&gt;&amp;ldquo;Esta operación la hicimos para mejorar la entrega de servicios a clientes en Estados Unidos&amp;rdquo;&lt;/em&gt;
 , dice Carlos Funes, director general de Softek en México.&lt;/p&gt;
@@ -123,9 +119,9 @@ A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció
 	
 	<entry>
 		<title>Identifican a uno de los seis criminales abatidos</title>
-		<link href="http://blog.drone.io/2013/04/22/identifican-1-de-6.html" />
+		<link href="http://ljzac.dev/2013/04/22/identifican-1-de-6.html" />
 		<updated>2013-04-22T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/22/identifican-1-de-6.html</id>
+		<id>http://ljzac.dev/2013/04/22/identifican-1-de-6.html</id>
 		<content type="html">&lt;h1&gt;La madre reconoce el cadaver&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/CVjrQ1om.jpg&#34; alt=&#34;Alt text&#34; /&gt;
@@ -139,9 +135,9 @@ A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció
 	
 	<entry>
 		<title>Directores de la UNAM exigen la entrega de rector'ia</title>
-		<link href="http://blog.drone.io/2013/04/22/directores-unam-exigen-entrega-rectoria.html" />
+		<link href="http://ljzac.dev/2013/04/22/directores-unam-exigen-entrega-rectoria.html" />
 		<updated>2013-04-22T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/22/directores-unam-exigen-entrega-rectoria.html</id>
+		<id>http://ljzac.dev/2013/04/22/directores-unam-exigen-entrega-rectoria.html</id>
 		<content type="html">&lt;ul&gt;
 &lt;li&gt;Expresan en un pronunciamiento&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;No hay voluntad de di&amp;rsquo;alogo&lt;/li&gt;
@@ -159,9 +155,9 @@ A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció
 	
 	<entry>
 		<title>Rinden protesta candidatos priístas</title>
-		<link href="http://blog.drone.io/2013/04/22/CandidatosPriistas.html" />
+		<link href="http://ljzac.dev/2013/04/22/CandidatosPriistas.html" />
 		<updated>2013-04-22T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/22/CandidatosPriistas.html</id>
+		<id>http://ljzac.dev/2013/04/22/CandidatosPriistas.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/GdHn0Hfm.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 &lt;/p&gt;
 
@@ -171,9 +167,9 @@ A inicios de febrero Softek, firma mexicana desarrolladora de software, anunció
 	
 	<entry>
 		<title>Nota s'olo de prueba 6</title>
-		<link href="http://blog.drone.io/2013/04/16/test9.html" />
+		<link href="http://ljzac.dev/2013/04/16/test9.html" />
 		<updated>2013-04-16T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/16/test9.html</id>
+		<id>http://ljzac.dev/2013/04/16/test9.html</id>
 		<content type="html">&lt;h1&gt;No lo s&amp;rsquo;e&amp;hellip;&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/cAP2Fiol.jpg&#34; alt=&#34;Alt text&#34; /&gt;
@@ -184,9 +180,9 @@ Enter Text in Markdown format.&lt;/p&gt;
 	
 	<entry>
 		<title>Prueba imagen</title>
-		<link href="http://blog.drone.io/2013/04/12/test8.html" />
+		<link href="http://ljzac.dev/2013/04/12/test8.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/test8.html</id>
+		<id>http://ljzac.dev/2013/04/12/test8.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 
 ESTA ES LA NUEVA MODIFICACION!!!!&lt;/p&gt;
@@ -226,9 +222,9 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 	
 	<entry>
 		<title>la cat Prueba 4 debe tener dos posts</title>
-		<link href="http://blog.drone.io/2013/04/12/test4.html" />
+		<link href="http://ljzac.dev/2013/04/12/test4.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/test4.html</id>
+		<id>http://ljzac.dev/2013/04/12/test4.html</id>
 		<content type="html">&lt;h3&gt;Aqui empieza el post&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/BRyk6wxm.jpg&#34; alt=&#34;Alt text&#34; /&gt;
@@ -255,9 +251,9 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 	
 	<entry>
 		<title>Watch your Build Output in Real Time.  It's Fun!</title>
-		<link href="http://blog.drone.io/2013/04/12/test3.html" />
+		<link href="http://ljzac.dev/2013/04/12/test3.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/test3.html</id>
+		<id>http://ljzac.dev/2013/04/12/test3.html</id>
 		<content type="html">&lt;!--  figure-slider --&gt;                  
 
 &lt;div class=&#34;figure-slider&#34;&gt;
@@ -283,9 +279,9 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 	
 	<entry>
 		<title>Watch your Build Output in Real Time.  It's Fun!</title>
-		<link href="http://blog.drone.io/2013/04/12/test2.html" />
+		<link href="http://ljzac.dev/2013/04/12/test2.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/test2.html</id>
+		<id>http://ljzac.dev/2013/04/12/test2.html</id>
 		<content type="html">&lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
 
 &lt;p&gt;Try it out by going to your build&amp;rsquo;s setting&amp;rsquo;s page, click &lt;strong&gt;Build Now&lt;/strong&gt;, then follow the link to &lt;strong&gt;Build Output&lt;/strong&gt;.&lt;/p&gt;
@@ -313,9 +309,9 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 	
 	<entry>
 		<title>Watch your Build Output in Real Time.  It's Fun!</title>
-		<link href="http://blog.drone.io/2013/04/12/test1.html" />
+		<link href="http://ljzac.dev/2013/04/12/test1.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/test1.html</id>
+		<id>http://ljzac.dev/2013/04/12/test1.html</id>
 		<content type="html">&lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
 
 &lt;p&gt;Try it out by going to your build&amp;rsquo;s setting&amp;rsquo;s page, click &lt;strong&gt;Build Now&lt;/strong&gt;, then follow the link to &lt;strong&gt;Build Output&lt;/strong&gt;.&lt;/p&gt;
@@ -333,9 +329,9 @@ and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &
 	
 	<entry>
 		<title>Prueba imagen</title>
-		<link href="http://blog.drone.io/2013/04/12/pphdez.html" />
+		<link href="http://ljzac.dev/2013/04/12/pphdez.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/pphdez.html</id>
+		<id>http://ljzac.dev/2013/04/12/pphdez.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 
 Hola soy Pepe Hernández&amp;hellip;&lt;/p&gt;
@@ -346,9 +342,9 @@ Hola soy Pepe Hernández&amp;hellip;&lt;/p&gt;
 	
 	<entry>
 		<title>Alfonso</title>
-		<link href="http://blog.drone.io/2013/04/12/alfonso.html" />
+		<link href="http://ljzac.dev/2013/04/12/alfonso.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://blog.drone.io/2013/04/12/alfonso.html</id>
+		<id>http://ljzac.dev/2013/04/12/alfonso.html</id>
 		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YUJNvKom.jpg&#34; alt=&#34;Alt text&#34; /&gt;
 
 ESTA ES LA NUEVA MODIFICACION!!!!&lt;/p&gt;
@@ -362,9 +358,9 @@ announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;P
 	
 	<entry>
 		<title>Watch your Build Output in Real Time.  It's Fun!</title>
-		<link href="http://blog.drone.io/2012/11/08/real-time-output.html" />
+		<link href="http://ljzac.dev/2012/11/08/real-time-output.html" />
 		<updated>2012-11-08T00:00:00Z</updated>
-		<id>http://blog.drone.io/2012/11/08/real-time-output.html</id>
+		<id>http://ljzac.dev/2012/11/08/real-time-output.html</id>
 		<content type="html">&lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
 
 &lt;p&gt;Try it out by going to your build&amp;rsquo;s setting&amp;rsquo;s page, click &lt;strong&gt;Build Now&lt;/strong&gt;, then follow the link to &lt;strong&gt;Build Output&lt;/strong&gt;.&lt;/p&gt;
@@ -382,9 +378,9 @@ announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;P
 	
 	<entry>
 		<title>PHP and Scala Support</title>
-		<link href="http://blog.drone.io/2012/10/23/php-and-scala-support.html" />
+		<link href="http://ljzac.dev/2012/10/23/php-and-scala-support.html" />
 		<updated>2012-10-23T00:00:00Z</updated>
-		<id>http://blog.drone.io/2012/10/23/php-and-scala-support.html</id>
+		<id>http://ljzac.dev/2012/10/23/php-and-scala-support.html</id>
 		<content type="html">&lt;p&gt;Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
 Many users requested support for more languages. Today we&amp;rsquo;re excited to
@@ -420,9 +416,9 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 	
 	<entry>
 		<title>Business Plans and Team Support</title>
-		<link href="http://blog.drone.io/2012/10/17/drone.io-support-for-teams.html" />
+		<link href="http://ljzac.dev/2012/10/17/drone.io-support-for-teams.html" />
 		<updated>2012-10-17T00:00:00Z</updated>
-		<id>http://blog.drone.io/2012/10/17/drone.io-support-for-teams.html</id>
+		<id>http://ljzac.dev/2012/10/17/drone.io-support-for-teams.html</id>
 		<content type="html">&lt;p&gt;We&amp;rsquo;d like to announce &lt;strong&gt;Team&lt;/strong&gt; accounts in &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Some benefits of team accounts include:&lt;/p&gt;
@@ -473,9 +469,9 @@ new plans are competitively priced, and &lt;strong&gt;FREE&lt;/strong&gt; for op
 	
 	<entry>
 		<title>Free for Open Source</title>
-		<link href="http://blog.drone.io/2012/10/08/drone.io-for-opensource.html" />
+		<link href="http://ljzac.dev/2012/10/08/drone.io-for-opensource.html" />
 		<updated>2012-10-08T00:00:00Z</updated>
-		<id>http://blog.drone.io/2012/10/08/drone.io-for-opensource.html</id>
+		<id>http://ljzac.dev/2012/10/08/drone.io-for-opensource.html</id>
 		<content type="html">&lt;p&gt;Starting today &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt; has a free plan available for open
 source projects.&lt;/p&gt;
 
@@ -494,9 +490,9 @@ If you start running into the limits please &lt;a href=&#34;http://docs.drone.io
 	
 	<entry>
 		<title>Drone.io is Live</title>
-		<link href="http://blog.drone.io/2012/10/02/drone.io-is-live.html" />
+		<link href="http://ljzac.dev/2012/10/02/drone.io-is-live.html" />
 		<updated>2012-10-02T00:00:00Z</updated>
-		<id>http://blog.drone.io/2012/10/02/drone.io-is-live.html</id>
+		<id>http://ljzac.dev/2012/10/02/drone.io-is-live.html</id>
 		<content type="html">&lt;p&gt;&lt;a href=&#34;https://drone.io&#34;&gt;Drone.io&lt;/a&gt; is now live and ready for business! It is a hosted continuous integration service.&lt;/p&gt;
 
 &lt;p&gt;Try it out here: &lt;a href=&#34;https://drone.io&#34;&gt;https://drone.io&lt;/a&gt;&lt;/p&gt;
