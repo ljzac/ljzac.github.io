@@ -3,18 +3,24 @@ layout: default
 ---
 
 
-{{ $miseccion := index .site.categories "Cartones"}}
  <section class="container">
-<div class="grid_12 alpha"> 
+<div class="grid_12 alpha">
 <div class="title">
-	    <h4>Cartones</h4>
+	    <h4> Noticias al Día </h4>
 </div>
 
-{{ range $miseccion }}
+{{ range .site.MinuteByMinute }}
 			<article class="SubContent">
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
                   <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+                  <div class="grid_7 alpha">
+	                <ul class="comment">
+	                  <li><a href="#">{{ .author }} </a>/</li>
+	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	                </ul>
+	                <p>{{ .GetTwett }} <a href="/{{ .url }}">Leer más...</a> </p>
+	              </div>
 	            </article>
 	            <br><br><br>
 	            <hr>
@@ -25,17 +31,6 @@ layout: default
 	<div class="news_section p-top">
 	  {{template "gsb.html" .}}
 	</div>
-	<div class="title">
-	  <h4>NOTICIAS AL DÍA</h4>
-	</div>
-	<div class="list">
-	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
-	    {{range .site.MinuteByMinute}}
-	    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
-	    {{end}}
-	  </ul>
-	</div>
-	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
 	<div class="news_section desktop-search">
 	  {{template "lajornadatv.html" .}}
 	</div>
@@ -71,9 +66,9 @@ layout: default
 	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
 	  </div>
 	</div>
-	
+
 	  {{template "encuesta.html" . }}
-	
+
 	<div class="news_section app">
 	  <div class="title">
 	    <h4>LAS APPS</h4>
@@ -82,5 +77,4 @@ layout: default
 	</div>
       </div>
 
-</section>z
-
+</section>
