@@ -3,7 +3,7 @@ layout: defaultSimple
 ---
 
 <section class="container">
-<div class="grid_12 alpha"> 
+<div class="grid_12 alpha">
 <div class="title">
 	    <h4>Contacto</h4>
 </div>
@@ -15,10 +15,49 @@ layout: defaultSimple
 	             	 - Secretaría de Comunicaciones y Transportes No. 100, Col. Zona Industrial, Guadalupe Zacatecas. 98604 México.
 
 					Teléfono: (492) 923 74 40
- 					sitio web: http://www.ljz.mx </p>
+ 					sitio web: <a href="http://ljzac.dev">http://ljzac.dev </a></p>
                  </div>
 	            </article>
-</div>
+               <div class = "SubContent">
+                       </div>
+                <form name = "contacto" action="" method="post" onsubmit="return validateForm();">
+                  <p>
+                    <label for="contact_name">
+                      &nbsp;Escriba su nombre y apellidos:
+                      </label>
+                    <br>
+                    <input type="text" name="name" size="30" value="">
+                    <br>
+                    <label name="email">
+                      &nbsp;Dirección de e-mail:
+                      </label>
+                    <br>
+                    <input type="text" id="contact_email" name="email" size="30" maxlength="100">
+                    <br>
+                    <label for="contact_subject">
+                      &nbsp;Tema del mensaje:
+                      </label>
+                    <br>
+                    <input type="text" name="subject" size="30" value="">
+                    <br><br>
+                    <label id="contact_textmsg" for="contact_text">
+                      &nbsp;Escriba su mensaje:
+                      </label>
+                    <br>
+                    <textarea cols="50" rows="10" name="mensaje" ></textarea>
+                    <br>
+                    <br>
+                    <div><div></div><span><span><input type="submit" value="Enviar"></span></span></div>
+                   </p>
+
+                  <input type="hidden" name="option" value="com_contact">
+                  <input type="hidden" name="view" value="contact">
+                  <input type="hidden" name="id" value="1">
+                  <input type="hidden" name="task" value="submit">
+                  <input type="hidden" name="f517ef5822bce61c7a718d20316de6d4" value="1">
+                </form>
+               </div>
+
 
  <div class="grid_4 omega">
 	<div class="news_section p-top">
@@ -38,16 +77,36 @@ layout: defaultSimple
 	<div class="news_section desktop-search">
 	  {{template "lajornadatv.html" .}}
 	</div>
-	
+
 	<!-- Sección del boletín -->
 
 	{{template "boletin.html" .}}
 
 	<!--Fin de sección de boletín-->
-	
+
 	  {{template "encuesta.html" . }}
-	  
+
       </div>
 
 </section>
+<script>
+function validateForm()
+{
+var x=document.forms["contacto"]["email"].value;
+var mje=document.forms["contacto"]["mensaje"].value;
+var atpos=x.indexOf("@");
+var dotpos=x.lastIndexOf(".");
+if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+  {
+  if (mje == null || mje == "")
+  {
+     alert("No has escrito un mensaje aún.");
+     return false;
+  }
+  alert("E-mail no válido");
+  return false;
+  }
 
+}
+
+</script>
