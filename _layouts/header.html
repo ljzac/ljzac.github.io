@@ -133,22 +133,16 @@
     <li class="youtube"><a target="_blank" rel="nofollow" href="http://www.youtube.com/lajornadazacatecas">YOUTUBE</a></li>
   </ul>
       </div>
-<div class = "temperature"><span>Zacatecas, Mexico.</span><span id=temp> Temperatura  </span>
+<div class = "temperature"><span>Zacatecas, Mexico.</span><span id="temp"> o</span></div>
 <script type="text/javascript">
   var uri = "http://api.worldweatheronline.com/free/v1/weather.ashx?q=Zacatecas&format=json&num_of_days=1&date=today&key=e54hg49k6fbnp5rqb4bs4bfs"
-  var temp = 0
-  //uri = encodeURI(uri);
+  var temp = ""
      $.get(uri, function(r,status)
      {
-     current_temp_C = r.data.current_condition[0].temp_C;
      temp = r.data.current_condition[0].temp_C;
+     $('#temp').text(temp + '°C')
      }, "jsonp")
-
-  $('#temp').text("hola " + temp)
-
-  //jQuery.get(uri,function(r){},"jsonp");
 </script>
 
-  </span> </div>
     </section>
     <!-- Bar Section -->
