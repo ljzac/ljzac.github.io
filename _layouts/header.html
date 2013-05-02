@@ -1,7 +1,12 @@
     <!-- header Section -->
           <section class="header-wrap">
           <header class="header">
-                <div class="addSection"> <a href="#"><img src="/Assets/images/add.png" alt="add" /></a> <a href="#"><img src="/Assets/images/add_2.png" alt="add" /></a> </div>
+                {{ $miseccion := index .site.categories "Publicidad2"}}
+                {{ $miseccion2 := index .site.categories "Publicidad3"}}
+                <div class = "addSection">
+                <div style="height:90px; width:730"> <img src="{{ $miseccion.MainImgSize "" }}" alt="add" />  </div>
+                <div style="height:90px; width:225"> <img src="{{ $miseccion2.MainImgSize "" }}" alt="add" /> </div>
+                </div>
                 <a href="index.php" class="logo" title="Welcome to the LaJornada Zacatecas"><img src="/Assets/images/logo.png" alt="Welcome to the LaJornada Zacatecas" /></a> </header>
                 </section>
                     <!-- header Section -->
