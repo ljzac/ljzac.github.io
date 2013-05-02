@@ -123,6 +123,16 @@ layout: default
         No hay notas de esta sección
 {{end}}
 {{end}}
+
+
+{{define "publicidad"}}
+{{if .}}
+{{$first := index . 0 }}
+			 <div class="figure"> <a href="#"><img src="{{ $first.MainImg}}" alt="add" /></a> </div>
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
 <!-- TERMINA PARTE DEFINICIONES -->
 
 
@@ -160,7 +170,7 @@ layout: default
 	    <!-- section frst end -->
 	  </div>
 	  <div class="grid_8 omega">
-	    <div class="figure"> <a href="#"><img src="/Assets/images/add-3.jpg" alt="add" /></a> </div>
+	    {{ template "publicidad" index .site.categories "Publicidad"}}
 	    <div class="news_tpoic">
 	      <div class="title">
 	        <h4>COLUMNAS</h4>
