@@ -4,7 +4,17 @@
 	<link href="http://ljzac.dev/atom.xml" rel="self"/>
 	<link href="http://ljzac.dev/"/>
 	<id>http://ljzac.dev/</id>
-	<updated>2013-05-02T20:32:56Z</updated>
+	<updated>2013-05-02T20:33:53Z</updated>
+	
+	<entry>
+		<title>Título de la nota</title>
+		<link href="http://ljzac.dev/2013/05/02/publicidad2.html" />
+		<updated>2013-05-02T00:00:00Z</updated>
+		<id>http://ljzac.dev/2013/05/02/publicidad2.html</id>
+		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/NeQ6wL2m.png&#34; alt=&#34;Pie&#34; /&gt;
+&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Sorpresa en el Startup Weekend</title>
