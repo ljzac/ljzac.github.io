@@ -5,7 +5,7 @@ layout: default
 
 {{ $miseccion := index .site.categories "Cartones"}}
  <section class="container">
-<div class="grid_12 alpha"> 
+<div class="grid_12 alpha">
 <div class="title">
 	    <h4>Cartones</h4>
 </div>
@@ -14,7 +14,8 @@ layout: default
 			<article class="SubContent">
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
-                  <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+                     <div style="max-height:260px; width:auto;"><a href= "{{ .MainImg }}" class="fancybox" title="{{ .title }}"> <img src="{{ .MainImg }}" alt="pic" /> </a></div></div>
+
 	            </article>
 	            <br><br><br>
 	            <hr>
@@ -71,9 +72,9 @@ layout: default
 	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
 	  </div>
 	</div>
-	
+
 	  {{template "encuesta.html" . }}
-	
+
 	<div class="news_section app">
 	  <div class="title">
 	    <h4>LAS APPS</h4>
@@ -82,5 +83,7 @@ layout: default
 	</div>
       </div>
 
-</section>z
-
+</section>
+<script>
+  $("a.fancybox").fancybox();
+</script>
