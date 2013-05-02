@@ -371,60 +371,31 @@ $(document).ready(function(){
 
   </article>
   </div>
-  <!-- comment-post Section -->
-  <section class="comment-post">
-    <hr>
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'ljzbot2'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-   </section>     
-
-<!-- comment-post Section End-->
-
-                       
-
-                          
-
                           <!-- Left Section End--> 
 
                   </div>
 
                   <!-- Right Section --> 
 
-                <div class="grid_4 omega inner">
-
-                          
-
-                          <div class="title">
-
-                            <h4>COLABORADORES </h4>
-                          </div>
-                          <div class="partner">
-                            <ul class="mycarousel jcarousel jcarousel-skin-tango">
-			      {{range $a,$al :=.site.authors}}
-                              <li>
-				<figure>
-                                  <img src="/Assets/images/Ernesto.jpg" width="97" height="103" alt="avtar">
-                                </figure>
-				<div class="intro">
-				  <h6><a href="#">{{$a}}</a></h6>
-				  <p>Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae nonecu. </p>
-				</div>
-                              </li>
-			      {{end}}
-                            </ul>
-                          </div>
+                  <div class="grid_4 omega inner">
+                    <div class="title">
+                      <h4>NOTICIAS COLABORADOR</h4>
+                    </div>
+                    <div class="partner">
+                      <ul class="mycarousel jcarousel jcarousel-skin-tango">
+			{{range index .site.postByAuthor .page.author}}
+                        <li>
+			  <figure>
+                            <img src="{{.MainImgThumb}}" width="97" height="103" alt="avtar">
+                          </figure>
+			  <div class="intro">
+			    <h6><a href="{{.GetUrl}}">{{.GetTitle}}</a></h6>
+			    <p>{{.twitt}} </p>
+			  </div>
+                        </li>
+			{{end}}
+                      </ul>
+                    </div>
                           <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
                            {{template "lajornadatv.html" .}}
 			                     {{template "gsb.html" .}}
