@@ -1,15 +1,12 @@
 ---
 layout: posts
-title: "Identifican a uno de los seis criminales abatidos"
-twitt: "Identifican a uno de los seis criminales abatidos en fresnillo"
+title: "Revistas sociales del estado"
+twitt: "Revistas sociales del estado"
 author: Viejo
-categories: ['prueba4']
+categories: ['Publicidad']
 authorlink: https://jagacademy.github.com
-published: false
+published: true
 ---
 
-# La madre reconoce el cadaver
 
-![Alt text](http://i.imgur.com/CVjrQ1om.jpg) Durante la tarde de este sabado, fue identificado uno de lo seis sujetos armados en la maniana de ese mismo dia.
-
-> Writing is thinking on paper. (no-more)
+![Alt text](http://i.imgur.com/CVjrQ1om.jpg)
