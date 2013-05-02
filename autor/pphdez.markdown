@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: autor
 title: "Prueba imagen"
 twitt: "#Honduras teleSURtv: Jean Todt elegido nuevo presidente de la FIA http://tinyurl.com/ykrwlxj http://ow.ly/15WRgr"
 author: Viejo
