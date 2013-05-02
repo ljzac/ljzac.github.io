@@ -19,6 +19,9 @@
     <!-- FlexSlider -->
     <script defer src="/Assets/js/jquery.flexslider.js"></script>
     <script src="/Assets/js/custom.js"></script>
+    <script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.css" />
 
 
     <!--[if IE]>
@@ -258,7 +261,7 @@
 
 
  <section class="container">
-<div class="grid_12 alpha"> 
+<div class="grid_12 alpha">
 <div class="title">
 	    <h4>Cartones</h4>
 </div>
@@ -267,7 +270,8 @@
 			<article class="SubContent">
 	            <h3>Carton 1</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
-                  <div style="max-height:260px; width:auto;"><img src="http://i.imgur.com/1uUyZ3Fm.jpg" alt="pic" /> </div></div>
+                     <div style="max-height:260px; width:auto;"><a href= "http://i.imgur.com/1uUyZ3Fm.jpg" class="fancybox" title="Carton 1"> <img src="http://i.imgur.com/1uUyZ3Fm.jpg" alt="pic" /> </a></div></div>
+
 	            </article>
 	            <br><br><br>
 	            <hr>
@@ -429,7 +433,7 @@
 	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
 	  </div>
 	</div>
-	
+
 	  <div class="news_section">
 
                                 <div class="title">
@@ -443,7 +447,7 @@
                                  </div>
 
                         </div>
-	
+
 	<div class="news_section app">
 	  <div class="title">
 	    <h4>LAS APPS</h4>
@@ -452,14 +456,16 @@
 	</div>
       </div>
 
-</section>z
-
+</section>
+<script>
+  $("a.fancybox").fancybox();
+</script>
 
 <!-- Bottom Section -->
     <div class="grid_16 bottomSection">
 			<div class="title">
 	  		<h4>Secciones</h4>
-	      <div style="display:inline;"><strong>MAS SECCIONES</strong> 
+	      <div style="display:inline;"><strong>MAS SECCIONES</strong>
         <a href="#" id="mycarousel2-prev">&laquo; Prev</a>
         <a href="#" id="mycarousel2-next">Next &raquo;</a>
 </div>
