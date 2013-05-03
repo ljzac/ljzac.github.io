@@ -75,23 +75,7 @@
    <div class="news_section desktop-search">
        {{template "lajornadatv.html" .}}
        </div>
-   <div class="news_section">
-       <div class="title">
-             <h4>FUERA DE FOCO</h4>
-               </div>
-         <div class="news"> <h3><a href="#">Galería de fotografías interactivas de actualidad</a></h3>
-               <div class="slider flexslider">
-                       <ul class="slides">
-                                 <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-                                         <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-                                                 <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-                                                       </ul>
-                           </div>
-
-                   <p>Catedral de Zacatecas, declarada Patrimonio Cultural de la Humanidad por la UNESCO...</p>
-
-                     </div>
-         </div>
+{{template "block_fueradefoco.html" . }}
    <!-- Sección del boletín -->
 
    {{template "boletin.html" .}}

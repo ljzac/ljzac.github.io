@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-{{ $miseccion := index .site.categories "Cartones"}}
+{{ $miseccion := index .site.categories "Fuera de Foco"}}
 <div class="title">
-	    <h4>Cartones</h4>
+	    <h4>Fuera de Foco</h4>
 </div>
 
 {{ range $miseccion }}
@@ -13,7 +13,9 @@ layout: default
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
                      <div style="max-height:260px; width:auto;">
-                       <a href= "{{ .MainImgSize "h" }}"         rel="gallery1" class="fancybox" title="{{ .title }} - {{ .twitt }}"> <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> </a>
+                       <a href= "{{ .MainImgSize "h" }}" }); rel="gallery1" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                         <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> 
+                       </a>
                </div></div>
 
 	            </article>
@@ -23,7 +25,6 @@ layout: default
 </div>
 
 <script>
- 
 $("a.fancybox").fancybox({
   openEffect: 'none',
   closeEffect: 'none',

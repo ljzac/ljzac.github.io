@@ -1,0 +1,15 @@
+{{ $miseccion := index .site.categories "Fuera de Foco"}}
+<div class="news_section">
+  <div class="title">
+    <h4>FUERA DE FOCO</h4>
+  </div>
+  <div class="news"> <h3><a href="#">Galería de fotografías interactivas de actualidad</a></h3>
+    <div class="slider flexslider">
+      <ul class="slides">
+        {{ range $miseccion }}
+        <li><a href="javascript:void(0)"><img src="{{.MainImgSize "m"}}" alt="{{.title}}"></a></li>
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</div>
