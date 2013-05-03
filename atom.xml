@@ -4,7 +4,7 @@
 	<link href="http://ljzac.dev/atom.xml" rel="self"/>
 	<link href="http://ljzac.dev/"/>
 	<id>http://ljzac.dev/</id>
-	<updated>2013-05-03T16:23:11Z</updated>
+	<updated>2013-05-03T16:24:53Z</updated>
 	
 	<entry>
 		<title>Título de la nota</title>
@@ -44,6 +44,20 @@ En 3er lugar, la iniciativa suben, que por SMS podrá obtener cuanto tiempo tard
 &lt;p&gt;Los demás equipos tuvieron una buena participación.&lt;/p&gt;
 
 &lt;h3&gt;Modificando esta nota&lt;/h3&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>XKCD 2</title>
+		<link href="http://ljzac.dev/2013/04/28/xkcd3.html" />
+		<updated>2013-04-28T00:00:00Z</updated>
+		<id>http://ljzac.dev/2013/04/28/xkcd3.html</id>
+		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/HMCQZNMm.png&#34; alt=&#34;Technical Support&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h1&gt;How does it work?&lt;/h1&gt;
+
+&lt;p&gt;Enter Text in Markdown format.&lt;/p&gt;
 </content>
 	</entry>
 	
