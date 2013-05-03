@@ -1,7 +1,19 @@
-    <!-- header Section -->
+{{define "publicidad2"}}
+{{if .}}
+{{$first := index . 0 }}
+                 <a href="#"><img src="{{ $first.MainImgSize "" }}" alt="add" /></a>
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
+
+   <!-- header Section -->
           <section class="header-wrap">
           <header class="header">
-               <div class="addSection"> <a href="#"><img src="/Assets/images/add.png" alt="add" /></a> <a href="#"><img src="/Assets/images/add_2.png" alt="add" /></a> </div>
+               <div class="addSection">
+                 {{ template "publicidad2" index .site.categories "Publicidad2" }}
+                 {{ template "publicidad2" index .site.categories "Publicidad3" }}
+               </div>
                 <a href="index.php" class="logo" title="Welcome to the LaJornada Zacatecas"><img src="/Assets/images/logo.png" alt="Welcome to the LaJornada Zacatecas" /></a> </header>
                 </section>
                     <!-- header Section -->
