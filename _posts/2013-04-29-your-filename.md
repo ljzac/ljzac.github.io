@@ -4,7 +4,7 @@ title: Sorpresa en el Startup Weekend
 twitt: Ecocleta se lleva el primer lugar en #SWZac
 author: Pepe Hernández
 categories: ['Portada']
-authorlink: http://twtter.com/tu_cuenta 
+authorlink: /autor/pphdez.html 
 published: True
 ---
 
