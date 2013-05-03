@@ -8,9 +8,9 @@
       <ul class="slides">
         {{ range $miseccion }}
         <li>
-          <h3><a href="{{.url}}">{{.title}}</a></h3>
-          <a href="javascript:void(0)"><img src="{{.MainImgSize "m"}}" alt="{{.title}}"></a>
-          <p><a href="{{.url}}">{{.twitt}}</a></p>
+          <h3 style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.title}}</a></h3>
+          <a href="javascript:void(0)"><img src="{{.MainImgSize "t"}}" alt="{{.title}}"></a>
+          <p style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.twitt}}</a></p>
         </li>
         {{end}}
       </ul>
