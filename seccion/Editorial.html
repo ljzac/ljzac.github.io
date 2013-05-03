@@ -4,8 +4,6 @@ layout: default
 
 
 {{ $miseccion := index .site.categories "Editorial"}}
- <section class="container">
-<div class="grid_12 alpha"> 
 <div class="title">
 	    <h4> Editorial</h4>
 </div>
@@ -28,67 +26,4 @@ layout: default
 	            <hr>
 {{end}}
 </div>
-
- <div class="grid_4 omega">
-	<div class="news_section p-top">
-	  {{template "gsb.html" .}}
-	</div>
-	<div class="title">
-	  <h4>NOTICIAS AL DÍA</h4>
-	</div>
-	<div class="list">
-	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
-	    {{range .site.MinuteByMinute}}
-	    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
-	    {{end}}
-	  </ul>
-	</div>
-	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-	<div class="news_section desktop-search">
-	  {{template "lajornadatv.html" .}}
-	</div>
-	<div class="news_section">
-	  <div class="title">
-	    <h4>FUERA DE FOCO</h4>
-	  </div>
-	  <div class="news"> <h3><a href="#">Galería de fotografías interactivas de actualidad</a></h3>
-	    <div class="slider flexslider">
-	      <ul class="slides">
-	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-	        <li><a href="javascript:void(0)"><img src="/Assets/images/temple.jpg" alt="Temple"></a></li>
-	      </ul>
-	    </div>
-
-	    <p>Catedral de Zacatecas, declarada Patrimonio Cultural de la Humanidad por la UNESCO...</p>
-
-	  </div>
-	</div>
-	<!-- Sección del boletín -->
-
-	{{template "boletin.html" .}}
-
-	<!--Fin de sección de boletín-->
-
-	<div class="news_section">
-	  <div class="title">
-	    <h4>ESPECIALES LA JORNADA</h4>
-	  </div>
-	  <div class="news"> <h3><a href="#">Guía XXI Historia y Geografía de Zacatecas</a></h3>
-	    <figure> <img src="/Assets/images/book.png" alt="video"> </figure>
-	    <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
-	  </div>
-	</div>
-	
-	  {{template "encuesta.html" . }}
-	
-	<div class="news_section app">
-	  <div class="title">
-	    <h4>LAS APPS</h4>
-	  </div>
-	  <a href="#"><img src="/Assets/images/app.png" alt="app"></a>
-	</div>
-      </div>
-
-</section>
 

@@ -4,8 +4,6 @@ layout: default
 
 
 {{ $miseccion := index .site.categories "Publicidad"}}
- <section class="container">
-<div class="grid_12 alpha"> 
 <div class="title">
 	    <h4>Publicidad</h4>
 </div>
@@ -29,31 +27,3 @@ layout: default
 	  <h4>NOTICIAS AL DÍA</h4>
 	</div>
 	<div class="list">
-	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
-	    {{range .site.MinuteByMinute}}
-	    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
-	    {{end}}
-	  </ul>
-	</div>
-	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-	<div class="news_section desktop-search">
-	  {{template "lajornadatv.html" .}}
-	</div>
-	<!-- Sección del boletín -->
-
-	{{template "boletin.html" .}}
-
-	<!--Fin de sección de boletín-->
-	
-	  {{template "encuesta.html" . }}
-	
-	<div class="news_section app">
-	  <div class="title">
-	    <h4>LAS APPS</h4>
-	  </div>
-	  <a href="#"><img src="/Assets/images/app.png" alt="app"></a>
-	</div>
-      </div>
-
-</section>z
-
