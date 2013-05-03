@@ -3,11 +3,15 @@
   <div class="title">
     <h4>FUERA DE FOCO</h4>
   </div>
-  <div class="news"> <h3><a href="#">Galería de fotografías interactivas de actualidad</a></h3>
+  <div class="news"> 
     <div class="slider flexslider">
       <ul class="slides">
         {{ range $miseccion }}
-        <li><a href="javascript:void(0)"><img src="{{.MainImgSize "m"}}" alt="{{.title}}"></a></li>
+        <li>
+          <h3><a href="{{.url}}">{{.title}}</a></h3>
+          <a href="javascript:void(0)"><img src="{{.MainImgSize "m"}}" alt="{{.title}}"></a>
+          <p><a href="{{.url}}">{{.twitt}}</a></p>
+        </li>
         {{end}}
       </ul>
     </div>
