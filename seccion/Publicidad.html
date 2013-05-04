@@ -12,18 +12,26 @@ layout: default
 			<article class="SubContent">
 	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
-                  <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
-	            </article>
-	            <br><br><br>
-	            <hr>
+                     <div style="max-height:260px; width:auto;">
+                       <a href= "{{ .MainImgSize "h" }}" rel="gallery1" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                         <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> 
+                       </a>
+                     </div>
+               </div>
+	    </article>
+	    <br><br><br>
+	    <hr>
 {{end}}
 </div>
 
- <div class="grid_4 omega">
-	<div class="news_section p-top">
-	  {{template "gsb.html" .}}
-	</div>
-	<div class="title">
-	  <h4>NOTICIAS AL DÍA</h4>
-	</div>
-	<div class="list">
+<script>
+$("a.fancybox").fancybox({
+  openEffect: 'none',
+  closeEffect: 'none',
+  helpers : {
+    title : {
+      type : 'inside'
+    }
+  }
+});
+</script>

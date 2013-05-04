@@ -1,0 +1,29 @@
+{{if .}}
+{{$first := index . 0 }}
+<div class="title">
+	    <h4>{{ $first.GetCategories }}</h4>
+</div>
+{{ range . }}
+<article class="SubContent">
+	<h3>{{ .title }}</h3>
+	<div class="grid_9 omega" style="max-height: 320px;">
+    <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+	<div class="grid_7 alpha">
+	  <ul class="comment">
+	    <li><a href="#">{{ .author }} </a>/</li>
+	    <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	    <li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
+	  </ul>
+	  <p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p>
+	</div>
+</article>
+<br/><br/><br/>
+<hr/>
+{{end}}
+</div>
+
+{{else}}
+<div class="title">
+	<h4>No hay notas de esta sección</h4>
+</div>
+{{end}}
