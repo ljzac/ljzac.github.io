@@ -16,7 +16,11 @@ layout: defaultSimple
 					Teléfono: (492) 923 74 40
  					sitio web: <a href="http://ljzac.dev">http://ljzac.dev </a></p>
 	            </article>
-                <form name = "contacto" action="" method="post" onsubmit="return validateForm();">
+                <form name = "contacto" action="formmail.php" method="post" onsubmit="return validateForm();">
+                   <input type="hidden" name="recipient" value="sackaraja@gmail.com">
+                  <input type="hidden" name="required" value="email,message">
+                  <input type="hidden" name="env_report" value="REMOTE_ADDR,HTTP_USER_AGENT">
+                  <input type="hidden" name="redirect" value="http://ljzac.dev/contacto.html" >
                   <p>
                     <label for="contact_name">
                       &nbsp;Escriba su nombre y apellidos:
@@ -40,7 +44,7 @@ layout: defaultSimple
                       &nbsp;Escriba su mensaje:
                       </label>
                     <br>
-                    <textarea cols="50" rows="10" name="mensaje" ></textarea>
+                    <textarea cols="50" rows="10" name="message" ></textarea>
                     <br>
                     <br>
                     <div><div></div><span><span><input type="submit" value="Enviar"></span></span></div>
@@ -92,16 +96,18 @@ var x=document.forms["contacto"]["email"].value;
 var mje=document.forms["contacto"]["mensaje"].value;
 var atpos=x.indexOf("@");
 var dotpos=x.lastIndexOf(".");
-if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+ if (mje == "" || x == "")
   {
-  if (mje == null || mje == "")
-  {
-     alert("No has escrito un mensaje aún.");
+     alert("Debes anotar email y mensaje.");
      return false;
   }
-  alert("E-mail no válido");
+else if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+  {
+  alert("email no válido");
   return false;
   }
+  else
+    return true;
 
 }
 
