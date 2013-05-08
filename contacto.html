@@ -40,7 +40,7 @@ layout: defaultSimple
                       &nbsp;Escriba su mensaje:
                       </label>
                     <br>
-                    <textarea cols="50" rows="10" name="mensaje" ></textarea>
+                    <textarea cols="50" rows="10" name="message" ></textarea>
                     <br>
                     <br>
                     <div><div></div><span><span><input type="submit" value="Enviar"></span></span></div>
@@ -89,17 +89,17 @@ layout: defaultSimple
 function validateForm()
 {
 var x=document.forms["contacto"]["email"].value;
-var mje=document.forms["contacto"]["mensaje"].value;
+var mje=document.forms["contacto"]["message"].value;
 var atpos=x.indexOf("@");
 var dotpos=x.lastIndexOf(".");
-if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+ if (mje == "" || x == "")
   {
-  if (mje == null || mje == "")
-  {
-     alert("No has escrito un mensaje aún.");
+     alert("Debes anotar email y mensaje.");
      return false;
   }
-  alert("E-mail no válido");
+ if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+  {
+  alert("email no válido");
   return false;
   }
 
