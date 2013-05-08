@@ -3,7 +3,7 @@ layout: posts
 title: Título de la nota 
 twitt: Resumen de menos de 140 caracteres 
 author: Pepe Hernández 
-categories: Portada 
+categories: ['Portada']
 authorlink: /autor/pphdez.html 
 published: false
 ---
