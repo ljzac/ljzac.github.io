@@ -284,11 +284,7 @@
 					Teléfono: (492) 923 74 40
  					sitio web: <a href="http://ljzac.dev">http://ljzac.dev </a></p>
 	            </article>
-                <form name = "contacto" action="formmail.php" method="post" onsubmit="return validateForm();">
-                   <input type="hidden" name="recipient" value="sackaraja@gmail.com">
-                  <input type="hidden" name="required" value="email,message">
-                  <input type="hidden" name="env_report" value="REMOTE_ADDR,HTTP_USER_AGENT">
-                  <input type="hidden" name="redirect" value="http://ljzac.dev/contacto.html" >
+                <form name = "contacto" action="" method="post" onsubmit="return validateForm();">
                   <p>
                     <label for="contact_name">
                       &nbsp;Escriba su nombre y apellidos:
@@ -478,7 +474,7 @@
 function validateForm()
 {
 var x=document.forms["contacto"]["email"].value;
-var mje=document.forms["contacto"]["mensaje"].value;
+var mje=document.forms["contacto"]["message"].value;
 var atpos=x.indexOf("@");
 var dotpos=x.lastIndexOf(".");
  if (mje == "" || x == "")
@@ -486,13 +482,11 @@ var dotpos=x.lastIndexOf(".");
      alert("Debes anotar email y mensaje.");
      return false;
   }
-else if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
+ if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
   {
   alert("email no válido");
   return false;
   }
-  else
-    return true;
 
 }
 
