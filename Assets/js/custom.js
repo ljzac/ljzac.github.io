@@ -19,8 +19,7 @@ $(document).ready(function(){
         animationLoop: true,
         slideshow: false,
         itemWidth:229,
-        itemMargin:18,
-        asNavFor: '.slider'
+        itemMargin:18
       });
  
       $('.slider').flexslider({

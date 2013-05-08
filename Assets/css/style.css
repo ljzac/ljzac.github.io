@@ -708,6 +708,10 @@ Bottom Section Css
 	padding-bottom: 10px;
 	border-radius:10px;
 }
+.carousel-content {
+    height:290px;
+}
+
 .carousel-content span {
 	font-size:1.6em;
 	color:#881B1E;
