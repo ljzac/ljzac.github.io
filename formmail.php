@@ -54,7 +54,7 @@
 
 	# Authorized email address masks that can be used as the recipient
 	#
-	$auth = "*@127.0.0.1, *@localhost";
+	$auth = "*@127.0.0.1, *@localhost, *@gmail.com, *@*";
 
 	# Authorize all email addresses to the current domain
 	#
@@ -65,7 +65,7 @@
 
 	# Email address masks that will be rejected if in the email field
 	#
-	$deny = "nobody@*, anonymous@*, postmaster@*";
+	#$deny = "nobody@*, anonymous@*, postmaster@*";
 
 	# The following allow you to set some default settings
 	#
