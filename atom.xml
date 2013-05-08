@@ -4,10 +4,10 @@
 	<link href="http://ljzac.dev/atom.xml" rel="self"/>
 	<link href="http://ljzac.dev/"/>
 	<id>http://ljzac.dev/</id>
-	<updated>2013-05-08T20:25:15Z</updated>
+	<updated>2013-05-08T20:26:28Z</updated>
 	
 	<entry>
-		<title>Título de la nota</title>
+		<title>Alf Pacino Vuelve</title>
 		<link href="http://ljzac.dev/2013/05/08/prueba-de-portada.html" />
 		<updated>2013-05-08T00:00:00Z</updated>
 		<id>http://ljzac.dev/2013/05/08/prueba-de-portada.html</id>
@@ -16,29 +16,7 @@
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/sOBspkum.jpg&#34; alt=&#34;AlfPacino will make you an offer you can&#39;t refuse&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Sólo para verificar el funcionamiento en iPad.&lt;/p&gt;
-
-&lt;p&gt;Saludos!!&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Título de la nota</title>
-		<link href="http://ljzac.dev/2013/05/02/publicidad3.html" />
-		<updated>2013-05-02T00:00:00Z</updated>
-		<id>http://ljzac.dev/2013/05/02/publicidad3.html</id>
-		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/BT7BOK4m.png&#34; alt=&#34;Pie&#34; /&gt;
-&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Título de la nota</title>
-		<link href="http://ljzac.dev/2013/05/02/publicidad2.html" />
-		<updated>2013-05-02T00:00:00Z</updated>
-		<id>http://ljzac.dev/2013/05/02/publicidad2.html</id>
-		<content type="html">&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/NeQ6wL2m.png&#34; alt=&#34;Pie&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;Viene verificando el funcionamiento en iPad. LLega después de varios años de estar desaparecido, sin embargo ahora lleva traje y viene con una nueva&amp;hellip;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -289,35 +267,6 @@ to keep up to date with our latest announcements.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>la cat Prueba 4 debe tener dos posts</title>
-		<link href="http://ljzac.dev/2013/04/12/test4.html" />
-		<updated>2013-04-12T00:00:00Z</updated>
-		<id>http://ljzac.dev/2013/04/12/test4.html</id>
-		<content type="html">&lt;h3&gt;Aqui empieza el post&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/BRyk6wxm.jpg&#34; alt=&#34;Alt text&#34; /&gt;
- Just three weeks ago we launched &lt;a href=&#34;https://drone.io&#34;&gt;drone.io&lt;/a&gt;, a hosted
-continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
-Many users requested support for more languages. Today we&amp;rsquo;re excited to
-announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;When creating a new Project you will see options for PHP and Scala languages:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/screenshot_new-scala-php.png&#34; alt=&#34;Select Project Owner&#34; /&gt;
-&lt;/p&gt;
-
-&lt;h3&gt;Scala Builds&lt;/h3&gt;
-
-&lt;p&gt;Scala versions 2.8.2 and 2.9.2 are both supported. For dependency management
-and unit testing we&amp;rsquo;ve included &lt;strong&gt;SBT&lt;/strong&gt; and &lt;strong&gt;Maven&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can read more about our Scala builds &lt;a href=&#34;http://docs.drone.io/scala.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Aqui termina el POST&lt;/h3&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Watch your Build Output in Real Time.  It's Fun!</title>
 		<link href="http://ljzac.dev/2013/04/12/test3.html" />
 		<updated>2013-04-12T00:00:00Z</updated>
@@ -421,26 +370,6 @@ ESTA ES LA NUEVA MODIFICACION!!!!&lt;/p&gt;
 continous integration solution. We appreciate all the feedback we&amp;rsquo;ve received.
 Many users requested support for more languages. Today we&amp;rsquo;re excited to
 announce Beta support for &lt;strong&gt;Scala&lt;/strong&gt; and &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Watch your Build Output in Real Time.  It's Fun!</title>
-		<link href="http://ljzac.dev/2012/11/08/real-time-output.html" />
-		<updated>2012-11-08T00:00:00Z</updated>
-		<id>http://ljzac.dev/2012/11/08/real-time-output.html</id>
-		<content type="html">&lt;p&gt;Now when you view a build&amp;rsquo;s details you&amp;rsquo;ll see the output updated in real time.  This works for any build you kickoff manually or for builds requested automatically by your repo using Drone.io&amp;rsquo;s service hook.&lt;/p&gt;
-
-&lt;p&gt;Try it out by going to your build&amp;rsquo;s setting&amp;rsquo;s page, click &lt;strong&gt;Build Now&lt;/strong&gt;, then follow the link to &lt;strong&gt;Build Output&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/screenshot_stdout-color.png&#34; alt=&#34;Real time Output&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Real time output should work with any browser that supports websockets.  Basic support for xterm control characters and colors was also added.&lt;/p&gt;
-
-&lt;p&gt;What other real time features would you like added?  We think console output is a great start, but want to add much more.&lt;/p&gt;
-
-&lt;p&gt;Let use know on &lt;a href=&#34;http://twitter.com/droneio&#34;&gt;twitter&lt;/a&gt; or vote for a feature on our &lt;a href=&#34;https://drone.uservoice.com&#34;&gt;feedback forum&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
