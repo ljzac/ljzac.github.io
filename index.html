@@ -52,7 +52,7 @@ layout: default
                   {{ range . }}
 	          <li>
 	            <article class="SubContent">
-	            <h1>{{ .title }}</h1>
+                <a href="{{ .url }}"> <h1>{{ .title }}</h1></a>
 	              <div class="grid_7 alpha">
 	                <ul class="comment">
 	                  <li><a href="#">{{ .author }} </a>/</li>
@@ -62,7 +62,11 @@ layout: default
 	                <p>{{ .GetIntrotext }} <a href="{{ .url }}">Leer más...</a> </p>
 	              </div>
 	              <div class="grid_9 omega" style="max-height: 320px;">
-                  <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+                  <div style="max-height:260px; width:auto;">                
+                    <a href="{{ .url }}">
+                      <img src="{{ .MainImg }}" alt="pic" />
+                    </a>
+                     </div></div>
 	            </article>
 	          </li>
 	          {{ end }}
