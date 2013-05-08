@@ -300,7 +300,11 @@
 					Teléfono: (492) 923 74 40
  					sitio web: <a href="http://ljzac.dev">http://ljzac.dev </a></p>
 	            </article>
-                <form name = "contacto" action="" method="post" onsubmit="return validateForm();">
+                <form name = "contacto" action="formmail.php" method="post" onsubmit="return validateForm();">
+                    <input type="hidden" name="recipient" value="ljzbot@gmail.com">
+                  <input type="hidden" name="required" value="email,message">
+                  <input type="hidden" name="env_report" value="REMOTE_ADDR,HTTP_USER_AGENT">
+                  <input type="hidden" name="redirect" value="http://ljzac.github.io">
                   <p>
                     <label for="contact_name">
                       &nbsp;Escriba su nombre y apellidos:
