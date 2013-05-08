@@ -3,7 +3,7 @@ layout: posts
 title: Los equipos del Startup Weekend están estresados por toda la chamba que hay que hacer.
 twitt: #SWZac. Etresados!!!
 author: Pepe Hernández
-categories: ['Portada']
+categories: ['Prueba']
 authorlink: http://twtter.com/tu_cuenta 
 published: True
 ---

@@ -3,7 +3,7 @@ layout: posts
 title: "Softek sigue creciendo. Adquiere Systech Integrators."
 twitt: "Softek adquiere Systech para afianzarse en el mercado de E.U. El desarrollo de personal"
 author: Pphdez
-categories: ['Zacatecas', 'Tecnología']
+categories: ['Tecnología']
 authorlink: http://novador.blogspot.mx
 published: true
 ---
