@@ -16,8 +16,9 @@ layout: default
 
 {{ range . }}
         <li>
+          <a href="{{ .url }}" >
         <h3>{{ .title }}</h3>
-        <a href="#" > {{ .author }} {{ .twitt}}
+         {{ .author }} {{ .twitt}}
         </a>
 </li>
 {{ end }}
