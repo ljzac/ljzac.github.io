@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+h4{ display:inline !important; zoom:1;}
+.nav li a{padding:13px 10px 7px !important;}
+.bottom-nav ul{width:79%;}
+ .bottom-nav ul li{margin-left:8px !important;padding-left:8px !important;}
+ .bottom-nav > a{ float:left;width:18%; display:block;}
+.container_16 .grid_12{
+    width: 70 !important%;}
+.container_16 .grid_4{  margin-left:1.9%;
+    width:24% !important;}
+   .grid_4 > .news_section figure img{width:100%;} 
+   .bottomSection .title strong{ width:20%; text-align:right; line-height:1.8;}
+   .bottomSection h4{ float:left;}
+   .navigation,.title {behavior:url(PIE.htc); zoom:1;}
+   .nav{border-radius:10px 10px 0 0;behavior:url(PIE.htc);zoom:1;}
+   h4{behavior:url(PIE.htc); zoom:1;  background:#A52B27 url(../images/arrow.png) no-repeat 100% center !important;border-radius: 8px 0 0 8px;}
+
+   .search span{width:170px !important;}
+   .search input[type="submit"]{ line-height:0; font-size:0;}
+   .widget > ul ul{ border:1px solid transparent; width:25% !important;margin-right:2% !important;}
+   .subscribe span label{ float:left;}
+   .subscribe .check span label{ float:none; min-width:72px !important;}
+   .check fieldset{padding-left:15px !important;}
+     .subscribe span input[type="text"]{width:55% !important;}
+     .widget ul > li.social-plugin{margin: -2px 3% 0 3% !important;}
+
+h3,h2,h1,h5,h6{letter-spacing:-1px; word-spacing:-2px;}
