@@ -8,7 +8,7 @@ categories: ["Principales"]
 published: true
 ---
 <p style="text-align: center;">
-  <img src="images/stories/frijol.jpg" border="0" />
+  <img src="http://ljz.mx/images/stories/frijol.jpg" border="0" />
 </p>
 
 <p style="text-align: justify;">

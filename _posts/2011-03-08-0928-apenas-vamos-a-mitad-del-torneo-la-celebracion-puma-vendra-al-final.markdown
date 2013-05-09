@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Destacadas"]
 published: true
 ---
-<img src="images/stories/bravo.jpg" border="0" width="200" style="float: left;" />
+<img src="http://ljz.mx/images/stories/bravo.jpg" border="0" width="200" style="float: left;" />
 
 <p style="text-align: justify;">
   <em><em>México, DF.</em></em> Aunque los aficionados de Pumas están contentos porque el equipo se mantiene en el lugar de privilegio del Clausura 2011, el director deportivo del club, Mario Trejo, indicó que en el plantel todos tienen muy claro que a penas van a la mitad del torneo y que la celebración viene hasta el final.

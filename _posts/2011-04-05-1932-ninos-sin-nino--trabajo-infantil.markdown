@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Portada"]
 published: true
 ---
-<img src="images/stories/ninos2.jpg" border="0" style="float: left;" />
+<img src="http://ljz.mx/images/stories/ninos2.jpg" border="0" style="float: left;" />
 
 <p style="text-align: justify;">
   <strong>Miguel Hernández </strong>
@@ -19,7 +19,7 @@ published: true
 
 Pocas personas saben que la famosa transnacional de hamburguesas Mc donald´s hace sus juguetes en Vietnam, en una empresa de nombre Key Hinge Toys, en la cual emplean principalmente a mujeres menores de edad. Así, la dichosa cajita feliz es producto del trabajo que hacen niñas y niños en un país subdesarrollado.
 
- 
+
 
 <p style="text-align: justify;">
   De igual manera, podemos mencionar que, en 1996 una revista estadounidense publicó unas fotos reveladoras en donde aparecían niños paquistaníes cosiendo balones de futbol de marcas mundialmente conocidas: Nike, Adidas y Reebok.
@@ -66,7 +66,7 @@ Pocas personas saben que la famosa transnacional de hamburguesas Mc donald´s ha
 </p>
 
 <p style="text-align: center;">
-  <img src="images/stories/graficaninos.jpg" border="0" width="451" height="134" />
+  <img src="http://ljz.mx/images/stories/graficaninos.jpg" border="0" width="451" height="134" />
 </p>
 
 <p style="text-align: justify;">

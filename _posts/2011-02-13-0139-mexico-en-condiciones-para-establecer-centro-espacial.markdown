@@ -9,7 +9,7 @@ published: true
 ---
 <span style="font-family: Times, 'Times New Roman', serif; font-size: 16px; color: #000000; line-height: normal;"> </span>
 
-<img src="images/stories/espacio.jpg" border="0" style="float: left;" />
+<img src="http://ljz.mx/images/stories/espacio.jpg" border="0" style="float: left;" />
 
 <p style="text-align: justify;">
   <em>México, DF</em>. México cuenta con la cuarta mejor posición a nivel mundial para establecer plataformas espaciales encaminadas a armar y lanzar satélites geoestacionarios, aseguró el universitario Miguel Ángel Gómez Guzmán.
@@ -43,4 +43,4 @@ published: true
   Gómez Guzmán participó en el Cuarto Foro de Consulta, Formación de Recursos Humanos, organizado por la Agencia Espacial Mexicana, en Puerto Vallarta, Jalisco, para exponer la necesidad de crear una maestría en Arquitectura Espacial, pues sólo dos universidades en el mundo imparten la especialidad, acotó.
 </p>
 
- 
+

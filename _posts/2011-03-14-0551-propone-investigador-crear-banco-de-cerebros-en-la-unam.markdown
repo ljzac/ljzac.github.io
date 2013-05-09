@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Politica"]
 published: true
 ---
-<img src="images/stories/cerebro.jpg" border="0" width="200" style="float: left;" />
+<img src="http://ljz.mx/images/stories/cerebro.jpg" border="0" width="200" style="float: left;" />
 
 <p style="text-align: justify;">
   <em>México, DF. </em>El investigador del Instituto de Neurobiología de la UNAM, Ricardo Miledi y Dau, propuso crear un banco de cerebros humanos donados tras la muerte, a fin de indagar la comunicación entre neuronas y enfermedades de ese órgano.

@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Principales"]
 published: true
 ---
-<img src="images/stories/fotos_abril/turismo.jpg" border="0" style="float: left;" />
+<img src="http://ljz.mx/images/stories/fotos_abril/turismo.jpg" border="0" style="float: left;" />
 
 <p style="text-align: justify;">
   <strong>César Pérez / Fotografía: Eustaquio Arellano </strong>

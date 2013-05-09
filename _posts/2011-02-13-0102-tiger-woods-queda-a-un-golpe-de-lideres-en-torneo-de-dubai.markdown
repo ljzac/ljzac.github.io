@@ -9,7 +9,7 @@ published: true
 ---
 <span style="font-family: Times, 'Times New Roman', serif; font-size: 16px; color: #000000; line-height: normal;"> </span>
 
-<img src="images/stories/tiger.jpg" border="0" style="float: left;" />
+<img src="http://ljz.mx/images/stories/tiger.jpg" border="0" style="float: left;" />
 
 <p style="text-align: justify;">
   <em>Dubai.</em> El estadunidense Tiger Woods y el español Sergio García están a sólo un golpe del trío de líderes del torneo de golf de Dubai, finalizada hoy la tercera ronda.

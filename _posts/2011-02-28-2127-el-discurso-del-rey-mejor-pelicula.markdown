@@ -8,7 +8,7 @@ categories: ["Destacadas"]
 published: true
 ---
 <p style="padding-top: 0px; padding-right: 0px; padding-bottom: 1.3em; padding-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; line-height: 1.8em; margin: 0px;">
-  <img src="images/stories/disrcurso.jpg" border="0" width="225" height="150" style="float: left;" />
+  <img src="http://ljz.mx/images/stories/disrcurso.jpg" border="0" width="225" height="150" style="float: left;" />
 </p>
 
 <p style="padding-top: 0px; padding-right: 0px; padding-bottom: 1.3em; padding-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; line-height: 1.8em; text-align: justify; margin: 0px; border: 0px initial initial;">

@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Portada"]
 published: true
 ---
-<img src="images/stories/fotos_noviembre/p2 garras.jpg" border="0" width="300" style="margin-left: 15px; margin-right: 15px; float: left;" />
+<img src="http://ljz.mx/images/stories/fotos_noviembre/p2 garras.jpg" border="0" width="300" style="margin-left: 15px; margin-right: 15px; float: left;" />
 
 <p style="text-align: justify;">
   <strong>?REPORTAJE ESPECIAL / DEPORTE ZACATECANO</strong>

@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Opinión"]
 published: true
 ---
-<img src="images/stories/aristegui3.jpg" border="0" style="float: left;" />
+<img src="http://ljz.mx/images/stories/aristegui3.jpg" border="0" style="float: left;" />
 
 <p style="text-align: justify;">
   <em>México, DF.</em> MVS Radio anunció este martes que la periodista Carmen Aristegui estará nuevamente como titular del programa de noticas matutino Primera Emisión el próximo 21 de febrero.

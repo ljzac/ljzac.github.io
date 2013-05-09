@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Mundo"]
 published: true
 ---
-<img src="images/stories/assange2.jpg" border="0" width="170" style="float: left;" />
+<img src="http://ljz.mx/images/stories/assange2.jpg" border="0" width="170" style="float: left;" />
 
 <p style="text-align: justify;">
   <em>Oslo. </em>Dirigentes de las revueltas árabes, Wikileaks, los creadores de internet y la Unión Europea figuran entre los 241 candidatos un nuevo récord que aspiran este año al premio Nobel de la paz.

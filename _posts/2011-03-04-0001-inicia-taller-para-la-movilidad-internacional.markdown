@@ -7,9 +7,9 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Destacadas"]
 published: true
 ---
-<img src="images/stories/INICIA%20TALLER.JPG" border="0" style="float: left;" />REDACCIÓN
+<img src="http://ljz.mx/images/stories/INICIA%20TALLER.JPG" border="0" style="float: left;" />REDACCIÓN
 
-Con el objetivo dar a conocer el Programa de Movilidad Internacional, la Coordinación de Gestión y Aseguramiento de la Calidad de la UAZ organizó  el Taller La Internacionalización de Contaduría y Administración, en torno al proceso de validación de indicadores internacionales. </p> 
+Con el objetivo dar a conocer el Programa de Movilidad Internacional, la Coordinación de Gestión y Aseguramiento de la Calidad de la UAZ organizó  el Taller La Internacionalización de Contaduría y Administración, en torno al proceso de validación de indicadores internacionales. </p>
 La actividad se centró, entre otros aspectos,  en  las convocatorias y los requisitos para que los estudiantes de sexto y octavo semestres puedan obtener becas para estadías de un semestre y créditos curriculares en universidades nacionales e internacionales,  por las vías del  Espacio Común de Educación Superior (ECOES), Santander Universidades o el Consorcio de Universidades Mexicanas (CUMex).
 
 El Coordinador de Gestión y Aseguramiento de la Calidad en la UAZ y Responsable Institucional ante el CUMex, Francisco Luna Pacheco, se refirió en este contexto al Consejo de Acreditación en Ciencias Sociales, Contables y Administrativas en la Educación Superior de Latinoamérica,  organismo que busca  la movilidad internacional, mediante diversos procesos.

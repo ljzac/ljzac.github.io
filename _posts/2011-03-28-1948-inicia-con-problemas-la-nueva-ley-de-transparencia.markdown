@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/acercade.html
 categories: ["Portada"]
 published: true
 ---
-<img src="images/stories/problemastrans.jpg" border="0" width="410" height="321" style="float: left;" />
+<img src="http://ljz.mx/images/stories/problemastrans.jpg" border="0" width="410" height="321" style="float: left;" />
 
 <p style="text-align: justify;">
   <strong>RAFAEL DE SANTIAGO</strong>
@@ -132,7 +132,7 @@ de los ingresos previstos, así como de su oportunidad y disponibilidad; de las 
 </p>
 
 <p style="text-align: justify;">
-   
+
 </p>
 
 <p style="text-align: justify;">
