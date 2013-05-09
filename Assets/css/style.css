@@ -5,20 +5,25 @@
 	margin:0 auto;
 }
 
+.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .linkElUniversal{
+	background: url(../images/sprites.png) no-repeat;
+}
 
 /*========================================
 side tweet
 ========================================*/
 .side-tweet{
- background:url(../images/side-tweet.png) left top no-repeat; 
-display:block; 
-position:fixed;
-left:0; 
-top:230px; 
-width:84px;
-height:69px; 
-text-indent:-9999px;
-z-index:9999;}
+	background-position: -547.6363146305084px -268.3636169433594px;
+	background-repeat: left top repeat-y;
+	display:block; 
+	height: 69px;
+	left:0; 
+	position:fixed;
+	text-indent:-9999px;
+	top:230px; 
+	width: 84px;
+	z-index:9999;
+}
 
 /*========================================
 Header Section Css
@@ -51,26 +56,33 @@ Header Section Css
      Navigation Section
 ============================== */
 .shadow {
-	background:url(../images/shadow.png) center bottom no-repeat;
-	padding-bottom:9px;
+	background-position: -1.1818182468414307px -129.99998474121094px ;
+	background-size: 947px 24px;
 	overflow:hidden;
+	padding-bottom:9px;
 	position:relative;
 }
 .navigation {
+	background-position: -2.1818182468414307px -45.81817626953125px ;
+	background-size: 960px 16px;
+	background-repeat: left top repeat-y;
 	overflow:hidden;
 	border-radius:10px;
-	background:url(../images/navigation_bg.png) left top repeat-y;
 	min-height:109px;
 	position:relative;
 }
 .nav {
-	width:100%;
+	background-position: -28.18181800842285px -1.909088134765625px ;
+	background-repeat: left top repeat-y;
+	background-size: 10px 41px;
 	display:inline-block;
-	background:url(../images/nav_bg.png) left top repeat-x;
+	width:100%;
 }
 .nav li {
+	background-position: -6px 0;
+	background-repeat: center right no-repeat;
+	background-size: 2px 28px;
 	float: left;
-	background:url(../images/divider.png) center right no-repeat;
 	position:relative
 }
 .nav li.none {
@@ -777,6 +789,10 @@ Bottom Section Css
 }
 .link_interes li.last {
 	margin-right:0;
+}
+.linkElUniversal{
+	background-position: -356.4545214176178px -160.6363525390625px ;
+	background-size: 163px 40px;
 }
 /*========================================
 Footer Section Css
