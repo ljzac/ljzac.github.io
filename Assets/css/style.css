@@ -337,6 +337,11 @@ Container Section Css
 .grid_16 .title {
 	margin-bottom:16px;
 }
+
+.news_tpoic h3 a {
+	font: inherit;
+}
+
 .news_tpoic a {
 	font-size:13px;
 	color:#333;
