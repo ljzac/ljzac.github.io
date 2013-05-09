@@ -10,14 +10,16 @@
 side tweet
 ========================================*/
 .side-tweet{
- background:url(../images/side-tweet.png) left top no-repeat; 
+ /*background:url(../images/side-tweet.png) left top no-repeat; */
+height: 69px;
+	width: 84px;
+	background: url(../images/sprites.png) no-repeat;
+ background-position: -547.6363146305084px -268.3636169433594px ;
 display:block; 
-position:fixed;
 left:0; 
-top:230px; 
-width:84px;
-height:69px; 
+position:fixed;
 text-indent:-9999px;
+top:230px; 
 z-index:9999;}
 
 /*========================================
