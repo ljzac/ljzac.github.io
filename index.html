@@ -9,8 +9,14 @@ layout: default
 <div class="title">
   <h4>{{ $first.GetCategories }}</h4>
 </div>
+{{ if $first.MainImg }}
 <div class="figure">
-  <a href="{{$first.url}}"><img src="{{$first.MainImg}}" alt="pic" /></a></div>
+  <img src = "">
+  <a href="{{$first.url}}">
+    <img src="{{$first.MainImg}}" alt="pic" />
+  </a>
+</div>
+{{ end }}
 <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
 
 
@@ -63,11 +69,15 @@ layout: default
 	                <p>{{ .GetIntrotext }} <a href="{{ .url }}">Leer más...</a> </p>
 	              </div>
 	              <div class="grid_9 omega" style="max-height: 320px;">
+                        {{ if .MainImg }}
                   <div style="max-height:260px; width:auto;">
                     <a href="{{ .url }}">
+
                       <img src="{{ .MainImg }}" alt="pic" />
                     </a>
-                     </div></div>
+                     </div>
+                  {{ end }}
+                      </div>
 	            </article>
 	          </li>
 	          {{ end }}
@@ -77,7 +87,11 @@ layout: default
 	        <div class="carousels flexslider">
 	          <ul class="slides">
                     {{ range . }}
+                    {{ if .MainImg }}
 	            <li><img src="{{ .MainImgThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
+                    {{ else }}
+	            <li><img src="/Assets/images/defaultImg.jpg" style="max-height:90px; width:auto" alt="pic"></li>
+                    {{ end }}
                     {{ end }}
 	          </ul>
 	        </div>
