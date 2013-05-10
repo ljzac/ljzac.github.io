@@ -796,9 +796,11 @@ Bottom Section Css
 .link_interes li.last {
 	margin-right:0;
 }
-.linkElUniversal{
-	background-position: -356.4545214176178px -160.6363525390625px ;
-	background-size: 163px 40px;
+.link_interes .linkElUniversal{
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
+	height: 40px;
+	display: block;
 }
 /*========================================
 Footer Section Css
