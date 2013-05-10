@@ -66,6 +66,12 @@
                       <img src="{{ .MainImg }}" alt="pic" />
                     </a>
                      </div>
+                     {{else}}
+                     	{{if .MainVideo}}
+                     		<div style="max-height:260px; width:auto;">
+                   			 {{ .MainVideo}}
+                     		</div>
+                     {{end}}
                   {{ end }}
                       </div>
 	            </article>
