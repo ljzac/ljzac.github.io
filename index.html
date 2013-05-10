@@ -4,46 +4,38 @@ layout: default
 
 <!-- los templates estan en _layouts/bloques.html -->
 {{ template "laNotaPrincipal" index .site.categories "Portada"}}
-      <div class="grid_16 dot">
-                                <div class="grid_8 alpha">
-                                          <!-- section frst -->
+<div class="grid_16 dot">
+  <div class="grid_8 alpha">
+    <div class="search ipod-search">
+      <label>Buscar:</label>
+      <span>
+        <input type="text" name="search" />
+        <input type="submit" name="search" />
+      </span> <a href="#">Búsqueda avanzada</a>
+    </div>
+    
+    <div class="news_section ipod-search">
+	    {{template "lajornadatv.html" .}}
+    </div>
 
-                                <div class="search ipod-search">
-                                <label>Buscar:</label>
-                                <span>
-                                <input type="text" name="search" />
-                                <input type="submit" name="search" />
-                                </span> <a href="#">Búsqueda avanzada</a> </div>
-
-                                <div class="news_section ipod-search">
-	                                <div class="title">
-	                                          <h4>JORNADA TV</h4>
-	                                </div>
-	                         {{template "lajornadatv.html" .}}
-                                </div>
-	    <!-- section frst -->
-	    	{{ template "seccion" index .site.categories "Principales" }}
-	    	{{ template "seccion" index .site.categories "Destacadas" }}
-	   		{{ template "seccion" index .site.categories "Mundo" }}
-
-	    <!-- section frst end -->
-	  </div>
-	  <div class="grid_8 omega">
-	    {{ template "publicidad" index .site.categories "Publicidad"}}
-	    <div class="news_tpoic">
-	      <div class="title">
-	        <h4>COLUMNAS</h4>
-	      </div>
-	       {{ template "columnas" index .site.categories "Editorial"}}
-		   {{ template "columnas" index .site.categories "La Jiribilla"}}
-	       {{ template "columnas" index .site.categories "Opinión"}}
-	      <!-- section frst -->
-	      {{ template "seccion" index .site.categories "Zacatecas" }}
-	      {{ template "seccion" index .site.categories "Politica" }}
-	      <!-- section frst end -->
-
+	  {{ template "seccion" index .site.categories "Principales" }}
+	  {{ template "seccion" index .site.categories "Destacadas" }}
+	  {{ template "seccion" index .site.categories "Mundo" }}
+	</div>
+	<div class="grid_8 omega">
+	  {{ template "publicidad" index .site.categories "Publicidad"}}
+	  <div class="news_tpoic">
+	    <div class="title">
+	      <h4>COLUMNAS</h4>
 	    </div>
+	    {{ template "columnas" index .site.categories "Editorial"}}
+		  {{ template "columnas" index .site.categories "La Jiribilla"}}
+	    {{ template "columnas" index .site.categories "Opinión"}}
+	
+	    {{ template "seccion" index .site.categories "Zacatecas" }}
+	    {{ template "seccion" index .site.categories "Politica" }}
 	  </div>
 	</div>
-	<!-- Left Section End -->
-      </div>
+</div>
+<!-- Left Section End -->
+</div>
