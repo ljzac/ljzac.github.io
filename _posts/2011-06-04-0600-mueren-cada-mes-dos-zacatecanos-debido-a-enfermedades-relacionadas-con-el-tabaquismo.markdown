@@ -5,7 +5,7 @@ twitt: "Mueren cada mes dos zacatecanos debido a  enfermedades relacionadas con 
 author: REDACCION
 authorlink: https://ljz.mx/acercade.html
 categories: ["Politica"]
-published: true
+published: false
 ---
 <img src="http://ljz.mx/images/stories/fotos_junio/contra fumadora.jpg" border="0" width="300" style="margin-left: 15px; margin-right: 15px; float: left;" />
 
