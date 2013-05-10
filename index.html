@@ -6,18 +6,7 @@ layout: default
 {{ template "laNotaPrincipal" index .site.categories "Portada"}}
 <div class="grid_16 dot">
   <div class="grid_8 alpha">
-    <div class="search ipod-search">
-      <label>Buscar:</label>
-      <span>
-        <input type="text" name="search" />
-        <input type="submit" name="search" />
-      </span> <a href="#">Búsqueda avanzada</a>
-    </div>
     
-    <div class="news_section ipod-search">
-	    {{template "lajornadatv.html" .}}
-    </div>
-
 	  {{ template "seccion" index .site.categories "Principales" }}
 	  {{ template "seccion" index .site.categories "Zacatecas" }}
 	  {{ template "seccion" index .site.categories "Destacadas" }}
