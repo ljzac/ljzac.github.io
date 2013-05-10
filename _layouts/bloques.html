@@ -141,4 +141,15 @@
         No hay notas de esta sección
 {{end}}
 {{end}}
+
+{{define "publicidad2"}}
+{{if .}}
+{{$first := index . 0 }}
+                 <a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add" /></a>
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
+
+
 <!-- TERMINA PARTE DEFINICIONES -->
