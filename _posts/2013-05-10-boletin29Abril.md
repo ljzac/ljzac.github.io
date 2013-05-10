@@ -10,4 +10,4 @@ published: true
 
 Boletín especial 29 de Abril de 2013
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/t_km5AFKuAk" frameborder="0" allowfullscreen></iframe>
+<iframe width="340" height="250" src="http://www.youtube.com/embed/t_km5AFKuAk" frameborder="0" allowfullscreen></iframe>
