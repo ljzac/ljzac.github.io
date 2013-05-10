@@ -226,24 +226,32 @@ Header Section Css
 	background-position: -575.9090881347656px -1.909088134765625px ;
 	width: 57px;
 	height: 22px;
+	display:block;
+
 }
 .social_icon li.tweet a {
 	background: url(../images/sprites.png) no-repeat;
 	background-position: -445.45452880859375px -4.6363525390625px ;
 	width:86px;
 	height:21px;
+	display:block;
+
 }
 .social_icon li.facebook a {
 	background: url(../images/sprites.png) no-repeat;
 	background-position: -122.18180847167969px -2.81817626953125px ;
 	width:88px;
 	height:17px;
+	display:block;
+
 }
 .social_icon li.youtube a {
 	background: url(../images/sprites.png) no-repeat;
 	background-position: -109.81817626953125px -22.81817626953125px ;
 	width:59px;
 	height:20px;
+	display:block;
+
 }
 .temperature {
 	float:right;
