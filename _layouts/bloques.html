@@ -37,7 +37,6 @@
 {{define "laNotaPrincipal"}}
 {{if .}}
 {{$first := index . 0 }}
-
 	<div class="carousel_Section">
 	  <div class="title">
 	    <h4>{{ $first.GetCategories }}</h4>
@@ -77,13 +76,13 @@
 	      <div class="carousel_slider">
 	        <div class="carousels flexslider">
 	          <ul class="slides">
-                    {{ range . }}
+              {{ range . }}
                     {{ if .MainImg }}
-	            <li><img src="{{ .MainImgThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
+	                  <li><img src="{{ .MainImgThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
                     {{ else }}
-	            <li><img src="/Assets/images/defaultImg.jpg" style="max-height:90px; width:auto" alt="pic"></li>
+	                  <li><img src="/Assets/images/defaultImg.jpg" style="max-height:90px; width:auto" alt="pic"></li>
                     {{ end }}
-                    {{ end }}
+              {{ end }}
 	          </ul>
 	        </div>
 	      </div>
