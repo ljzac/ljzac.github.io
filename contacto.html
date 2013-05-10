@@ -288,48 +288,10 @@
 	             	 - Secretaría de Comunicaciones y Transportes No. 100, Col. Zona Industrial, Guadalupe Zacatecas. 98604 México.
 
 					Teléfono: (492) 923 74 40
- 					sitio web: <a href="http://ljzac.dev">http://ljzac.dev </a></p>
+ 					sitio web: <a href="http://ljz.mx">http://ljz.mx </a></p>
 	            </article>
-                <form name = "contacto" action="formmail.php" method="post" onsubmit="return validateForm();">
-                    <input type="hidden" name="recipient" value="ljzbot@gmail.com">
-                  <input type="hidden" name="required" value="email,message">
-                  <input type="hidden" name="env_report" value="REMOTE_ADDR,HTTP_USER_AGENT">
-                  <input type="hidden" name="redirect" value="http://ljzac.github.io">
-                  <p>
-                    <label for="contact_name">
-                      &nbsp;Escriba su nombre y apellidos:
-                      </label>
-                    <br>
-                    <input type="text" name="name" size="30" value="">
-                    <br>
-                    <label name="email">
-                      &nbsp;Dirección de e-mail:
-                      </label>
-                    <br>
-                    <input type="text" id="contact_email" name="email" size="30" maxlength="100">
-                    <br>
-                    <label for="contact_subject">
-                      &nbsp;Tema del mensaje:
-                      </label>
-                    <br>
-                    <input type="text" name="subject" size="30" value="">
-                    <br><br>
-                    <label id="contact_textmsg" for="contact_text">
-                      &nbsp;Escriba su mensaje:
-                      </label>
-                    <br>
-                    <textarea cols="50" rows="10" name="message" ></textarea>
-                    <br>
-                    <br>
-                    <div><div></div><span><span><input type="submit" value="Enviar"></span></span></div>
-                   </p>
-
-                  <input type="hidden" name="option" value="com_contact">
-                  <input type="hidden" name="view" value="contact">
-                  <input type="hidden" name="id" value="1">
-                  <input type="hidden" name="task" value="submit">
-                  <input type="hidden" name="f517ef5822bce61c7a718d20316de6d4" value="1">
-                </form>
+                <script type="text/javascript"> id = 167852; </script>
+<script type="text/javascript" src="http://kontactr.com/wp.js"></script>
                </div>
 
 
@@ -511,27 +473,6 @@
       </div>
 
 </section>
-<script>
-function validateForm()
-{
-var x=document.forms["contacto"]["email"].value;
-var mje=document.forms["contacto"]["message"].value;
-var atpos=x.indexOf("@");
-var dotpos=x.lastIndexOf(".");
- if (mje == "" || x == "")
-  {
-     alert("Debes anotar email y mensaje.");
-     return false;
-  }
- if (atpos < 1 || dotpos<atpos+2 || dotpos+2>=x.length)
-  {
-  alert("email no válido");
-  return false;
-  }
-
-}
-
-</script>
 
 <!-- Bottom Section -->
     <div class="grid_16 bottomSection">
