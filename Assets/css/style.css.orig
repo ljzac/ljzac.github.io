@@ -222,26 +222,22 @@ Header Section Css
 	text-indent:-9999px;
 }
 .social_icon li.rss a {
-	background: url(../images/sprites.png) no-repeat;
-	background-position: -575.9090881347656px -1.909088134765625px ;
-	width: 57px;
-	height: 22px;
+	background:url(../images/rss.png) left top no-repeat;
+	width:57px;
+	height:22px;
 }
 .social_icon li.tweet a {
-	background: url(../images/sprites.png) no-repeat;
-	background-position: -445.45452880859375px -4.6363525390625px ;
+	background:url(../images/tweet.png) left top no-repeat;
 	width:86px;
 	height:21px;
 }
 .social_icon li.facebook a {
-	background: url(../images/sprites.png) no-repeat;
-	background-position: -122.18180847167969px -2.81817626953125px ;
+	background:url(../images/facebook.png) left top no-repeat;
 	width:88px;
 	height:17px;
 }
 .social_icon li.youtube a {
-	background: url(../images/sprites.png) no-repeat;
-	background-position: -109.81817626953125px -22.81817626953125px ;
+	background:url(../images/youtube.png) left top no-repeat;
 	width:59px;
 	height:20px;
 }
@@ -795,7 +791,7 @@ Bottom Section Css
 }
 .link_interes li {
 	float:left;
-	margin-right:16px;
+	margin-rigxbht:16px;
 }
 .link_interes li.last {
 	margin-right:0;
@@ -805,41 +801,42 @@ Bottom Section Css
 	width: 163px;
 	height: 40px;
 	display: block;
+<<<<<<< HEAD
 }
 .link_interes .linkProceso{
-	background-position: -424.9090807437897px -271.7272644042969px ;
-	width: 110px;
-	height: 46px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
+	height: 40px;
 	display: block;
 }
 .link_interes .linkLaJornada{
-	background-position: -378.63634514808655px -211.27273559570312px ;
-	width: 142px;
-	height: 46px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
+	height: 40px;
 	display: block;
 }
 .link_interes .linkMilenio{
-	background-position: -748.3636400699615px -2.545440673828125px ;
-	width: 122px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
 	height: 40px;
 	display: block;
 }
 .link_interes .linkElPais{
-	background-position: -635.181768655777px -1.6363677978515625px ;
-	width: 109px;
-	height: 41px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
+	height: 40px;
 	display: block;
 }
 .link_interes .linkTheClinic{
-	background-position: -264.99999260902405px -212.72726440429688px ;
-	width: 105px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
 	height: 40px;
 	display: block;
 }
 .link_interes .linkMonde{
-	background-position: -516.3636400699615px -337.7272644042969px ;
-	width: 112px;
-	height: 44px;
+	background-position: -356.4545214176178px -160.6363525390625px;
+	width: 163px;
+	height: 40px;
 	display: block;
 =======
 >>>>>>> dae9861be1275493ebc61a6cdae191bbef490d6c
