@@ -3,7 +3,7 @@ layout: posts
 title: "Directores de la UNAM exigen la entrega de rectoria"
 twitt: "Expresan en un pronunciamiento su respaldo a Jose Narro Robles"
 author: Pphdez
-categories: ['Publicidad','prueba4']
+categories: ['prueba4']
 authorlink: http://novador.blogspot.mx
 published: true
 ---
