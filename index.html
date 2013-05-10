@@ -616,50 +616,7 @@ Reestructuración, unidad y compromiso, entre los puntos de coincidencia entre l
 
 <div class="grid_16 dot">
   <div class="grid_8 alpha">
-    <div class="search ipod-search">
-      <label>Buscar:</label>
-      <span>
-        <input type="text" name="search" />
-        <input type="submit" name="search" />
-      </span> <a href="#">Búsqueda avanzada</a>
-    </div>
     
-    <div class="news_section ipod-search">
-	    <div class="news_section p-top">
-
-                                <div class="title">
-
-                                          <h4>La Jornada TV</h4>
-
-                                  </div>
-
-                                <figure>
-<script type="text/javascript">
-	function youtube_videos(data) {
-    	var feed = data.feed;
-    	var entries = feed.entry || [];
-    	var html = [];   		
-    		var entry = entries[0];
-    		var title = entry.title.$t;
-    		var width = "280";
-    		var height = "220";
-    		var playerUrl = entries[0].media$group.media$content[0].url;
-    		html.push(
-    		           "<embed src='" , playerUrl ,
-					   "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
-					   "' height='" , height , "'></embed>" );
-		document.getElementById('videos').innerHTML = html.join('');
-	} 
-</script>
-<div id="videos">
-</div>
-<script type="text/javascript" src="http://gdata.youtube.com/feeds/users/RodrigoJol/uploads?alt=json-in-script&max-results=2&callback=youtube_videos">
-</script>
-                                </figure>
-
-                        </div>
-    </div>
-
 	  
 
 
@@ -1033,9 +990,8 @@ Explica que el mantenimiento de los edificios podría convertirse en programa pe
                    </ul>
        </div>
    <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-   <div class="news_section desktop-search">
-       <div class="news_section p-top">
-
+   <div class="news_section">
+     
                                 <div class="title">
 
                                           <h4>La Jornada TV</h4>
@@ -1044,21 +1000,21 @@ Explica que el mantenimiento de los edificios podría convertirse en programa pe
 
                                 <figure>
 <script type="text/javascript">
-	function youtube_videos(data) {
-    	var feed = data.feed;
-    	var entries = feed.entry || [];
-    	var html = [];   		
-    		var entry = entries[0];
-    		var title = entry.title.$t;
-    		var width = "280";
-    		var height = "220";
-    		var playerUrl = entries[0].media$group.media$content[0].url;
-    		html.push(
-    		           "<embed src='" , playerUrl ,
-					   "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
-					   "' height='" , height , "'></embed>" );
-		document.getElementById('videos').innerHTML = html.join('');
-	} 
+  function youtube_videos(data) {
+  var feed = data.feed;
+  var entries = feed.entry || [];
+  var html = [];   
+  var entry = entries[0];
+  var title = entry.title.$t;
+  var width = "280";
+  var height = "220";
+  var playerUrl = entries[0].media$group.media$content[0].url;
+  html.push(
+             "<embed src='" , playerUrl ,
+                              "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
+                                                                                                                                               "' height='" , height , "'></embed>" );
+  document.getElementById('videos').innerHTML = html.join('');
+  } 
 </script>
 <div id="videos">
 </div>
@@ -1066,8 +1022,9 @@ Explica que el mantenimiento de los edificios podría convertirse en programa pe
 </script>
                                 </figure>
 
-                        </div>
-       </div>
+
+   </div>
+
 
 <div class="news_section">
   <div class="title">

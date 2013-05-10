@@ -438,8 +438,7 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
                             </ul>
                           </div>
                           <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-                           <div class="news_section p-top">
-
+                           
                                 <div class="title">
 
                                           <h4>La Jornada TV</h4>
@@ -448,21 +447,21 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
 
                                 <figure>
 <script type="text/javascript">
-	function youtube_videos(data) {
-    	var feed = data.feed;
-    	var entries = feed.entry || [];
-    	var html = [];   		
-    		var entry = entries[0];
-    		var title = entry.title.$t;
-    		var width = "280";
-    		var height = "220";
-    		var playerUrl = entries[0].media$group.media$content[0].url;
-    		html.push(
-    		           "<embed src='" , playerUrl ,
-					   "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
-					   "' height='" , height , "'></embed>" );
-		document.getElementById('videos').innerHTML = html.join('');
-	} 
+  function youtube_videos(data) {
+  var feed = data.feed;
+  var entries = feed.entry || [];
+  var html = [];   
+  var entry = entries[0];
+  var title = entry.title.$t;
+  var width = "280";
+  var height = "220";
+  var playerUrl = entries[0].media$group.media$content[0].url;
+  html.push(
+             "<embed src='" , playerUrl ,
+                              "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
+                                                                                                                                               "' height='" , height , "'></embed>" );
+  document.getElementById('videos').innerHTML = html.join('');
+  } 
 </script>
 <div id="videos">
 </div>
@@ -470,7 +469,7 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
 </script>
                                 </figure>
 
-                        </div>
+
 			                     <div class="news_section p-top">
   <div class="title">
     <h4>BÚSQUEDA AVANZADA</h4>
