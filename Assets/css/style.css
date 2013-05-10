@@ -261,6 +261,7 @@ Container Section Css
 .currentNews {
 	background:#d6d7d9;
 	margin-top: 20px;
+  margin-bottom:23px;
 	border-radius:10px
 }
 .title {
