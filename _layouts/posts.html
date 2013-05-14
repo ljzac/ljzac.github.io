@@ -2,37 +2,6 @@
 layout: defaultSimple
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <section class="container font-resize"> 
   <!-- Left Section -->
   <div class="grid_12 alpha">
@@ -92,40 +61,8 @@ layout: defaultSimple
   </div>
   <!-- Right Section --> 
   <div class="grid_4 omega inner">
-    <div class="title">
-      <h4>COLABORADORES </h4>
-    </div>
-    <div class="partner">
-      <ul class="mycarousel jcarousel jcarousel-skin-tango">
-			  {{range index .site.categories "Autor"}}
-        <li>
-				  <figure>
-            <img src="{{.MainImgThumb}}" width="97" height="103" alt="avtar">
-          </figure>
-				  <div class="intro">
-				    <h6><a href="{{.GetAuthorLink}}">{{.GetAuthor}}</a></h6>
-				    <p>{{.twitt}} </p>
-				  </div>
-        </li>
-			  {{end}}
-      </ul>
-    </div>
-    <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-    {{template "lajornadatv.html" .}}
-		{{template "gsb.html" .}}
-		<!-- Sección de boletín -->
-		{{template "boletin.html" .}}
-		<!-- fin de sección de boletín-->
-    <div class="news_section">
-      <div class="title">
-        <h4>ESPECIALES LA JORNADA</h4>
-      </div>
-      <div class="news"> <h3><a href="#">Guía XXI Historia y Geografía de Zacatecas</a></h3>
-        <figure> <img src="/Assets/images/book.png" alt="video"> </figure>
-        <p>Complemento ideal para el trabajo escolar. Con información histórica y geografica actualizada hasta el siglo xxi. </p>
-      </div>
-    </div>
-    {{template "encuesta.html" . }}                    
+    {{template "block_colaboradores.html" .}}
+    {{template "barraDerecha.html" .}}                   
   </div>
   <!-- Right Section End--> 
 </section>
