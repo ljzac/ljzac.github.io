@@ -1,0 +1,18 @@
+<!-- Bottom Section -->
+<div class="grid_16 bottomSection">
+	<div class="title">
+	  <h4>Secciones</h4>
+	  <strong>MAS SECCIONES</strong>
+	</div>
+  <div class="carousel">
+    <div class="carouse-bottom flexslider">
+      <ul class="slides">
+      	{{ template "cuadrosecciones" index .site.categories "Tecnología"}}
+      	{{ template "cuadrosecciones" index .site.categories "prueba4"}}
+      	{{ template "cuadrosecciones" index .site.categories "Cartones"}}
+      	{{ template "cuadrosecciones" index .site.categories "Politica"}}
+      	{{ template "cuadrosecciones" index .site.categories "Portada"}}
+      </ul>
+    </div>
+  </div>
+</div>
