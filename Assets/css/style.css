@@ -56,32 +56,25 @@ Header Section Css
      Navigation Section
 ============================== */
 .shadow {
-	background-position: -1.1818182468414307px -129.99998474121094px ;
-	background-size: 947px 24px;
+	background: url(../images/shadow.png) center bottom no-repeat;
 	overflow:hidden;
 	padding-bottom:9px;
 	position:relative;
 }
 .navigation {
-	background-position: -2.1818182468414307px -45.81817626953125px ;
-	background-size: 960px 16px;
-	background-repeat: left top repeat-y;
+	background:url(../images/navigation_bg.png)left top repeat-y;
 	overflow:hidden;
 	border-radius:10px;
 	min-height:109px;
 	position:relative;
 }
 .nav {
-	background-position: -28.18181800842285px -1.909088134765625px ;
-	background-repeat: left top repeat-y;
-	background-size: 10px 41px;
+        background:url(../images/nav_bg.png) left top repeat-x;
 	display:inline-block;
 	width:100%;
 }
 .nav li {
-	background-position: -6px 0;
-	background-repeat: center right no-repeat;
-	background-size: 2px 28px;
+	background: url(../images/divider.png) center right no-repeat;
 	float: left;
 	position:relative
 }
