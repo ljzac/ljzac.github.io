@@ -16,7 +16,6 @@
     <link rel="stylesheet" type="text/css" href="/Assets/css/responsive.css" />
     <link rel="stylesheet" type="text/css" href="/Assets/css/caption.css"/>
     <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.css" />
-    <script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
   </head>
 
   <!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
@@ -700,12 +699,13 @@
 
 </section>
 
-
+    
+    <script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
     <script src="/Assets/js/modernizr.js"></script>
-!    <script type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
+    <script type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
     <!-- FlexSlider -->
     <script defer src="/Assets/js/jquery.flexslider.min.js"></script>
-    <script src="/Assets/js/custom.min.js"></script>
     <script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
     <script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
 
@@ -720,8 +720,25 @@
         <link rel="stylesheet" type="text/css" href="/Assets/css/ie8.css"/>
         <![endif]-->
 
+    <script>
+        $(document).ready(function() {
+            $("a.fancybox").fancybox({
+                openEffect : 'elastic',
+                openSpeed  : 150,
+                closeEffect : 'elastic',
+                closeSpeed  : 150,
+                closeClick : true,
+                helpers : {
+                    title : {
+                      type : 'inside'
+                    }
+                }
+            });
+        });
+    </script> 
+
 <script>
-  (function() {
+    (function() {
     var cx = '014239042459755020844:-qcfzqn8piu';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
@@ -730,7 +747,7 @@
         '//www.google.com/cse/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
-  })();
+    })();
 </script>
 
 <!--Footer-->
