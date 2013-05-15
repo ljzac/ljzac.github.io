@@ -5,7 +5,7 @@
 	margin:0 auto;
 }
 
-.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook{
+.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app {
     background: url(../images/sprites.png) no-repeat;
 }
 
@@ -41,6 +41,9 @@ Header Section Css
 }
 .header a.logo {
 	display:inline-block;
+	background-position: -8.909088373184204px -298.18182373046875px ;
+	width: 417px;
+	height: 112px;
 }
 .addSection {
 	overflow:hidden;
@@ -195,6 +198,11 @@ Header Section Css
 	color:#000;
 	line-height:2.5;
 	display:inline-block;
+}
+.app{
+	background-position: -7.909088373184204px -159.81817626953125px ;
+	width: 251px;
+	height: 133px;
 }
 .time-date {
 	float:left;
@@ -532,6 +540,12 @@ Right Section Css
 	color:#fff;
 	font-size:1.1em;
 	margin-left: 10px;
+}
+.papper a{
+	background-position: -521.7272570133209px -157.36361694335938px ;
+	width: 113px;
+	height: 103px;
+	display: block;
 }
 .news_section {
 	padding-bottom:22px;

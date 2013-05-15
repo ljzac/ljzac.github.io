@@ -4,7 +4,7 @@ layout: nil
 <!-- defaultSimple.html -->
 <!DOCTYPE HTML>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -17,36 +17,37 @@ layout: nil
     <link rel="stylesheet" type="text/css" href="/Assets/css/print.css" media="print" />
     <link rel="stylesheet" type="text/css" href="/Assets/css/skin.css" />
     <link rel="stylesheet" type="text/css" href="/Assets/css/responsive.css" />
-    <link rel="stylesheet" type="text/css" href="/Assets/css/caption.css"/>
+    <link rel="stylesheet" type="text/css" href="/Assets/css/caption.min.css"/>
     <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.css" />
-  </head>
+</head>
 
-  <!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
-  <body>
+<!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
+<body>
 
     {{template "header.html" .}}
 
     {{ .content}}
 
-<!-- Bottom Section -->
+    <!-- Bottom Section -->
     <div class="grid_16 bottomSection">
         {{template "interestlinks.html" . }}
-  </div>
+    </div>
 </div>
 <!-- wrapper Section End-->
 
 <!-- footer section-->
 {{template "footer.html" . }}
 
-    
-    <script src="/Assets/js/modernizr.js"></script>
-    <script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
-    <script type="text/javascript" src="/Assets/js/custom.min.js"></script>
-    <script type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
-    <!-- FlexSlider -->
-    <script defer src="/Assets/js/jquery.flexslider.min.js"></script>
-    <script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
-    <script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<script src="/Assets/js/modernizr.js"></script>
+<script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
+<script type="text/javascript" src="/Assets/js/custom.min.js"></script>
+<script type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
+<!-- FlexSlider -->
+<script defer src="/Assets/js/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="/Assets/js/jcaption.min.js"></script>
 
     <!--[if IE]>
         <script defer src="/Assets/js/html5.js"></script>
@@ -59,7 +60,7 @@ layout: nil
         <link rel="stylesheet" type="text/css" href="/Assets/css/ie8.css"/>
         <![endif]-->
 
-    <script>
+        <script>
         $(document).ready(function() {
             $(".fancybox").fancybox({
                 openEffect : 'elastic',
@@ -70,28 +71,41 @@ layout: nil
                 helpers : {
                     title : {
                       type : 'inside'
-                    }
-                }
-            });
+                  }
+              }
+          });
         });
-    </script> 
+        </script> 
 
-<script>
-    (function() {
-    var cx = '014239042459755020844:-qcfzqn8piu';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-    })();
-</script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('#text img').jcaption();
+            $('#sidebar img').jcaption({
+                copyStyle: true,
+                animate: true,
+                show: {height: "show"},
+                hide: {height: "hide"}
+            });
 
-<!--Footer-->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        });
+        </script>
+
+        <script>
+        (function() {
+            var cx = '014239042459755020844:-qcfzqn8piu';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//www.google.com/cse/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+        </script>
+
+        <!--Footer-->
+        <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'ljzbot2'; // required: replace example with your forum shortname
 
     /* * * DON'T EDIT BELOW THIS LINE * * */

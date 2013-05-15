@@ -2,34 +2,34 @@
 {{if .}}
 {{$first := index . 0 }}
 <div class="news_tpoic">
-<div class="title">
-  <h4>{{ $first.GetCategories }}</h4>
-</div>
-{{ if $first.MainImg }}
-<div class="figure">
-  <img src = "">
-  <a href="{{$first.url}}">
-    <img src="{{$first.MainImg}}" alt="pic" />
-  </a>
-</div>
-{{ end }}
-<ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
-{{ range . }}
-        <li>          
-          <h3><a href="{{ .url }}" >{{ .title }}</a></h3>
-          <a href="{{ .url }}" >{{ .author }} {{ .twitt}} </a>
-        </li>
-{{ end }}
-</ul>
+  <div class="title">
+    <h4>{{ $first.GetCategories }}</h4>
+  </div>
+  {{ if $first.MainImg }}
+  <div class="figure">
+    <img src = "">
+    <a href="{{$first.url}}">
+      <img src="{{$first.MainImg}}" alt="pic" />
+    </a>
+  </div>
+  {{ end }}
+  <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
+    {{ range . }}
+    <li>          
+      <h3><a href="{{ .url }}" >{{ .title }}</a></h3>
+      <a href="{{ .url }}" >{{ .author }} {{ .twitt}} </a>
+    </li>
+    {{ end }}
+  </ul>
 </div>
 <!-- section frst end -->
-        <div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
+<div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 
 {{else}}
-	<div class="news_tpoic">
-<div class="title">
-  	        No hay notas de esta sección
-</div>
+<div class="news_tpoic">
+  <div class="title">
+   No hay notas de esta sección
+ </div>
 </div>
 {{end}}
 {{end}}
@@ -37,69 +37,69 @@
 {{define "laNotaPrincipal"}}
 {{if .}}
 {{$first := index . 0 }}
-	<div class="carousel_Section">
-	  <div class="title">
-	    <h4>{{ $first.GetCategories }}</h4>
-	  </div>
-	  <div class="currentNews">
-	    <div class="new-content">
-	      <div class="slider flexslider">
-	        <ul class="slides">
-            {{ range . }}
-	          <li>
-	            <article class="SubContent">
-                <a href="{{ .url }}"> <h1>{{ .title }}</h1></a>
-	                <ul class="comment">
-	                  <li><a href="#">{{ .author }} </a>/</li>
-	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
-	                  <li class="comment_icon"><a href="{{ .url }}#disqus_thread"># </a></li>
-	                </ul>
-                  {{ if .MainImg }}
-	                <div class="grid_7 alpha">
-	                  <p>{{ .GetIntrotext }} <a href="{{ .url }}">Leer más...</a> </p>
-	                </div>
-	                <div class="grid_9 omega" style="max-height: 320px;">
-                    <div style="max-height:260px; width:auto;">
-                      <a href="{{ .url }}">
-                        <img src="{{ .MainImg }}" alt="pic" />
-                      </a>
-                    </div>
-                  </div>
-                  {{else}}
-                  {{if .MainVideo}}
-                  <div style="width:100%; float:left;text-align:center;">
-                    <div style="display:block;margin: 0 auto;">
-                      {{ .MainVideo}}
-                    </div>
-                  </div>
-                  {{end}}
-                  {{ end }}
-	            </article>
-	          </li>
-	          {{ end }}
-	        </ul>
-	      </div>
-	      <div class="carousel_slider">
-	        <div class="carousels flexslider">
-	          <ul class="slides">
-              {{ range . }}
-              {{ if .MainImg }}
-	            <li><img src="{{ .MainImgThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
-              {{ else }}
-              {{ if .MainVideoThumb }}
-	            <li><img src="{{ .MainVideoThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
-              {{ else }}
-	            <li><img src="/Assets/images/defaultImg.jpg" style="max-height:90px; width:auto" alt="pic"></li>
-              {{ end }}
-              {{ end }}
-              {{ end }}
-	          </ul>
-	        </div>
-	      </div>
-	    </div>
-	  </div>
+<div class="carousel_Section">
+ <div class="title">
+   <h4>{{ $first.GetCategories }}</h4>
+ </div>
+ <div class="currentNews">
+   <div class="new-content">
+     <div class="slider flexslider">
+       <ul class="slides">
+        {{ range . }}
+        <li>
+         <article class="SubContent">
+          <a href="{{ .url }}"> <h1>{{ .title }}</h1></a>
+          <ul class="comment">
+           <li><a href="#">{{ .author }} </a>/</li>
+           <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+           <li class="comment_icon"><a href="{{ .url }}#disqus_thread"># </a></li>
+         </ul>
+         {{ if .MainImg }}
+         <div class="grid_7 alpha">
+           <p>{{ .GetIntrotext }} <a href="{{ .url }}">Leer más...</a> </p>
+         </div>
+         <div class="grid_9 omega" style="max-height: 320px;">
+          <div style="max-height:260px; width:auto;">
+            <a href="{{ .url }}">
+              <img src="{{ .MainImg }}" alt="pic" />
+            </a>
+          </div>
+        </div>
+        {{else}}
+        {{if .MainVideo}}
+        <div style="width:100%; float:left;text-align:center;">
+          <div style="display:block;margin: 0 auto;">
+            {{ .MainVideo}}
+          </div>
+        </div>
+        {{end}}
+        {{ end }}
+      </article>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+<div class="carousel_slider">
+ <div class="carousels flexslider">
+   <ul class="slides">
+    {{ range . }}
+    {{ if .MainImg }}
+    <li><img src="{{ .MainImgThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
+    {{ else }}
+    {{ if .MainVideoThumb }}
+    <li><img src="{{ .MainVideoThumb }}" style="max-height:90px; width:auto" alt="pic"></li>
+    {{ else }}
+    <li><img src="/Assets/images/defaultImg.jpg" style="max-height:90px; width:auto" alt="pic"></li>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </ul>
+</div>
+</div>
+</div>
+</div>
 {{ else }}
-  No hay nota principal
+No hay nota principal
 {{ end }}
 {{ end }}
 
@@ -112,14 +112,14 @@
 <li>
   <div class="carousel-content">
     <h5>{{ $first.GetCategories }}</h5>
-		<a href="{{ $first.url }}">
+    <a href="{{ $first.url }}">
       <img src="{{$first.MainImgSize "b"}}" alt="pic" />
       <p>{{ $first.twitt}}</p>
     </a>
   </div>
 </li>
 {{else}}
-        No hay notas de esta sección
+No hay notas de esta sección
 {{end}}
 {{end}}
 
@@ -127,18 +127,18 @@
 {{define "columnas"}}
 {{if .}}
 {{$first := index . 0 }}
-			<article class="section"> <strong> {{ $first.GetCategories }}</strong>
-				<h2> {{ $first.title}} </h2>
-				<ul class="comment">
-	                  <li><a href="#">{{ $first.author }} </a>/</li>
-	                  <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
-	                  <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
-	                </ul>
-	                <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
-	        </article>
+<article class="section"> <strong> {{ $first.GetCategories }}</strong>
+  <h2> {{ $first.title}} </h2>
+  <ul class="comment">
+   <li><a href="#">{{ $first.author }} </a>/</li>
+   <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
+   <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
+ </ul>
+ <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
+</article>
 
 {{else}}
-        No hay notas de esta sección
+No hay notas de esta sección
 {{end}}
 {{end}}
 
@@ -146,33 +146,33 @@
 {{define "publicidad"}}
 {{if .}}
 {{$first := index . 0 }}
-			 <div class="figure"> <a href="#"><img src="{{ $first.MainImg}}" alt="add" /></a> </div>
+<div class="figure"> <a href="#"><img src="{{ $first.MainImg}}" alt="add" /></a> </div>
 {{else}}
-        No hay notas de esta sección
+No hay notas de esta sección
 {{end}}
 {{end}}
 
 {{define "publicidad2"}}
 {{if .}}
 {{$first := index . 0 }}
-                 <a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add" /></a>
+<a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add" /></a>
 {{else}}
-        No hay notas de esta sección
+No hay notas de esta sección
 {{end}}
 {{end}}
 
 {{define "especiales"}}
 {{if .}}
 {{$first := index . 0 }}
-       <div class="news"> <h3> <a href="{{$first.url}}">
-        {{$first.title}}</h3>
-        <figure>
-        <img src="{{ $first.MainImgThumb}}" alt="el reportaje" /> </figure></a>
-        <p>{{$first.twitt}}</p>
-      </div>
-{{else}}
-        No hay notas de esta sección
-{{end}}
-{{end}}
+<div class="news"> <h3> <a href="{{$first.url}}">
+  {{$first.title}}</h3>
+  <figure>
+    <img src="{{ $first.MainImgThumb}}" alt="el reportaje" /> </figure></a>
+    <p>{{$first.twitt}}</p>
+  </div>
+  {{else}}
+  No hay notas de esta sección
+  {{end}}
+  {{end}}
 
-<!-- TERMINA PARTE DEFINICIONES -->
+  <!-- TERMINA PARTE DEFINICIONES -->
