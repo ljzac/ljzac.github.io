@@ -161,5 +161,18 @@
 {{end}}
 {{end}}
 
+{{define "especiales"}}
+{{if .}}
+{{$first := index . 0 }}
+       <div class="news"> <h3> <a href="{{$first.url}}">
+        {{$first.title}}</h3>
+        <figure>
+        <img src="{{ $first.MainImgThumb}}" alt="el reportaje" /> </figure></a>
+        <p>{{$first.twitt}}</p>
+      </div>
+{{else}}
+        No hay notas de esta sección
+{{end}}
+{{end}}
 
 <!-- TERMINA PARTE DEFINICIONES -->
