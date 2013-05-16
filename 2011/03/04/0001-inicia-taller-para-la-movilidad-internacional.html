@@ -514,8 +514,6 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
     <!-- Right Section End--> 
   </section>
   <!-- Container Section End--> 
-  <script type="text/javascript" src="/Assets/js/jcaption.min.js" /></script>
-  <script type="text/javascript"  src="/Assets/js/jquery.jfontsize-1.0.js"></script> <!-- font resize js -->
   <!-- Para los botones de Facebook, tweeter y Print -->
   <script type="text/javascript">var switchTo5x=false;</script>
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -617,6 +615,7 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
 <script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
 <script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
 <script type="text/javascript" src="/Assets/js/jcaption.min.js"></script>
+  <script type="text/javascript"  src="/Assets/js/jquery.jfontsize-1.0.js"></script> <!-- font resize js -->
 
     <!--[if IE]>
         <script defer src="/Assets/js/html5.js"></script>
@@ -648,7 +647,24 @@ La actividad se centró, entre otros aspectos,  en  las convocatorias y los re
 
         <script type="text/javascript">
         $(document).ready(function(){
-            $('#text img').jcaption();
+            $('#text img').jcaption({
+                wrapperElement: 'div',
+                wrapperClass: 'caption',
+                captionElement: 'p',
+                imageAttr: 'alt',
+                requireText: false,
+                copyStyle: false,
+                removeStyle: true,
+                removeAlign: true,
+                copyAlignmentToClass: false,
+                copyFloatToClass: true,
+                autoWidth: true,
+                animate: false,
+                show: {opacity: 'show'},
+                showDuration: 200,
+                hide: {opacity: 'hide'},
+                hideDuration: 200
+            });
             $('#sidebar img').jcaption({
                 copyStyle: true,
                 animate: true,

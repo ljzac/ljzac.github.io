@@ -735,6 +735,7 @@ Alimentos y bebidas que permiten una alimentación correcta, entre las prioridad
 <script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
 <script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
 <script type="text/javascript" src="/Assets/js/jcaption.min.js"></script>
+  <script type="text/javascript"  src="/Assets/js/jquery.jfontsize-1.0.js"></script> <!-- font resize js -->
 
     <!--[if IE]>
         <script defer src="/Assets/js/html5.js"></script>
@@ -766,7 +767,24 @@ Alimentos y bebidas que permiten una alimentación correcta, entre las prioridad
 
         <script type="text/javascript">
         $(document).ready(function(){
-            $('#text img').jcaption();
+            $('#text img').jcaption({
+                wrapperElement: 'div',
+                wrapperClass: 'caption',
+                captionElement: 'p',
+                imageAttr: 'alt',
+                requireText: false,
+                copyStyle: false,
+                removeStyle: true,
+                removeAlign: true,
+                copyAlignmentToClass: false,
+                copyFloatToClass: true,
+                autoWidth: true,
+                animate: false,
+                show: {opacity: 'show'},
+                showDuration: 200,
+                hide: {opacity: 'hide'},
+                hideDuration: 200
+            });
             $('#sidebar img').jcaption({
                 copyStyle: true,
                 animate: true,
