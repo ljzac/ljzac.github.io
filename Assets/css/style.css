@@ -5,7 +5,7 @@
 	margin:0 auto;
 }
 
-.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app {
+.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app, .shadow {
     background: url(../images/sprites.png) no-repeat;
 }
 
@@ -42,7 +42,7 @@ Header Section Css
 .header a.logo {
 	display:inline-block;
 	background-position: -8.909088373184204px -298.18182373046875px ;
-	width: 417px;
+	width: 415px;
 	height: 112px;
 }
 .addSection {
@@ -59,7 +59,8 @@ Header Section Css
      Navigation Section
 ============================== */
 .shadow {
-	background: url(../images/shadow.png) center bottom no-repeat;
+	background-position: -1.1818182468414307px -129.99998474121094px ;
+	background-size: 947px 24px;
 	overflow:hidden;
 	padding-bottom:9px;
 	position:relative;
@@ -72,7 +73,7 @@ Header Section Css
 	position:relative;
 }
 .nav {
-        background:url(../images/nav_bg.png) left top repeat-x;
+    background:url(../images/nav_bg.png) left top repeat-x;
 	display:inline-block;
 	width:100%;
 }
