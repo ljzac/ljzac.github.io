@@ -37,7 +37,7 @@
 				var image = $(this);
 				
 				//Only create captions if there is content for the caption
-				if(image.attr(settings.imageAttr).length > 0 || !settings.requireText){
+				if(!settings.requireText){
 					
 					//Wrap the image with the caption div
 					image.wrap("<" + settings.wrapperElement + " class='" + settings.wrapperClass + "'></" + settings.wrapperElement + ">");
@@ -54,7 +54,10 @@
 					if(settings.removeAlign) image.removeAttr('align');
 					
 					//Put Caption in the Wrapper Div
-					var div = $(this).parent().append('<' + settings.captionElement + '>' + image.attr(settings.imageAttr) + '</' + settings.captionElement + '>');
+					if(image.attr(settings.imageAttr))
+						var div = $(this).parent().append('<' + settings.captionElement + '>' + image.attr(settings.imageAttr) + '</' + settings.captionElement + '>');
+					else
+						var div = $(this).parent().append('<' + settings.captionElement + '>' + '' + '</' + settings.captionElement + '>');
 					
 					if(settings.animate){
 						$(this).next().hide();
