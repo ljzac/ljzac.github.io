@@ -6,7 +6,7 @@
 }
 
 .side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app, .shadow {
-    background: url(../images/sprites.png) no-repeat;
+    background: url(../images/sprites.png);
 }
 
 /*========================================
@@ -60,6 +60,7 @@ Header Section Css
 ============================== */
 .shadow {
 	background-position: -1.1818182468414307px -129.99998474121094px ;
+	background-repeat: no-repeat;
 	background-size: 947px 24px;
 	overflow:hidden;
 	padding-bottom:9px;

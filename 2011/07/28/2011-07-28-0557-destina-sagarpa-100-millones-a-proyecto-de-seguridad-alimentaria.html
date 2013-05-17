@@ -660,101 +660,27 @@
 </section>
 
 
-<script src="/Assets/js/modernizr.js"></script>
-<script type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
-<script type="text/javascript" src="/Assets/js/custom.min.js"></script>
-<script type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
+<script async src="/Assets/js/modernizr.js"></script>
+<script async type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
+<script async type="text/javascript" src="/Assets/js/custom.min.js"></script>
+<script async type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
 <!-- FlexSlider -->
-<script defer src="/Assets/js/jquery.flexslider.min.js"></script>
-<script type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
-<script type="text/javascript" src="/Assets/js/jcaption.min.js"></script>
-  <script type="text/javascript"  src="/Assets/js/jquery.jfontsize-1.0.min.js"></script> <!-- font resize js -->
+<script async defer src="/Assets/js/jquery.flexslider.min.js"></script>
+<script async type="text/javascript" src="/Assets/js/jquery.fancybox.pack.js"></script>
+<script async type="text/javascript" src="/Assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+<script async type="text/javascript" src="/Assets/js/jcaption.min.js"></script>
+<script async type="text/javascript"  src="/Assets/js/jquery.jfontsize-1.0.min.js"></script> <!-- font resize js -->
+<script async type="text/javascript"  src="/Assets/js/funciones.min.js"></script>
+<!--[if IE]>
+    <script async defer src="/Assets/js/html5.min.js"></script>
+    <![endif]-->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/Assets/css/ie7.min.css"/>
+    <![endif]-->
 
-    <!--[if IE]>
-        <script defer src="/Assets/js/html5.js"></script>
-        <![endif]-->
-    <!--[if IE 7]>
-        <link rel="stylesheet" type="text/css" href="/Assets/css/ie7.css"/>
-        <![endif]-->
-
-    <!--[if IE 8]>
-        <link rel="stylesheet" type="text/css" href="/Assets/css/ie8.css"/>
-        <![endif]-->
-
-        <script>
-        $(document).ready(function() {
-            $(".fancybox").fancybox({
-                openEffect : 'elastic',
-                openSpeed  : 150,
-                closeEffect : 'elastic',
-                closeSpeed  : 150,
-                closeClick : true,
-                helpers : {
-                    title : {
-                      type : 'inside'
-                  }
-              }
-          });
-        });
-        </script> 
-
-        <script type="text/javascript">
-        $(document).ready(function(){
-            $('#text img').jcaption({
-                wrapperElement: 'div',
-                wrapperClass: 'caption',
-                captionElement: 'p',
-                imageAttr: 'alt',
-                requireText: false,
-                copyStyle: false,
-                removeStyle: true,
-                removeAlign: true,
-                copyAlignmentToClass: false,
-                copyFloatToClass: true,
-                autoWidth: true,
-                animate: false,
-                show: {opacity: 'show'},
-                showDuration: 200,
-                hide: {opacity: 'hide'},
-                hideDuration: 200
-            });
-            $('#sidebar img').jcaption({
-                copyStyle: true,
-                animate: true,
-                show: {height: "show"},
-                hide: {height: "hide"}
-            });
-
-        });
-        </script>
-
-        <script>
-        (function() {
-            var cx = '014239042459755020844:-qcfzqn8piu';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//www.google.com/cse/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-        })();
-        </script>
-
-        <!--Footer-->
-        <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'ljzbot2'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/Assets/css/ie8.min.css"/>
+    <![endif]-->       
 
 </body>
 </html>
