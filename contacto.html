@@ -20,34 +20,7 @@ layout: defaultSimple
 <script type="text/javascript" src="http://kontactr.com/wp.js"></script>
                </div>
 
-
- <div class="grid_4 omega">
-	<div class="news_section p-top">
-	  {{template "gsb.html" .}}
-	</div>
-	<div class="title">
-	  <h4>NOTICIAS AL DÍA</h4>
-	</div>
-	<div class="list">
-	  <ul class="mycarousel jcarousel jcarousel-skin-tango">
-	    {{range .site.MinuteByMinute}}
-	    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
-	    {{end}}
-	  </ul>
-	</div>
-	<div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-	<div class="news_section desktop-search">
-	  {{template "lajornadatv.html" .}}
-	</div>
-
-	<!-- Sección del boletín -->
-
-	{{template "boletin.html" .}}
-
-	<!--Fin de sección de boletín-->
-
-	  {{template "encuesta.html" . }}
-
-      </div>
-
+<div class="grid_4 omega">
+ {{ template "barraDerecha.html" .}}
+</div>
 </section>
