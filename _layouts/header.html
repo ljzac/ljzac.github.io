@@ -136,15 +136,6 @@
       </ul>
     </div>
     <div class = "temperature"><span>Zacatecas, Mexico.</span><span id="temp"> o</span></div>
-    <script type="text/javascript">
-    var uri = "http://api.worldweatheronline.com/free/v1/weather.ashx?q=Zacatecas&format=json&num_of_days=1&date=today&key=e54hg49k6fbnp5rqb4bs4bfs"
-    var temp = ""
-    $.get(uri, function(r,status)
-    {
-     temp = r.data.current_condition[0].temp_C;
-     $('#temp').text(temp + '°C')
-   }, "jsonp")
-    </script>
 
   </section>
   <!-- Bar Section -->

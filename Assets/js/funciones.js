@@ -38,6 +38,14 @@ $(document).ready(function() {
 		hide: {height: "hide"}
 	});
 
+    var uri = "http://api.worldweatheronline.com/free/v1/weather.ashx?q=Zacatecas&format=json&num_of_days=1&date=today&key=e54hg49k6fbnp5rqb4bs4bfs"
+    var temp = ""
+    $.get(uri, function(r,status)
+    {
+     temp = r.data.current_condition[0].temp_C;
+     $('#temp').text(temp + '°C')
+   }, "jsonp")
+
 });
 
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
