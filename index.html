@@ -11,23 +11,20 @@ layout: default
 	  {{ template "publicidad" index .site.categories "Publicidad"}}
 	  {{ template "seccion" index .site.categories "Principales" }}
 	  {{ template "seccion" index .site.categories "Destacadas" }}
-	  {{ template "publicidad" index .site.categories "Publicidad"}}
 	</div>
 
 	<div class="grid_8 omega">
-	  
-
+	  {{ template "publicidad" index .site.categories "Publicidad"}}
 	  <div class="news_tpoic">
 	    <div class="title">
 	      <h4>COLUMNAS</h4>
 	    </div>
-
 		  {{ template "columnas" index .site.categories "La Jiribilla"}}
 	    {{ template "columnas" index .site.categories "Opinión"}}
 	    {{ template "columnas" index .site.categories "Destacadas"}}
 		  {{ template "seccion" index .site.categories "Politica" }}
-
 	  </div>
+      {{ template "seccion" index .site.categories "Autor" }}
 	</div>
 </div>
 <!-- Left Section End -->
