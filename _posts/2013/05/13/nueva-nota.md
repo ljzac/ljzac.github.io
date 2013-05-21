@@ -7,6 +7,8 @@ categories: ['Fuera de Foco']
 authorlink: http://twtter.com/tu_cuenta 
 published: true
 ---
+
 debe de aparacer en
-[nueva nota](/2013/05/13/nueva-nota.html)
+escribes una nota
+
 ![Guanajuato](http://i.imgur.com/HAvNS1mm.jpg)
