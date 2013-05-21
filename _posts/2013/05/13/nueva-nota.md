@@ -1,8 +1,8 @@
 ---
 layout: posts 
-title: Teatro de Guanajuato 
-twitt: Esta nota tienen el nuevo estandard de nombre
-author: Redacción 
+title: Teatro de Guanajuato 2
+twitt: aqui ser'i si la fuera a twittea
+author: pphdez
 categories: ['Fuera de Foco'] 
 authorlink: http://twtter.com/tu_cuenta 
 published: true
