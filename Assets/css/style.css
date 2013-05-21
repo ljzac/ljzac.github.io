@@ -476,6 +476,7 @@ Container Section Css
 	background-color: #a52b27;
 	border: none;
 	color: #FFFFFF;
+	cursor: pointer;
 	font-size: 1.6em;
 	margin: 15px 0 0 0;
 	padding: 8px 5px;
