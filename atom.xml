@@ -4,15 +4,20 @@
 	<link href="http://ljzac.dev/atom.xml" rel="self"/>
 	<link href="http://ljzac.dev/"/>
 	<id>http://ljzac.dev/</id>
-	<updated>2013-05-21T19:56:34Z</updated>
+	<updated>2013-05-21T21:54:37Z</updated>
 	
 	<entry>
-		<title>Teatro de Guanajuato 2</title>
+		<title>Teatro de Guanajuato 3</title>
 		<link href="http://ljzac.dev/2013/05/13/nueva-nota.html" />
 		<updated>2013-05-13T00:00:00Z</updated>
 		<id>http://ljzac.dev/2013/05/13/nueva-nota.html</id>
-		<content type="html">&lt;p&gt;debe de aparacer en
-escribes una nota&lt;/p&gt;
+		<content type="html">&lt;p&gt;Esta es una modificacion
+&lt;em&gt;esto es italicas&lt;/em&gt;
+&lt;strong&gt;esto es negritas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Esto es un H2&lt;/h2&gt;
+
+&lt;p&gt;escribes una nota&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/HAvNS1mm.jpg&#34; alt=&#34;Guanajuato&#34; /&gt;
 &lt;/p&gt;
