@@ -457,6 +457,29 @@ Container Section Css
 	width:100%;
 	display:block;
 }
+.boletin-marco{
+	border: 1px solid #8c8c8c;
+	padding: 10px 0;
+}
+.boletin-marco .texto{
+	color: #000;
+	font-size: 1.6em;
+	font-weight: 600;
+	line-height: 1.3;
+	padding: 0 5px 0 0;
+}
+.boletin-marco .textA{
+	border: 1px solid #8c8c8c;
+	height: 1.6em;
+}
+.boletin-marco .boton{
+	background-color: #a52b27;
+	border: none;
+	color: #FFFFFF;
+	font-size: 1.6em;
+	margin: 15px 0 0 0;
+	padding: 8px 5px;
+}
 /*========================================
 Right Section Css
 ========================================*/ 
