@@ -4,7 +4,7 @@ title: "Destina Sagarpa $100 millones a Proyecto de Seguridad Alimentaria"
 twitt: "Destina Sagarpa $100 millones a Proyecto de Seguridad Alimentaria"
 author: REDACCION
 authorlink: https://ljz.mx/acercade.html
-categories: ["Especiales"]
+categories: ["Reportaje Especial"]
 published: true
 ---
 <img src="http://ljz.mx/images/stories/fotos_julio/p6 cordero.jpg" border="0" width="300" style="margin-left: 15px; margin-right: 15px; float: left;" />
