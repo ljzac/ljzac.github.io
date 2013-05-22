@@ -3,7 +3,7 @@ layout: posts
 title: jhdjs,hd,shd,qs
 twitt: Resumen de menos de 140 caracteres 
 author: Redacción 
-categories: ['Portada']
+categories: ['De Rock']
 authorlink: http://twtter.com/tu_cuenta 
 published: false
 ---
