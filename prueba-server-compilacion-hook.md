@@ -5,7 +5,7 @@ twitt: Resumen de menos de 140 caracteres
 author: Redacción 
 categories: [Portada] 
 authorlink: http://twtter.com/tu_cuenta 
-published: false
+published: true
 ---
 
 # Prueba del server de compilacion
