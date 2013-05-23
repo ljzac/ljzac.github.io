@@ -4,7 +4,7 @@ title: "otro+toroas"
 twitt: "otro+toroas"
 author: 
 authorlink: https://ljz.mx/autores/
-categories: ['']
+categories: ['Portada']
 published: true
 ---
 ![Pie de Foto](http://i.imgur.com/0gtBLVE.png)
