@@ -50,7 +50,8 @@
           <a href="{{ .url }}"> <h1>{{ .title }}</h1></a>
           <ul class="comment">
            <li><a href="#">{{ .author }} </a>/</li>
-           <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+           
+           <li>{{if .date}}<a href="#">{{ .date | date_to_string }}</a>/{{end}}</li>
            <li class="comment_icon"><a href="{{ .url }}#disqus_thread"># </a></li>
          </ul>
          {{ if .MainImg }}
