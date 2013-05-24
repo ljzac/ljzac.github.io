@@ -12,7 +12,9 @@
 	<div class="grid_7 alpha">
 		<ul class="comment">
 			<li><a href="#">{{ .author }} </a>/</li>
+      {{ if .date }}
 			<li><a href="#">{{ .date | date_to_string }}</a>/</li>
+      {{ end }}
 			<li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
 		</ul>
 		<p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p>

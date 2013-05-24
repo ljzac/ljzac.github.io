@@ -5,19 +5,18 @@
   <div class="title">
     <h4>{{ $first.GetCategories }}</h4>
   </div>
-  {{ if $first.MainImg }}
-  <div class="figure">
-    <img src = "">
-    <a href="{{$first.url}}">
-      <img src="{{$first.MainImg}}" alt="pic" />
-    </a>
-  </div>
-  {{ end }}
   <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
-    {{ range . }}
-    <li>          
-      <h3><a href="{{ .url }}" >{{ .title }}</a></h3>
-      <a href="{{ .url }}" >{{ .author }} {{ .twitt}} </a>
+    {{ range $index, $nota := . }}
+
+    <li>
+      {{if $index}}
+      {{else}}
+      <a href="{{$nota.url}}">
+        <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" />
+      </a>
+      {{ end }}
+      <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>
+      <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}} </a>
     </li>
     {{ end }}
   </ul>
@@ -155,7 +154,7 @@ No hay notas de esta sección
 {{define "publicidad2"}}
 {{if .}}
 {{$first := index . 0 }}
-<a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add" /></a>
+<a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add"/></a>
 {{else}}
 No hay notas de esta sección
 {{end}}
