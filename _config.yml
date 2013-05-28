@@ -9,12 +9,30 @@ prose:
         field:
           element: "hidden"
           value:
-            - "post"
+            - "posts"
+      - name: "tittle"
+        field:
+          element: "text"
+          label: "Título"
+          placeholder: "Escriba el título de la nota"
+          value: ""
+      - name: "twitt"
+        field:
+          element: "text"
+          label: "Twitt"
+          placeholder: "Escriba el twitt de la nota (menos de 140 caracteres)"
+          value: "" 
+      - name: "Autor"
+        field:
+          element: "text"
+          label: "Autor"
+          placeholder: "Autor de la nota con abreviatura (ej. pphdez)"
+          value: "" 
       - name: "categories"
         field:
           element: "select"
-          label: "Item"
-          placeholder: "Select an Item"
+          label: "Sección"
+          placeholder: "Selecciona una sección"
           options:
             - name: "Portada"
               value: "Portada"
