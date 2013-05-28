@@ -3,4 +3,28 @@ twitter: twitter.com/droneio
 github: github.com/drone
 prose:
   rooturl: "_posts"
+  metadata:
+    _posts:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value:
+            - "post"
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Layout"
+          value: "posts"
+      - name: "item"
+        field:
+          element: "select"
+          label: "Item"
+          placeholder: "Select an Item"
+          options:
+            - name: "Item 1"
+              value: "item1"
+            - name: "Item 2"
+              value: "item2"
+          selected: "item2"
+          
 minutebyminute: ['Autor', 'Publicidad']
