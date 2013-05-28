@@ -7,9 +7,8 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
-          value:
-            - "posts"
+          element: "text"
+          value: "posts"
       - name: "tittle"
         field:
           element: "text"
