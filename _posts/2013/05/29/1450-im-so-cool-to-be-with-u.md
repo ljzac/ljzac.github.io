@@ -1,12 +1,12 @@
 ---
 layout: posts
-title: "prueba 2 con minutos y segundos mafren"
-twitt: "prueba 2 con minutos y segundos mafren"
+title: "im so cool to be with u"
+twitt: "im so cool to be with u"
 author: "Francisco Josué López Aguilar"
 authorlink: https://ljz.mx/autores/"Francisco Josué López Aguilar"
-categories: ['Portada']
+categories: ['Cultura Y Espectaculos']
 published: true
 ---
 
-va de nuez!!
+yes i am babe!!
 
