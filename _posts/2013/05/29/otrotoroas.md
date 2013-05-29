@@ -7,6 +7,6 @@ authorlink: https://ljz.mx/autores/
 categories: ['']
 published: true
 ---
-![Pie de Foto](http://i.imgur.com/y1937NU.png)
+![Pie de Foto](http://i.imgur.com/KpML9E6.png)
 
 asd+as%0A%0A--+%0AAlfonso+Alvarez%0A
