@@ -1,6 +1,9 @@
 ---
 published: !<tag:yaml.org,2002:js/undefined> ""
-layout: default
+categories: Portada
+layout: 
+  - posts
+  - default
 
 ---
 
