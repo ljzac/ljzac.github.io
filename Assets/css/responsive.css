@@ -445,6 +445,11 @@ h5 {
 }
 }
  @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
-	.figure-slider ul li{width:287px !important; margin-right:0px;} 
-	
+	.figure-slider ul li{width:287px !important; margin-right:0px;}
+	.header a.logo {
+		display: inline-block;
+		background: url(../images/logo.png);
+		width: 90%;
+		height: auto;
+	} 
  }
