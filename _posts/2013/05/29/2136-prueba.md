@@ -1,13 +1,14 @@
 ---
+published: "true"
+twitt: prueba
+categories: Portada
 layout: posts
-title: "prueba"
-twitt: "prueba"
-author: "Carlos García"
-authorlink: https://ljz.mx/autores/"Carlos García"
-categories: ['Portada']
-published: true
+title: prueba
+author: Carlos García
+authorlink: "https://ljz.mx/autores/\"Carlos García\""
+
 ---
-![Pie de Foto](http://i.imgur.com/7fs9P4Zm.jpg)
 
-Es una prueba de correo
+![este wey es Cheko Perez](/http://i.imgur.com/7fs9P4Zm.jpg)
 
+Es una prueba de correo con más texto a ver como sales
