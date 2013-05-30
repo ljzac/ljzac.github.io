@@ -7,7 +7,7 @@ authorlink: https://ljz.mx/autores/Alfonso Alvz
 category: Portada
 published: true
 ---
-![Pie de Foto]()
+![Pie de Foto](http://i.imgur.com/DEgPc2Km.jpg)
 
 ---------- Forwarded message ----------
 From: Sandra Monreal <sackaraja@gmail.com>
