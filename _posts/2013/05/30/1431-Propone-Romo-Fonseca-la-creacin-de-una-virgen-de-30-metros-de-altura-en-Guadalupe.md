@@ -1,12 +1,14 @@
 ---
-layout: posts
-title: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
-twitt: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
+published: "true"
+title: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe
+twitt: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe
 author: Sandra Monreal
-authorlink: https://ljz.mx/autores/Sandra Monreal
-category: Política
-published: true
+authorlink: "https://ljz.mx/autores/Sandra Monreal"
+category: Destacadas
+layout: posts
+
 ---
+
 ![Pie de Foto](Traceback (most recent call last):)
 
 *Necesita municipio reactivar el turismo religioso, asevera*
@@ -51,4 +53,3 @@ credenciales, si se las piden no la suelten porque no se las van a
 regresar”, advirtió.
 
 Nuevamente...
-
