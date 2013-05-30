@@ -1,31 +1,15 @@
 ---
-layout: posts
+published: "true"
 title: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
 twitt: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
 author: Alfonso Alvz
-authorlink: https://ljz.mx/autores/Alfonso Alvz
+authorlink: "https://ljz.mx/autores/Alfonso Alvz"
 category: Portada
-published: true
+layout: posts
+
 ---
+
 ![Pie de Foto](http://i.imgur.com/DEgPc2Km.jpg)
-
----------- Forwarded message ----------
-From: Sandra Monreal <sackaraja@gmail.com>
-Date: 2013/5/30
-Subject: Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros
-de altura en Guadalupe
-To: Alfonso Alvz <alfonso.alvz@gmail.com>
-
-
-
-
----------- Mensaje enviado ----------
-De: Sandra Monreal <sackaraja@gmail.com>
-Fecha: 30 de mayo de 2013 14:31
-Asunto: Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de
-altura en Guadalupe
-Para: politica@ljz.twcenter.mx
-
 
 *Necesita municipio reactivar el turismo religioso, asevera*
 
@@ -69,14 +53,3 @@ credenciales, si se las piden no la suelten porque no se las van a
 regresar”, advirtió.
 
 Nuevamente...
-
-
-
--- 
-ISC. Sandra Mireya Monreal Mendoza
-
-
-
--- 
-Alfonso Alvarez
-
