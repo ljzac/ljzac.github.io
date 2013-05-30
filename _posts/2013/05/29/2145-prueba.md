@@ -1,7 +1,7 @@
 ---
 published: "true"
 twitt: prueba
-categories: Zacatecas
+categories: ['Zacatecas']
 layout: posts
 title: prueba
 author: Joaquin Zamora

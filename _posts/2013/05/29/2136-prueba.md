@@ -1,7 +1,7 @@
 ---
 published: "true"
 twitt: prueba
-categories: Portada
+categories: ['Portada']
 layout: posts
 title: prueba
 author: Carlos García
