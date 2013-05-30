@@ -1,13 +1,11 @@
 ---
 published: "true"
-tittle: Ocurre accidente frente a SCT por estar oficinas desoladas
-twitt: Oficinas de SCT desiertas
-Autor: ALEJANDRO
-categories: Principales
+tittle: "Ocurre accidente frente a SCT por estar oficinas desoladas"
+twitt: "Oficinas de SCT desiertas"
+categories: ['Principales']
 layout: posts
-title: Oficinas de SCT desiertas
-author: Alejandro Garcia
-authorlink: "https://ljz.mx/autores/\"Alejandro Garcia\""
+author: "Alejandro Garcia"
+authorlink: https://ljz.mx/autores/\"Alejandro Garcia\"
 
 ---
 
