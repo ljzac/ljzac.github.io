@@ -1,7 +1,7 @@
 ---
 published: "false"
 twitt: Subjetivaciones rockeras / Rock y diversidad
-categories: De Rock
+categories: ['De Rock']
 layout: posts
 title: Subjetivaciones rockeras / Rock y diversidad
 author: Araceli Rodarte
