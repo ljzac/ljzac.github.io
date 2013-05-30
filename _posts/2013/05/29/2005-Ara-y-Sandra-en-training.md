@@ -1,13 +1,16 @@
 ---
+published: "true"
+twitt: Ara y Sandra en training
+categories: 
+  - Portada
+  - ""
 layout: posts
-title: "Ara y Sandra en training"
-twitt: "Ara y Sandra en training"
+title: Ara y Sandra en training
 author: Alejandro Garcia
-authorlink: https://ljz.mx/autores/Alejandro Garcia
-categories: ['']
-published: true
+authorlink: "https://ljz.mx/autores/Alejandro Garcia"
+
 ---
+
 ![Pie de Foto](http://i.imgur.com/7QYJPQGm.jpg)
 
-Veamos què tan faxil es....
-
+Veamos que tan facil es el diseño de la nueva web para la Jornada Zac.
