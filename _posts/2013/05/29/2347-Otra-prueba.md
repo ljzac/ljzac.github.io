@@ -1,13 +1,11 @@
 ---
-published: "true"
-tittle: "45454"
-twitt: Otra prueba
-Autor: "45454545"
-categories: Portada
+published: true
+twitt: "Otra prueba"
+categories: ['Portada']
 layout: posts
-title: Otra prueba
-author: Carlos García
-authorlink: "https://ljz.mx/autores/\"Carlos García\""
+title: "Otra prueba"
+author: "Carlos García"
+authorlink: https://ljz.mx/autores/"Carlos García"
 
 ---
 

@@ -2,7 +2,7 @@
 published: "false"
 tittle: Esta es otra nota de prueba
 Autor: Redacción
-categories: Portada
+categories: ['Portada']
 layout: posts
 
 ---
