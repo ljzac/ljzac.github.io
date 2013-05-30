@@ -2,8 +2,8 @@
 layout: posts
 title: "Oficinas de SCT desiertas"
 twitt: "Oficinas de SCT desiertas"
-author: Alejandro Garcia
-authorlink: https://ljz.mx/autores/Alejandro Garcia
+author: "Alejandro Garcia"
+authorlink: https://ljz.mx/autores/"Alejandro Garcia"
 categories: ['Principales']
 published: true
 ---
