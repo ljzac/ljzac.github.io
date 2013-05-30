@@ -23,6 +23,12 @@ prose:
           label: "Autor"
           placeholder: "Autor de la nota con abreviatura (ej. pphdez)"
           value: "" 
+      - name: "authorlink"
+        field:
+          element: "text"
+          label: "Página del Autor"
+          placeholder: "Página del Autor"
+          value: ""
       - name: "categories"
         field:
           element: "select"
