@@ -11,4 +11,4 @@ authorlink: "https://ljz.mx/autores/Joaquin Zamora"
 
 # Heading
 
-# ![Pie de Foto](/http://i.imgur.com/E90nEKZm.jpg)
+# ![Pie de Foto](http://i.imgur.com/E90nEKZm.jpg)
