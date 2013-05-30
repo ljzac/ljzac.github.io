@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 tittle: Boletín 29 mayo 2013
 Autor: Redacción
 categories: ['Portada']
