@@ -8,7 +8,8 @@ layout: nil
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>Welcome to the LaJornada Zacatecas</title>
+    <title>{{ if .page.title }} {{ .page.title }} | {{end}} La Jornada Zacatecas </title>
+    <meta name="description" content="{{ .page.twitt }}">
     <link rel="shortcut icon" type="image/x-icon" href="/Assets/images/favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Exo:400,100,700italic,700,600italic,600,100italic' rel='stylesheet' type='text/css'>
     <script data-cfasync="false" type="text/javascript" src="/Assets/js/jquery.jcarousel.min.js"></script>
