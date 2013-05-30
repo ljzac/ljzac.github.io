@@ -1,7 +1,7 @@
 ---
 published: "true"
-title: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
-twitt: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
+title: " Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
+twitt: "Necesita municipio reactivar el turismo religioso, asevera"
 author: Alfonso Alvz
 authorlink: "https://ljz.mx/autores/Alfonso Alvz"
 category: Portada
