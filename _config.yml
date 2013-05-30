@@ -29,9 +29,9 @@ prose:
           label: "Página del Autor"
           placeholder: "Página del Autor"
           value: ""
-      - name: "categories"
+      - name: "category"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Sección"
           placeholder: "Selecciona una sección"
           options:

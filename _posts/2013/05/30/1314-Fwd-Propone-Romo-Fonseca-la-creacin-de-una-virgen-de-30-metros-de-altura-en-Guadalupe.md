@@ -4,7 +4,7 @@ title: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de alt
 twitt: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
 author: Sandra Monreal
 authorlink: https://ljz.mx/autores/Sandra Monreal
-categories: ['Política']
+category: Política
 published: true
 ---
 ![Pie de Foto](Traceback (most recent call last):)
