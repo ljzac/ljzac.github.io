@@ -1,7 +1,7 @@
 ---
 published: "true"
 tittle: prueba de band of brothers
-categories: Opinión
+categories: ['Opinión']
 layout: posts
 
 ---

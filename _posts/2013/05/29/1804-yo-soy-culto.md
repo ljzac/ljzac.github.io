@@ -1,7 +1,7 @@
 ---
 published: "true"
 twitt: yo soy culto
-categories: Cultura y Espectáculos
+categories: ['Cultura y Espectáculos']
 layout: posts
 title: yo soy culto
 author: Francisco Josué López Aguilar
