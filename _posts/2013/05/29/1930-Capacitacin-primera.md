@@ -1,12 +1,11 @@
 ---
-published: "true"
-twitt: éste es el texto del twitt
-categories: Portada
+twitt: "éste es el texto del twitt"
+categories: ['Portada']
 layout: posts
-title: Capacitación primera
-author: null
+title: "Capacitación primera"
+author: "autor"
 authorlink: "https://ljz.mx/autores/"
-
+published: true
 ---
 
 ![Capacitación](http://i.imgur.com/4BpM8DVm.jpg)
