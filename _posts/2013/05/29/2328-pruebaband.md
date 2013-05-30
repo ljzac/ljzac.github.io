@@ -1,6 +1,6 @@
 ---
 published: "true"
-tittle: prueba de band of brothers
+tittle: "prueba de band of brothers"
 categories: ['Opinión']
 layout: posts
 
