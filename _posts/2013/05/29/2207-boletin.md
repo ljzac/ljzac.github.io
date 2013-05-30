@@ -2,7 +2,7 @@
 published: "false"
 tittle: Boletín 29 mayo 2013
 Autor: Redacción
-categories: Portada
+categories: ['Portada']
 layout: posts
 
 ---
