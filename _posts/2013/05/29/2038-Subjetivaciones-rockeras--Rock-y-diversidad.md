@@ -1,13 +1,15 @@
 ---
+published: "false"
+twitt: Subjetivaciones rockeras / Rock y diversidad
+categories: De Rock
 layout: posts
-title: "Subjetivaciones rockeras / Rock y diversidad"
-twitt: "Subjetivaciones rockeras / Rock y diversidad"
+title: Subjetivaciones rockeras / Rock y diversidad
 author: Araceli Rodarte
-authorlink: https://ljz.mx/autores/Araceli Rodarte
-categories: ['De Rock']
-published: true
+authorlink: "https://ljz.mx/autores/Araceli Rodarte"
+
 ---
-![Pie de Foto](Traceback (most recent call last):)
+
+![lets rock](http://i.imgur.com/I89medOm.jpg)
 
 *Federico Priapo Chew Araiza*
 
@@ -132,4 +134,3 @@ por qué el *mainstream *quiere tener al rock bajo su control, dominado,
 adormecido. La bestia acecha, y únicamente espera el momento en que su
 objetivo se adormezca para saltar sobre él y hacerlo su presa. Esperemos
 que eso no suceda.
-
