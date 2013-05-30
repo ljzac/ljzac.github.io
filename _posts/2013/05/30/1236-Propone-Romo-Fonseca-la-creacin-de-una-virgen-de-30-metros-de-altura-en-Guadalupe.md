@@ -4,7 +4,7 @@ title: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en
 twitt: "Necesita municipio reactivar el turismo religioso, asevera"
 author: Sandra Monreal
 authorlink: "https://ljz.mx/autores/Sandra Monreal"
-categories: Política
+categories: ['Política']
 layout: posts
 
 ---
