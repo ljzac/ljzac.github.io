@@ -1,11 +1,11 @@
 ---
 published: "true"
-twitt: Ara y Sandra en training
-categories: Portada
+twitt: "Ara y Sandra en training"
+categories: ['Portada']
 layout: posts
-title: Ara y Sandra en training
-author: Alejandro Garcia
-authorlink: "https://ljz.mx/autores/Alejandro Garcia"
+title: "Ara y Sandra en training"
+author: "Alejandro Garcia"
+authorlink: https://ljz.mx/autores/"Alejandro Garcia"
 
 ---
 
