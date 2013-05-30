@@ -1,9 +1,9 @@
 ---
 published: "true"
 twitt: éste es el texto del twitt
-categories: Portada
+categories: ["Portada"]
 layout: posts
-title: Capacitación primera
+title: "Capacitación primera"
 author: null
 authorlink: "https://ljz.mx/autores/"
 
