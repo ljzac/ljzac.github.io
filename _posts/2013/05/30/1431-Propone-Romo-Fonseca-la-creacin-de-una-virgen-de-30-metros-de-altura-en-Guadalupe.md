@@ -9,7 +9,7 @@ layout: posts
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![romo fonseca](http://i.imgur.com/4TnuYbWm.jpg)
 
 *Necesita municipio reactivar el turismo religioso, asevera*
 
