@@ -1,13 +1,16 @@
 ---
+published: "true"
+tittle: "45454"
+twitt: Otra prueba
+Autor: "45454545"
+categories: Portada
 layout: posts
-title: "Otra prueba"
-twitt: "Otra prueba"
-author: "Carlos García"
-authorlink: https://ljz.mx/autores/"Carlos García"
-categories: ['Portada']
-published: true
+title: Otra prueba
+author: Carlos García
+authorlink: "https://ljz.mx/autores/\"Carlos García\""
+
 ---
+
 ![Pie de Foto](http://i.imgur.com/gYO08ENm.jpg)
 
 Super pumas de la UNAM
-
