@@ -31,7 +31,7 @@ prose:
           value: ""
       - name: "categories"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Sección"
           placeholder: "Selecciona una sección"
           options:
