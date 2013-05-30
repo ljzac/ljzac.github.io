@@ -1,7 +1,7 @@
 ---
-published: "false"
+published: "true"
 tittle: prueba de band of brothers
-categories: Ciencia y Tecnología
+categories: Opinión
 layout: posts
 
 ---
