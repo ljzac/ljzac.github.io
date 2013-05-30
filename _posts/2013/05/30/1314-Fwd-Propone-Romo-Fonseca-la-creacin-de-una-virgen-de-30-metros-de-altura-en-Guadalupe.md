@@ -1,12 +1,14 @@
 ---
-layout: posts
+published: "true"
 title: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
 twitt: "Fwd: Propone Romo Fonseca la creación de una virgen de 30 metros de altura en Guadalupe"
 author: Sandra Monreal
-authorlink: https://ljz.mx/autores/Sandra Monreal
-category: Política
-published: true
+authorlink: "https://ljz.mx/autores/Sandra Monreal"
+category: Ciencia y Tecnología
+layout: posts
+
 ---
+
 ![Pie de Foto](Traceback (most recent call last):)
 
 MODIFICADO
@@ -52,4 +54,3 @@ los distritos 4 y 5, respectivamente, invitó a la ciudadanía a no vender su
 voto, a no caer en las mentiras de los adversarios “no suelten sus
 credenciales, si se las piden no la suelten porque no se las van a
 regresar”, advirtió.
-
