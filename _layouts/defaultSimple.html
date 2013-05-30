@@ -20,6 +20,26 @@ layout: nil
     <link rel="stylesheet" type="text/css" href="/Assets/css/caption.min.css"/>
     <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.min.css" />
 
+</head>
+
+<!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
+<body>
+
+    {{template "header.html" .}}
+
+    {{ .content}}
+
+    <!-- Bottom Section -->
+    <div class="grid_16 bottomSection">
+        {{template "interestlinks.html" . }}
+    </div>
+</div>
+<!-- wrapper Section End-->
+
+<!-- footer section-->
+{{template "footer.html" . }}
+
+
 <script  src="/Assets/js/modernizr.js"></script>
 <script  type="text/javascript" src="/Assets/js/jquery1.6.2.min.js"></script>
 <script  type="text/javascript" src="/Assets/js/custom.min.js"></script>
@@ -41,26 +61,6 @@ layout: nil
 <!--[if IE 8]>
     <link rel="stylesheet" type="text/css" href="/Assets/css/ie8.min.css"/>
     <![endif]-->       
-
-</head>
-
-<!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
-<body>
-
-    {{template "header.html" .}}
-
-    {{ .content}}
-
-    <!-- Bottom Section -->
-    <div class="grid_16 bottomSection">
-        {{template "interestlinks.html" . }}
-    </div>
-</div>
-<!-- wrapper Section End-->
-
-<!-- footer section-->
-{{template "footer.html" . }}
-
 
 
 </body>
