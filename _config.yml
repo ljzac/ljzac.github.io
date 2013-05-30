@@ -5,7 +5,7 @@ prose:
   rooturl: "_posts"
   metadata:
     _posts:
-      - name: "tittle"
+      - name: "title"
         field:
           element: "text"
           label: "Título"
@@ -17,7 +17,7 @@ prose:
           label: "Twitt"
           placeholder: "Escriba el twitt de la nota (menos de 140 caracteres)"
           value: "" 
-      - name: "Autor"
+      - name: "author"
         field:
           element: "text"
           label: "Autor"
