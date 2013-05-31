@@ -378,7 +378,7 @@ h5 {
 	margin:0;
 }
 .link_interes li {
-	width: 30%;
+	width: auto;
 	display:inline-block;
 }
 .navigation{ display:block;}
