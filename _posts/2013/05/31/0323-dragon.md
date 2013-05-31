@@ -1,6 +1,7 @@
 ---
-published: "false"
+published: "true"
 title: Sancionan en Cancún con 2 millones 700 mil pesos a Dragon Mart por devastar 87 ha
+author: joaco zamora
 category: Portada
 layout: posts
 
