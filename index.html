@@ -6,11 +6,9 @@ layout: default
 {{ template "laNotaPrincipal" index .site.categories "Portada"}}
 <div class="grid_16 dot">
   <div class="grid_8 alpha">
-    {{ template "seccion" index .site.categories "De Rock" }}
 	  {{ template "seccion" index .site.categories "Zacatecas" }}    
-	  {{ template "publicidad" index .site.categories "Publicidad"}}
-	  {{ template "seccion" index .site.categories "Principales" }}
-	  {{ template "seccion" index .site.categories "Destacadas" }}
+	  {{ template "seccion" index .site.categories "Destacadas"}}
+	  {{ template "seccion" index .site.categories "Mundo" }}
 	</div>
 
 	<div class="grid_8 omega">
@@ -19,12 +17,10 @@ layout: default
 	    <div class="title">
 	      <h4>COLUMNAS</h4>
 	    </div>
+	      {{ template "columnas" index .site.categories "Editorial"}}
 		  {{ template "columnas" index .site.categories "La Jiribilla"}}
-	    {{ template "columnas" index .site.categories "Opinión"}}
-	    {{ template "columnas" index .site.categories "Destacadas"}}
-		  {{ template "seccion" index .site.categories "Politica" }}
+		  {{ template "seccion" index .site.categories "A debate"}}
 	  </div>
-      {{ template "seccion" index .site.categories "Autor" }}
 	</div>
 </div>
 <!-- Left Section End -->
