@@ -359,7 +359,7 @@ Container Section Css
 	font: inherit;
 }
 .customA{
-	height: 240px;
+	height: 210px;
 	width: 100%;
 	overflow: hidden;
 	float: left;
@@ -565,7 +565,7 @@ Right Section Css
 .papper {
 	position:absolute;
 	right:8px;
-	top:4px;
+	top:45px;
 }
 .papper span {
 	display:block;
