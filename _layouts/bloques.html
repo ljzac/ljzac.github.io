@@ -11,8 +11,8 @@
     <li>
       {{if $index}}
       {{else}}
-      <a href="{{$nota.url}}">
-        <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" />
+      <a href="{{$nota.url}}" class="customA">
+        <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" style="height:auto; width:100%;"/>
       </a>
       {{ end }}
       <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>

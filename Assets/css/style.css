@@ -357,7 +357,12 @@ Container Section Css
 .news_tpoic h3 a {
 	font: inherit;
 }
-
+.customA{
+	height: 240px;
+	width: 100%;
+	overflow: hidden;
+	float: left;
+}
 .news_tpoic a {
 	font-size:13px;
 	color:#333;
