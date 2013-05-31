@@ -10,7 +10,7 @@ layout: posts
 
  *RECONOCE GOBIERNO DEL ESTADO LABOR DE LOS BOMBEROS*
 
-* *
+* *![Bomberos en acción](http://i.imgur.com/L4OVJt9m.jpg)
 
 El secretario general de Gobierno, Francisco Escobedo
 Villegas, reconoció la labor que a diario realizan los bomberos para apoyar
