@@ -1,5 +1,7 @@
 ---
 published: "true"
+title: boletín 30 de mayo
+author: Jocelyn
 category: Portada
 layout: posts
 
