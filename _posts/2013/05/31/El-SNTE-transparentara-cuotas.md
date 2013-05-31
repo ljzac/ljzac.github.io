@@ -1,7 +1,7 @@
 ---
 published: "true"
 author: joakin
-category: Política
+category: Principales
 layout: posts
 
 ---
