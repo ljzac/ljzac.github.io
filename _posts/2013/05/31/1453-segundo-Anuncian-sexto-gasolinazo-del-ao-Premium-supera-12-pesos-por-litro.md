@@ -1,14 +1,13 @@
 ---
-published: "false"
+published: "true"
 title: segundo Anuncian sexto gasolinazo del año; Premium supera 12 pesos por litro
 twitt: segundo Anuncian sexto gasolinazo del año; Premium supera 12 pesos por litro
 author: Alejandro Garcia
 authorlink: "https://ljz.mx/autores/Alejandro Garcia"
-category: 
+category: Portada
 layout: posts
 
 ---
-
 
 *México, DF. *El gobierno federal determinó aplicar el sexto incremento en
 lo que va del año en el precio de los combustibles el cual se aplicará a
@@ -22,4 +21,3 @@ pesos por litro.
 Por su parte, el diesel también aumenta 11 centavos y se venderá a partir
 del primer minuto de este sábado en 11.93 pesos, adelantó la Asociación
 Mexicana de Empresarios Gasolineros (Amegas).
-
