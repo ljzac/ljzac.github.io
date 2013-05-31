@@ -1,6 +1,6 @@
 ---
 published: "true"
-author: joakin
+author: joakin zam zam
 category: Principales
 layout: posts
 
