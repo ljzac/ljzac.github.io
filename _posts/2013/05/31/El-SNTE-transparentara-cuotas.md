@@ -1,5 +1,6 @@
 ---
 published: "true"
+author: joakin
 category: Política
 layout: posts
 
