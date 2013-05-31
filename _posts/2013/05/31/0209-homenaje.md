@@ -1,7 +1,7 @@
 ---
-published: "false"
+published: "true"
 title: homenaje
-category: Cultura y Espectáculos
+category: Mundo
 layout: posts
 
 ---
