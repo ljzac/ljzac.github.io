@@ -1,7 +1,7 @@
 ---
-published: "false"
+published: "true"
 title: Recorre embajador de Suecia el Centro Aeroespacial de Zacatecas
-twitt: Recorre embajador de Suecia el Centro Aeroespacial de Zacatecas
+twitt: La visita de Jörgen Persson tiene como finalidad invertir en el    sector minero e industrial del estado
 author: Sandra Monreal
 authorlink: "https://ljz.mx/autores/Sandra Monreal"
 category: Educación
@@ -10,9 +10,7 @@ layout: posts
 ---
 
 
-   - *La visita de Jörgen Persson tiene como finalidad invertir en el
-   sector minero e industrial del estado*
-   - *La entidad es la primera en contar con clúster minero por lo que
+- *La entidad es la primera en contar con clúster minero por lo que
    prevén el ingreso de capital extranjero*
 
 *La Jornada Zacatecas/REDACCION*
@@ -39,4 +37,3 @@ Por otra parte, es importante recalcar que  Zacatecas es el primer
 productor de plata y zinc, así como el segundo en oro, además de contar con
 el primer clúster minero del país, lo que brinda una gran oportunidad de
 inversión a capital extranjero en nuestro estado.
-
