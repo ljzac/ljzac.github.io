@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: do it for her
 twitt: do it for her
 author: Alfonso Alvz
@@ -9,9 +9,7 @@ layout: posts
 
 ---
 
-
 please
 
 -- 
 Alfonso Alvarez
-
