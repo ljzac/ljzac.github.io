@@ -14,8 +14,8 @@ prose:
       - name: "twitt"
         field:
           element: "text"
-          label: "Twitt"
-          placeholder: "Escriba el twitt de la nota (menos de 140 caracteres)"
+          label: "Balazo"
+          placeholder: "El balazo o sumario de la nota"
           value: "" 
       - name: "author"
         field:
