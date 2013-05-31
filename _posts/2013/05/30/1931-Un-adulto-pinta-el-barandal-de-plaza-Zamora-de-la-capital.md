@@ -1,13 +1,12 @@
 ---
-layout: posts
-title: "Un adulto pinta el barandal de plaza Zamora de la capital"
-twitt: "Un adulto pinta el barandal de plaza Zamora de la capital"
+published: "true"
+title: Un adulto pinta el barandal de plaza Zamora de la capital
+twitt: Un adulto pinta el barandal de plaza Zamora de la capital
 author: Araceli Rodarte
-authorlink: https://ljz.mx/autores/Araceli Rodarte
+authorlink: "https://ljz.mx/autores/Araceli Rodarte"
 category: Fuera de Foco
-published: true
+layout: posts
+
 ---
-![Pie de Foto]()
 
-
-
+![muertes a causa de cigarro](http://i.imgur.com/9o67kvCm.jpg)
