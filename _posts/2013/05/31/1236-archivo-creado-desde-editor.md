@@ -1,5 +1,9 @@
 ---
 published: "false"
+title: title_title
+twitt: balazo_balazo
+author: autor_autor
+authorlink: autor_link
 category: Portada
 layout: posts
 
