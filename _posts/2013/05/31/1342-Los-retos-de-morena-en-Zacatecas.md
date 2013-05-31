@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Los retos de morena en Zacatecas
 twitt: Los retos de morena en Zacatecas
 author: Sandra Monreal
@@ -8,7 +8,6 @@ category: Editorial
 layout: posts
 
 ---
-
 
 La nueva visita que Andrés Manuel López Obrador realiza a Zacatecas subraya
 el esfuerzo personal que está haciendo para dar seguimiento cercano al
@@ -55,4 +54,3 @@ es el más convencido de ello. Por ello nos parece que sería muy sano que ya
 hicieran públicos los procedimientos democráticos que adoptarán para
 designar candidaturas, y en que se diferenciarán de las imposiciones
 centralistas de todos los partidos del sistema actual.
-
