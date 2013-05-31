@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: Reconoce Gobierno del Estado labor de los bomberos
 twitt: Bomberos reconocidos
 author: Ricardo Arellano
