@@ -203,8 +203,9 @@ Header Section Css
 }
 .app{
 	background-position: -7.909088373184204px -125.81817626953125px ;
-	width: 251px;
+	display: block;
 	height: 133px;
+	width: 251px;
 }
 .time-date {
 	float:left;
