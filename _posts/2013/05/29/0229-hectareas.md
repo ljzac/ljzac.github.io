@@ -1,13 +1,13 @@
 ---
-published: "false"
+published: "true"
 title: Reportan autoridades un total de mil  820 hectáreas afectadas por incendios
 author: joaquin zamora
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 
 ---
 
- [Markdown](http://daringfireball.net/projects/markdown/). Use the 
+[Markdown](http://daringfireball.net/projects/markdown/). Use the 
  ![](http://i.imgur.com/Yn0eZKnm.jpg)
  CESAR PEREZ
 
