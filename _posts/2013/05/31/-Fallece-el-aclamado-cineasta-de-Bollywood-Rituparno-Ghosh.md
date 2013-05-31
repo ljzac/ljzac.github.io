@@ -1,5 +1,6 @@
 ---
 published: "true"
+title: Fallece el aclamado cineasta de Bollywood Rituparno Ghosh
 author: joakin zmaora
 category: De Rock
 layout: posts
