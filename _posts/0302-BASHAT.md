@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: Reconoce Bashar Asad haber recibido misiles rusos
-category: Opinión
+category: Portada
 layout: posts
 
 ---
