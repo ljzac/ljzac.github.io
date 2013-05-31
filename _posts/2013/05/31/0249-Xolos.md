@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Empata Atlético Mineiro 1-1 con Tijuana; clasifica a semifinal de Libertadores"
 author: Redacción
 category: Deportes
