@@ -325,9 +325,12 @@ h5 {
 	.header a.logo {
 		display: inline-block;
 		background: url(../images/logo.png);
-		width: 90%;
-		height: auto;
+		background-size: 90% auto;
+		background-repeat: no-repeat;
 	} 
+	.app {
+		margin-left: 6.7em;
+	}
 	 .side-tweet{ display:none;}
 .container, .dot {
 	background:none;
@@ -375,7 +378,7 @@ h5 {
 	margin:0;
 }
 .link_interes li {
-	width: 30%;
+	width: auto;
 	display:inline-block;
 }
 .navigation{ display:block;}
