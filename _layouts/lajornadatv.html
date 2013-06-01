@@ -6,27 +6,8 @@
     </div>
 
     <figure>
-      <script type="text/javascript">
-      function youtube_videos(data) {
-        var feed = data.feed;
-        var entries = feed.entry || [];
-        var html = [];   
-        var entry = entries[0];
-        var title = entry.title.$t;
-        var width = "280";
-        var height = "220";
-        var playerUrl = entries[0].media$group.media$content[0].url;
-        html.push(
-         "<embed src='" , playerUrl ,
-         "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
-         "' height='" , height , "'></embed>" );
-        document.getElementById('videos').innerHTML = html.join('');
-      } 
-      </script>
-      <div id="videos">
-      </div>
-      <script type="text/javascript" src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?alt=json-in-script&max-results=2&callback=youtube_videos">
-      </script>
+<iframe id="ytplayer" type="text/html" width="280" height="220"
+src="https://www.youtube.com/embed/?listType=user_uploads&list=LaJornadaZacatecas&showinfo=1" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     </figure>
 
   </div>
