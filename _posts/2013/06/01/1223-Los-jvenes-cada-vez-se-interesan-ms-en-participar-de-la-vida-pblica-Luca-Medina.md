@@ -1,11 +1,11 @@
 ---
-published: "false"
-title: "Los jóvenes cada vez se interesan más en participar de la vida pública: Lucía Medina"
+published: "true"
+title: "Los jóvenes cada vez se interesan más mucho en participar de la vida pública: Lucía Medina"
 twitt: "Los jóvenes cada vez se interesan más en participar de la vida pública: Lucía Medina"
-author: "Sandra Monreal"
+author: Sandra Monreal
 authorlink: "https://ljz.mx/autores/Sandra Monreal"
-category: "A debate"
-layout: "posts"
+category: A debate
+layout: posts
 
 ---
 
@@ -42,4 +42,3 @@ rearticulado y ya trabajan de lleno en Morena como tal, en donde hay
 jóvenes afiliados y en las dirigencias municipales figuran muchos de ellos.
 Aunque las edades no se han hecho fundamentales para estar en el
 movimiento, finalizó.
-
