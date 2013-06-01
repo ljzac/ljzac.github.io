@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Los jóvenes cada vez se interesan más mucho en participar de la vida pública: Lucía Medina"
+title: "Los jóvenes cada vez se interesan más en participar de la vida pública: Lucía Medina"
 twitt: "Los jóvenes cada vez se interesan más en participar de la vida pública: Lucía Medina"
 author: Sandra Monreal
 authorlink: "https://ljz.mx/autores/Sandra Monreal"
