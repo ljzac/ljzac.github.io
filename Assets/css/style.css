@@ -19,7 +19,7 @@
 	margin:0 auto;
 }
 
-.side-tweet, .shadow, .navigation_bg, .nav, .nav li, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app, .shadow {
+.side-tweet, .shadow, .navigation_bg, .nav, .link_interes .linkElUniversal, .link_interes .linkLaJornada, .link_interes .linkProceso, .link_interes .linkMilenio, .link_interes .linkElPais, .link_interes .linkTheClinic, .link_interes .linkMonde, .news .linkBook, .papper a, .header a.logo, .app, .shadow {
     background: url(../images/sprites.png);
 }
 
@@ -56,6 +56,7 @@ Header Section Css
 .header a.logo {
 	display:inline-block;
 	background-position: -8.909088373184204px -298.18182373046875px ;
+	background: url(../images/logo_beta.png);
 	width: 415px;
 	height: 112px;
 }
@@ -73,16 +74,12 @@ Header Section Css
      Navigation Section
 ============================== */
 .shadow {
-	background-position: -1.1818182468414307px -129.99998474121094px ;
-	background-repeat: no-repeat;
-	background-size: 947px 24px;
-	overflow:hidden;
 	padding-bottom:9px;
 	position:relative;
 }
 .navigation {
 	background:url(../images/navigation_bg.png)left top repeat-y;
-	overflow:hidden;
+	/*overflow:hidden;*/
 	border-radius:10px;
 	min-height:109px;
 	position:relative;
@@ -93,7 +90,6 @@ Header Section Css
 	width:100%;
 }
 .nav li {
-	background: url(../images/divider.png) center right no-repeat;
 	float: left;
 	position:relative
 }
@@ -129,7 +125,8 @@ Header Section Css
 	position:absolute;
 	top:40px;
 	left:-42px;
-	width:720px;
+	width: 300px;
+	height: auto;
 	padding-bottom:9px;
 	padding-top: 10px;
 	box-shadow: 0 2px 5px #333333;
@@ -154,11 +151,6 @@ Header Section Css
 	font-weight:bold;
 	display:block;
 	padding:0 !important;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 0.3s;
 }
 .dropdwon li a:hover {
 	color: #e6e6e6;
@@ -170,13 +162,14 @@ Header Section Css
 }
 .dropdwon li {
 	float:none;
-	background:url(../images/sub_nav_divider.png) center left no-repeat;
+	/*background:url(../images/sub_nav_divider.png) center left no-repeat;*/
 	padding:0 0 0 11px;
 	display:inline-block;
 }
 .dropdwon li:hover {
 	background:url(../images/sub_nav_divider.png) center left no-repeat;
 }
+
 
 
 /* ==============================

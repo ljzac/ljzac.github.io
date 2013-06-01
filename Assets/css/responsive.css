@@ -330,7 +330,7 @@ h5 {
 	.header a.logo {
 		display: inline-block;
 		margin-top: 10px;
-		background: url(../images/logo.png);
+		background: url(../images/logo_beta.png);
 		background-size: 100% auto;
 		background-repeat: no-repeat;
 		width: 100%;
@@ -393,7 +393,7 @@ h5 {
     margin-bottom: 5px;
     padding: 0 19px;
 }
-.shadow{background: url(../images/shadow.png); background-size:100%; padding-bottom:4px;margin-bottom:10px; overflow:inherit;}
+.shadow{background: url(../images/shadow.png); background-size:100%; background-repeat: no-repeat; padding-bottom:4px;margin-bottom:10px; overflow:inherit;}
 .navigation{overflow:inherit;}
 .sub-nav{padding-top:10px;}
 .subscribe span input[type="text"]{width:71%;}

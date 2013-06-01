@@ -427,7 +427,12 @@
 }
 
 /* Customize grid */
-.container_16 .grid_16{width:100%; margin:0;}
+.container_16 .grid_16{
+	width:100%; 
+	margin: 0 0 20px 0; 
+	-webkit-box-shadow:  0px 15px 20px -10px #333; 
+	box-shadow:  0px 15px 20px -10px #333;
+}
 
 .container_16 .grid_12{
     width: 71%;}
