@@ -1,5 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
+.article p{
+	text-align: justify;
+}
+#text h1 div.caption{
+	float: none;
+	display: inline-block;
+	text-align: center;
+	margin-left: -moz-calc((100% - 332px)/2);
+	margin-left: calc((100% - 332px)/2);
+}
+#text h2 div.caption{
+	text-align: center;
+	float: right;
+}
 .wrapper {
 	max-width:960px;
 	margin:0 auto;
