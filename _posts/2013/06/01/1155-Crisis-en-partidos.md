@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Crisis de los partidos, sustentada en el extravío de sus principios: Valerio"
 twitt: Los institutos políticos han privilegiado la búsqueda del poder
 author: ALMA ALEJANDRA TAPIA
