@@ -255,7 +255,7 @@ h5 {
 	padding-left:9px;
 }
 .carousel li {
-	margin-right:29px;
+	/*margin-right:29px;*/
 }
 .footer-content {
 	width:86%;
@@ -329,13 +329,12 @@ h5 {
 	}
 	.header a.logo {
 		display: inline-block;
+		margin-top: 10px;
 		background: url(../images/logo.png);
-		background-size: 90% auto;
+		background-size: 100% auto;
 		background-repeat: no-repeat;
+		width: 100%;
 	} 
-	.app {
-		margin-left: 6.7em;
-	}
 	 .side-tweet{ display:none;}
 .container, .dot {
 	background:none;
@@ -394,7 +393,7 @@ h5 {
     margin-bottom: 5px;
     padding: 0 19px;
 }
-.shadow{background-size:100%; padding-bottom:4px;margin-bottom:10px; overflow:inherit;}
+.shadow{background: url(../images/shadow.png); background-size:100%; padding-bottom:4px;margin-bottom:10px; overflow:inherit;}
 .navigation{overflow:inherit;}
 .sub-nav{padding-top:10px;}
 .subscribe span input[type="text"]{width:71%;}
@@ -403,7 +402,7 @@ h5 {
     padding-right:6%;
 }
 .carousel li {
-    margin-left: 101px;
+    /*margin-left: 101px;*/
 }
 .app a{ display:block;}
 .app a img{ display:block; margin:0 auto;}
@@ -421,8 +420,7 @@ h5 {
 
 @media only screen and (max-width:479px) {
 .carousel li {
-	margin-left:31px;
-	
+	/*margin-left:40px;*/
 }
 .search span {
     width: 82%;
@@ -462,3 +460,10 @@ h5 {
  @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
 	.figure-slider ul li{width:287px !important; margin-right:0px;}
  }
+
+ @media only screen and (max-width:767px) and (orientation:landscape){
+	.header a.logo {
+		margin: 10px 0;
+		height: 140px;
+	} 
+}
