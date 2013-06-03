@@ -9,4 +9,6 @@ layout: posts
 
 ---
 
-La directora de WSI aparentando que trabaja.
+La directora de WSI aparentando que trabaja. Y en realidad sí trabaja!!!
+
+![trabajando](/_posts/2013/06/03/masFiesta.jpg)
