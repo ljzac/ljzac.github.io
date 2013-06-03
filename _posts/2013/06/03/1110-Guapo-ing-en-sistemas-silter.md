@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-![Pie de Foto](http://i.imgur.com/CJkiqxtm.jpg)
+![Dice estar soltero](http://i.imgur.com/CJkiqxtm.jpg)
 
-Bla bla
+Para interesadas: 23 años de edad, egresado de ingeniería en tecnología, políglota y comprometido con sus ideales. Acepta personas de diversos países.
