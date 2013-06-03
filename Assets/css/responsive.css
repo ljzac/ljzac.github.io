@@ -321,6 +321,13 @@ h5 {
 .widget ul > li a,.widget ul > li strong{font-size:1em;}
 }
  @media only screen and (max-width:767px) {
+ 	#zenbox_tab img {
+ 		display: none;
+ 	}
+ 	.videoLaJornadaTV{
+ 		width: 320px;
+ 		height: 180px;
+ 	}
  	.partner li figure, .partner li .intro {
 		display: inline-block;
 	}

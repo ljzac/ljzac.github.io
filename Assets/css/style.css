@@ -42,6 +42,10 @@ side tweet
 /*========================================
 Header Section Css
 ========================================*/
+.videoLaJornadaTV{
+	width:682px; 
+	height:360px;
+}
 .header-wrap {
 	width:100%;
 	background:#a8a9ad;
