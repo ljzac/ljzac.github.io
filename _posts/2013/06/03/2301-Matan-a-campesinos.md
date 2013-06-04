@@ -5,7 +5,7 @@ layout: posts
 
 ---
 
-![](/_posts/2013/06/03/fede.jpg)
+![](/_posts/2013/06/03/p12%20Direcci%C3%B3n%20Tr%C3%A1nsito.jpg)
 Tras encontrarse los cadáveres de tres de los ocho campesinos desaparecidos el pasado jueves luego de una protesta en Iguala, Guerrero, cientos de integrantes de la organización Unidad Popular realizaron destrozos en el palacio municipal en demanda de que se aclaren los crímenes.
 
 Los tres cuerpos de Arturo Hernández Gardona, Félix Rafael Gandera Román y Ángel Román Ramírez fueron encontrados al mediodía entre el punto conocido como rancho del cura y Xalitla,  vendados y con huellas de tortura, indicó el dirigente perredista David Molina Francisco.
