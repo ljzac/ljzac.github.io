@@ -1,12 +1,14 @@
 ---
-layout: posts
-title: "Revistas sociales del estado"
-twitt: "Revistas sociales del estado"
+published: "true"
+title: Revistas sociales del estado
+twitt: Revistas sociales del estado
 author: Viejo
-categories: ['Publicidad']
-authorlink: https://jagacademy.github.com
-published: true
+authorlink: "https://jagacademy.github.com"
+category: Portada
+layout: posts
+categories: 
+  - Publicidad
+
 ---
 
-
-![Alt text](http://i.imgur.com/CVjrQ1om.jpg)
+![Imgur](http://i.imgur.com/LXwQmcA.jpg)
