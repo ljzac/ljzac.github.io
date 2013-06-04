@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-![Pie de Foto](http://i.imgur.com/aScZFQcm.jpg)
+![Mira nada más qué guapo](http://i.imgur.com/aScZFQcm.jpg)
 
 Aquí trabajando desde manzanillo :)
