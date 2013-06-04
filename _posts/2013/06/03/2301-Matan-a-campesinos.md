@@ -1,6 +1,6 @@
 ---
-published: "false"
-category: Principales
+published: "true"
+category: Portada
 layout: posts
 
 ---
