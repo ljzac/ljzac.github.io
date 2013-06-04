@@ -118,8 +118,10 @@ Header Section Css
     border-radius: 5px 5px 0px 0px;
 }
 .sub-nav {
-	display:inline-block;
-	padding-top:41px
+	display: inline-block;
+	padding-top:41px;
+	text-align: center;
+	width: 100%;
 }
 /* Dropdown Css */
 
@@ -205,8 +207,10 @@ Header Section Css
 	background:none;
 }
 .sub-nav ul {
+	display: inline-block;
 	margin-left: 11px;
 	overflow: hidden;
+	text-align: center;
 }
 .sub-nav li a {
 	font-size:1.6em;
