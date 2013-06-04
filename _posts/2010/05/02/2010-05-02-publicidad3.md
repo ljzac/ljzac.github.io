@@ -8,4 +8,4 @@ authorlink: http://twtter.com/tu_cuenta
 published: true
 ---
 
-![Pie](http://i.imgur.com/BT7BOK4m.png)
+![Pie](http://i.imgur.com/HRnNywb.png)
