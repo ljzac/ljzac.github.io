@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Ciudadanía debe participar en decisiones de gobierno
 author: "Camerino Eleazar Márquez Madrid*"
 category: Opinión
