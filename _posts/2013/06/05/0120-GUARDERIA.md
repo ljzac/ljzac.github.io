@@ -1,8 +1,8 @@
 ---
-published: "false"
+published: "true"
 title: Incendio en guardería ABC obliga a  estancias a cambiar reglas operativas
 author: CESAR PEREZ
-category: Sociedad y Justicia
+category: Municipios
 layout: posts
 
 ---
