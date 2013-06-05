@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Las protestas el caldo, las causas las albóndigas"
 author: Lucía Medina Suárez del Real
 category: Opinión
@@ -20,4 +20,4 @@ Quizá eso provocó que luego de cinco o seis horas después de la detención, E
 Los dos hechos represivos de ayer causaron indignación, sin embargo, la detención de los líderes de los ex braceros tuvo mayor repercusión, en parte porque su manifestación no afectaba a terceros. En ese contexto, se omite decir que los estudiantes de San Marcos presionaban al mismo funcionario que se negó una y otra vez a recibir a los maestros del Movimiento Democrático que por escrito le solicitaron audiencia reiteradas veces. El secretario de Educación no tuvo tiempo de recibirlos, solamente de reiterar en entrevistas que él no cumplía caprichos. El burro hablando de orejas…
 Cierto es que los luchadores sociales deben encontrar formas de manifestación que lejos de generar antipatía y distraer la atención, permitan difundir la causa social que motiva, pero cierto también que el enojo social debe dirigirse de igual forma, y sobre todo, contra quienes dan razones para las manifestaciones y protestas. En ese sentido, a la ciudadanía más convendría la solución del conflicto a largo plazo y de raíz, que el repliegue temporal de manifestantes que tarde o temprano volverán más irritados y radicales. Y sí se puede, la muestra la dio el gobierno del Distrito Federal que solucionó el bloqueo del Eje uno norte por la desaparición de varios adolescentes del barrio de Tepito enviando funcionarios que resolvieran las demandas, y no policías que hicieran a los manifestantes todo lo que no pueden hacerle a los narcotraficantes. ■
 
-@luciamedinas 
+@luciamedinas
