@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Los Tuzos, en el primer lugar en el  Circuito Nacional de Basquetbol"
 author: CESAR A. GONZALEZ
 category: Deportes
@@ -7,6 +7,7 @@ layout: posts
 
 ---
 
+![](http://i.imgur.com/7uGfWovm.jpg)
 CESAR A. GONZALEZ
 
 La escuadra de los Tuzos de la Universidad Autónoma de Zacatecas (UAZ) marcha en la primera posición al inicio de la temporada 2013 del Circuito Nacional de Basquetbol del Noreste (Cibane), luego de superar en las primeras dos jornadas a los Caktus de Saltillo.
