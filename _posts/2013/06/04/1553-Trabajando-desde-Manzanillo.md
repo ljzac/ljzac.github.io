@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-¡Pese a varias labores que debe hacer, mantiene buen ánimo](http://i.imgur.com/aScZFQcm.jpg)
+¡[Pese a varias labores que debe hacer, mantiene buen ánimo](http://i.imgur.com/aScZFQcm.jpg)
 
 Aquí, trabajando desde Manzanillo
