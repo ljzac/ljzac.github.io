@@ -1,8 +1,8 @@
 ---
-published: "false"
+published: "true"
 title: Se reúnen con procurador capitalino familiares de desaparecidos en bar Heaven
 author: Redacción
-category: Portada
+category: Destacadas
 layout: posts
 
 ---
