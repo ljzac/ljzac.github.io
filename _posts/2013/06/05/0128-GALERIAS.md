@@ -1,8 +1,8 @@
 ---
-published: "false"
+published: "true"
 title: "Galerías prometió instalación de empresas  que no se concretaron: Eduardo López"
 author: "ARAZU TINAJERO "
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 
 ---
