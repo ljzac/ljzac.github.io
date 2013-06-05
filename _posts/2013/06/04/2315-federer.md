@@ -1,6 +1,7 @@
 ---
-published: "false"
+published: "true"
 title: Federer eliminado en cuartos de Roland Garros por el francés Tsonga
+author: Redacción
 category: Deportes
 layout: posts
 
