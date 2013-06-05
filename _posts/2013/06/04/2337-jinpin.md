@@ -1,8 +1,8 @@
 ---
-published: "false"
+published: "true"
 title: Acuerdan entrada de carne de cerdo y tequila al mercado chino
 author: Redacción
-category: Portada
+category: Destacadas
 layout: posts
 
 ---
