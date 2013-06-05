@@ -1,7 +1,7 @@
 ---
-published: "false"
+published: "true"
 author: joaquin zamora
-category: Sociedad y Justicia
+category: Municipios
 layout: posts
 
 ---
@@ -20,4 +20,3 @@ Previo a ese acto junto a ciudadanos e integrantes de diversas organizaciones so
 Algunos de lo deudos señalaron que a cuatro años de los hechos la impunidad continúa, pues a la fecha no han sido detenidos ni sancionados los responsables de los hechos.
 
 Se anunció que mañana, justo en la fecha que se conmemora el cuarto aniversario de la tragedia realizarán una marcha que iniciará en el Ángel de la Independencia y concluirá en el Zócalo capitalino donde se proyectará el documental ABC Nunca más, de Pedro Ultreras, material que narra las historias de algunas familias antes y después de la tragedia que les arrebató a sus hijos.
-
