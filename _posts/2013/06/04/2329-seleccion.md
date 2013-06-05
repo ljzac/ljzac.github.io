@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Vence México a Jamaica 1-0 en partido rumbo a Brasil 2014"
 author: Redacción
 category: Deportes
