@@ -1,26 +1,25 @@
 ---
 layout: default
 ---
-
 <!-- los templates estan en _layouts/bloques.html -->
 {{ template "lajornadatvPrincipal.html" }}
-{{ template "laNotaPrincipal.html" index .site.categories "Portada"}}
+{{ template "laNotaPrincipal.html" .s.PagesForCategory "Portada" 15}}
 <div class="grid_16 dot">
   <div class="grid_8 alpha">
-	  {{ template "seccion" index .site.categories "Zacatecas" }}    
-	  {{ template "seccion" index .site.categories "Destacadas"}}
-	  {{ template "seccion" index .site.categories "Mundo" }}
+	  {{ template "seccion" .s.PagesForCategory "Zacatecas" 15 }}    
+	  {{ template "seccion" .s.PagesForCategory "Destacadas" 15}}
+	  {{ template "seccion" .s.PagesForCategory "Mundo" 15 }}
 	</div>
 
 	<div class="grid_8 omega">
-	  {{ template "publicidad" index .site.categories "Publicidad"}}
+	  {{ template "publicidad" .s.PagesForCategory "Publicidad" 15}}
 	  <div class="news_tpoic">
 	    <div class="title">
 	      <h4>COLUMNAS</h4>
 	    </div>
-	      {{ template "columnas" index .site.categories "Editorial"}}
-		  {{ template "columnas" index .site.categories "La Jiribilla"}}
-		  {{ template "seccion" index .site.categories "A debate"}}
+	      {{ template "columnas" .s.PagesForCategory "Editorial" 15}}
+		  {{ template "columnas" .s.PagesForCategory "La Jiribilla" 15}}
+		  {{ template "seccion" .s.PagesForCategory "A debate" 15}}
 	  </div>
 	</div>
 </div>
