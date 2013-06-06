@@ -1,6 +1,7 @@
 ---
 published: "true"
-category: Autor
+title: Tabaquismo en México
+category: México
 layout: posts
 
 ---
