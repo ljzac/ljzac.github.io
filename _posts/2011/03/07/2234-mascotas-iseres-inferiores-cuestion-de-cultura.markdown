@@ -1,0 +1,56 @@
+---
+published: "true"
+title: "MASCOTAS: ¿SERES INFERIORES?... CUESTIÓN DE CULTURA"
+twitt: "MASCOTAS: ¿SERES INFERIORES?... CUESTIÓN DE CULTURA"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Principales"
+layout: "posts"
+
+---
+![](http://i.imgur.com/Il1X5p7m.jpg
+)
+
+
+  CÉSAR AUGUSTO PÉREZSi bien es cierto que existe dentro de la sociedad numerosas inconformidades en cuanto a seguridad, economía, infraestructura, entre otras cosas, también se cuenta con problemas que se han pugnado por resolver o darles cierta regulación a prácticas que, por el momento, no son de gran interés social. El maltrato animal es consecuencia de una cultura que ha aprendido a ver a las mascotas como seres inferiores y al servicio de los hombres.
+
+
+
+  En razón a ello, es necesaria una regulación que garantice la protección de éstos y que origine un cambio cultural en cuanto a la concepción que se tiene hacia los animales. Actualmente, en la entidad, un grupo pequeño se encuentra interesado por este asunto, sin embargo no ha existido una presión social de tamaño considerable.
+
+
+
+  EN LA LEY PROTEGERLOSA partir del 25 de julio de 2007 en Zacatecas se cuenta con una ley, publicada en el decreto 523 y se denomina Ley para la Protección y Bienestar de los Animales en el Estado y Municipio de Zacatecas. El docente investigador de la Unidad Académica de Derecho de la UAZ y, además, Coordinador del  grupo académico multidisciplinario ambiental, Álvaro García Hernández comentó que el propósito de la misma es asegurar el bienestar para los animales y establecer los criterios de sustentabilidad para proteger la vida de éstos, incluso considera que existan facultades estatales y municipales en la materia; la regulación de un trato digno y respetuoso, expedición de normas zoológicas, y la cuestión más importante: la participación ciudadana para que esta ley funcione correctamente. Este decreto abarca a los animales domésticos de compañía como los perros, gatos, o quienes vivan en algún hogar; domésticos de producción y de entrenamiento; animales ferales y silvestres; y por último, los animales que son utilizados para la enseñanza y la investigación. Así mismo, protege aspectos como el de la salud humana al regular la venta de mascotas en la vía pública. Un ejemplo señalado por Álvarez se encuentra en la llamada fayuca, que es un tianguis dominical situado en la colonia Díaz Ordaz. Ahí, se establecen puestos en los que se venden distintos tipos de animales sin ningún control sanitario.
+
+
+
+  La Ley prohíbe esto debido a que las mascotas deben presentar un certificado de sanidad que indique cuántas vacunas tiene, o si están libres de parásitos. En base a lo anterior, las condiciones que ofrece  la vía pública para vender animales resulta una medida inadaptable ya que  no se puede establecer un óptimo control de salubridad. Vemos de forma desafortunada que vendan pollos de colores; les están haciendo un daño con la pintura. Algunos todavía los vemos con un gorrito pegado con silicón en la cabeza comentó el abogado. Califica estas prácticas como  cuestiones agresivas Por esto mismo García Hernández opina que es necesario incrementar la cultura de respeto hacia las demás especies que conviven con el Hombre. Otro asunto que cubre la Ley es poner atención a las escuelas de medicina y otras similares en donde realicen prácticas con animales. Comentó que en estos casos se ha presentado la situación de que existen personas que venden perros a los estudiantes hasta por 50 pesos.
+
+
+
+  Ellos hacen sus prácticas y en ocasiones no tiene la precaución de recuperar la salud de los perros; los dejan libres y a veces andan con las vísceras de fuera, dijo García Hernández. Actualmente hay un acercamiento entre la Escuela de Medicina Veterinaria y el Grupo Académico Multidisciplinario Ambiental; la primera institución está por constituir un comité de bioética, el cuál ya está plasmado por la Ley. En dicho comité organizado entre alumnos y profesores- se plantea la regulación y vigilancia de que las prácticas médicas realizadas con perros y gatos sobre todo- se garanticen que les otorgarán atenciones para que éstos recuperen su salud y vuelvan al lugar donde se encontraban. En otras ocasiones es el centro de control canino quien solicita, previo oficio, la asignación de animales para este tipo de estudios médicos.
+
+
+
+  Para combatir la cultura del maltrato animal es necesario crear campañas de conciencia que primordialmente estén enfocadas hacia los niños, puesto que son mayormente susceptibles a crearles hábitos a comparación de los adultos. Nosotros como Unidad Académica de Derecho con el apoyo del señor director Cuauhtémoc Rodríguez y el rector Domínguez Garay, hemos emprendido un círculo de pláticas en las escuelas primarias en donde les hablamos de los beneficios de esta Ley; hablamos de una nueva cultura de relacionarnos con los animales.  Sin embargo se busca intensificar esta campaña. Para lograr este objetivo existen intentos de crear nexos con otras unidades académicas como lo es Veterinaria y Medicina Humana.
+
+
+
+  Está demostrado que un niño que es violento con los animales, esa agresividad la traslada con los seres humanos, comentó el licenciado. Por esto mismo señala que es muy importante que los medios de comunicación e instancias educativas cooperen para resolver este problema social. Así mismo, el Instituto de Ecología y Medio Ambiente cuenta con proyectos ambientales en los que se concientiza a los infantes sobre aspectos generales de la ecología. Pero aún no existe una campaña canalizada específicamente al cuidado y respeto de los animales. Por otra parte, hay actos de maltrato animal que no cubre la Ley y sólo se aspira a conciliar intereses. Dos ejemplos de ello son las actividades Taurinas y las peleas de Gallos. Estos forman parte de la cultura y se han arraigado a la propia identidad del Estado, tal es el slogan comercial Zacatecas. Tierra de toros.  Julio Cesar Nava, director general del Instituto de Ecología y Medio Ambiente, comentó que controlar este asunto implicaría un gran impacto social ya que es visto, más que un gusto, como una tradición.
+
+
+
+  Hasta la fecha no existe una denuncia formal contra este tipo de prácticas. Una opción es crear foros de análisis para conocer la opinión de las personas sobre este ámbito, dijo. Desde la administración pasada quedó pendiente la creación de un organismo encargado de velar por que se cumpla esta Ley de protección para todas las especies.
+
+
+
+  La Comisión Estatal Para la Protección de los Animales tendría el fin de operar como una institución consultora que debe estar estructurado por organizaciones no gubernamentales, el sector académico, social, y gubernamental.  Existen expectativas de lograr la creación de este organismo público; García Hernández comenta que en estos momentos existe preocupación por el mejoramiento ambiental, entre los cuales se encuentra el problema del maltrato animal. Esto origina que se cuente con claras posibilidades de hacer realidad esta comisión. Sin embargo, los plazos que han sido planteados para la creación de ésta ya se han vencido puesto que desde el 2007 debió arrancar el programa.
+
+
+
+  En un periodo de 60 días se debía contar con un reglamento, cosa que aún no existe. Ahora queda a la voluntad de las autoridades para cumplir con todos los pendientes jurídicos que quedan a partir de la Ley. De momento la primera autoridad a la que se puede recurrir es el Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, así como la presidencia municipal y los Servicios de Salud. Por su parte, el Instituto de Medio Ambiente no está totalmente facultado para canalizar problemas de maltrato animal, por ello se ha planteado crear la comisión para la protección de animales en el cual colaboran grupos ambientalistas que pugnan por la edificación de éste. Hemos tratado varios asuntos con estos grupos. Pero nos falta este asunto y por ello lo estamos llevando a cabo con el licenciado Álvaro García, precisamente para sumar fuerzas y hacer algo que aterrice comenta Julio Nava. Así mismo señaló que la coordinación entre organizaciones no gubernamentales y el IEMAZ es necesaria debido a que el Instituto no tiene la posibilidad de llevar a cabo la conformación de agrupaciones que atiendan esta problemática.
+
+
+
+  Tenemos un análisis muy claro de la normatividad que hace falta en el Estado de Zacatecas, hablando en materia de reglamentos y formatos derivados de éstos así como normas técnicas. A solicitud de grupos de protección de animales, este asunto, comenta el titular de IEMAZ es una de las tareas en las que se piensa enfocar el organismo. Está contemplado armar conjuntamente un programa en el cual podamos aterrizar las acciones que las propuestas normativas existentes y las que vienen puedan ser aplicadas.  La propuesta de crear la comisión quedó en manos del licenciado Álvaro quien nos la hará llegar cuando tenga la forma en que van a operar. Quedó de analizar y de llevarlas al grupo de las personas con las cuales tiene contactos para que realicen el proyecto y en base a eso detallarla, explicó César Nava.  Actualmente está en planes crear un convenio entre la Sociedad Protectora de Animales y la unidad de Veterinaria. El objetivo de esto es erradicar el problema de la rabia en la entidad, intensificar jornadas de esterilización y de campañas de adopción de animales.
+

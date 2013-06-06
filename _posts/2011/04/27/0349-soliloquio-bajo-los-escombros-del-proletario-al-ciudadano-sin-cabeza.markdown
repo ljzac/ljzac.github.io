@@ -1,0 +1,18 @@
+---
+published: "true"
+title: "Soliloquio bajo los escombros Del proletario al ciudadano sin cabeza"
+twitt: "Soliloquio bajo los escombros Del proletario al ciudadano sin cabeza"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Enfoque"
+layout: "posts"
+
+---
+
+
+  Atanasio Campos Miramontes
+
+
+
+  La modernidad democrática tiene dos polos: la democracia liberal (laisser faire) y la democracia radical por la igualdad. Con los Bolsheviques en el poder, la victoria de la Unión Soviética en la II Guerra Mundial, la creación del bloque socialista; la Revolución China, el movimiento de liberación nacional en las colonias; un movimiento obrero activo, y fuertes partidos de izquierda en Europa, la burguesía occidental se vio obligada a pactar con la socialdemocracia el Estado de bienestar. Pero una vez que las elites conversas de los regímenes socialistas, en alianza con Occidente, desarticularon el socialismo real, la revancha no se hizo esperar. Ante un movimiento obrero desmoralizado y sin rumbo, la intelectualidad progresista desencantada y pasmada, la gran burguesía, con el Consenso de Washington y la propaganda del libre mercado, exigió desmantelar el Estado social. Así, el neoliberalismo representó el retorno a las condiciones del darwinismo social, de la selección natural, y la capacidad de adaptación de cada quien a las nuevas condiciones, como eje de la sobrevivencia, dio un nuevo impulso a la exacerbación del individualismo. Aquí, una vez más, aparece la dicotomía entre los dos polos: transformación y adaptación. Mientras que el socialismo promueve la conformación del sujeto transformador para alcanzar la igualdad y la fraternidad, el neoliberalismo hace lo propio con la adaptación para preservar el consenso de lo inmanente.  Pues bien, el Estado social se ha venido desmantelando teniendo como paradigma la economía de mercado. La innegable capacidad de seducción ideológica de la economía de mercado nos remite a un mítico mecanismo de distribución automática (la mano invisible). Precisamente aquí radica la clave para entender su encanto ideológico: la pasividad ciudadana. En efecto, si el mecanismo automático de libre mercado funciona de maravilla, y supuestamente ofrece los mejores resultados posibles en la distribución de los bienes y capitales, entonces ¿para qué tensar la voluntad política y moral de los ciudadanos y el Estado? En otras palabras, el mercado pasa a decidir de manera automática e inapelable muchas de las cuestiones que otrora eran resueltas en la lucha política. No es casual que, al contraponer la obstinación moderna por la movilización, como búsqueda de nuevas fuentes de energía social, a la pasividad ciudadana, el relajamiento y la desmovilización social de la condición posmoderna,  A. Panarin se pregunte si no estaremos ante un proceso general de debilitamiento de la energía vital de la sociedad, ante la retroceso de Eros frente a Tánatos (La tentación del globalismo).Esta pasividad ciudadana la tengo que machacar, pues no faltan corifeos, viejos y nuevos, que ahora nos salen con el cuento de crear ciudadanía, al tiempo que promueven el libre mercado. Inclusive, no ha faltado quien aviente el anzuelo con la carnada conceptual de una izquierda liberal. En realidad el déficit de ciudadanía, la pasividad ciudadana que padecemos, es consecuencia directa del dominio de la democracia liberal. Y las campañas electorales estridentes a más no poder, pero sin contenido, son su corolario. Parafraseando a José Revueltas, la implementación del marketing y todas las técnicas de manipulación del consumidor político durante las campañas electorales, conduce inevitablemente al espectro de una masa de ciudadanos sin cabeza. 
+

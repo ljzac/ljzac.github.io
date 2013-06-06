@@ -1,0 +1,17 @@
+---
+published: "true"
+title: "Se eleva a 75 número de muertos por el sismo de 6.8 grados en Myanmar"
+twitt: "Se eleva a 75 número de muertos por el sismo de 6.8 grados en Myanmar"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Mundo"
+layout: "posts"
+
+---
+![](http://i.imgur.com/frGi7zym.jpg)
+
+
+
+
+  Rangún. Al menos 75 personas murieron y unas 100 sufrieron heridas debido a un sismo de magnitud 6.8 en el este de Myanmar el jueves, según el último balance provisorio del viernes, que podría aumentar cuando los equipos de socorro lleguen a zonas que por ahora son inaccesibles.El terremoto se produjo en pleno triángulo de oro, en los confines de Myanmar, Tailandia y Laos, una zona montañosa de difícil acceso pero donde tiene lugar un activo comercio entre estos tres países. El movimiento telúrico fue particularmente violento en comunas situadas entre las ciudades de Tashilek y Kentung, donde se registraron hasta ahora todas las víctimas birmanas, y desde donde llegan muy pocas informaciones.El balance en Myanmar llegó a más de 74 muertos y unos 110 heridos en cinco comunas diferentes, incluyendo a Tarlay y Mine Lin, muy afectadas, indicó una fuente birmana que solicitó el anonimato."Según nuestras informaciones, más de 130 edificios se derrumbaron", agregó esta fuente, aclarando que temía que el número de víctimas continuase aumentando. "Estamos tratando de llegar a las zonas aisladas (...). El ejército, la policía y las autoridades locales quieren buscar a los heridos en las zonas afectadas, pero las rutas siguen cortadas", explicó.Del lado tailandés, una mujer de 52 años murió en el distrito de Mae Sai, a poca distancia de la frontera, según la policía local.El epicentro del sismo, que se produjo a unos 10 kilómetros de profundidad, fue localizado por el Instituto Geofísico de Estados Unidos (USGS) cerca de las fronteras con Tailandia y Laos, a 90 kilómetros al norte de Chiang Rai y 235 kilómetros de Chiang Mai (noreste de Tailandia).Chris Herink, director en Birmania de la organización humanitaria World Vision, que dispone de unos 30 empleados en la zona, indicó que durante la mañana se registraron varias réplicas."No me parece que haya daños de infraestrucura castróficos, aunque muchos inmuebles tiene fisuras (...). Pero hay preocupación por las zonas rurales", dijo por teléfono desde Rangún."Temo que durante la jornada habrá más malas noticias", agregó.El sismo, que se sintió en una zona muy extendida, provocó escenas de pánico, aunque sólo declararon víctimas Birmania y Tailandia.También se sintieron los movimientos telúricos en edificios altos de Bangkok, Naypyidaw, la capital birmana, situada a varios cientos de kilómetros más al sur, y Mandalay, así como Vientiane.En Luang Namtha, en el norte de Laos, "tembló un poco, quizás durante dos minutos", indicó Adrian Schuhbeck, un empleado de la cooperación alemana.En Vietnam, las sacudidas se sintieron en Hanoi así como en varias localidades del norte, incluyendo a la pequeña ciudad montañosa de Dien Bien Phu, a 350 kilómetros del epicentro."Varios edificios grandes temblaron en el norte de Vietnam y Hanoi y eso causó cierto pánico en la gente", precisó Le Huy Minh, subdirector del Instituto Nacional de Geofísica.La Radio Nacional de China confirmó por su parte que el sismo se sintió en la provincia de Yunnan (sudoeste). El terremoto provocó fisuras en casas y escuelas. El temor a que se produjeran réplicas hizo que numerosos habitantes pasaran la noche a la intemperie.
+
