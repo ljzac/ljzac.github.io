@@ -1,15 +1,15 @@
 ---
-published: "false"
+published: "true"
 title: "Crisis de los partidos, sustentada en el extravío de sus principios: Valerio"
 twitt: Los institutos políticos han privilegiado la búsqueda del poder
 author: ALMA ALEJANDRA TAPIA
-category: Zacatecas
+category: Portada
 layout: posts
 
 ---
 
 La crisis de los partidos políticos de alguna manera se sustenta en el extravío de los principios e ideales que los orientan, consideró el académico de la Universidad Autónoma de Zacatecas (UAZ), Juan Francisco Valerio Quintero.
-![Francisco Valerio Quintero](http://i.imgur.com/Yo6tUJ1m.jpg)
+
 
 Aunque también opinó que el verdadero origen radica en que dichos institutos han privilegiado por encima de cualquier otra circunstancia la búsqueda del poder sin una esencia o razón de ser.
 
@@ -26,3 +26,5 @@ Es decir, el candidato arribista usa a un partido para llegar al poder, privileg
 Esto porque cuando el PRI perdió la Presidencia de la República entró en un proceso de crisis y en 12 años se recompuso, pero lo interesante sería saber en qué medida se debió al trabajo de sus militantes o a los errores cometidos por sus adversarios.
 
 Lo mismo cabría preguntarse con el gobierno perredista de Zacatecas y el panista en los dos sexenios anteriores.
+
+![Francisco Valerio Quintero](http://i.imgur.com/Yo6tUJ1m.jpg)
