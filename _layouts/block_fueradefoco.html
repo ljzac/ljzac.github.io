@@ -6,6 +6,7 @@
   <div class="news"> 
     <div class="slider flexslider">
       <ul class="slides">
+{{if $miseccion }}
         {{ range $miseccion }}
         <li>
           <h3 style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.title}}</a></h3>
@@ -13,6 +14,7 @@
           <p style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.twitt}}</a></p>
         </li>
         {{end}}
+{{end}}
       </ul>
     </div>
   </div>

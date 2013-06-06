@@ -1,6 +1,6 @@
 ---
 published: "true"
-author: joaquin zamora
+author: "joaquin zamora"
 category: Municipios
 layout: posts
 

@@ -3,6 +3,8 @@
     </div>
     <div class="partner">
       <ul class="mycarousel jcarousel jcarousel-skin-tango">
+{{ if index .site.postByAuthor .page.author}}
+
 			  {{range index .site.postByAuthor .page.author}}
         <li>
 			    <figure>
@@ -14,6 +16,7 @@
 			    </div>
         </li>
 			  {{end}}
+{{end}}
       </ul>
     </div>
     <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
