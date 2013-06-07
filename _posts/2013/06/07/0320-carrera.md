@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: Este sábado dará inicio la carrera 7K  Nocturna de Sombrerete edición 2013
-twitt: "■ Las categorías incluyen juvenil, libre, máster, veteranos, mayores de 60 años e infantiles "
+twitt: "Las categorías incluyen juvenil, libre, máster, veteranos, mayores de 60 años e infantiles "
 author: CESAR A. GONZALEZ
 category: Deportes
 layout: posts
