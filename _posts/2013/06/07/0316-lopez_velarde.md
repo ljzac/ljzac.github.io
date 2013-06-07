@@ -7,8 +7,7 @@ layout: posts
 
 ---
 
- ![En la rueda de prensa informaron que las actividades comenzarán el 9 de junio 
- FOTO: ANDRES SANCHEZ](http://i.imgur.com/KhHtkL1m.jpg)
+![En la rueda de prensa informaron que las actividades comenzarán el 9 de junio FOTO: ANDRES SANCHEZ](http://i.imgur.com/KhHtkL1m.jpg)
 Las 16 Jornadas Lopezvelardeanas que se realizarán del 11 al 19 de junio, trascenderán las fronteras del país este 2013, mediante una serie de eventos académicos que tendrán como sede la facultad de Geografía e Historia de la Universidad de Sevilla, España, mismos que estarán a cargo del escritor Alfonso García Morales, quien fuera galardonado con el Premio Iberoamericano de Poesía Ramón López Velarde el año anterior.
 Entre lo más destacado de la emisión 2013 de las Jornadas Lopezvelardeanas se encuentra la mesa de lectura magistral en la que alternarán los escritores Eudoro Fonseca, Jorge Esquinca, Luis Armenta, Veremundo Carrillo y Javier Acosta.
 Asimismo resalta la conferencia magistral Presencia de Ramón López Velarde en la Poesía, que ofrecerá Juan Domingo Argüelles; la participación artística del actor Carlos Bracho con lectura en voz alta en su presentación Extractos de la obra de Ramón López Velarde y el espectáculo poético-musical Trovar en la Llama de Antonio Parga.
