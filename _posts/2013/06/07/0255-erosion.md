@@ -8,8 +8,7 @@ layout: posts
 
 ---
 
-![El docente señaló que el problema reside tanto en zonas urbanas como en no urbanizadas 
-■ FOTO: ANDRES SANCHEZ](http://i.imgur.com/Rlq5A2Km.jpg)
+![El docente señaló que el problema reside tanto en zonas urbanas como en no urbanizadas FOTO: ANDRES SANCHEZ](http://i.imgur.com/Rlq5A2Km.jpg)
 A mediano plazo, varios puntos de la zona conurbada Zacatecas-Guadalupe estarán en riesgo debido a procesos de erosión, es decir, remoción del suelo generado por factores como cambio de uso de suelo, advirtió Felipe de Jesús Escalón Alcázar, docente de la Unidad Académica de Ciencias de la Tierra de la Universidad Autónoma de Zacatecas (UAZ).
 Explicó que los procesos de erosión en este momento han generado riesgos que se traducen en hundimientos pequeños, bardas que muestran su cimentación, caída de materiales de las construcciones, entre otros, pero el problema podría agravarse con el tiempo.
 “Los efectos de erosión son muy lentos pero son muy efectivos. Se aceleran por procesos de deforestación, cambio de uso de suelo o porque rellenamos arroyos sin tomar las medidas de geotecnia e ingeniería civil necesarias para mitigar el riesgo”, expresó.
