@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: "Ex braceros continúan plantón; exigen que les restituyan 12 millones de pesos "
 twitt: ■ Señalan que impedirles el paso es una violación a su libertad de tránsito
 author: RAFAEL DE SANTIAGO
@@ -8,8 +8,7 @@ layout: posts
 
 ---
 
-![Los ex trabajadores migrantes indicaron que seguirán con la manifestación hasta que resuelvan sus demandas
-■ FOTO: RAFAEL DE SANTIAGO](http://i.imgur.com/01KtKkBm.jpg)
+![Los ex trabajadores migrantes indicaron que seguirán con la manifestación hasta que resuelvan sus demandas FOTO: RAFAEL DE SANTIAGO](http://i.imgur.com/01KtKkBm.jpg)
 
 El grupo de Ex braceros en Lucha AC continúa en plantón a unos metros de la Casa de Gobierno, en la colonia Lomas de la Soledad.
 De igual manera, siguen cerrados los accesos a la calle Adolfo Villaseñor por parte de elementos de la Dirección de Tránsito y de la Policía Metropolitana (Metropol), y aún hay presencia de elementos de la Policía Estatal Preventiva (PEP).
