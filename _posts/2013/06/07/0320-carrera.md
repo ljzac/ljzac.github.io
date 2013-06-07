@@ -8,8 +8,7 @@ layout: posts
 
 ---
 
-![Se espera la participación de al menos 300 corredores 
-■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/aPGEvptm.jpg)
+![Se espera la participación de al menos 300 corredores FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/aPGEvptm.jpg)
 
 Este sábado desde las 17 horas se llevará a cabo la denominada carrera 7K Nocturna Sombrerete 2013, que es la cuarta etapa del Serial Atlético Zacatecas Suena Bien, la salida y meta será en el jardín municipal de este Pueblo Mágico.
 Participarán corredores en las categorías juvenil, libre, máster, veteranos, mayores de 60 años e infantiles, además la élite varonil en la que correrán los mejores exponentes del atletismo zacatecano, algunos nacionales e internacionales; se repartirá una bolsa de 45 mil pesos entre todas las categorías.
