@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Erosión, riesgo latente para zona conurbada Zacatecas-Guadalupe"
 twitt: "■ El problema se presenta donde hay pendientes altas y vegetación escasa: académico "
 author: MARTIN CATALAN LERMA
