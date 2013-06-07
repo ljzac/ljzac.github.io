@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Ex braceros continúan plantón; exigen que les restituyan 12 millones de pesos "
 twitt: ■ Señalan que impedirles el paso es una violación a su libertad de tránsito
 author: RAFAEL DE SANTIAGO
