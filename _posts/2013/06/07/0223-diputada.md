@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Se requiere que Godezac se pronuncie  sobre la reforma migratoria: Beltrán"
 author: ARAZU TINAJERO
 category: Política
