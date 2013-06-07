@@ -7,8 +7,7 @@ layout: posts
 
 ---
 
-![En esta demarcación se cuenta con un total de 135 elementos policiacos 
-](http://i.imgur.com/OJRCvuFm.jpg)
+![En esta demarcación se cuenta con un total de 135 elementos policiacos](http://i.imgur.com/OJRCvuFm.jpg)
 El ayuntamiento de Jerez cuenta con 100 elementos de seguridad pública certificados, de un total de 135 que componen este cuerpo, según dio a conocer el alcalde de este municipio, Eduardo López Mireles.
 “En estos momentos ya no estamos contratando a más policías sólo porque sí. Primero necesitamos que acrediten los exámenes de control de confianza, para garantizar que no tendrán otro tipo de conductas”, agregó.
 No obstante, los proyectos para reforzar a los gendarmes con mayor equipo de seguridad, tienen mayor dificultad a comparación de municipios como Zacatecas, Fresnillo y Guadalupe, debido a que Jerez no cuenta con subsidios federales para este fin, detalló el alcalde.
