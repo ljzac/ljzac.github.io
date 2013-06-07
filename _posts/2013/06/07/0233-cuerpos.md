@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: "Encuentran los cadáveres de tres hombres  sobre la Calzada Proaño, en El Mineral"
 author: "REDACCION "
 category: Sociedad y Justicia
@@ -9,6 +9,7 @@ layout: posts
 
 ![Aspectos de la Unidad Regional de Seguridad (Unirse) de Villa de Cos 
 ■ FOTO: LA JORNADA ZACATECAS ](http://i.imgur.com/XEDpnIXm.jpg)
+
 En Fresnillo, elementos de las policías Municipal y Ministerial reportaron que en la madrugada de este jueves fueron dejados en la cabecera municipal de El Mineral los cuerpos de tres hombres.
 Autoridades locales precisaron que alrededor de las 3:10 horas sobre la avenida Paseo del Mineral fue encontrada una parte del cuerpo de un hombre, por lo que los policías municipales acordonaron la zona en espera de la Policía Ministerial y los peritos.
 Aproximadamente a las 4:50 horas se escucharon varias detonaciones de arma de fuego, a la altura de la Calzada Proaño y avenida Hidalgo, lugar al que se trasladaron los elementos municipales y ministeriales, y únicamente se encontraron los cuerpos de tres hombres, a los que les faltaban algunas partes.
