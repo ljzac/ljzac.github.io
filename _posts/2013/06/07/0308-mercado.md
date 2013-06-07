@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Acuerdan que en 2 meses se comenzará a brindar servicio en el mercado de Carnes
 twitt: "■ Los espacios carecen de una puerta o persiana, informa Rivas Sánchez"
 author: RAFAEL DE SANTIAGO
