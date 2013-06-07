@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Libertad de prensa
 author: Socorro Martínez Ortiz
 category: Opinión
