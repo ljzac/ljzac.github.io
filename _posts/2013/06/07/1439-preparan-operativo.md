@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![El mandatario dio a conocer que llegarán más policías federales a la entidad](http://i.imgur.com/4UCETigm.jpg)El gobernador Miguel Alonso Reyes mencionó que se preparará un __operativo__ especial durante la jornada electoral de próximo siete de julio. 
+![El mandatario dio a conocer que llegarán más policías federales a la entidad](http://i.imgur.com/4UCETigm.jpg)El gobernador Miguel Alonso Reyes mencionó que se preparará un operativo especial durante la jornada electoral de próximo siete de julio. 
 
 Para ello, el gabinete de seguridad pública se coordinará con el Instituto Electoral del Estado de Zacatecas (IEEZ), con la finalidad de reforzar la vigilancia en los puntos más conflictivos de la entidad, los cuales están por definirse. 
 
