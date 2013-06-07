@@ -6,10 +6,14 @@
 {{ range . }}
 <article class="SubContent">
 	<h3>{{ .title }}</h3>
-	<div class="grid_9 omega" style="max-height: 320px;">
+  {{if .MainImgSize "m"}}
+	<div class="grid_9 omega" style="max-height: 320px;overflow: hidden; margin-right: 5px;">
 		<div style="max-height:260px; width:auto;"><img src="{{ .MainImgSize "m" }}" alt="pic" /> </div>
 	</div>
 	<div class="grid_7 alpha">
+  {{else}}
+  <div>
+  {{end}}
 		<ul class="comment">
 			<li><a href="#">{{ .author }} </a>/</li>
       {{ if .date }}
