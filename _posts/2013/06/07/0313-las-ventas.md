@@ -7,9 +7,7 @@ layout: posts
 
 ---
 
-![Es el cuarto mexicano que se presenta en la Feria de Madrid 
-■ FOTO: LA JORNADA ZACATECAS
-](http://i.imgur.com/WG8Owebm.jpg)
+![Es el cuarto mexicano que se presenta en la Feria de Madrid FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/WG8Owebm.jpg)
 
 Madrid. España. El matador de toros tlaxcalteca, Sergio Flores, confirmó su alternativa como matador de toros en la plaza Las Ventas de Madrid, su padrino de confirmación fue el madrileño Uceda Leal y el testigo Curro Díaz de Linares, el toro de la confirmación fue de la ganadería de José Luis Criado Holgado.
 Durante el transcurso de la lidia, al intentar ligar un derechazo, Sergio fue cogido en el muslo derecho, infringiéndole el toro dos cornadas, una hacia adentro destruyéndole el músculo abductor y llegándole al fémur, y la otra cornada fue hacia afuera con una trayectoria de 15 centímetros, lastimándole la rodilla. Sergio Flores continuó en el ruedo hasta dar muerte a su enemigo. 
