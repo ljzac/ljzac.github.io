@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Me considero un candidato con pensamiento  progresista: Camerino Eleazar Márquez Madrid"
 author: "ALMA ALEJANDRA TAPIA "
 category: Política
