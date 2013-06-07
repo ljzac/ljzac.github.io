@@ -1,9 +1,9 @@
 ---
-published: "true"
+published: "false"
 title: Realizarán segundo paseo taurino; visitarán ganadería en Saín Alto
 twitt: "■ Durante este año se organizarán tres actividades de este tipo: subsecretario"
 author: ARAZU TINAJERO
-category: Portada
+category: Municipios
 layout: posts
 
 ---
