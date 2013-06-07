@@ -2,7 +2,7 @@
 published: "false"
 title: "Destinará Godezac 100 mdp para atender necesidades de sanmarqueños: Jacobo"
 author: MARTIN CATALAN LERMA
-category: Sociedad y Justicia
+category: Educación
 layout: posts
 
 ---
