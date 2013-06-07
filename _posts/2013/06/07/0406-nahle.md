@@ -7,8 +7,7 @@ layout: posts
 
 ---
 
-![Arturo Nahle, Jesús Pinto y Manuel Bosque 
- FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/pqF3J4pm.jpg)
+![Arturo Nahle, Jesús Pinto y Manuel Bosque FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/pqF3J4pm.jpg)
 Funcionarios del Gabinete de Seguridad Pública de Gobierno del Estado analizaron la problemática diaria que enfrenta el gremio de trabajadores y concesionarios del transporte público, en reunión con prestadores del servicio de 20 municipios de la entidad.
 El procurador de Justicia, Arturo Nahle García, señaló que a más de dos años de la actual administración las carreteras que conectan al estado son vigiladas por 700 elementos de la Policía Federal, mediante a las gestiones realizadas por el titular del Poder Ejecutivo, Miguel Alonso Reyes.
 Además, se aumentó el número de efectivos en la Policía Estatal Preventiva (PEP) y a la fecha existen más de 700 elementos, al mismo tiempo que se ha logrado reducir, por debajo de la media nacional, los cinco principales delitos de más alto impacto como el secuestro, robo con violencia, asalto en carreteras, homicidios dolosos y extorsiones.
@@ -22,4 +21,4 @@ Entre las principales inquietudes y solicitudes de los transportistas destacaron
 Concesionarios de diversos municipios reconocieron la importancia de la reunión y la labor que se ha desempeñado para lograr reducir los índices de inseguridad en el estado.
 Por tal razón y a nombre de sus compañeros, José Manuel Ríos, presidente de la Asociación de Taxistas Lázaro Cárdenas, solicitó que se realice la revisión minuciosa en cada retén aplicado, con la finalidad de garantizar la seguridad tanto del operador, como de la unidad y de los pasajeros.
 Al evento también asistió Víctor Manuel Bosque, subsecretario de Inteligencia y Política Criminal de la SSP, y Agustín Jaime Ortiz Arellano, director de Transporte, Tránsito y Vialidad. 
-En la reunión participaron operadores y concesionarios de Pinos, Pánfilo Natera, Jerez, Nochistlán, Tlaltenango, Tepechitlán, Tabasco, Juchipila, Jalpa, Juan Aldama, Sombrerete, Mazapil, Concepción del Oro, Fresnillo, Zacatecas, Guadalupe, Río Grande, Miguel Auza y Francisco R. Murguía. 
+En la reunión participaron operadores y concesionarios de Pinos, Pánfilo Natera, Jerez, Nochistlán, Tlaltenango, Tepechitlán, Tabasco, Juchipila, Jalpa, Juan Aldama, Sombrerete, Mazapil, Concepción del Oro, Fresnillo, Zacatecas, Guadalupe, Río Grande, Miguel Auza y Francisco R. Murguía.
