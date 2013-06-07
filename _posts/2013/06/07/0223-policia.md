@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Aprehende la Policía Municipal de la capital  a 3 sujetos; son presuntos responsables de robo
 twitt: "■ Fueron puestos a disposición de la agencia del Ministerio Público "
 author: "REDACCION "
