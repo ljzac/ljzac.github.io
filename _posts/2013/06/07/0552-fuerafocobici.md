@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: fuera de foco
 author: la jornada zacatecas
 category: Fuera de Foco
