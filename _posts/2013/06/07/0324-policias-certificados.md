@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Cuenta el municipio de Jerez con 100  policías certificados, informa alcalde"
 author: CESAR PEREZ
 category: Sociedad y Justicia
