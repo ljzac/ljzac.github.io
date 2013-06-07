@@ -1,0 +1,46 @@
+---
+published: "true"
+title: "50 Cincuenta"
+twitt: "50 Cincuenta"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Opinión"
+layout: "posts"
+
+---
+
+<p style="text-align: justify;">
+  <strong>Jorge Humberto Arellano<br /></strong>
+</p>
+
+<p style="text-align: justify;">
+  Cincuenta es un número mágico y significativo. Se cumplen cinco decenas de artículos generosamente publicados por este medio y escritos por un servidor. Una cantidad considerable por el número, pero más respetable por la buena disposición de un grupo de lectores, quienes de acuerdo a parámetros virtuales, e inclusive por comentarios fundamentados en el trato incidental, han mostrado su aceptación y simpatía hacia las críticas emanadas de los humildes razonamientos que intentan apegarse a la realidad. No se podría llegar a tal cifra sin contar con la aceptación de un público que en cierto momento aprueba o descalifica las denuncias expuestas en los documentos impresos que se han divulgado.
+</p>
+
+<p style="text-align: justify;">
+  Cincuenta es la cantidad de crónicas que tratando de seguir puntualmente las reglas más elementales de la redacción, han intentado exponer de manera divertida, y sarcástica algunas veces, el sentir de un sector de la sociedad que no se siente escuchado, que no considera contar con los espacios de expresión adecuados en los que se traten las anomalías del sistema político que nos rige; no el sistema en sí, más bien de los personajes inmersos en esa entidad, y que generalmente se valen de los medios posibles, éticos o no, para trascender o sostener sus posiciones políticas.
+</p>
+
+<p style="text-align: justify;">
+  En otras palabras, son 50 documentos que expresan de alguna manera la opinión generalizada, respaldada por las prácticas erróneas que atentan contra la calidad intelectual de la clase de individuos, que por diversas circunstancias no pueden participar directamente en los debates, constructivos o destructivos, ciertos o falsos, que permitan contribuir a una visión clara y apegada a los postulados mínimos que la convivencia democrática requiere. Muchas colaboraciones han formado un criterio, sin menospreciar la capacidad de análisis de cada uno de los seguidores más cercanos, desde el centro de trabajo hasta los espacios políticos institucionales. Pero evidentemente se afectan intereses particulares, desde el cuestionamiento a ciertas actitudes que difícilmente se pueden ocultar, en las negociaciones ante los representantes del poder, y que por salud política deben ser exhibidas, denunciadas.
+</p>
+
+<p style="text-align: justify;">
+  Cincuenta artículos en los que se ha tratado de exaltar las virtudes de los grandes pensadores populares de nuestros días. Es así que, se ha intentado hacer culto a los músicos propositivos, que han contribuido al desarrollo político de la sociedad, desde Bruce Springsteen y su canto a la clase trabajadora estadunidense, pasando por Bob Dylan, The Rolling Stones, John Lennon y Pink Floyd, entre otros, con atención a la universalidad de la música y del pensamiento, que en sí, ni han sido patentados ni restringen su aplicación a cierto espacio territorial o cultural.
+</p>
+
+<p style="text-align: justify;">
+  Una buena cantidad de pensamientos articulados que se han ocupado de exponer una posición contraria a la ignorancia, al servilismo o servidumbre, al engaño, pero principalmente que han denunciado en su momento las estrategias opuestas al desarrollo social y gremial. Es así que se han citado en estos espacios de libertad de expresión, figuras de la política nacional del tamaño de los concesionarios de las televisoras, por la función real que desempeñan y la ganancia, política y económica que obtienen mediante la enajenación del pueblo; de esta manera, un servidor cuenta con el privilegio de hacer crítica a los medios, mucho tiempo antes de que el tema se pusiera de moda. Las personalidades del entorno nacional que han sido reverenciadas desde este humilde espacio, son del talante de Carmen Aristegui, Horacio Villalobos e inclusive la desenfrenada Fernanda Tapia, por su contribución a la generación de conciencia desde sus muy particulares estilos frente a la cámara chica, que al final de cuentas es el medio más influyente para el pueblo de México.
+</p>
+
+<p style="text-align: justify;">
+  Por otro lado, se ha intentado generar opinión sobre temas trascendentales de la política gremial y las consecuencias que acarrea a la estabilidad del trabajador común: los efectos de la Alianza por la Calidad de la Educación, cuya principal protagonista llegó a ser mi vecina del 130, generó simpatías en un amplio sector desinformado ante aquel intento de agresión promovido desde las trincheras institucionales. Han sido objeto de denuncia, siempre al amparo de los testimonios y las evidencias suficientes y necesarias, las estrategias especiales que la seudodemocracia aplica, en el entendido de que ahí están los interesados sin voz ni voto, al pendiente de las negociaciones a su nombre, sin la certidumbre que el caso amerita, al menos por el mínimo respeto que se merecen.
+</p>
+
+<p style="text-align: justify;">
+  Difícil resulta ocupar un espacio privilegiado en la generación de opinión, por el hecho de las incomodidades que se producen en los personajes aludidos. No puedo imaginar al cardenal Norberto Rivera Carrera haciéndome un reclamo personal por aquella alusión de su negativa al matrimonio entre homosexuales. Tampoco puedo pensar en Elba Esther Gordillo, alejándose del lugar en que se encuentre para hacerme un escándalo por las citas de los integrantes de su organización, en su momento. Pero ya sucedió que uno de los aludidos, el más grande de los representantes de la tergiversación democrática magisterial, a su muy peculiar estilo y llamando al menos a uno de sus compinches, vía celular, ha intentado intimidar al tecleador presente, en un evento público. En fin, gajes del oficio. El esfuerzo por concientizar no para y la denuncia de los atentados en contra de la condición intelectual del individuo seguirá fungiendo como el eje rector de los artículos de opinión que afortunadamente mantiene un círculo creciente de lectores y va por más.
+</p>
+
+<p style="text-align: justify;">
+  Mi agradecimiento a la redacción de La Jornada Zacatecas, por la publicación de mis primeros 50 artículos. ?
+</p>
