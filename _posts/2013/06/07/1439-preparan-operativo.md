@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Preparan ‘operativo’ especial para jornada electoral
 author: CESAR PEREZ
 category: Destacadas
