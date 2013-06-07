@@ -1,14 +1,14 @@
 ---
 published: "true"
 title: "La libertad de expresión, condicionada por  intereses políticos y comerciales: periodistas "
-twitt: "■ Los medios dejaron de responder a su filosofía de informar y servir a la sociedad, señalan "
+twitt: "Los medios dejaron de responder a su filosofía de informar y servir a la sociedad, señalan "
 author: "CESAR PEREZ "
 category: Cultura y Espectáculos
 layout: posts
 
 ---
 
-![Mencionan que la profesión de reportero sólo se ve como un trabajo más ■ FOTOS: ALEJANDRO ORTEGA NERI](http://i.imgur.com/YARZhC6m.jpg)
+![Mencionan que la profesión de reportero sólo se ve como un trabajo más FOTOS: ALEJANDRO ORTEGA NERI](http://i.imgur.com/YARZhC6m.jpg)
 
 La libertad de expresión está condicionada a los intereses políticos y económicos que persiguen los medios informativos, coincidieron periodistas zacatecanos, quienes fueron entrevistados en el marco de la celebración del artículo sexto de la Constitución Política Mexicana.
 Los siguientes párrafos están construidos por los testimonios del gremio de periodistas zacatecanos, quienes dan voz a diferentes actores sociales y políticos, pero que en pocas ocasiones tienen la oportunidad de expresar sus ideas a los lectores, radioescuchas y televidentes.
@@ -42,4 +42,4 @@ El golpe dejó daños internos en su organismo, por lo que requiere de una tomog
 “En este día no hay nada qué celebrar. Se tiene que celebrar libertad de expresión ejerciendo el periodismo”: Rubén Valdez.
 “Desde hace mucho tiempo la libertad de expresión dejó de existir, por diferentes causas. Muchas veces no publicamos información por seguridad nuestra”: Javier Hernández.
 “El Día de la Libertad de Expresión queda sólo como una fecha. Ha perdido mucho su sentido, pero no hay que dejarla pasar por alto”: Alonso Chávez. 
-“Sin lugar a dudas, a pesar de las dinámicas nocivas que hay en el periodismo, también hay partes buenas. Es interesante ver el caso de las denuncias ciudadanas que se presentan y que gracias a nuestro trabajo, aquellas personas tienen voz y se les resuelve su problemática”: Renata Avila. 
+“Sin lugar a dudas, a pesar de las dinámicas nocivas que hay en el periodismo, también hay partes buenas. Es interesante ver el caso de las denuncias ciudadanas que se presentan y que gracias a nuestro trabajo, aquellas personas tienen voz y se les resuelve su problemática”: Renata Avila.
