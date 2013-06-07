@@ -1,6 +1,6 @@
 ---
 published: "false"
-title: " Promete Cliserio del Real que legislará a favor del sector campesino "
+title: " Promete Cliserio del Real legislar a favor del sector campesino "
 author: REDACCION
 category: Destacadas
 layout: posts
