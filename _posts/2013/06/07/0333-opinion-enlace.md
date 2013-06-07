@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Enlace: entre el reduccionismo y la simulación"
 category: Opinión
 layout: posts
