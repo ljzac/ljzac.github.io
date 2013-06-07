@@ -1,0 +1,17 @@
+---
+published: "true"
+title: "Jurará como presidente egipcio Mohamed Mursi este sábado"
+twitt: "Jurará como presidente egipcio Mohamed Mursi este sábado"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Mundo"
+layout: "posts"
+
+---
+![](http://i.imgur.com/1T8sYOim.jpg)
+
+
+
+
+
+El Cairo. El presidente electo de Egipto, Mohamed Mursi, prestará juramento el sábado ante el Alto Tribunal Constitucional, anunció la Presidencia en un comunicado difundido la noche del jueves, tras una polémica con el Ejército sobre el procedimiento del traspaso del poder. Mursi "se dirigirá (...) a las 11:00 de la mañana (09:00 GMT) del sábado a la sede del Alto Tribunal Constitucional con el fin de prestar juramento ante la asamblea general del tribunal", según el texto, difundido por la agencia oficial egipcia Mena.El presidente acudirá luego a la Universidad de El Cairo para celebrar su investidura y pronunciará un discurso a la nación, añade el comunicado.Candidato de los Hermanos Musulmanes, Mohamed Mursi ganó al último primer ministro de Hosni Mubarak, Ahmad Chafiq, en la primera elección presidencial desde la caída de Mubarak, derribado por un alzamiento popular el año pasado.Mursi es el primer islamista que accede a la magistratura suprema en Egipto y el primer presidente del país que no proviene del aparato militar.El Consejo Supremo de las Fuerzas Armadas (CSFA), que dirige el país desde la dimisión forzada de Mubarak, el 11 de febrero de 2011, se comprometió a entregar el poder antes del 30 de junio al nuevo jefe del Estado.Pero una polémica opuso al nuevo presidente y al poder militar sobre el procedimiento de la jura.Según los militares, el presidente debe prestar juramento ante el Alto Tribunal Constitucional, de conformidad con la "Declaración constitucional complementaria" adoptada recientemente por el Ejército.En base a dicha declaración, el Ejército ha recuperado el poder legislativo después de disolver a mediados de junio la Asamblea del Pueblo dominada por el poderoso movimiento de los Hermanos Musulmanes, en virtud de una sentencia que declaró ilegal el modo de escrutinio.Los Hermanos Musulmanes, que denunciaron la declaración como "un golpe de Estado", habían reclamado que la ceremonia se celebrara ante la Asamblea del Pueblo, que siguen considerando legítimo.El portavoz del Alto Tribunal Constitucional, Maher Sami, había afirmado con anterioridad que el presidente electo iba a "prestar juramento ante la asamblea general del Alto Tribunal Constitucional", compuesta por magistrados de la corte.El viernes, Mursi participará en una manifestación en la emblemática plaza Tahrir, en el centro de El Cairo, donde hablará a la población, indicó también con anterioridad su portavoz, Yaser Ali, citado por la agencia oficial Mena.Esta manifestación, llamada "de la entrega del poder", organizada por los militantes a favor de la democracia y respaldada por los Hermanos Musulmanes, apunta a presionar al Ejército en el poder desde la caída de Hosni Mubarak el año pasado.Mursi "participará en la marcha del millón del pueblo egipcio mañana viernes en la plaza Tahrir", afirmó Yaser Ali, precisando que el presidente electo "pronunciará un discurso para el gran pueblo egipcio".Evocará en su discurso "los esfuerzos desplegados en vistas de lanzar su programa por el reconocimiento de Egipto", agregó.Los seguidores de los Hermanos Musulmanes se manifiestan desde hace días en la plaza Tahrir para protestar contra la disposiciones constitucionales adoptadas por el Ejército.
