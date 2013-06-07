@@ -1,13 +1,14 @@
 ---
 published: "true"
 title: "La Buena no es copia de la tarjeta otorgada en el Estado de México: Fernando González"
+twitt: "La Buena no es copia de la tarjeta otorgada en el Estado de México: Fernando González"
 author: ALMA ALEJANDRA TAPIA
 category: Política
 layout: posts
 
 ---
 
-![Fernando González Bueno, candidato a alcalde de la alianza PRD-PAN ■ FOTO: ANDRES SANCHEZ](http://i.imgur.com/Ua7FESAm.jpg)
+![Fernando González Bueno, candidato a alcalde de la alianza PRD-PAN FOTO: ANDRES SANCHEZ](http://i.imgur.com/Ua7FESAm.jpg)
 ■ Está inspirada en un programa implementado por AMLO en el DF, asevera candidato 
 ■ Se invertirán $90 millones al año, que es 15 por ciento del presupuesto municipal
 
