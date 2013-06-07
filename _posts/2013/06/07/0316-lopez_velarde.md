@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: 52 eventos conformarán el programa  de las 16 Jornadas Lopezvelardeanas
 author: ALMA RIOS
 category: Educación
