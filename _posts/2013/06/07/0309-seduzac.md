@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Infante Soto es ratificado director  general del Conalep en Zacatecas
 author: REDACCION
 category: Educación
