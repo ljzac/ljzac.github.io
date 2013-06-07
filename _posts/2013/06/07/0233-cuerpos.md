@@ -2,7 +2,7 @@
 published: "true"
 title: "Encuentran los cadáveres de tres hombres  sobre la Calzada Proaño, en El Mineral"
 author: "REDACCION "
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
