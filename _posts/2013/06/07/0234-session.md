@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Aprueban en la Legislatura local enajenaciones de bienes inmuebles
 author: ALMA ALEJANDRA TAPIA
 category: Política
