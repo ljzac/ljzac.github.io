@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Candidatos ¿independientes?"
 author: Alfredo Sandoval Romero
 category: Opinión
