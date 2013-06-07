@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "La libertad de expresión, condicionada por  intereses políticos y comerciales: periodistas "
 twitt: "■ Los medios dejaron de responder a su filosofía de informar y servir a la sociedad, señalan "
 author: "CESAR PEREZ "
