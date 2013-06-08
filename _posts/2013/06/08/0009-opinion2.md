@@ -2,7 +2,7 @@
 published: "true"
 title: Presencia del arte popular nacional en Zacatecas
 author: José Arturo Burciaga Campos
-category: Portada
+category: Opinión
 layout: posts
 
 ---
