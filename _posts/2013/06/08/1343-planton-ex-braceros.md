@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: Continúa en plantón ex braceros
+title: Continúan en plantón ex braceros
 author: CESAR PEREZ
 category: Destacadas
 layout: posts
