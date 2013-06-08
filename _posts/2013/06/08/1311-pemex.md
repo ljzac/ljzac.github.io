@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Ordena IFAI informar sobre archivos perdidos en explosión de Pemex
 twitt: "La paraestatal declaró la inexistencia de los mismos, con el argumento de que el acceso a los edificios B1 y B2 está restringido y, por tanto, no es posible identificar los archivos almacenados en dichos inmuebles."
 author: LA JORNADA
