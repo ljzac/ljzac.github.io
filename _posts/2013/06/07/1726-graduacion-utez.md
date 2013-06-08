@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Se gradúan 205 jóvenes ingenieros de la UTEZ
 twitt: Graduación UTEZ
 author: MARTIN CATALAN LERMA
