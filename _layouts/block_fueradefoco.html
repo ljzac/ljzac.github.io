@@ -10,8 +10,10 @@
         {{ range $miseccion }}
         <li>
           <h3 style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.title}}</a></h3>
-          <a href="{{.MainImgSize "h"}}" rel="gallery1" class="fancybox" title="{{.title}}"><img src="{{.MainImgSize "t"}}" alt="{{.title}}"></a>
-          <p style="margin: 0 auto;width: 95%;"><a href="/{{.url}}">{{.twitt}}</a> <a href="{{.authorlink}}">{{.author}}</a></p>
+          <a href="{{.MainImgSize "h"}}" rel="gallery1" class="fancybox" title="{{.title}}. <br /> {{.author}}"><img src="{{.MainImgSize "t"}}" alt="{{.title}}"></a>
+            <ul class="comment">
+              <li>por <a href="{{ .authorlink }}" >{{ .author }}</a> </li>
+            </ul>
         </li>
         {{end}}
 {{end}}
