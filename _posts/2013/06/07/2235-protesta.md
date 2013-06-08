@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![](http://i.imgur.com/NJPI5EEm.jpg)
+![](http://i.imgur.com/dxQS2lAm.jpg)
 México, DF. El presidente estadunidense, Barack Obama, y su homólogo chino, Xi Jinping, prometieron el viernes poner las bases de un "nuevo modelo" para "forjar el futuro" de las relaciones entre Estados Unidos y China, al inicio de una cumbre informal en California.
 
 Obama, que aseguró que las buenas relaciones entre ambos países son importantes "para el mundo", dijo que espera un "nuevo modelo de cooperación con Pekín", una propuesta que Xi retomó en su declaración como "un nuevo modelo de relación entre países grandes".
