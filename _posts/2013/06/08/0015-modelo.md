@@ -1,6 +1,8 @@
 ---
 published: "true"
-category: Portada
+title: "Las reformas estructurales no representan  un nuevo camino para México: académico"
+author: ARAZU TINAJERO
+category: Sociedad y Justicia
 layout: posts
 
 ---
