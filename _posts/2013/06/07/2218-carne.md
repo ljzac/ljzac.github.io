@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: México analiza tomar represalias contra EU por etiquetado de carne
 author: Redacción
 category: México
