@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Triunfan periodistas en el partido  del Día de la Libertad de Expresión
 author: REDACCION
 category: Deportes
