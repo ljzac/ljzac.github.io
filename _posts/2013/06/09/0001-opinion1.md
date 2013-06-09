@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Se aplicará nueva plataforma informática  para hacer crecer negocios: Canacintra"
 author: "Ricardo Bermeo "
 category: Opinión
