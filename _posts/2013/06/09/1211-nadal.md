@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Nadal supera su propio récord al ganar su octavo Roland Garros
 twitt: "En una final española, venció en tres sets 6-3, 6-2 y 6-3 a su compatriota David Ferrer"
 category: Deportes
