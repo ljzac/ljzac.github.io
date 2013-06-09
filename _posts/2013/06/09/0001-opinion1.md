@@ -1,6 +1,6 @@
 ---
-published: "true"
-title: "Se aplicará nueva plataforma informática  para hacer crecer negocios: Canacintra"
+published: "false"
+title: "Bordando ideas en torno a la crisis (I) "
 author: "Ricardo Bermeo "
 category: Opinión
 layout: posts
