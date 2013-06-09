@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Proponen fideicomiso para ayudar a  migrantes en situación desfavorable
 twitt: ■ Los diputados solicitarán emprender un programa de información y asesoría legal
 author: ARAZU TINAJERO
