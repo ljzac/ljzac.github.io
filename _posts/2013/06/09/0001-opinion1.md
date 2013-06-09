@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Bordando ideas en torno a la crisis (I) "
 author: "Ricardo Bermeo "
 category: Opinión
