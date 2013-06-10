@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Muestra Seduzac exposición fotográfica Tiempo, memoria y plata; 50 imágenes de diversos municipios de Zacatecas "
 author: REDACCION
 category: Destacadas
