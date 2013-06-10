@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Detuvo la Policía Municipal a 61 personas durante el fin de semana "
 author: REDACCION
 category: Destacadas
