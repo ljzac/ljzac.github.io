@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "De forma permanente, atenderé a colonias y comunidades de Guadalupe: Alvarez Máynez "
 author: REDACCION
 category: Destacadas
