@@ -2,7 +2,7 @@
 published: "true"
 title: "Las cifras oficiales sobre la pobreza son falsas, sostiene investigador de la UAZ"
 author: MARTIN CATALAN LERMA
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
