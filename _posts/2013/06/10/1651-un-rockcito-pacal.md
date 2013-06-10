@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Un rockcito para todos los roles / El metal zacatecano y la diversidad
 author: Jaime Flores Guardado
 category: De Rock
