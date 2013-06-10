@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Se compromete Carlos Peña a dar becas suficientes para mejorar las condiciones educativas "
 author: "ALMA ALEJANDRA TAPIA "
 category: Destacadas
