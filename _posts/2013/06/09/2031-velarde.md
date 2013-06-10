@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Rinden homenaje a Ramón López Velarde "
 author: REDACCION
 category: Destacadas
