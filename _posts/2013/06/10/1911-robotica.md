@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Lleva a cabo la UTEZ primer concurso-exhibición de robótica en el auditorio Luis Moya, de Guadalupe "
 author: REDACCION
 category: Destacadas
