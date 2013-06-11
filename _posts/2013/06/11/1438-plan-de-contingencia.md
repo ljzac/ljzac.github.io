@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![ALEJANDRO ORTEGA NERI](/_posts/2013/06/11/lluviazac5.jpg)La Dirección Estatal de Protección Civil puso en operación su Plan de Contingencia, que tiene como finalidad la detección de las zonas de riesgo para esta temporada de lluvias, en todo el territorio zacatecano.
+![ALEJANDRO ORTEGA NERI](http://i.imgur.com/tOJpjrom.jpg)La Dirección Estatal de Protección Civil puso en operación su Plan de Contingencia, que tiene como finalidad la detección de las zonas de riesgo para esta temporada de lluvias, en todo el territorio zacatecano.
 
 Antonio de la Torre del Río, director de Protección Civil, informó que se solicitó a los presidentes municipales que lleven a cabo verificaciones en todas aquellas comunidades que consideren en riesgo y que estén cercanas a ríos y arroyos.
 
