@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Avanza en Rusia ley para sancionar la “propaganda homosexual”
 twitt: Será delito difundir información que inculque en los menores una “orientación sexual no tradicional”.
 category: Principales
