@@ -8,7 +8,7 @@ layout: posts
 
 ---
 
-
+![](http://i.imgur.com/NulgI7mm.jpg)
 Cuatro equipos de tercera división y dos de segunda que representan a la entidad en el futbol profesional mexicano, se unieron para realzar visorías conjuntas para integrar futbolistas a sus planteles de cara al próximo torneo apertura 2013.
 
 Están involucrados las Aguilas Reales, la Universidad Autónoma de Zacatecas con sus dos equipos, el de segunda y el de tercera, el Club de Futbol Zacatecas, Minera Fresnillo y el Atlético Huejutla.
