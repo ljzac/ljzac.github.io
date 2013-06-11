@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: Capacitan a elementos de la PEP y Metropol en técnicas y tácticas periciales
+title: Capacitan a elementos de PEP y Metropol en técnicas y tácticas periciales
 author: REDACCION
 category: Destacadas
 layout: posts
