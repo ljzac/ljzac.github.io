@@ -16,7 +16,7 @@
       </a>
       {{ end }}
       <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>
-      <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}} </a>
+     <div style="text-align:justify"> <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}}</a></div>
     </li>
     {{ end }}
   </ul>
@@ -65,7 +65,7 @@ No hay notas de esta sección
    <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
    <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
  </ul>
- <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a> </p>
+ <article class="article"><p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a></p></article>
 </article>
 
 {{else}}
