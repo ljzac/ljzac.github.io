@@ -2,11 +2,10 @@
 published: "true"
 title: "Se enfrentan jóvenes con la policía en la marcha por el \"halconazo\""
 author: REDACCION
-category: Principales
+category: Destacadas
 layout: posts
 
 ---
-
 
 ![](http://i.imgur.com/tok89FNm.jpg)
 México, DF. Algunos jóvenes, la mayoría con los rostros cubiertos y autodenominados “anarquistas” se lanzaron contra los policías que resguardaban los inmuebles sobre la calle de 5 de mayo, en el Centro Histórico. Esto mientras la vanguardia de la manifestación por el 42 aniversario del halconazo ingresaba al zócalo.
