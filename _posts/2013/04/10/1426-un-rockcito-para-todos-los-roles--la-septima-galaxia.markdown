@@ -1,0 +1,112 @@
+---
+published: "true"
+title: "Un rockcito para todos los roles / La Séptima Galaxia"
+twitt: "Un rockcito para todos los roles / La Séptima Galaxia"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Rock"
+layout: "posts"
+
+---
+
+<p style="text-align: justify;">
+  <strong><span style="font-size: small;"><span style="color: #000000;">Jaime Flores Guardado</span></span></strong>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><strong>La Séptima Galaxia</strong></span></span>
+</p>
+
+<p style="text-align: justify;" />
+
+<span style="color: #000000; font-size: small; line-height: 1.3em;">Los inicios de los 70 fueron delineando poco a poco el desarrollo musical de muchos zacatecanos que, con los acetatos que entre los chavos se intercambiaban en calidad de préstamo, conocieron a la </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Santana Blues Band </strong><span style="color: #000000; font-size: small; line-height: 1.3em;">con su guitarrista mexicano como aportación al mundo, a la banda de los metales de oro, la </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Chicago Transit Authority</strong><span style="color: #000000; font-size: small; line-height: 1.3em;">,</span><strong style="color: #000000; font-size: small; line-height: 1.3em;"> </strong><span style="color: #000000; font-size: small; line-height: 1.3em;">que influenció a todo el personal que se aprestaba a adquirir su música, a los </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Idus de Marzo</strong><span style="color: #000000; font-size: small; line-height: 1.3em;">, a</span><strong style="color: #000000; font-size: small; line-height: 1.3em;"> Sangre, Sudor y Lágrimas </strong><span style="color: #000000; font-size: small; line-height: 1.3em;">o a </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Tierra, Viento y Fuego</strong><span style="color: #000000; font-size: small; line-height: 1.3em;">.</span><strong style="color: #000000; font-size: small; line-height: 1.3em;"> </strong><span style="color: #000000; font-size: small; line-height: 1.3em;">El rock gabacho se hizo presente en la cueva de cantera y plata al conjuntarse un grupo de chavos, quienes, motivados por el sonido </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Chicago</strong><span style="color: #000000; font-size: small; line-height: 1.3em;">, dieron origen a una agrupación roquera de manufactura zacatecana que, con el éxito de los grupos extranjeros y nacionales en el </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Hit Parade </strong><span style="color: #000000; font-size: small; line-height: 1.3em;">a finales de los 60, se enrola al movimiento para no permanecer aislada en el devenir rocanrolero, y es en esa temprana etapa cuando la </span><strong style="color: #000000; font-size: small; line-height: 1.3em;">Séptima Galaxia </strong><span style="color: #000000; font-size: small; line-height: 1.3em;" />se hace presente para ocupar un espacio  imborrable en la historia del rock local, un espacio que ninguna otra ha podido obtener en los terrenos del rock. </span></p> <p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><strong>La Séptima Galaxia </strong>ha sido considerada como la mejor banda roquera de Zacatecas, por la calidad y finura de sus instrumentistas, la imagen <em>locochona</em>, los registros y afinación de su cantante; reflejaba el sentimiento que predominaba en esa época. Aún se  recuerda aquella memorable tocada en <strong>Prepa Uno </strong>de la <strong>UAZ, </strong>donde alternó con la agrupación <strong>Trailer</strong>, que, desde el <strong><em>De Efe</em></strong>,<strong> </strong>vino a contagiar con su estilo al personal, el cual, con todas las carencias, se dio cita para presenciar esa emotiva tocada en 1973. La banda estaba integrada por excelentes músicos que han destacado, como <strong>Manuel Martínez </strong>en el bajo, <strong>Pedro Martínez </strong>en el requinto, <strong>Juan Antonio Mata </strong>en el trombón, <strong>Manuel Cervantes Mazcorro </strong>en las trompetas, <strong>Julio García </strong>en la batería, <strong>Julio Márquez </strong>en las vocales, <strong><em>El Bobo</em> </strong>en el saxofón y <strong>Felipe Rivapalacios </strong>en los teclados. La agrupación tenía con qué para interpretar cualquier melodía, pues en sus filas había elementos con estudios musicales, ya que eran egresados de la <strong>Internacional Banda de Música del Estado de Zacatecas</strong>, hoy en día <strong>Banda Sinfónica del Estado de Zacatecas</strong>. Esto facilitaba la instrumentación, debido a que piezas como <strong><em>Colour my world</em> </strong>o <strong><em>Question 67-68</em> </strong>de <strong>Chicago </strong>sonaban excelentemente y causaban sensación cuando las interpretaban; la gente gustaba de bailar, escuchar piezas tranquilas y disfrutar su permanencia en los tapancos donde tocaba el grupo.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><span style="font-size: x-small;"><img src="http://ljz.mx/images/stories/fotos_abril2013/sptima galaxia.jpg" border="0" width="300" style="float: left;" />En la imagen, póster difundido en el Distrito Federal cuando la banda zacatecana Séptima Galaxia anduvo tocando allá, alternando con los mejores del circuito, 1975, Cuarta Dimensión y Julio Márquez, vocal de la Séptima Galaxia, con integrantes de Los Aragón en Uruapan, Michoacán, en 1974.</span></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Alternaron con infinidad de grupos como los legendarios <strong>Mr. Máquina</strong>,<strong> </strong>con <strong>Macho </strong>de Monterrey, con <strong>Trailer </strong>del <strong><em>De Efe</em></strong>. Emigraron por tres años a la Ciudad de México, donde tocaron al lado de grandes bandas como <strong>Santa Fe</strong>,<strong> Búfalo</strong>,<strong> Three Souls in my Mind</strong>,<strong> Tequila </strong>y <strong>Javier Bátiz</strong>; este acto se celebró<strong> </strong>el 16 de marzo de 1975 en el Salón <strong>Chicago</strong>.<strong> </strong>También tocaron en <strong>El Champagne a gó gó, </strong>en la <strong>Zona Rosa, </strong>en<strong> La Raza </strong>y otras actividades particulares. Posteriormente, los descubrió la <strong>Superior </strong>y los invitó a tocar en los tapancos de las ferias que se celebraban en el interior de la República Mexicana; aceptaron tocar como artistas exclusivos y se fueron de gira a <strong>Guadalajara, Monterrey</strong>,<strong> Michoacán</strong>, a donde fuera; tocaban mucho material de <strong>Chicago </strong>tratando de que los <em>covers</em> sonaran fielmente a las piezas originales; seguían la secuencia de lo que estaba pegando en esa época, como <strong>Deep Purple</strong>,<strong> Jimmy Hendrix </strong>y todas las bandas que estaban en su apogeo.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">En el tiempo en que residieron en México, frecuentaban a grupos de origen zacatecano, músicos que darían consistencia a <strong>La Tierra </strong>y, posteriormente, a<strong> Súper Gallo</strong>, que fueron agrupaciones que conformó el paisano <strong>Roberto Borda <em>El Gallo</em></strong>. <strong><em>El Merques</em> y <em>Mazcorro</em></strong> se quedaron en el <em>De Efe</em><strong> </strong>cuando <em>tronó</em> <strong>La Séptima Galaxia</strong>.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">No tenían piezas originales, pero traían montados unos <em>covers</em> impresionantes como <strong><em>No te rajes</em> </strong>de <strong>Macho</strong>;<strong> </strong>daba gusto escucharles con todo el <em>feeling</em> de <strong>Julio </strong>el vocalista, quien se desgarraba la garganta cuando cantaba <strong>...dont back out, dont back out... </strong>Lo mismo sucedía con <strong><em>Vehicle</em> </strong>o <strong><em>Colour my world</em></strong>.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><strong>Séptima Galaxia </strong>no grabó discos, solamente hizo un demo que anda por ahí escondido, al cual realizó para Discos <strong>Capitol</strong>;<strong> </strong>son cinco piezas que, a la fecha, siguen inéditas; los integrantes no concluyeron el disco porque tenían compromisos para tocar en la feria de Uruapan, Michoacán, y, ya, se quedó <em>enlatado</em> el material.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><strong>Julio Márquez </strong>sigue conservando lazos amistosos con gente que ha sido considerada pionera del rocanrol local, <strong><em>Poncho</em> Bautista</strong>,<strong> <em>Chato</em> Valadez</strong>, <strong>Gustavo Alejandro Solís</strong>,<strong> <em>Chuy</em> Espino</strong>, <strong><em>El Chicles</em> </strong>y otros; continúa en la música, realizando grabaciones caseras por medio de pistas; sigue cantando baladas, como en los tiempos de la <strong>Cuarta Dimensión</strong>; no se olvida de sus raíces. Recientemente estuvo haciendo planes con su hermano <strong>Jesús </strong>para reagruparse y continuar en el rol, con la idea de crear un lugar donde se toque de manera exclusiva música del recuerdo. La gente que venimos de los 60 y 70 somos la que podemos olvidar esas etapas de creación; por esa causa, nos gustaría que la música se reciclara. Considera que la música actual ha perdido la esencia de los inicios, la filosofía misma que con tanta línea de acción se ha diversificado, tanto que ha perdido su cometido principal.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Cuando concluyó la <strong>Séptima Galaxia</strong>,<strong> Julio </strong>se fue a trabajar de locutor a la <strong>XEPC </strong>durante 20 años aproximadamente, y estando en cabina en una ocasión, llegó un distribuidor de una disquera, y cuál sería su sorpresa que llevaba un sencillo de <strong>Cuarta Dimensión</strong>:<strong> </strong>¡Híjole!, pues me dio un chorro de gusto porque estaba pegando por diferentes partes del país y pues te da gusto, te da agrado.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><br /></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <strong><span style="font-size: small;"><span style="color: #000000;">La Cuarta Dimensión</span></span></strong>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Como complemento a las iniciativas por ganarse un espacio en la escena local, esta banda surgida  en la pasada década de los 70 comenzó ganando terreno con <em>covers</em> de <strong>Chicago</strong>,<strong> Santana</strong>,<strong> Jim Capaldi</strong>,<strong> </strong>y conocidas melodías del <strong>Hit Parade </strong>internacional, como <strong><em>Vehicle</em></strong>,<strong><em> Pinta mi mundo</em></strong>,<strong><em> Pregunta 67-68</em> </strong>o algunas piezas del <strong>Three Souls In My Mind</strong>,<strong> </strong>las cuales interpretaban magistralmente.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">En entrevista realizada con dos personajes muy conocidos en el medio, originarios de la famosa <strong>Plazuela de García</strong>,<strong> </strong>se rescató alguna información sobre el desarrollo de la agrupación. <strong>Julio Márquez </strong>y <strong>Lalo López</strong>,<strong> </strong>voz principal y requinto, respectivamente, mencionaron sus influencias musicales. <strong>Julio </strong>traía todo el bullicio de la música acumulado en su estadía en los United States of America, todo el resplandor de uno de los músicos más grandes del mundo, <strong>Jimmy Hendrix</strong>,<strong> </strong>quien fue uno de quienes más influyeron en la toma de decisiones para enfilarse por los derroteros del canto; también <strong>Peter Cetera </strong>fue determinante en sus inicios, de ahí que <strong>Chicago </strong>se convirtió en la materia prima de inspiración para entrarle de lleno al rol. En 1973 se inició como músico, primero acomodando cables y sonido, para situarse, al poco tiempo, como voz principal de <strong>Cuarta Dimensión</strong>. <strong>Lalo </strong>se integró como guitarrista de la <strong>Cuarta</strong> en 1975, con todo el entusiasmo de un joven que desde los 10-12 años de edad ya se <em>fusilaba</em> algunas piezas de los <strong>Creedence Clearwater Revival </strong>y su viejo y conocido sonido Frisco. Por esos tiempos, el rock comenzaba a ser vetado y, sorpresivamente, las mejores Bandas mexicanas <em>chafearon</em> para incursionar en la música comercial, la balada, la cumbia, las piezas de corte romántico, a las cuales le tuvieron que entrar los chavos de la <strong>Cuarta</strong>, siguiendo el ejemplo que <strong>La Revolución de Emiliano Zapata</strong>,<strong> </strong>con la composición <strong><em>Cómo te extraño</em></strong>,<strong> </strong>había adoptado para ingresar a todos los estratos sociales; lo mismo pasó con otras agrupaciones que dejaron la <strong><em>gruexés</em></strong>, para dejarse ir por los rumbos de las baladillas para enamorados, pegando de inmediato en la radio donde los escuchaba gente de todos los rumbos que gustaba de la línea romántica. Nada cuestionable, pues si las autoridades no presentaban garantías para continuar con el florecimiento del rock de aquí, de alguna forma tenían que sobrevivir los músicos setenteros. Fue en una tocada celebrada en la Feria de Zacatecas <strong> </strong>cuando fueron descubiertos por gente de Discos <strong>Gas</strong>,<strong> </strong>que los contrató para ir a grabar a Monterrey su primer long play en 1977. Las piezas son composiciones de tipo romántico popular, como <strong><em>Tu pecado</em></strong>,<strong><em> Quiero</em></strong>,<strong><em> Mira bien</em></strong>,<strong><em> Si tú quisieras</em></strong>,<strong><em> La razón eres tú</em></strong>,<strong><em> Perdóname mujer</em></strong>,<strong><em> Extraño</em></strong>,<strong><em> Aquel que fuera tu amigo</em></strong>,<strong><em> Que eres mala </em></strong>y <strong><em>Cariño triste</em></strong>. En 1978, debido al éxito obtenido con el primero, se trasladaron a Guadalajara para grabar, en <strong>Canal 58</strong>, el segundo LP en la misma línea musical, con los mismos integrantes. La mayoría de las piezas era original de <strong>Salvador Martínez </strong>y algunas de <strong>Benjamín Sánchez Mota</strong>,<strong> </strong>quien fue el promotor de la banda. <strong><em>Flor sin retoño</em></strong>,<strong><em> La mano de Dios</em></strong>,<strong><em> Lloró su corazón</em></strong>,<strong><em> Tu camino</em></strong>,<strong><em> Madre</em></strong>,<strong><em> Dos corazones errantes</em></strong>,<strong><em> Soy feliz</em></strong>,<strong><em> Quien</em></strong>,<strong><em> Ayer me dijeron </em></strong>y <strong><em>Mi suegra glotona</em> </strong>constituyen la segunda producción.  <strong> </strong></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Tras algunos años de éxito, un día <em>tronó</em> la banda, debido principalmente al alcohol, aunque se escuche triste decirlo; tres elementos se aficionaron extremadamente a la bebida, aprovechando la fama que estaban adquiriendo, hasta volverse irresponsables, porque, por ejemplo, <strong><em>El Chato</em></strong>,<strong> </strong>quien se hacía cargo de la batería, anduvo de cantina en cantina, despilfarrando y dejando colgada a la agrupación cuando había compromisos o entrevistas, supliéndolo ésta con otros elementos para salir adelante. <strong><em>Chavo </em></strong>se casó y las obligaciones lo fueron apartando poco a poco de sus compañeros de la música, hasta llegar a la desintegración. De ahí,<strong> <em>Crucito</em> </strong>se fue con otro grupo, <strong><em>Lalo</em> </strong>continuó su carrera con <strong>Mr. Máquina</strong>,<strong> </strong>los Hermanos <strong>Pérez Pizaña </strong>se integraron a <strong>Indiana</strong>,<strong> </strong>para, posteriormente, dar origen a <strong>Galaxia Estelar </strong>en <strong>Guadalupe</strong>,<strong> </strong>y los otros elementos siguieron en el rol.<strong> </strong></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><strong>Víctor Pérez </strong>en la trompeta, <strong><em>Nacho</em> Pérez </strong>en la otra trompeta, <strong>Enrique García </strong>sax tenor, <strong>Palomas </strong>en el trombón, <strong><em>Crucito</em> </strong>en el órgano, <strong><em>Chato</em> </strong>en la batería, <strong><em>Lalo</em> </strong>en el requinto, <strong>Salvador Martínez </strong>bajo y voz, <strong>Julio Márquez </strong>primera voz y <strong>Jesús Márquez</strong>,<strong> </strong>director artístico.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"> </span></span>
+</p>
+
+<p style="text-align: justify;">
+  <strong><span style="font-size: small;"><span style="color: #000000;">Criollo</span></span></strong>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">En 1970 se originó en Zacatecas un grupo de entusiastas seguidores de las propuestas que estaban poniendo a consideración las bandas que comenzaban a destacar a nivel mundial como <strong>Grand Funk Railroad</strong>. La agrupación se conformó con tres integrantes, sin nombre determinado, a la que la banda conocía como<strong> Los Güeros</strong><em>,</em><strong> </strong>que originalmente eran <strong>Héctor Samuel Cortés Sánchez </strong>en la batería, y <strong>José Luis Cortés Sánchez </strong>y <strong>Juan Carmona Avila</strong>,<strong> </strong>ambos en las guitarras. Después, se integró <strong>Dionisio Llamas </strong>en el acompañamiento y <strong>Juan Carmona </strong>se hizo cargo del bajo.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"><span style="font-size: x-small;"><img src="http://ljz.mx/images/stories/fotos_abril2013/criollo.jpg" border="0" width="300" style="float: left;" />En la imagen, Criollo, uno de los grupos pioneros del rock setentero en Zacatecas. Aquí, los hermanos Cortés como fundadores.</span></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Inició tocando en el Café <strong>Real de Minas</strong>, que estaba ubicado en la avenida <strong>González Ortega</strong>,<strong> </strong>a un costado de lo que fue la <strong>Funeraria Palomino</strong>.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">El estilo de música que tocaba era un mosaico de expresiones que surgieron del rock y el pop; sus inicios se remontan a las presentaciones que hacían en fiestas particulares como bodas, quince años, además de tardeadas que se realizaban en el salón del <strong>hotel Reina Cristina</strong>,<strong> </strong>hoy en día <strong>hotel Emporio</strong>. Ya con los cuatro integrantes optaron por llamarse <strong>Grupo Criollo</strong>.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Con el paso del tiempo hubo ajustes en la alineación; salió <strong>Dionisio Llamas<em>,</em> </strong>quien dejó su lugar a <strong>Mario Puente</strong>,<strong> </strong>quien se encargaría de tocar el bajo. También decidieron cambiar de nombre; ahora se presentaban bajo el eslogan de <strong>The Bags </strong>(El Equipaje). Tocaron por un período de ocho años en el <strong>Bar La Troje</strong>, conocido antro ubicado en la <strong>avenida Hidalgo</strong>,<strong> </strong>donde amenizaban los ratos de esparcimiento de los personajes que, ansiosos, acudían a tomar la copa y discutir sobre los últimos acontecimientos rocanroleros  cuando cerraban el legendario <strong>Bar El Gallito</strong>;<strong> </strong>tocaban los fines de semana, tres noches era posible escuchar piezas de <strong>Creedence Clearwater Revival</strong>, Los <strong>Beatles</strong>, <strong>Grand Funk Railroad</strong>,<strong> Chicago</strong>,<strong> Bee Gees</strong>,<strong> etc</strong>. Era el centro de reunión de gente del rol que coincidía en todo lo relacionado con el arte, la filosofía y el rocanrol, incluidas las correspondientes dosis de literatura, sexo, drogas y un inmenso mar de discusiones, propuestas, intelectuales devaneos y los consabidos acuerdos entendidos sobre la definición del problema fundamental del tan buscado <strong>rock nacional</strong>.</span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;">Continuaron trabajando en bares hasta que conocieron al organista <strong>Juan Manuel Garibay</strong>,<strong> </strong>quien andaba sin grupo; realizaron una fusión que dio como resultado una nueva propuesta musical denominada <strong>Juan Manuel Garibay y el Grupo Trash</strong>,<strong> </strong>con la que tocaron por un periodo no muy prolongado en todo tipo de actos; después, <strong>Garibay </strong>conformó su propia banda y los muchachos continuaron en el rol con el nombre de <strong>La Quinta Avenida</strong>, conformada por los hermanos <strong>Héctor Samuel </strong>y <strong>José Luis Cortés Sánchez </strong>quienes eran fundadores originales, y <strong>Juan Carmona Avila, Homero Pérez Correa (qepd)</strong> y<strong> Faustino Rodríguez </strong>en las tumbas; continuaron tocando hasta el año 1990, cuando decidieron separarse. <strong> </strong></span></span>
+</p>
+
+<p style="text-align: justify;">
+  <span style="font-size: small;"><span style="color: #000000;"> </span></span>
+</p>

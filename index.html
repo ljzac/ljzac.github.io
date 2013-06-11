@@ -2,12 +2,13 @@
 layout: default
 ---
 <!-- los templates estan en _layouts/bloques.html -->
+<!--{{ template "debate132.html" }}-->
 {{ template "lajornadatvPrincipal.html" }}
 {{ template "laNotaPrincipal.html" .s.PagesForCategory "Portada" 15}}
 <div class="grid_16 dot">
-  <div class="grid_8 alpha">
-	  {{ template "seccion" .s.PagesForCategory "Zacatecas" 15 }}    
+  <div class="grid_8 alpha">   
 	  {{ template "seccion" .s.PagesForCategory "Destacadas" 15}}
+	  {{ template "seccion" .s.PagesForCategory "Principales" 15}}
 	  {{ template "seccion" .s.PagesForCategory "Mundo" 15 }}
 	</div>
 
@@ -19,8 +20,9 @@ layout: default
 	    </div>
 	      {{ template "columnas" .s.PagesForCategory "Editorial" 15}}
 		  {{ template "columnas" .s.PagesForCategory "La Jiribilla" 15}}
-		  {{ template "seccion" .s.PagesForCategory "A debate" 15}}
+		  {{ template "seccion" .s.PagesForCategory "Municipios" 15}}
 	  </div>
+	  {{ template "publicidad" .s.PagesForCategory "Publicidad" 15}}
 	</div>
 </div>
 <!-- Left Section End -->
