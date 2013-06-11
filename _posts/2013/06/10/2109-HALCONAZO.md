@@ -2,7 +2,7 @@
 published: "true"
 title: "Se enfrentan jóvenes con la policía en la marcha por el \"halconazo\""
 author: REDACCION
-category: Destacadas
+category: Principales
 layout: posts
 
 ---
