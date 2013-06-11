@@ -5,7 +5,7 @@
 </div>
 {{ range . }}
 <article class="SubContent">
-	<h3>{{ .title }}</h3>
+	<a href="/{{ .url }}"><h3> {{ .title }}</h3></a>
   {{if .MainImgSize "m"}}
 	<div class="grid_9 omega" style="max-height: 320px;overflow: hidden; margin-right: 5px;">
 		<div style="max-height:260px; width:auto;"><img src="{{ .MainImgSize "m" }}" alt="pic" /> </div>
