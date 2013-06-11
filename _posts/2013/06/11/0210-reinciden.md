@@ -2,7 +2,7 @@
 published: "true"
 title: "Reincidentes, 70 por ciento de los detenidos en  el municipio de Zacatecas: Policía Preventiva"
 author: "CESAR PEREZ "
-category: Portada
+category: Municipios
 layout: posts
 
 ---
