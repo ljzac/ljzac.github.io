@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "En Guadalupe también tenemos a nuestro “Granier”: Alvarez Máynez "
 author: REDACCION
 category: Destacadas
