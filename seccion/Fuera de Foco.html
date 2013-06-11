@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+{{ $miseccion := index .site.categories "Fuera de Foco"}}
+{{if $miseccion }}
+<div class="title">
+	    <h4>Fuera de Foco</h4>
+</div>
+
+{{ range $miseccion }}
+			<article class="SubContent">
+	            <h3>{{ .title }}</h3>
+	             <div class="grid_9 omega" style="max-height: 320px;">
+                     <div style="max-height:260px; width:auto;">
+                       <a href= "{{ .MainImgSize "h" }}" rel="gallery_ffoco" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                         <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> 
+                       </a>
+               </div></div>
+
+	            </article>
+	            <br><br><br>
+	            <hr>
+{{end}}
+
+
+{{else }}
+  No hay notas en esta sección.
+{{ end }}
