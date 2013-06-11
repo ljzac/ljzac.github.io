@@ -12,10 +12,14 @@ layout: default
                   <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
                   <div class="grid_7 alpha">
 	                <ul class="comment">
+	                {{ if .author }}	
 	                  <li><a href="#">{{ .author }} </a>/</li>
 	                  <li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	                 {{else}}
+	                 	<li><a href="#">{{ .date | date_to_string }}</a>/</li>
+	                 {{end}}	
 	                </ul>
-	                <p>{{ .GetTwett }} <a href="/{{ .url }}">Leer más...</a> </p>
+	                <p style="text-align:justify">{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p>
 	              </div>
 	            </article>
 	            <br><br><br>
