@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: Exhortan PRD y PAN al resto de contendientes a sumarse a candidatura de unidad a favor de González Bueno
 twitt: "•\tLa finalidad, hacer frente a PRI-PVEM, sostienen"
 author: ALMA ALEJANDRA TAPIA
