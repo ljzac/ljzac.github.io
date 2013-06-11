@@ -2,7 +2,7 @@
 published: "true"
 title: "No elegí dar la vuelta al mundo, es algo  que me eligió a mí, afirma El Biciclown"
 author: "ALMA RIOS "
-category: Portada
+category: Reportaje Especial
 layout: posts
 
 ---
