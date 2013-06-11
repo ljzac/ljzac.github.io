@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{{ $miseccion := index .site.categories "Cartones"}}
+{{ $miseccion := index .site.categories "La Jiribilla"}}
 {{if $miseccion }}
 <div class="title">
 	    <h4>Cartones</h4>
@@ -11,7 +11,6 @@ layout: default
 
 {{ range $miseccion }}
 			<article class="SubContent">
-	            <h3>{{ .title }}</h3>
 	             <div class="grid_9 omega" style="max-height: 320px;">
                      <div style="max-height:260px; width:auto;">
                        <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
@@ -26,5 +25,9 @@ layout: default
 
 
 {{else }}
-  No hay notas en esta sección.
+ <div class="news_tpoic">
+  <div class="title">
+   No hay notas de esta sección
+ </div>
+</div>
 {{ end }}
