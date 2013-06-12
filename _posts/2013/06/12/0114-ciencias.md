@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Hoy inicia el segundo congreso de ciencias sociales, anuncia Ibarra"
 author: MARTIN CATALAN LERMA
 category: Educación
