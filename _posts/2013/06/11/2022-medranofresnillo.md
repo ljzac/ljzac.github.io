@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "El desarrollo y bienestar social de Fresnillo, mi prioridad: Medrano   "
 author: REDACCION
 category: Destacadas
