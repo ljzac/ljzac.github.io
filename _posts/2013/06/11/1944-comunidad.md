@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Propone Gerardo Romo medidas técnicas y jurídicas para garantizar suministro de agua potable en Guadalupe
 author: REDACCION
 category: Destacadas
