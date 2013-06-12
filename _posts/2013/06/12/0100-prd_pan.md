@@ -2,7 +2,7 @@
 published: "true"
 title: Exhortan PRD y PAN a partidos a sumarse  a candidatura de unidad a favor de Bueno
 author: ALMA ALEJANDRA TAPIA
-category: Política
+category: Portada
 layout: posts
 
 ---
