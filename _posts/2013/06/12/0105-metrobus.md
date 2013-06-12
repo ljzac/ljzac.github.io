@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Transportistas exhortan a autoridades a  hacer estudios sobre impacto del metrobús
 author: RAFAEL DE SANTIAGO
 category: Sociedad y Justicia
