@@ -59,7 +59,7 @@ No hay notas de esta sección
 {{if .}}
 {{$first := index . 0 }}
 <article class="section"> <strong> {{ $first.GetCategories }}</strong>
-  <h2> {{ $first.title}} </h2>
+  <h3><a href="{{ $first.url }}"> {{ $first.title}} </a></h3>
   <ul class="comment">
    <li><a href="#">{{ $first.author }} </a>/</li>
    <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
