@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "La tarjeta de la Diferencia es una certeza y garantía de aplicación de programas sociales: Xerardo Ramírez "
 author: REDACCION
 category: Destacadas
