@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Nacen seis crías de Lobo Gris Mexicano en cautiverio en el Centro Ecológico de Sonora
 category: Ciencia y Tecnología
 layout: posts
