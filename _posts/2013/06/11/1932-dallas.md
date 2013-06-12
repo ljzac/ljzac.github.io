@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: Promocionan destino Zacatecas ante agencias de viaje y Federación de Clubes de Fort Worth
 author: REDACCION
 category: Destacadas
