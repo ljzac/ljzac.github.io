@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Signan convenio Conalep y Sutsemop para capacitar y certificar a 5 mil  trabajadores "
 author: REDACCION
 category: Destacadas
