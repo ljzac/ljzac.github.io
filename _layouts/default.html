@@ -1,0 +1,17 @@
+---
+layout: defaultSimple
+---
+<!-- default.html -->
+<section class="container">
+  <div class="grid_12 alpha">
+    {{ .content}}
+  </div>
+  <div class="grid_4 omega">
+    {{template "noticiasaldia.html" .}}
+    {{template "versionimpresa.html" }}
+     {{template "gsb.html" .}}
+    {{template "barraDerecha.html" .}}
+  </div>
+</section>
+<!-- Bottom Section -->
+{{ template "bottomSection.html" .}}
