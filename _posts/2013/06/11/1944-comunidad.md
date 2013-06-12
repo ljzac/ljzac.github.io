@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: Propone Gerardo Romo medidas técnicas y jurídicas para garantizar suministro de agua potable en Guadalupe
 author: REDACCION
 category: Destacadas
@@ -20,5 +20,3 @@ Esa tarea se realizará conjuntamente con Rafael Flores,  candidato a diputado l
  
 
 Informó que la municipalidad produce y extrae únicamente el 30% del agua que llega a los hogares, y el 70% restante proviene de la capital zacatecana, donde la Jiapaz sí ha invertido recursos para combatir los problemas de abasto del líquido.
-
- 
