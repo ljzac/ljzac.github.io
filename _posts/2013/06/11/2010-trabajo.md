@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Trabajarán Carlos Peña y Roberto Luévano para lograr un mejor desarrollo social en la zona conurbada "
 author: REDACCION
 category: Destacadas
