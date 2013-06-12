@@ -589,6 +589,8 @@ Right Section Css
 	font-size:1.6em;
 	color:#333;
 	font-weight:800;
+	display: block;
+	text-align: justify;
 }
 .grid_4 .title {
 	border-radius:4px;
