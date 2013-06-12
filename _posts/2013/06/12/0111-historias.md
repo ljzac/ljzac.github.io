@@ -2,7 +2,7 @@
 published: "true"
 title: "Desintegración familiar y carencia de recursos  orillan a los menores a trabajar, señala SEDIF"
 author: "RAFAEL DE SANTIAGO "
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
