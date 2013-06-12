@@ -1,0 +1,43 @@
+---
+published: "true"
+title: ShortcutAndroid
+twitt: ShortcutAndroid
+author: Redaccion
+category: Portada
+layout: posts
+
+---
+
+## Creando Shortcut en Android Para La Jornada
+
+- Entra en tu navegador de internet a ljz.mx
+Es decir, verás algo como esto:
+![La Jornada](http://i.imgur.com/qR1H69Um.png)
+
+- Una vez ahí, presiona el botón de 'opciones' de tu celular. Normalmente ubicado a un lado del botón de inicio y verás un menú así:
+
+![Menu Opciones](http://i.imgur.com/XLxTYP7m.png)
+
+- Busca la opción de "Añadir a Favoritos" y presiona 'Aceptar'. 
+
+![Favoritos](http://i.imgur.com/gIEPqz4m.png)
+
+- Ahora regresa a la pantalla de inicio de tu celular.
+
+- Toca la pantalla del celular 2 segundos (O hasta que vibre) y verás algo asi:
+
+![Widgets](http://i.imgur.com/8FuUpzGm.png)
+
+- Busca la opción "Atajos" y tócala.  
+
+- Busca la opcoón "Favoritos" para agregar el atajo de una página favorita.
+
+![Favoritos](http://i.imgur.com/nVcoSwQm.png)
+
+- Una vez ahí, selecciona la página de La Jornada Zacatecas. Éste es el atajo que se agregará.
+
+![Paginas](http://i.imgur.com/GuZVcbXm.png)
+
+Si completaste todos los pasos exitosamente, ahora tienes tu atajo hacia el periódico! Felicidades!
+
+![Atajo](http://i.imgur.com/Isou7NUm.png)
