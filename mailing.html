@@ -4,7 +4,7 @@ layout: nil
 <!-- defaultSimple.html -->
 <!DOCTYPE HTML>
 <html>
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -28,63 +28,42 @@ layout: nil
     <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.min.css" />
 
     <base href="http://ljz.mx/" />    
-</head>
+  </head>
 
-<!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
-<body>
-<!-- header Section -->
-<section class="header-wrap">
-  <header class="header" style="min-height:113px">
-    <a href="/" class="logo" title="La Jornada Zacatecas" alt="La Jornada Zacatecas"></a> 
-  </header>
-</section>
-<!-- header Section -->
-<!-- wrapper Section -->
-<div class="container_16 wrapper">
+  <!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
+  <body>
+    <!-- header Section -->
+    <section class="header-wrap">
+      <header class="header" style="min-height:113px">
+        <a href="/" class="logo" title="La Jornada Zacatecas" alt="La Jornada Zacatecas"></a> 
+      </header>
+    </section>
+    <!-- header Section -->
+    <!-- wrapper Section -->
 
+      <div class="grid_12" style="width:600px">
+          <div class="grid_16">
+            <div class="grid_8">   
+              {{ template "seccion_mailchimp.html" .s.PagesForCategory "Portada" 3}}
+	            {{ template "seccion_mailchimp.html" .s.PagesForCategory "Destacadas" 3}}
+	            {{ template "seccion_mailchimp.html" .s.PagesForCategory "Principales" 3}}
+	          </div>
 
-<section class="container">
-  <div class="grid_12 alpha">
-    <div class="grid_16 dot">
-      <div class="grid_8 alpha">   
-        {{ template "seccion" .s.PagesForCategory "Portada" 3}}
-	      {{ template "seccion" .s.PagesForCategory "Destacadas" 3}}
-	      {{ template "seccion" .s.PagesForCategory "Principales" 3}}
-	    </div>
+	          <div class="grid_8">
+		          {{ template "seccion_mailchimp.html" .s.PagesForCategory "Municipios" 3}}
 
-	    <div class="grid_8 omega">
-		    {{ template "seccion" .s.PagesForCategory "Municipios" 3}}
-	      {{ template "publicidad" .s.PagesForCategory "Publicidad" 3}}
-	      <div class="news_tpoic">
-	        <div class="title">
-	          <h4>COLUMNAS</h4>
-	        </div>
-	        {{ template "columnas" .s.PagesForCategory "Editorial" 3}}
-		      {{ template "columnas" .s.PagesForCategory "La Jiribilla" 3}}
+	            <div class="news_tpoic">
+	              <div class="title">
+	                <h4>COLUMNAS</h4>
+	              </div>
+	              {{ template "columnas" .s.PagesForCategory "Editorial" 3}}
+		            {{ template "columnas" .s.PagesForCategory "La Jiribilla" 3}}
+	            </div>
+	          </div>
 
-	      </div>
+          </div>
+        </div>
 
-	      {{ template "publicidad" .s.PagesForCategory "Publicidad" 3}}
-	    </div>
-      {{ template "lajornadatvPrincipal.html" }}
-    </div>
-  </div>
-  <div class="grid_4 omega">
-    <div class="title">
-	    <h4>NOTICIAS AL DÍA</h4>
-    </div>
-    <div class="list">
-	    <ul class="mycarousel jcarousel jcarousel-skin-tango">
-		    {{range .s.PagesForCategory "MinuteByMinute" 15 }}
-		    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
-		    {{end}}
-	    </ul>
-    </div>
-    <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
-	  {{ template "seccion" .s.PagesForCategory "Mundo" 3 }}
-  </div>
-</section>
-
-
-<!-- Left Section End -->
-
+    
+  </body>
+</html>
