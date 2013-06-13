@@ -2,7 +2,7 @@
 published: "true"
 title: "Contará Zacatecas con vuelo a Dallas, Texas; es operado por American Eagle"
 author: ARAZU TINAJERO
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
