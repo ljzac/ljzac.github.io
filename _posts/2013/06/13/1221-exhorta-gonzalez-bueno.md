@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: Exhorta González Bueno a aspirantes a alcaldes capitalinos a unirse a su proyecto para enfrentar a PRI y PVEM
+title: Exhorta González Bueno a opositores a unirse a su proyecto para enfrentar a PRI y PVEM
 author: ALMA ALEJANDRA TAPIA
 category: Destacadas
 layout: posts
