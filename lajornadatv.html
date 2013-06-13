@@ -7,9 +7,31 @@ layout: default
     </div>
 
 		<article class="SubContent">
+	 
+	  <script type="text/javascript"> 
 
-      <iframe type="text/html" width="640" height="360"
-              src="https://www.youtube.com/embed/?listType=user_uploads&list=LaJornadaZacatecas&showinfo=1&wmode=transparent"
-              frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+	  		function youtube_videos(data) { 
+	  			var feed = data.feed; 
+	  			var entries = feed.entry || []; 
+	  			var html = []; 
+	  			for (var i = 0; i < entries.length; i++) { 
+	  				var entry = entries[i]; 
+	  				var title = entry.title.$t; 
+	  				var width = "450"; 
+	  				var height = "300"; 
+	  				var showtitle = "Yes"; 
+	  				var titledisplay = ''; 
+	  				if(showtitle == "Yes") { 
+	  					titledisplay = '<h3>' + title + '</h3>'; } 
+	  				else { 
+	  					titledisplay = ''; 
+	  				} 
+	  				var playerUrl = entries[i].media$group.media$content[0].url; 
+	  				html.push( "<div class=\"youtube_videos\">", titledisplay ,"\n", "<object width='" , width , "' height='" , height , "'><param name='movie' value='" , playerUrl , "&hl=en&fx=1&'></param><param name='allowFullScreen' value='true'></param><param name='allowscriptaccess' value='always'></param><embed src='" , playerUrl , "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width , "' height='" , height , "'></embed></object></div><p></p><hr>" );
+	  				 } //fin del for
+	  				 document.getElementById('videos').innerHTML = html.join(''); 
+			} // fin de la funcion
+			</script>
+ <div id="videos"> </div> <script type="text/javascript" src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?alt=json-in-script&max-results=10&callback=youtube_videos"> </script> 
 
-	  </article>
+  		</article>
