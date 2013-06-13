@@ -3,6 +3,9 @@
 .article p{
 	text-align: justify;
 }
+.pic{
+	width: 320px;
+}
 #text h1 div.caption{
 	float: none;
 	display: inline-block;
@@ -324,8 +327,12 @@ Container Section Css
 	padding:12px 20px 22px;
 }
 .SubContent {
-	overflow:hidden;
-	padding-top:15px;
+	height: auto;
+	overflow: inherit;
+	overflow-y: auto;
+	display: block;
+	position: inherit;
+	padding-top: 15px;
 }
 .SubContent p {
 	padding-bottom: 16px;
@@ -589,6 +596,8 @@ Right Section Css
 	font-size:1.6em;
 	color:#333;
 	font-weight:800;
+	display: block;
+	text-align: justify;
 }
 .grid_4 .title {
 	border-radius:4px;

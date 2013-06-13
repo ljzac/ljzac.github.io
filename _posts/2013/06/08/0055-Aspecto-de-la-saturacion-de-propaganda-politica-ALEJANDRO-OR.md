@@ -1,11 +1,11 @@
 ---
 published: "true"
-title: "Aspecto de la saturación de propaganda política"
-twitt: "Aspecto de la saturación de propaganda política"
-author: "ALEJANDRO ORTEGA NERI (1)"
+title: Aspecto de la saturación de propaganda política
+twitt: Aspecto de la saturación de propaganda política
+author: ALEJANDRO ORTEGA NERI
 authorlink: "https://ljz.mx/autores/ALEJANDRO ORTEGA NERI (1)"
-category: "Fuera de Foco"
-layout: "posts"
+category: Fuera de Foco
+layout: posts
 
 ---
 
