@@ -11,8 +11,11 @@ layout: posts
 “Quien de verde se viste bonita se cree”
 
 UNO: Sobre el debate en Zacatecas capital 
+
 DOS: Gilberto Zapata ¿defensor de patrones?
+
 TRES: Jorge Alvarez Máynez reta a sus oponentes 
+
 CUATRO: Contra los mítines tradicionales
 
 **UNO: “En dormir y en rezar, el trabajo es empezar”**A continuación, la lista de quienes asistieron al debate organizado por el grupo #YoSoy132 Zacatecas:
