@@ -8,12 +8,11 @@ layout: default
 <div class="title">
 	    <h4>Cartones</h4>
 </div>
-
 {{ range $miseccion }}
 			<article class="SubContent">
 	             <div class="grid_9 omega">
                      <div class="grid_image">
-                       <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                      {{ if .MainImg }} <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
                          <img src="{{ .MainImg }}" class="pic" alt="{{ .tittle }}" /> 
                        </a>
                      </div>
@@ -21,6 +20,11 @@ layout: default
 	    </article>
 	    <br><br><br>
 	    <hr>
+      {{else}}
+        </div>
+        </div>
+      </article>
+     {{ end }}
 {{end}}
 
 

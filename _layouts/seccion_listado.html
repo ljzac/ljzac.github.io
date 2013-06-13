@@ -52,7 +52,9 @@
   <div>
   {{end}}
 		<ul class="comment">
+		{{ if .author }}	
 			<li><a href="#">{{ .author }} </a>/</li>
+		{{ end }}	
       {{ if .date }}
 			<li><a href="#">{{ .date | date_to_string }}</a>/</li>
       {{ end }}
