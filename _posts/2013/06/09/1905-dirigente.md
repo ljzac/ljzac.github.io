@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Avala Junta Directiva del Issstezac a su nuevo presidente y director general, Víctor Manuel "
+title: Avala Junta Directiva del Issstezac a su nuevo presidente y director general
 author: REDACCION
 category: Destacadas
 layout: posts
