@@ -18,7 +18,7 @@ http://www.youtube.com/watch?v=fuMB4tDzTPU
 ![](http://i.imgur.com/uZWSb47m.jpg)
 
 ![](http://i.imgur.com/rkr480Al.jpg)
-
+_____________________________________________________________________________________
 
 ## En Blackberry
 
@@ -33,6 +33,8 @@ http://www.youtube.com/watch?v=fxOJB6zdOHk&list=PLBF865A5E91324EF7
 O revisa soporte de Blackberry aqui:
 
 http://docs.blackberry.com/es-es/smartphone_users/deliverables/43279/1509521.html
+
+_____________________________________________________________________________________
 
 
 ## Android
