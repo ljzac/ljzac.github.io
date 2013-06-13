@@ -1,7 +1,7 @@
 ---
 published: "true"
-title: ShortcutAndroid
-twitt: ShortcutAndroid
+title: Shortcuts
+twitt: Shortcuts
 author: Redaccion
 category: Portada
 layout: posts
