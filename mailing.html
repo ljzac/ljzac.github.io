@@ -40,15 +40,16 @@ layout: nil
     </section>
     <!-- header Section -->
     <!-- wrapper Section -->
-    <section class="container">
+
+      <div class="grid_12" style="width:600px">
           <div class="grid_16">
-            <div class="grid_8 alpha">   
+            <div class="grid_8">   
               {{ template "seccion_mailchimp.html" .s.PagesForCategory "Portada" 3}}
 	            {{ template "seccion_mailchimp.html" .s.PagesForCategory "Destacadas" 3}}
 	            {{ template "seccion_mailchimp.html" .s.PagesForCategory "Principales" 3}}
 	          </div>
 
-	          <div class="grid_8 alpha">
+	          <div class="grid_8">
 		          {{ template "seccion_mailchimp.html" .s.PagesForCategory "Municipios" 3}}
 
 	            <div class="news_tpoic">
@@ -59,9 +60,10 @@ layout: nil
 		            {{ template "columnas" .s.PagesForCategory "La Jiribilla" 3}}
 	            </div>
 	          </div>
-            {{ template "lajornadatvPrincipal.html" }}
+
           </div>
-    </section>
+        </div>
+
     
   </body>
 </html>
