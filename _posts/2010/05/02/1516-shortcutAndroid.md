@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: Shortcuts
 twitt: Shortcuts
 author: Redaccion
@@ -8,7 +8,7 @@ layout: posts
 
 ---
 
-# Creando Shortcut en Celulares Para La Jornada
+## Creando Shortcut en Celulares Para La Jornada
 __________________________________________________________________________________________________________________________________________________________________________
 ## IPhone o IPad
 
