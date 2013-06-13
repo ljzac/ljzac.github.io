@@ -1,8 +1,8 @@
 ---
-published: "true"
+published: "false"
 title: Secretarías de Economía buscan la reinserción  de empleados despedidos de la cervecería Corona
 author: ARAZU TINAJERO
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
