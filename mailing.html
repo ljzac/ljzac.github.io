@@ -1,0 +1,90 @@
+---
+layout: nil
+---
+<!-- defaultSimple.html -->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <title>{{ if .page.title }} {{ .page.title }} | {{end}} La Jornada Zacatecas </title>
+    {{if .page.MainImgSize "b"}} 
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{.page.MainImgSize "b"}}" />
+    {{end}}
+    
+    <meta name="description" content="{{ .page.twitt }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/Assets/images/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Exo:400,100,700italic,700,600italic,600,100italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/Assets/css/reset.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/960_grid.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/caption.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/Assets/css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/print.min.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/skin.min.css" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="/Assets/css/jquery.fancybox.min.css" />
+
+    <base href="http://ljz.mx/" />    
+</head>
+
+<!-- <body style="background:url(home.jpg) center top no-repeat; height:3500px;"> -->
+<body>
+<!-- header Section -->
+<section class="header-wrap">
+  <header class="header" style="min-height:113px">
+    <a href="/" class="logo" title="La Jornada Zacatecas" alt="La Jornada Zacatecas"></a> 
+  </header>
+</section>
+<!-- header Section -->
+<!-- wrapper Section -->
+<div class="container_16 wrapper">
+
+
+<section class="container">
+  <div class="grid_12 alpha">
+    <div class="grid_16 dot">
+      <div class="grid_8 alpha">   
+        {{ template "seccion" .s.PagesForCategory "Portada" 3}}
+	      {{ template "seccion" .s.PagesForCategory "Destacadas" 3}}
+	      {{ template "seccion" .s.PagesForCategory "Principales" 3}}
+	    </div>
+
+	    <div class="grid_8 omega">
+		    {{ template "seccion" .s.PagesForCategory "Municipios" 3}}
+	      {{ template "publicidad" .s.PagesForCategory "Publicidad" 3}}
+	      <div class="news_tpoic">
+	        <div class="title">
+	          <h4>COLUMNAS</h4>
+	        </div>
+	        {{ template "columnas" .s.PagesForCategory "Editorial" 3}}
+		      {{ template "columnas" .s.PagesForCategory "La Jiribilla" 3}}
+
+	      </div>
+
+	      {{ template "publicidad" .s.PagesForCategory "Publicidad" 3}}
+	    </div>
+      {{ template "lajornadatvPrincipal.html" }}
+    </div>
+  </div>
+  <div class="grid_4 omega">
+    <div class="title">
+	    <h4>NOTICIAS AL DÍA</h4>
+    </div>
+    <div class="list">
+	    <ul class="mycarousel jcarousel jcarousel-skin-tango">
+		    {{range .s.PagesForCategory "MinuteByMinute" 15 }}
+		    <li><a href="{{.GetUrl}}">{{.title}}</a></li>
+		    {{end}}
+	    </ul>
+    </div>
+    <div class="news-pagination"> <small>MAS NOTICIAS</small></div>
+	  {{ template "seccion" .s.PagesForCategory "Mundo" 3 }}
+  </div>
+</section>
+
+
+<!-- Left Section End -->
+
