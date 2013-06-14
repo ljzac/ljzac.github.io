@@ -15,6 +15,7 @@ layout: nil
 		<updated>{{ .date | date_to_xmlschema }}</updated>
 		<id>http://ljzac.dev/{{ .url }}</id>
 		<content type="html">{{ .content | html }}</content>
+    <comments>http://ljzac.dev/{{ .url }}#disqus_thread</comments>
     <category>{{.GetCategories}}</category>
 	</entry>
 	{{ end }}
