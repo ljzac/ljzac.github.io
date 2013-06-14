@@ -15,8 +15,7 @@ layout: nil
 		<updated>{{ .date | date_to_xmlschema }}</updated>
 		<id>http://ljz.mx/{{ .url }}</id>
     <summary type="html">{{ .GetIntrotext | html}} ...</summary>
-		<content type="html">{{ .content | html }}  </content>
-    
+    <content type="image/jpg" src="{{ .MainImgSize "t"}}" />
     <author><name>{{if .author }}{{ .author }}{{ else }} redacción {{ end }} </name></author>
     <category term="{{.GetCategories}}" />
 	</entry>
