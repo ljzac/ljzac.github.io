@@ -4,18 +4,18 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 	<feed xmlns="http://www.w3.org/2005/Atom">
 	<title>La Jornada Zacatecas</title>
-	<link href="http://ljzac.dev/atom.xml" rel="self"/>
-	<link href="http://ljzac.dev/"/>
-	<id>http://ljzac.dev/</id>
+	<link href="http://ljz.mx/atom.xml" rel="self"/>
+	<link href="http://ljz.mx/"/>
+	<id>http://ljz.mx/</id>
 	<updated>{{ .site.time | date_to_xmlschema }}</updated>
 	{{ range .s.PagesForCategory "MinuteByMinute" 20 }}
 	<entry>
 		<title>{{ .title }}</title>
-		<link href="http://ljzac.dev/{{ .url }}" />
+		<link href="http://ljz.mx/{{ .url }}" />
 		<updated>{{ .date | date_to_xmlschema }}</updated>
-		<id>http://ljzac.dev/{{ .url }}</id>
+		<id>http://ljz.mx/{{ .url }}</id>
 		<content type="html">{{ .content | html }}</content>
-    <comments>http://ljzac.dev/{{ .url }}#disqus_thread</comments>
+    <comments>http://ljz.mx/{{ .url }}#disqus_thread</comments>
     <category>{{.GetCategories}}</category>
 	</entry>
 	{{ end }}
