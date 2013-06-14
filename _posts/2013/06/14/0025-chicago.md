@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![](/_posts/2013/06/14/tiroteoeu.jpg)
+![](http://i.imgur.com/eKrtZ3Vm.jpg)
 Chicago. Cuatro personas, dos hombres y dos mujeres, fueron asesinadas este jueves en un tiroteo en una empresa en la ciudad de St. Louis, Missouri (centro de Estados Unidos), dijo la policía.
 
 "Hay cuatro víctimas adultas, dos hombres y dos mujeres, confirmadas muertas en la escena de un tiroteo en la cuadra 2700 de Cherokee", informó la policía de la ciudad en Twitter.
