@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="title">
+	    <h4> Noticias al Día </h4>
+</div>
+
+{{ range .site.MinuteByMinute }}
+			<article class="SubContent">
+	            <a href="/{{ .url }}"><h3>{{ .title }}</h3></a>
+	            {{ if .MainImg }}
+	             <div class="grid_9 omega" style="max-height: 320px;">
+                  <div style="max-height:260px; width:auto;"><img src="{{ .MainImg }}" alt="pic" /> </div></div>
+                   <div class="grid_7 alpha">
+                   	{{else}}
+                   	<div>
+                  {{end}}
+	                <ul class="comment">
+	                {{ if .author }}	
+	                  <li>{{ .author }}/</li>
+	                  <li>{{ .date | date_to_string }}/</li>
+	                 {{else}}
+	                 	<li>{{ .date | date_to_string }}/</li>
+	                 {{end}}	
+	                </ul>
+	                <p style="text-align:justify">{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p>
+	              </div>
+	            </article>
+	            <br><br><br>
+	            <hr>
+{{end}}
