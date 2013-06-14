@@ -14,7 +14,9 @@ layout: nil
 		<link href="http://ljz.mx/{{ .url }}" />
 		<updated>{{ .date | date_to_xmlschema }}</updated>
 		<id>http://ljz.mx/{{ .url }}</id>
-		<content type="html">{{ .content | html }}</content>
+		<content type="html">{{ .GetIntrotext | html }}
+    <a href="http://ljz.mx/{{ .url }}">Leer más...</a> 
+    </content>
     <comments>http://ljz.mx/{{ .url }}#disqus_thread</comments>
     <category>{{.GetCategories}}</category>
 	</entry>
