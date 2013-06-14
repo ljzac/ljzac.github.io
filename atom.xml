@@ -16,7 +16,7 @@ layout: nil
 		<id>http://ljz.mx/{{ .url }}</id>
     <summary type="html">{{ .GetIntrotext | html}} ...</summary>
     {{if .MainImgSize "t"}}
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ .MainImgSize "t"}}" />
+    <media:content xmlns:media="http://search.yahoo.com/mrss" medium="image" type="image/jpeg" url="{{ .MainImgSize "t"}}"/>
     {{ end }}
     <author><name>{{if .author }}{{ .author }}{{ else }} redacción {{ end }} </name></author>
     <category term="{{.GetCategories}}" />
