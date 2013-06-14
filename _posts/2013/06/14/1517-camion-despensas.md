@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Encuentra PRD-PAN camión en Sombrerete cargado de despensas; se presume sería en apoyo a candidato priísta"
+title: "Dice PRD-PAN haber encontrado camión en Sombrerete cargado de despensas; presume sería en apoyo a candidato priísta"
 author: ALMA ALEJANDRA TAPIA
 category: Destacadas
 layout: posts
