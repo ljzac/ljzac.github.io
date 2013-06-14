@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Por segundo día, Carlos Bracho lee fracmentos de la obra de López Velarde en Zacatecas "
+title: "Por segundo día, Carlos Bracho lee fragmentos de la obra de López Velarde en Zacatecas "
 author: REDACCION
 category: Destacadas
 layout: posts
