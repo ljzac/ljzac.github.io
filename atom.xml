@@ -11,7 +11,7 @@ layout: nil
 	{{ range .s.PagesForCategory "MinuteByMinute" 20 }}
 	<entry>
 		<title>{{ .title }}</title>
-		<link href="http://ljz.mx/{{ .url }}" />
+    <link>href="http://ljz.mx/{{ .url }}"</link>
 		<updated>{{ .date | date_to_xmlschema }}</updated>
 		<id>http://ljz.mx/{{ .url }}</id>
     <summary type="html">{{ .GetIntrotext | html}} ...</summary>
