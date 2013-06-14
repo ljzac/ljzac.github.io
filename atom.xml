@@ -8,13 +8,14 @@ layout: nil
 	<link href="http://ljzac.dev/"/>
 	<id>http://ljzac.dev/</id>
 	<updated>{{ .site.time | date_to_xmlschema }}</updated>
-	{{ range .site.posts }}
+	{{ range .s.PagesForCategory "MinuteByMinute" 20 }}
 	<entry>
 		<title>{{ .title }}</title>
 		<link href="http://ljzac.dev/{{ .url }}" />
 		<updated>{{ .date | date_to_xmlschema }}</updated>
 		<id>http://ljzac.dev/{{ .url }}</id>
 		<content type="html">{{ .content | html }}</content>
+    <category>{{.GetCategories}}</category>
 	</entry>
 	{{ end }}
 </feed>
