@@ -17,7 +17,7 @@ layout: nil
     <summary type="html">{{ .GetIntrotext | html}} <a href="http://ljz.mx/{{ .url }}">Leer más...</a></summary>
 		<content type="html">{{ .content | html }}  </content>
     
-    <author><name>{{if .author }}{{ .author }}{{ end }} </name></author>
+    <author><name>{{if .author }}{{ .author }}{{ else }} redacción {{ end }} </name></author>
     <category term="{{.GetCategories}}" />
 	</entry>
 	{{ end }}
