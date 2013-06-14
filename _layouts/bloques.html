@@ -61,8 +61,8 @@ No hay notas de esta sección
 <article class="section"> <strong> {{ $first.GetCategories }}</strong>
   <h3><a href="{{ $first.url }}"> {{ $first.title}} </a></h3>
   <ul class="comment">
-   <li><a href="#">{{ $first.author }} </a>/</li>
-   <li><a href="#">{{ $first.date | date_to_string }}</a>/</li>
+   <li>{{ $first.author }} /</li>
+   <li>{{ $first.date | date_to_string }}/</li>
    <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
  </ul>
  <article class="article"><p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a></p></article>

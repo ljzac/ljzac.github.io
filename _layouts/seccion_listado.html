@@ -53,10 +53,10 @@
   {{end}}
 		<ul class="comment">
 		{{ if .author }}	
-			<li><a href="#">{{ .author }} </a>/</li>
+			<li>{{ .author }}/</li>
 		{{ end }}	
       {{ if .date }}
-			<li><a href="#">{{ .date | date_to_string }}</a>/</li>
+			<li>{{ .date | date_to_string }}/</li>
       {{ end }}
 			<li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
 		</ul>
