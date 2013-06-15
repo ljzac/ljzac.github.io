@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: "Se fortalecerán proyectos de infraestructura con asociaciones público-privadas: Peña Nieto"
-category: Destacadas
+category: Principales
 layout: posts
 
 ---
