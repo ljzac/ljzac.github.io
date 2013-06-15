@@ -2,7 +2,7 @@
 published: "true"
 title: Busca Godezac proporcionar documentos  a migrantes para tramitar ciudadanía en EU
 author: ARAZU TINAJERO
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 
 ---
