@@ -34,7 +34,7 @@ Río Grande	Río Grande	10.3
 Jerez	Jerez	10.0 
   
 
-**# Inundaciones**
+**Inundaciones**
 
 La noche del jueves 13 de junio se registraron lluvias intensas y focalizadas en las localidades San Pablo y Santa Elena, pertenecientes al municipio Pánfilo Natera, y también en la localidad denominada Colonia Madero, del municipio Noria de Angeles.
 
