@@ -1,14 +1,13 @@
 ---
 published: "true"
 title: Reporta Conagua inundaciones en Noria de Angeles y Pánfilo Natera; realiza monitoreo y supervisión de cauces y obras
-twitt: El SMN informa que continuarán las lluvias las próximas horas en la mayor parte del territorio estatal
 author: REDACCION
 category: Destacadas
 layout: posts
 
 ---
 
-![](http://i.imgur.com/Zsgf8kUm.jpg)El Servicio Meteorológico Nacional (SMN), dependiente de la Comisión Nacional del Agua (Conagua), prevé la ocurrencia de lluvias moderadas con chubascos aislados en gran parte del territorio estatal. La probabilidad de lluvias es de 80 por ciento para las regiones centro, occidente, sureste y sur de Zacatecas. La probabilidad de lluvias es menor para el norte de la entidad. Las precipitaciones se generan  por un canal de baja presión en niveles medios de la atmósfera, lo que favorecerá la entrada de humedad del Océano Pacífico hacia el interior del territorio.
+![El SMN informa que continuarán las lluvias las próximas horas en la mayor parte del territorio estatal](/http://i.imgur.com/Zsgf8kUm.jpg)El Servicio Meteorológico Nacional (SMN), dependiente de la Comisión Nacional del Agua (Conagua), prevé la ocurrencia de lluvias moderadas con chubascos aislados en gran parte del territorio estatal. La probabilidad de lluvias es de 80 por ciento para las regiones centro, occidente, sureste y sur de Zacatecas. La probabilidad de lluvias es menor para el norte de la entidad. Las precipitaciones se generan  por un canal de baja presión en niveles medios de la atmósfera, lo que favorecerá la entrada de humedad del Océano Pacífico hacia el interior del territorio.
 
 Ante las recientes lluvias, el director local de Conagua, Benjamín de León Mojarro, acompañado de personal técnico, realiza recorridos permanentes  y monitorea los escurrimientos registrados como producto de las precipitaciones. Los recorridos permiten supervisar el estado de las obras hidráulicas, como presas, bordos, canales y drenes, para, en su caso, tomar medidas preventivas para su buen funcionamiento.
 
