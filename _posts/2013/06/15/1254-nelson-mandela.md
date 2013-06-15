@@ -3,7 +3,7 @@ published: "true"
 title: "Nelson Mandela se está recuperando de infección pulmonar: familiar"
 twitt: "El ex presidente de Sudáfrica ya 'tiene buen aspecto', dijo su nieto Mandla"
 author: LA JORNADA
-category: Principales
+category: Mundo
 layout: posts
 
 ---
