@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-(http://i.imgur.com/cwFk2xqm.jpg)
+![](http://i.imgur.com/Xt1rT1im.jpg)
 ■ El voto por los partidos sería por continuar apoyo a la corrupción: candidato independiente
 
 ■ No voy a brincar de un lado a otro por un beneficio personal: abanderado del![] Panal
