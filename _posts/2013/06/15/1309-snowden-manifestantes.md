@@ -8,7 +8,7 @@ layout: posts
 
 ---
 
-Hong Kong. Cientos de habitantes de Hong Kong pidieron hoy sábado al gobierno de la ciudad que dé protección al informante estadunidense Edward Snowden.
+![](http://i.imgur.com/48OM074m.jpg)Hong Kong. Cientos de habitantes de Hong Kong pidieron hoy sábado al gobierno de la ciudad que dé protección al informante estadunidense Edward Snowden.
 
 Con carteles que decían "¡No a la extradición!" y "¡Vergüenza de gobierno EU!", los manifestantes marcharon hasta la sede central del gobierno. Los organizadores cifraron los participantes en 900 personas, según el diario South China Morning Post.
 
