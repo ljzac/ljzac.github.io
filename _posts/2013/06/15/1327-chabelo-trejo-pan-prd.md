@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Seguridad y empleo, entre los temas con que apoyarán ‘Chabelo’ Trejo y Jorge Luis Preciado a alianza PAN-PRD"
+title: "Seguridad y empleo, entre los temas con que dicen apoyarán ‘Chabelo’ Trejo y Jorge Luis Preciado a alianza PAN-PRD"
 author: ARAZU TINAJERO
 category: Destacadas
 layout: posts
