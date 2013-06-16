@@ -1,0 +1,27 @@
+---
+published: "true"
+title: En los tiempos del homo videns
+author: Lucía Medina Suárez del Real
+category: Opinión
+layout: posts
+
+---
+
+Dice Giovanni Sartori en el Homo videns que “el pueblo ‘opina’ sobre todo en función de cómo la televisión le induce a opinar” (p. 79). Así lo hemos comprobado en varias ocasiones, una de ellas el 7 de junio de 1999, fecha estelar en la historia de la teletiranía mexicana.
+
+Aquel día el asesinato del conductor de televisión Paco Stanley en el Distrito Federal motivó que Televisa y Tv Azteca interrumpieran su programación habitual para transmitir en vivo dicha noticia, aderezando con los acostumbrados berridos de Jorge Garralda que esa vez, se proponían hacer a Cuauhtémoc Cárdenas, entonces jefe de gobierno del Distrito Electoral, responsable del homicidio. A eso se sumó Ricardo Salinas Pliego, dueño de Tv Azteca, que exigía en cadena nacional la renuncia de un gobernante elegido en las urnas.
+
+Luego vino un bombardeo mediático y lacrimógeno del caso; nos contaban todo, hasta lo que comió Stanley en el restaurante donde encontró la muerte, pero poco se hablaba del paso del comediante por la cárcel cuando tenía 20 años y lideraba una banda de asaltantes, o del bar Diana, del que era propietario y donde se ejercía la prostitución. Menos aún se dijo del informante de la agencia antinarcóticos de Estados Unidos, (la DEA) que lo identificaba como parte del Cártel de Juárez. Y si acaso se mencionó, fue sólo para desprestigiar la línea de investigación de la Procuraduría del Distrito Federal que lo ubicaba como proveedor de droga del mundo del espectáculo, a pesar de que sus análisis de sangre y orina daban cuenta de consumo de cocaína y de que, según el informe judicial, compraba 10 mil dólares de cocaína cada tercer día a través de una cuenta en las islas Caimán. Por otro lado la inteligencia militar lo ubicaba como amigo íntimo del narcotraficante Amado Carrillo, con quien compartía médico de cabecera, y con los años se ha consolidado la versión de que fue esta cercanía la que provocó que Stanley muriera a manos de gatilleros de los Arellano Félix, pero de esto, nada se habló. 
+
+No obstante toda esta información (reseñada en http://www.sopitas.com/site/227313-a-14-anos-de-la-telenovela-de-paco-stanley/), presentaron a Stanley frente a la opinión pública como una inocente víctima de la delincuencia común en una ciudad altamente peligrosa. Una ciudad en la que un asalto, un accidente automovilístico o un pleito de vecindad eran magnificados por el poder de una cámara.
+Con ese antecedente, algunos consideran que algo similar le ocurre al gobierno de Miguel Angel Mancera, quien ha tenido que lidiar recientemente con la desaparición de 12 jóvenes del barrio de Tepito y posteriormente un ataque armado en un gimnasio que dejó cuatro muertos. 
+
+Acostumbrados a la seguridad de la capital del país a pesar de su número de población, estas noticias -preocupantes sin duda- escandalizan a los mismos que ignoran que ésta es una realidad cotidiana en el resto de la República sin que sea noticia. 
+Pudiera pensarse que la diferencia en el alarmismo de lo ocurrido en la Ciudad de México y la indiferencia de lo que sucede en el resto del país se debe a la tradición centralista. Y puede que así sea, sin embargo a veces hay casos que hacen dudarlo, como la amplia difusión del enojo por el llamado apagón analógico ocurrido en Tijuana, la punta del país, y que afectaba a 7 por ciento que no estaban en condiciones de recibir la señal de televisión por vía digital.
+Esas 14 mil familias que recibieron atención de medios nacionales fueron la envidia de las 40 mil familias afectadas de los trabajadores de Luz y Fuerza del Centro que de un día a otro quedaron sin ingresos, y de los que sólo tuvimos noticia en linchamientos mediáticos, pero que en muy pocas ocasiones dieron espacio para explicar las razones de su lucha, o dar testimonio de los ochenta días en huelga de hambre que soportaron integrantes del sindicato mexicano de electricistas ahí cerca del poder mediático, en la misma Ciudad de México.
+
+Otras noticias tienen suerte y se difunden reiteradamente aunque vengan de lejos, de muy lejos. Tanto, como las islas Marshall de Australia, hasta donde supuestamente llegaron tres náufragos mexicanos que salieron a pescar en el puerto de San Blas, Nayarit. En una lancha destechada, con el motor roto, sin velas ni timón, sobrevivieron por nueve meses, lo cuádruple del tiempo que navegó Cristóbal Colón en la expedición que lo llevó al llamado Nuevo Mundo. ¿Cómo lo lograron? Comiendo pescados y pájaros crudos, bebiendo lluvia y quizá guiados con el viento la rosa de Guadalupe. La historia nos fue repetida hasta el hartazgo casualmente en el conflicto postelectoral de 2006, luego se olvidó. 
+Por ese caprichoso criterio que determina qué informar y que no, lamentamos la invaluable oportunidad perdida de dar espacios y certidumbre a los medios
+comunitarios en la recién promulgada reforma a las Telecomunicaciones. Ellos quizá hubieran servido de contrapeso desde sus modestos esfuerzos a los gigantes de las comunicaciones. Pero eso no puede significar quedarse con los brazos cruzados; ellos tendrán las pantallas y las antenas, pero nuestros son los muros, los de las calles y los de Facebook, los tuits, YouTube, el correo electrónico etc, y hay que aprovecharlos, antes de que la regulación autoritaria nos alcance. ■
+
+@luciamedinas 

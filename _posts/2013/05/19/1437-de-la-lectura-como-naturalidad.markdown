@@ -1,0 +1,35 @@
+---
+published: "true"
+title: "De la lectura como naturalidad"
+twitt: "De la lectura como naturalidad"
+author: "REDACCION"
+authorlink: "https://ljz.mx/acercade.html"
+category: "Cultura y Espectáculos"
+layout: "posts"
+
+---
+
+<p id="byline" style="text-align: justify;">
+  <img src="http://ljz.mx/images/stories/fotos_mayo2013/tarzan.jpg" border="0" width="300" style="margin-left: 15px; margin-right: 15px; float: left;" /><span style="font-size: small;"><strong>Ricardo Guzmán Wolffer</strong> <br /></span>
+</p>
+
+<span style="font-size: small;"> </span>
+
+<div style="text-align: justify;" />
+
+<span style="font-size: small;"> </span> 
+<span style="font-size: small;">Dicen que la lectura es una virtud adquirida y no nata. Dicen que la ignorancia sirve para no sufrir. Qué no se dice de la lectura, a pesar de lo poco que se practica. Quizá, la aproximación más útil sea aquella exenta de prejuicios. Decía Saramago: He leído con placer muchas cosas que no he entendido.</span> </p> <span style="font-size: small;"> </span> 
+<span style="font-size: small;">Y ahí reside la sabiduría: en leer con gusto, sea poco o mucho. Ni siquiera es necesario leer sólo buenos libros; cualquier lector recordará que en sus inicios leía todo tipo de textos. Son las necesidades del alma las que lo van llevando a los caminos más lúdicos o más imperiosos para adentrarse al propio conocimiento o, venturosamente, para comprender su entorno y su momento histórico. Incluso las citas en cómics o películas de baja estofa pueden llevar al curioso espectador a búsquedas insospechadas para pasar a leer a Lovecraft, a Kierkegaard y a muchos otros autores importantes que se van mezclando con el grafismo masivo y sus influencias literarias. Aunque muchos supongan que todos los humanos somos merecedores de la sabiduría más esencial y profunda, lo cierto es que no todos tenemos la destreza perceptiva a partir de lecturas, sencillas o complejas, de textos sagrados, místicos o sus adaptaciones. Así como hay niños pésimos para las matemáticas y excelsos para el tiro al blanco con tachuela, hay lectores que sentirán llegar al cielo con la literatura rosa y que apenas querrán leer más allá de la cuarta de forros de los libros de los Premios Nobel. Claro, si esos abstemios libristas supieran que muchos literatos de Nobel, como Selma Lagerlof y su carretero de la muerte, son más lacrimógenos que las telenovelas, leerían otras cosas.</span>
+
+<span style="font-size: small;"> </span> 
+<span style="font-size: small;">Son muchos los mitos alrededor de la lectura que bien valdría la pena hacer a un lado, precisamente, para que los reacios dejen de serlo. Las lecturas filosóficas se eluden porque desde la prueba Enlace los profesores, entre marcha y marcha, quieren cerciorarse de que los pequeños lectores entienden todo al cien por ciento. Hay varios tipos de conocimiento, aparte del cognoscitivo. Incluso las lecturas de problemas matemáticos llaman a la imaginación y entre razonamientos númericos la mente puede despertar a posibilidades insospechadas. ¿Qué importa no comprender la poesía de Milton si con ello accedo a otras áreas de mi mente? Emparejado a este mito de la comprensión como presupuesto para la mejoría mental y espiritual, baste señalar que los cultos no son mejores personas que los iletrados, y que los intelectuales tampoco son necesariamente más útiles a la sociedad que los expertos en saberes técnicos. La mayoría de los dirigentes nazis eran personas muy lectoras, que comprendían cabalmente a los grandes pensadores europeos y que se nutrían del arte más refinado (de Wagner para arriba: saqueaban museos por motivos no económicos) y nadie podría justificar las atrocidades cometidas.</span>
+
+<span style="font-size: small;"> </span> 
+<span style="font-size: small;">Lo difícil resulta el primer acercamiento a la lectura. Como los educadores oficiales suponen que los niños y jóvenes no volverán a leer en la vida, pretenden darles cápsulas que germinen permanentemente y sólo logran el efecto contrario. ¿Quiere lectores? No le deje leer el <em>Quijote</em> a un niño de primaria. A menos, vaya optimismo, que el profesor esté capacitado para explicarlo a nivel infantil y divertir a los alumnos para llevarlos a la propia decisión de buscar algo que los entretenga y que los enganche a esa y a otras obras. El reto escolar es mostrar el infinito catálogo de lecturas propicias para cada edad y para cada preferencia literaria. La instrucción académica debe partir del supuesto de una niñez que merece ser tratada como lectora capacitada, no un mera depositaria de la visión oficial o profesoral, suponiendo que el instructor la tenga. Muchos textos del siglo xix serían la diversión de niños. Los olvidados textos del <em>Tarzán</em>, de Burroughs (iniciados hace un siglo, en 1912), que pudieran clasificarse como infantiles, llegan a tener violencia y sadismo como para complacer a cualquier adolescente seguidor de la nota roja. Claro, la oferta de lectura no es exclusiva de las escuelas. Sin duda, el ejemplo paterno influye al menor para que éste suponga que es normal estar ante un libro y no ante una televisión; que puede ser más útil acceder a los libros, incluso con el riesgo de que puedan ser decepcionantes, que navegar por Youtube en busca de animales divertidos.</span>
+
+<span style="font-size: small;"> </span> 
+<span style="font-size: small;">Poco puede hacerse por la lectura cuando se asume como intemporal y con valores propios que no exigen hacerla compaginable con el momento que viven los niños que se busca hacer lectores. Para la oficialidad, lo mismo deben leer los infantes de un Estado con decenas de narcos muertos a diario, que otro donde son tan aislados esos asesinatos que apenas se publicitan. Los valores de los forjadores de la patria son los mismos por generaciones, a pesar de que las referencias históricas y legales van cambiando. ¿Cómo insertar el discurso de los derechos humanos constitucionales en las lecturas históricas donde se enarbola el sufrimiento causado por independentistas y conquistadores? ¿Cómo llevar a la lectura de Poe o de Quiroga, cuando internet ofrece datos y textos que sí hacen eco del miedo y la inseguridad infantil, mientras que los programas públicos ni siquiera mencionan la violencia generalizada? El problema de la lectura es no comprender que su oferta debe actualizarse para públicos que en su computadora pueden acceder a bibliotecas enteras en busca de respuestas para lidiar con el miedo a lo inmediato y el sufrimiento apabullante de saberse a merced de fuerzas sin contraparte. Se denuestan los libros de autoayuda y cómo pueden ser contrarios a los fines de la ética y el desarrollo personal, pero sirven a la lectura y al lector.</span>
+
+<span style="font-size: small;"> </span> <p style="text-align: justify;">
+  <span style="font-size: small;">Será la subjetividad el punto de partida para decidir qué lectura nos hará felices. Si en el intermedio logramos ser mejores personas, ya será un logro. Al final, lo que importa es leer. Nos queda confiar en que cada quien encuentre sus mejores caminos.</span>
+</p></div>

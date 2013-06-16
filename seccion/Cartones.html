@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+
+{{ $miseccion := index .site.categories "La Jiribilla"}}
+{{if $miseccion }}
+<div class="title">
+	    <h4>Cartones</h4>
+</div>
+{{ range $miseccion }}
+			<article class="SubContent">
+	             <div class="grid_9 omega">
+                     <div class="grid_image">
+                      {{ if .MainImg }} <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                         <img src="{{ .MainImg }}" class="pic" alt="{{ .tittle }}" /> 
+                       </a>
+                     </div>
+               </div>
+	    </article>
+	    <br><br><br>
+	    <hr>
+      {{else}}
+        </div>
+        </div>
+      </article>
+     {{ end }}
+{{end}}
+
+
+{{else }}
+ <div class="news_tpoic">
+  <div class="title">
+   No hay notas de esta sección
+ </div>
+</div>
+{{ end }}

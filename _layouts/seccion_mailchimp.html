@@ -1,0 +1,30 @@
+{{if .}}
+{{$first := index . 0 }}
+<div class="news_tpoic">
+  <div class="title">
+    <h4>{{ $first.GetCategories }}</h4>
+  </div>
+  <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
+    {{ range $index, $nota := . }}
+
+    <li>
+      {{if $index}}
+      {{else}}
+      <a href="{{$nota.url}}" class="customA">
+        <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" />
+      </a>
+      {{ end }}
+      <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>
+     <div style="text-align:justify"> <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}}</a></div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+{{else}}
+<div class="news_tpoic">
+  <div class="title">
+   No hay notas de esta sección
+ </div>
+</div>
+{{end}}
