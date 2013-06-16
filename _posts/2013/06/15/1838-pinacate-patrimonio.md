@@ -8,7 +8,7 @@ layout: posts
 
 ---
 
-![Imagen tomada de elpinacate.conanp.gob.mx](/_posts/2013/06/15/elpinacateygrandesierto.jpg)México. México presentará mañana al sitio natural El Pinacate y Gran Desierto de Altar como único candidato de Iberoamérica a Patrimonio Mundial, informó la Organización de la ONU para la Educación, la Ciencia y la Cultura (Unesco).
+![Imagen tomada de elpinacate.conanp.gob.mx](http://i.imgur.com/TSlkG5Pm.jpg)México. México presentará mañana al sitio natural El Pinacate y Gran Desierto de Altar como único candidato de Iberoamérica a Patrimonio Mundial, informó la Organización de la ONU para la Educación, la Ciencia y la Cultura (Unesco).
 
 El comité encargado de esas designaciones examinará en su próxima reunión, a efectuarse en Camboya del 16 al 27 de este mes, un total de 32 candidaturas en este año.
 
