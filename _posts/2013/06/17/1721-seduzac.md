@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: "Instalan Seduzac y SNTE Comisión Estatal de cambios y contrataciones escolares "
+title: Instalan Seduzac y SNTE Comisión Estatal de cambios y contrataciones de docentes
 author: REDACCION
 category: Destacadas
 layout: posts
