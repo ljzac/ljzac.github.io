@@ -11,10 +11,10 @@ layout: default
 
 {{ range $miseccion }}
 			<article class="SubContent">
-	            <h3>{{ .title }}</h3>
-	             <div class="grid_9 omega" style="max-height: 320px;">
+	             <div class="grid_9 omega" style="max-height: 320px;width: 99%;overflow: hidden;">
                      <div style="max-height:260px; width:auto;">
                        <a href= "{{ .MainImgSize "h" }}" rel="gallery_ffoco" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+                         <h3>{{ .title }}</h3>
                          <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> 
                        </a>
                </div></div>
