@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![](http://i.imgur.com/IH5zX8Qm.jpg)
+![undefined](http://i.imgur.com/ZruhHiHm.jpg)
 ■ La transmisión del evento se caracterizó por fallas técnicas y críticas de los usuarios
 
 ■ Desarrollo social, económico y político fueron las tres temáticas que abordaron
