@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![](http://i.imgur.com/4VHg6Dfm.jpg)
+![](http://i.imgur.com/4VHg6Df.jpg)
 México, DF. A las 18:16 horas de este día salieron libres los siete jóvenes detenidos luego de los hechos violentos del pasado 10 de junio, y que permanecían presos en el Reclusorio Oriente.
 
 Los siete inculpados abandonaron este lugar por la aduana principal, vestían su traje color caqui y fueron custodiados por elementos uniformados de la Dirección de Reclusorios.
