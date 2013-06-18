@@ -1,6 +1,6 @@
 ---
 published: "true"
-title: Denuncia Silvano Aureoles apoyos a candidatos priístas otorgados por Gobierno estatal
+title: "Denuncia Silvano Aureoles apoyos a candidatos priístas otorgados, dice, por Gobierno estatal"
 author: ARAZU TINAJERO
 category: Destacadas
 layout: posts
