@@ -7,7 +7,7 @@ layout: posts
 
 ---
 
-![](http://i.imgur.com/49Zxw5Wm.jpg)
+![](http://i.imgur.com/49Zxw5W.jpg)
 El Pentágono desveló este lunes la situación judicial de los 166 presos en la base estadunidense de Guantánamo, en especial de los 46 prisioneros en régimen de "detención ilimitada", que, sin cargos ni juicio en su contra, son considerados demasiados peligrosos para ser liberados.
 
 La lista de 15 páginas, a la cual tuvo acceso la AFP, fue publicada tras una queja del periódico Miami Herald, que invocó la Ley para la Libertad de Prensa (FOIA). Las autoridades desvelaron la situación de los detenidos al 22 de enero de 2010, cuando el presidente estadunidense, Barack Obama, pidió un informe de situación, informó el portavoz del Pentágono, Todd Breasseale.
