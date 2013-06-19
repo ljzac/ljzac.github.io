@@ -6,7 +6,7 @@ category: La Jiribilla
 layout: posts
 ---
 
-![](http://i.imgur.com/jhSJgwpm.jpg)
+![](http://i.imgur.com/lP3TETTm.jpg)
 “Jugar y nunca perder no puede ser”
 
 UNO: Promueven en Tabasco voto diferenciado 
