@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Poesía, un medio para conocer el mundo a través de la intuición y la inteligencia: Dolores Castro"
+title: Recibe Dolores Castro Premio Iberoamericano de Poesía Ramón López Velarde
 author: ALMA RIOS
 category: Destacadas
 layout: posts
