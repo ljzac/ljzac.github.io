@@ -1,6 +1,8 @@
 ---
 published: true
-category: Portada
+title: "Heat de Miami gana 103-100 a los Spurs de San Antonio"
+author: Redacción
+category: Deportes
 layout: posts
 ---
 
