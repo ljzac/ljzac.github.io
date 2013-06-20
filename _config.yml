@@ -29,6 +29,19 @@ prose:
           label: "Página del Autor"
           placeholder: "Página del Autor"
           value: ""
+      - name: "location"
+        field:
+          element: "select"
+          label: "Ubicación"
+          placeholder: "Selecciona una ubicación"
+          options:
+            - name: "Local"
+              value: "Local"
+            - name: "Nacional"
+              value: "Nacional"
+            - name: "Internacional"
+              value: "Internacional"
+          selected: "Local"
       - name: "category"
         field:
           element: "select"
