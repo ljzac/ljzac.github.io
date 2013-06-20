@@ -2,6 +2,7 @@
 published: true
 title: No descarta la Orquesta Sinfónica de la  UAZ participar en festivales de Europa
 author: MARTIN CATALAN LERMA
+location: Local
 category: Cultura y Espectáculos
 layout: posts
 ---
