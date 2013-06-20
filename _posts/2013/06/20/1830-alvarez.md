@@ -1,6 +1,6 @@
 ---
 published: true
-title: Pide Alvarez Máynez no votar por el candidato que ofrezca mentiras y supuestas soluciones a problemas individuales
+title: "Pide Alvarez Máynez no votar por el candidato que ofrezca mentiras y supuestas soluciones a problemas "
 author: REDACCION
 location: Local
 category: Destacadas
@@ -14,5 +14,3 @@ layout: posts
 Ante vecinos de Las Fuentes, Alvarez Máynez se refirió al reciente escándalo en el que se vio inmerso el titular de Jiapaz, Amado del Muro, afirmando que “él fui el primero en pedir la renuncia de ese funcionario, por la prepotencia y la corrupción con la que se conduce, ha quedado demostrado que falta agua en Guadalupe y Zacatecas porque él está haciendo negocios antes que preocuparse por dar un servicio”.
 
 Ello, luego de que fuera dado a conocer la existencia del Sistema Sur, que está listo para operar y ofrecer agua potable a los habitantes de la Zona Metropolitana, pero que la Jiapaz tiene detenido por intereses de desarrolladores de fraccionamientos.
-
-
