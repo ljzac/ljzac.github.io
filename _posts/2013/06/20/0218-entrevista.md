@@ -6,6 +6,7 @@ category: Portada
 layout: posts
 ---
 
+![](http://i.imgur.com/WqBYUhNm.jpg)
 **◗ ENTREVISTA EXCLUSIVA / DOLORES CASTRO
 
 ■ Es la primera mujer en obtener el Premio Iberoamericano de Poesía Ramón López Velarde
