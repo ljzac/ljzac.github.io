@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Brinda taller de capacitación Cozcyt para instalación de Software Libre "
+title: "Cozcyt brinda taller de capacitación para instalación de Software Libre "
 author: REDACCION
 category: Destacadas
 layout: posts
