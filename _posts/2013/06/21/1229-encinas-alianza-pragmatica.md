@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Sigue Encinas en desacuerdo respecto a alianza PAN-PRD, pero dice preocuparle la restauración autoritaria del PRI"
+title: Llama Encinas a partidos de izquierda a hacer una alianza pragmática
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
