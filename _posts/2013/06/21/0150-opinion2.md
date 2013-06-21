@@ -14,6 +14,7 @@ El pastel a repartirse entre aspirantes y profesores que han estado laborando en
 Tomando como referencia el ciclo escolar pasado, el que está por iniciar en el mes de agosto, arrancará con 5 mil 138 lugares menos. Se debe entre otras razones a que de un año acá se jubilaron menos maestros o bien, está disminuyendo la población en edad de ir a la escuela. La distribución de las plazas por jornada y por horas será de acuerdo a las que se mencionan en el siguiente cuadro:
 “Plazas que se someten a concurso tanto para maestros de nuevo ingreso, como para aquellos en servicio que no tienen una plaza definitiva”.
 
+![](http://i.imgur.com/AQXHnE1m.png)
 
 La cantidad de plazas de jornada y horas varía de acuerdo con el tamaño del universo de los tipos y modalidades, dependiendo de la matricula escolar y los docentes. Por razones obvias, es en primaria donde hay más vacantes. Pero también llama la atención el número de horas para las clases de inglés de preescolar y primaria. Las que no aparecen son las de computación. 
 
