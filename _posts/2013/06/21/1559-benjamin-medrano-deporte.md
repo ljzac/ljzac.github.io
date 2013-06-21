@@ -1,6 +1,6 @@
 ---
 published: true
-title: Promete Medrano crear Instituto Municipal del Deporte
+title: Promete Benjamín Medrano crear Instituto Municipal del Deporte
 author: REDACCION
 location: Local
 category: Destacadas
