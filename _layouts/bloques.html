@@ -75,22 +75,9 @@ No hay notas de esta sección
 
 
 {{define "publicidad"}}
-{{if .}}
-{{$first := index . 0 }}
-<div class="figure"> <a href="/seccion/Publicidad.html"><img src="{{ $first.MainImg}}" alt="add" /></a> </div>
-{{else}}
-No hay notas de esta sección
-{{end}}
+<div class="figure"> <a href="/seccion/Publicidad.html"><img src="http://i.imgur.com/AOqxJDf.jpg" alt="add" /></a> </div>
 {{end}}
 
-{{define "publicidad2"}}
-{{if .}}
-{{$first := index . 0 }}
-<a href="javascript:void(0);"><img src="{{ $first.MainImgSize "" }}" alt="add"/></a>
-{{else}}
-No hay notas de esta sección
-{{end}}
-{{end}}
 
 {{define "especiales"}}
 {{if .}}
