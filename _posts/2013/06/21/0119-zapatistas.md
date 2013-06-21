@@ -2,7 +2,7 @@
 published: true
 title: "Patishtán, Peltier y Assange, entre los invitados al curso zapatista"
 author: Redacción
-location: Local
+location: Internacional
 category: Principales
 layout: posts
 ---
