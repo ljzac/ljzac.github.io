@@ -1,6 +1,6 @@
 ---
 published: true
-title: "En nuestra propuesta se encuentra el apoyo a los comerciantes y empresario de Zacatecas: Xerardo Ramírez "
+title: "En nuestra propuesta se encuentra el apoyo a los comerciantes y empresarios de Zacatecas: Xerardo Ramírez "
 author: REDACCION
 location: Local
 category: Destacadas
