@@ -3,7 +3,7 @@ published: true
 title: "El próximo domingo, el debate de candidatos a alcalde de Río Grande, informa #YoSoy132"
 author: ALMA RIOS
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
