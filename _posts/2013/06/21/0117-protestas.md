@@ -2,7 +2,7 @@
 published: true
 title: Siguen protestas en Brasil; observadores hablan de 800 mil en las calles
 author: Redacción
-location: Local
+location: Internacional
 category: Principales
 layout: posts
 ---
