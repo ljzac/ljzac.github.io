@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Después dos años de la sequía, 70 por ciento del ganado, en pie, informa UGRZ"
 author: CESAR PEREZ
 location: Local
