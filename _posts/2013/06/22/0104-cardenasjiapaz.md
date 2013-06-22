@@ -3,7 +3,7 @@ published: true
 title: Presenta Rogelio Cárdenas al Congreso  solicitud para que se audite a la Jiapaz
 author: "REDACCION "
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
