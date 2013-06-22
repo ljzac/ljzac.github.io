@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "La Toma de Zacatecas, la peor tragedia  en el estado durante el siglo 20: Enciso"
 author: "MARTIN CATALAN LERMA "
 location: Local
