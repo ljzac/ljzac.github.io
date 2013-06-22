@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Se compromete Xerardo Ramírez a dar  mayor atención a personas discapacitadas
 author: "REDACCION "
 location: Local
