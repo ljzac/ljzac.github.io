@@ -3,7 +3,7 @@ published: true
 title: Se compromete el candidato Carlos Peña  a impulsar la práctica de la charrería
 author: REDACCION
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
