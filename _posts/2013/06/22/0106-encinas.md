@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Respalda Gerardo Romo Fonseca llamado  para consolidar la alianza de las izquierdas
 author: REDACCION
 location: Local
