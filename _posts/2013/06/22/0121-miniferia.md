@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Aprueba cabildo de Río Grande la miniferia de la Casa Hogar Santa Elena
 author: REDACCION
 location: Local
