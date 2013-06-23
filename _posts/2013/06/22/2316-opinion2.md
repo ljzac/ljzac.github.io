@@ -1,0 +1,23 @@
+---
+published: true
+title: "La Revoltosa "
+author: "Ricardo Bermeo "
+location: Local
+category: Opinión
+layout: posts
+---
+
+En pasados días estábamos de verdad contentos, habíamos logrado la realización de un debate convocado por ciudadanos jóvenes, las propuestas de los candidatos fueron algunas buenas, otras malas, otras peores y otras hasta de risa, pero bueno, los políticos ya nos tienen acostumbrados a sus “puntadas”, en fin, el debate se llevó a cabo pese a las pocas o muchas dificultades que se nos presentaron. 
+Motivados por cómo se dieron las cosas en la capital del estado, los compañeros de Río Grande decidieron organizar un debate en su municipio; para empezar visitaron a los candidatos, quienes en su mayoría aceptaron, claro, por ahí bien se sabe que a los de cierto partido no les gusta juntarse con nosotros, pero todos los demás dijeron que sí, firmaron un oficio en el que confirmaban su asistencia y estuvieron de acuerdo con el formato del debate. El primer requisito estaba cubierto y entonces los compas de Río Grande se fueron a pedir apoyo a la presidencia municipal, donde les dijeron que tenían todo el apoyo, que ellos ponían las cámaras, los micrófonos, las pantallas para la transmisión y creemos que hasta las palomitas, consiguieron un espacio para la realización del evento y todo marchaba 
+viento en popa.
+
+El debate fue programado para el domingo 23 de junio y creíamos tener todo listo, pero de pronto malas noticias, en la presidencia nos dijeron que, con pena y todo, lamentablemente no podrían brindar el apoyo, que a lo sumo nos prestaban una cámara. A pesar de que ese hecho cambió un poco nuestros planes decidimos que no nos detendríamos, a final de cuentas lo único que se necesita para que los candidatos debatan, pues son los candidatos, ya nos encargaríamos de que el debate llegara a la gente; fue entonces que nos topamos en un restaurantito a los equipos de campaña del tricolor y del Verde, al acercarnos a ellos para volver a invitar al candidato priísta y confirmar la asistencia de su contrincante Verde, los segundos nos informaron que su candidato tampoco iba, que “por órdenes del Estado” no se les permitía asistir a los candidatos de ninguno de los dos partidos a los eventos organizados por nosotros, decidimos marcarle directamente al candidato del Verde, quien no se encontraba presente en ese momento, cuál sería nuestra sorpresa cuando nos dice que sí, que él está más que puesto para ir (así es estimado lector: ni entre ellos se ponen de acuerdo) cuando se le comunicó al coordinador de campaña del Partido Verde esto no tardó nada en llamarle al candidato para regañarlo, pues ya para no hacerle el cuento largo, al último la respuesta fue negativa.
+Teníamos un candidato menos, después el de Nueva Alianza dijo que él tampoco, ni modo todavía nos quedaban tres, tres, tres… pues de los tres que nos quedaban, uno dijo que si era en vivo no le entraba y como ya no podíamos transmitir porque en la presidencia no nos ayudaron, al final nos quedamos con dos candidatos que claramente no estaban dispuestos a debatir sólo entre ellos. Para cerrar con broche de oro recibimos una llamada de gente del  IEEZ en Río Grande, quienes nos pedían que no dijéramos que ellos nos apoyaban ya que eso no era cierto, que habían recibido una llamada de reclamación del PRI. 
+Y esta es la historia del por qué no se llevó a cabo el debate en el municipio de Río Grande, pero no sólo es la historia de eso, sino también de cómo vivimos en una democracia simulada, con candidatos que o no están dispuestos a tener un acercamiento con la ciudadanía o son títeres de otros más poderosos, con ayuntamientos dirigidos por individuos que aseguraron apoyar a la población y que en el discurso hablan tan vehementemente de la participación, misma que se empeñan en detener.
+
+Jamás dejaremos de aprender, las experiencias que nos dejan el debate de #YoSoy132 en la capital y el intento que se hizo en Río Grande son muchas porque tenemos que dejar claro que a la hora de votar simplemente vamos a poder elegir “al menos peor” quien después de ganar agachará la cabeza y obedecerá las órdenes sin rechistar y por supuesto obtendrá suculentos premios.
+
+No influye cuan fieles puedan ser los resultados de las elecciones, y cuanto tarde un ciudadano en decidir su voto después de escuchar y escuchar propuestas, si no nos preocupamos por la calidad de nuestros políticos, no importa que elijamos, siempre estará mal.
+Tomemos los problemas en nuestras manos y organicémonos, a pesar de ser gris el escenario es responsabilidad de todos que no sigan viéndonos la cara, quitémonos la venda de los ojos y vamos tod@s junt@s a luchar por una democracia auténtica. ■
+
+¡EXIGE, DIALOGA, PARTICIPA!
