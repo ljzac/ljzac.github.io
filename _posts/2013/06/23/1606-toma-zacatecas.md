@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Ante el Aniversario de la Toma de Zacatecas, llama MAR a zacatecanos a conformar la unidad "
+title: "En la conmemoración del Aniversario de la Toma de Zacatecas, llama MAR a zacatecanos a conformar la unidad "
 author: REDACCION
 location: Local
 category: Destacadas
@@ -22,7 +22,3 @@ Luego de hacer una reseña de lo ocurrido en aquella fecha memorable, el mandata
 Para ello, explicó, el Comité Organizador de los Festejos del Centenario de la Toma de Zacatecas buscará darle el lugar que merece a la celebración, en el calendario de los grandes eventos nacionales. Con este objetivo, solicitó a Mercedes Juan López hacer llegar al Presidente Peña Nieto la invitación para encabezar dichos festejos que culminarán el 23 de junio de 2014.
 
 En este marco y por segunda ocasión en su mandato, el mandatario entregó la Medalla al Mérito Revolucionario de Investigación Histórica a José Enciso Contreras, investigador e historiador originario de la entidad, en reconocimiento a su contribución en el fortalecimiento de la identidad y valores que distinguen al pueblo zacatecano.
-
-
-
-
