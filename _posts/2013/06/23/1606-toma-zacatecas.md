@@ -1,6 +1,6 @@
 ---
 published: true
-title: "En la conmemoración del Aniversario de la Toma de Zacatecas, llama MAR a zacatecanos a conformar la unidad "
+title: "En la conmemoración del Aniversario de la Toma de Zacatecas, llama MAR a ciudadanos a conformar la unidad "
 author: REDACCION
 location: Local
 category: Destacadas
