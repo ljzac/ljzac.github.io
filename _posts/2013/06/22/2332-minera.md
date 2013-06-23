@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Minera Frisco usa a trabajadores de confianza  para intentar romper paro en El Coronel
 author: "CARLOS ALBERTO NAVARRETE "
 location: Local
