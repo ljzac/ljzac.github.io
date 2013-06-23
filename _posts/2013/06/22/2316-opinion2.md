@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La Revoltosa "
-author: "Ricardo Bermeo "
+author: "#YoSoy132 Zacatecas"
 location: Local
 category: Opinión
 layout: posts
