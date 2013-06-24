@@ -1,11 +1,11 @@
 ---
-published: "true"
-title: Shortcuts
+published: true
+title: Las apps
 twitt: Shortcuts
 author: Redaccion
+location: Local
 category: Portada
 layout: posts
-
 ---
 
 ## Creando Shortcut en Celulares Para La Jornada
