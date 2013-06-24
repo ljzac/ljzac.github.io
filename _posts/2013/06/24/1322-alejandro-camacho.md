@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Asegura Alejandro Camacho que PAN-PRI ganará en 36 municipios del estado"
+title: "Asegura Alejandro Camacho que PAN-PRD ganará en 36 municipios del estado"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
