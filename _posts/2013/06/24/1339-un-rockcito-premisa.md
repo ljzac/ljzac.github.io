@@ -19,13 +19,13 @@ Así llegan la muerte y los cantores de este subgénero; aquélla yace aún en l
 
 
 
-**Lost Wisdom**
+## **Lost Wisdom**
 
 
 ![La Sabiduría Perdida en acción, en el sexto 'Día Estatal del Rock Zacatecano'. Lost Wisdom desde Fresnillo](http://i.imgur.com/E5D1Ajim.jpg)Banda de origen fresnillense formada en abril de 2005, tomando el nombre de _Sabiduría perdida_ (_Lost wisdom_), pieza de Burzum. Previo a su integración, Bethlehem, Phalanax, Dramer y Nergal ya habían tocado juntos en una agrupación de nombre Ishtar. Para la conformación de la nueva agrupación, se incorporaron dos nuevos elementos (Ragnarok y Seth), a fin de consolidarse y grabar en diciembre de ese año el primer demo titulado _Depresión_, el cual refleja fielmente la personalidad de un grupo que trata de sacar y transmitir todas las tonalidades del suicidio, la depresión misma y los sentimientos amorfos que esconde el ser humano a consecuencia de algún desajuste emocional que, con el tiempo, se logra restablecer. _Tears of dark, Demons, Lost in an abuss, Desilution, Before melancoly, Intentando olvidar, En mi sueño eterno, Depresión, El principio del fin_ y _Death_ transgreden las normas del furor del metal, para fusionar los sonidos pesados y profundos de las guitarras con la desesperanza y los intentos por desbaratar una abatida tristeza que, poco a poco, se va transformando en melancolía en la voz de Diego, un gran intérprete de las líricas oscuras, viscerales y cargadas de metal; a su vez, los teclados parecen ahondar en las profundidades, y con sus casi mortales notas, van sepultando al escucha en el eterno sonido de la _Sabiduría perdida_. Casi, casi, te coloca en el límite de la desesperanza, en la línea que divide a la razón y a la inconsciencia en la nada misma. En abril de 2007, estos músicos grabaron su segundo demo titulado _Nihil_, que trata precisamente de eso, de la nada, con su característico estilo _doom_,  que los mantiene como una de las mejores agrupaciones del estado. Los cambios de elementos no han afectado en gran parte su sonido y sus iniciativas.          
 
 
-**Slave of Darkness**
+## **Slave of Darkness**
 
 
 ![Slave of Darkness, también del mero 'Fresno', en el sexto 'Día Estatal del Rock'. Luego cambió su nombre por Memories of Blood](http://i.imgur.com/ACwSlFem.jpg)Banda de death metal que nace como proyecto en Fresnillo, en marzo de 2007. Klaudia Alaniz en la guitarra y Joel en la batería empezaron tocando _covers_ de grupos como Amon Amafth y Arch Enemy; el otro guitarro que los apoyaba no logró conjuntarse, lo cual ocasionó que invitaran a los chavos de la extinta agrupación Gretel, Luis “El Chino” Alaniz, en la voz, y Jesús Dávila y César Rocha. En febrero de 2008 ya le estaban dando con todo. Realizaron varias presentaciones en Zacatecas y otras ciudades del interior; en la capital participaron en el sexto _Día Estatal del Rock_ con excelentes piezas que estaban grabando. 
