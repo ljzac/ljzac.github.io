@@ -3,7 +3,7 @@ published: true
 title: Participan zacatecanos en marcha contra el maltrato a los animales
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
