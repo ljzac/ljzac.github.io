@@ -1,0 +1,24 @@
+---
+published: false
+title: "Valor y valores por Zacatecas: un reto para todos"
+author: "Alfredo Salazar de Santiago*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+Hablar del tema de los valores en la ciudadanía es cuestión de relevancia y más en la actualidad, donde al parecer es de lo que en muchas ocasiones se carece. Es importante que todas las instituciones se preocupen por tal situación con el fin de recuperar un ambiente de convivencia favorable e íntegro. La previsión del cómo rescatar los valores y el valor de los zacatecanos debe ser una prioridad de todos. Por lo que se ve con gusto que es uno de los ejes del plan de trabajo municipal, que será retomado por el Lic. Carlos Peña Badillo, candidato a la presidencia municipal de Zacatecas por el Partido Revolucionario Institucional (PRI). 
+La visión de la que se parte, implica entender los valores como los principios que nos permiten orientar nuestro comportamiento en función de realizarnos con la suma de los esfuerzos individuales, familiares, sociales, así como los de las instituciones gubernamentales o civiles. Se trata de trabajar para una mejor sociedad de convivencia en Zacatecas. Los valores representan las creencias fundamentales que nos ayudan apreciar, preferir o elegir unas cosas en lugar de otras, un comportamiento en lugar de otro y son por sí mismos, fuente de satisfacción en todas las perspectivas, pues permiten marcar la pauta para formular objetivos y metas, ya sea de tipo personal o colectivo, además vienen a ser el reflejo de nuestros intereses, convicciones y sentimientos más importantes.
+Sobre el tema, vemos que dentro de la propuesta de Peña Badillo, se rescata el tema de la ciudadanía como valor en sí y como valor para todos, situación que permite ser el enlace para la integración de otros valores de la misma trascendencia. La ciudadanía debe entenderse como la condición que tienen las personas como ciudadanos de un municipio, estado o país. 
+
+Por tal situación, en el caso de la propuesta de este candidato para Zacatecas, todo ciudadano tendrá derechos de tipo civil, por ejemplo las libertades individuales de tipo político, que son la participación en la vida pública; y claro los de tipo social, donde se incluye la preocupación por tener una calidad de vida favorable con vivienda, salud y educación, servicios dignos para un desarrollo personal y familiar. 
+También se impulsa como parte del proyecto, los deberes que como ciudadanos tenemos, es decir, el trabajo que implica el respeto por los bienes públicos, el cumplimiento de las obligaciones fiscales, proteger el medio ambiente y el patrimonio social, todo en el marco de equidad con responsabilidad social. 
+Por lo tanto y con esta visión del gobierno municipal, se entenderá y se asumirá a la ciudadanía como una actividad diaria, donde todo zacatecano puede desempeñar un rol de “buen ciudadano” ejerciendo y poniendo en práctica competencias cívicas, entendidas como el conjunto de actitudes, habilidades, conocimientos y comportamientos que se esperan de él, dando base a la suma de otros valores como la responsabilidad, el respeto y la solidaridad, los cuales son la muestra del ejercicio activo y de tipo cívico que se desarrolla con una buena ciudadanía, la cual será respetuosa para generar normas y condiciones de convivencia diaria entre todos nosotros. 
+
+Una fuente importante para el impulso y la práctica de los valores, sin lugar a dudas se encuentra en la familia, siendo tema y núcleo central de participación ciudadana y que se rescata como parte importante y espacio para el trabajo permanente de la propuesta del futuro gobierno municipal. En la familia como célula principal de nuestra sociedad, se aprenden valores como la honestidad, solidaridad, generosidad, tolerancia, respeto, perseverancia y otros que nos permiten convivir, mismos que deberán ser parte de lo que se impulsará en los zacatecanos, siendo los padres de familia con los que se tendrá que ir trabajando permanentemente, en beneficio de la construcción y promoción del valor ciudadano como estilo de vida. 
+En la propuesta también se rescata la condición de que no sólo con la sociedad habrá que generar y trabajar el tema de los valores, sino que dentro de la propia organización del gobierno municipal será una práctica permanente. De este modo, al llegar a la presidencia municipal con valores como la honestidad, solidaridad, respeto, tolerancia, equidad y otros, se tendrán claros los objetivos de continuar impulsando el desarrollo de Zacatecas con acciones claras y con prácticas que darán el sello en todos los integrantes del equipo de este nuevo gobierno municipal, siendo línea de administración y pauta para atender las necesidades de la sociedad zacatecana. ■
+
+*Docente del Area de Ciencias de la Salud
+Universidad Autónoma de Zacatecas
+alfsdes@gmail.com
+@alfredouaz
