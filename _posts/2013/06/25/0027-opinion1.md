@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hacia un Ley del Derecho a la Alimentación
 author: Marcos Salvador Ibarra Infante
 location: Local
