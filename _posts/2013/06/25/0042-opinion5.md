@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Valor y valores por Zacatecas: un reto para todos"
 author: "Alfredo Salazar de Santiago*"
 location: Local
