@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Educación con valores, clave para la  construcción de un mejor futuro: MAR"
 author: "REDACCION "
 location: Local
