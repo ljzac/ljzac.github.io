@@ -2,5 +2,16 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Sociedad y Justicia" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Sociedad y Justicia" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Sociedad y Justicia{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Sociedad y Justicia" 10 }}
+		<li><a href="/seccion/Sociedad y Justicia{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Sociedad y Justicia" 10}}
+	 <li><a href="/seccion/Sociedad y Justicia{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>
 

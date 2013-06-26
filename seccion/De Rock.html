@@ -3,4 +3,15 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "De Rock" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "De Rock" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/De Rock{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "De Rock" 10 }}
+		<li><a href="/seccion/De Rock{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "De Rock" 10}}
+	 <li><a href="/seccion/De Rock{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

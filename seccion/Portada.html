@@ -2,5 +2,15 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Portada" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Portada" 10 .page.GetCurrentPage }}
 
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Portada{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Portada" 10 }}
+		<li><a href="/seccion/Portada{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Portada" 10}}
+	 <li><a href="/seccion/Portada{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

@@ -3,4 +3,20 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "México" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "México" 10 .page.GetCurrentPage }}
+
+{{ $element := .s.TotalPages "México" 10}}
+<div class="pagination">
+{{ if $element}}
+		<ul>
+			<li><a href="/seccion/México{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev </a></li>
+			{{ range $index, $element := .s.TotalPages "México" 10 }}
+				<li><a href="/seccion/México{{ $index }}.html">{{ $index }}</a></li>
+			{{ end }}
+			 {{ $total := .s.TotPag "México" 10}}
+			 <li><a href="/seccion/México{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+		</ul>
+		</div>
+{{else}}
+	</div>
+{{end}}

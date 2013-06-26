@@ -2,5 +2,15 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Ciencia y Tecnología" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Ciencia y Tecnología" 10 .page.GetCurrentPage }}
 
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Ciencia y Tecnología{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Ciencia y Tecnología" 10 }}
+		<li><a href="/seccion/Ciencia y Tecnología{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Ciencia y Tecnología" 10}}
+	 <li><a href="/seccion/Ciencia y Tecnología{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

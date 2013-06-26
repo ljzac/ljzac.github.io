@@ -3,4 +3,15 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Reportaje Especial" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Reportaje Especial" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Reportaje Especial{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Reportaje Especial" 10 }}
+		<li><a href="/seccion/Reportaje Especial{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Reportaje Especial" 10}}
+	 <li><a href="/seccion/Reportaje Especial{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

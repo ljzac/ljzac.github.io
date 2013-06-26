@@ -3,4 +3,20 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Mundo" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Mundo" 10 .page.GetCurrentPage }}
+
+{{ $element := .s.TotalPages "Mundo" 10}}
+<div class="pagination">
+{{ if $element}}
+		<ul>
+			<li><a href="/seccion/Mundo{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev </a></li>
+			{{ range $index, $element := .s.TotalPages "Mundo" 10 }}
+				<li><a href="/seccion/Mundo{{ $index }}.html">{{ $index }}</a></li>
+			{{ end }}
+			 {{ $total := .s.TotPag "Mundo" 10}}
+			 <li><a href="/seccion/Mundo{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+		</ul>
+		</div>
+{{else}}
+	</div>
+{{end}}

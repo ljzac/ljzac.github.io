@@ -2,4 +2,15 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Municipios" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Municipios" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Municipios{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Municipios" 10 }}
+		<li><a href="/seccion/Municipios{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Municipios" 10}}
+	 <li><a href="/seccion/Municipios{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

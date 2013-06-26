@@ -3,4 +3,15 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Editorial" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Editorial" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Editorial{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Editorial" 10 }}
+		<li><a href="/seccion/Editorial{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Editorial" 10}}
+	 <li><a href="/seccion/Editorial{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

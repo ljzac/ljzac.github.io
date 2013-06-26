@@ -3,4 +3,15 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "La Jiribilla" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "La Jiribilla" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/La Jiribilla{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "La Jiribilla" 10 }}
+		<li><a href="/seccion/La Jiribilla{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "La Jiribilla" 10}}
+	 <li><a href="/seccion/La Jiribilla{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

@@ -2,5 +2,15 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Cultura y Espectáculos" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Cultura y Espectáculos" 10 .page.GetCurrentPage }}
 
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Cultura y Espectáculos{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Cultura y Espectáculos" 10 }}
+		<li><a href="/seccion/Cultura y Espectáculos{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Cultura y Espectáculos" 10}}
+	 <li><a href="/seccion/Cultura y Espectáculos{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

@@ -3,4 +3,15 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Deportes" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Deportes" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Deportes{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Deportes" 10 }}
+		<li><a href="/seccion/Deportes{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Deportes" 10}}
+	 <li><a href="/seccion/Deportes{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>

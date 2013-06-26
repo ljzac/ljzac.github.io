@@ -2,5 +2,16 @@
 layout: default
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Educación" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Educación" 10 .page.GetCurrentPage }}
+
+<div class="pagination">
+<ul>
+	<li><a href="/seccion/Educación{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
+	{{ range $index, $element := .s.TotalPages "Educación" 10 }}
+		<li><a href="/seccion/Educación{{ $index }}.html">{{ $index }}</a></li>
+	{{ end }}
+	{{ $total := .s.TotPag "Educación" 10}}
+	 <li><a href="/seccion/Educación{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+</ul>
+</div>
 

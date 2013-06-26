@@ -3,4 +3,20 @@ layout: default
 ---
 
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Zona de Reflexión" 60}}
+{{ template "seccion_listado.html" .s.PostPaginated "Zona de Reflexión" 10 .page.GetCurrentPage }}
+
+{{ $element := .s.TotalPages "Zona de Reflexión" 10}}
+<div class="pagination">
+{{ if $element}}
+		<ul>
+			<li><a href="/seccion/Zona de Reflexión{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev </a></li>
+			{{ range $index, $element := .s.TotalPages "Zona de Reflexión" 10 }}
+				<li><a href="/seccion/Zona de Reflexión{{ $index }}.html">{{ $index }}</a></li>
+			{{ end }}
+			 {{ $total := .s.TotPag "Zona de Reflexión" 10}}
+			 <li><a href="/seccion/Zona de Reflexión{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
+		</ul>
+		</div>
+{{else}}
+	</div>
+{{end}}
