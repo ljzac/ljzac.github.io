@@ -3,7 +3,7 @@ published: true
 title: Cancela viaje a Europa la Sinfónica  Juvenil de la UAZ por falta de fondos
 author: "MARTIN CATALAN LERMA "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
