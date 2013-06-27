@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Incidencia y Participación Ciudadana
 author: "Alvaro García Hernández*"
 location: Local
