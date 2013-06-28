@@ -1,7 +1,9 @@
 ---
 published: true
+title: Promocionan en Zacatecas Feria Nacional Potosina 2013
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
