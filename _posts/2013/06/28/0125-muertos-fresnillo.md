@@ -3,7 +3,7 @@ published: true
 title: Fallecen 5 hombres durante tiroteo en Fresnillo
 author: "REDACCION "
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
