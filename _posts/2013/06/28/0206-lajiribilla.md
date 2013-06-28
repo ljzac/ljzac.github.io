@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/Lxh2v4Mm.jpg)
+![](http://i.imgur.com/cNPEPuzm.jpg)
 “Cuentas claras, amistades largas”
 
 UNO: Seduzac y SNTE: “El que se quema con leche hasta al jocoque le sopla” 
