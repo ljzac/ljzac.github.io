@@ -334,7 +334,6 @@ h5 {
 	.header a.logo {
 		display: inline-block;
 		margin-top: 10px;
-		background: url(../images/logo_beta.png);
 		background-size: 100% auto;
 		background-repeat: no-repeat;
 		width: 100%;
@@ -464,6 +463,8 @@ h5 {
  @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
 	.figure-slider ul li{width:287px !important; margin-right:0px;}
 	.header .logoContent a.logo {
+		width: 800px;
+		height: 146px;
 		left: -161px;
 	} 
  }
