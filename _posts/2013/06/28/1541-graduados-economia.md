@@ -1,6 +1,6 @@
 ---
 published: true
-title: Concluyen sus estudios de jóvenes de Unidad Académica de Economía
+title: Concluyen sus estudios jóvenes de Unidad Académica de Economía
 author: REDACCION
 location: Local
 category: Destacadas
