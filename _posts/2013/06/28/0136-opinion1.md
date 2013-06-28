@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Escuelas de tiempo (in)completo
 author: Leonel Contreras Betancourt
 location: Local
