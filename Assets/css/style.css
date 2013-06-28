@@ -60,11 +60,17 @@ Header Section Css
 	min-height:206px;
 	text-align:center;
 }
-.header a.logo {
+.header .logoContent {
+	overflow: hidden;
+	width: 860px;
+	height: 175px;
+}
+.header .logoContent a.logo {
 	display:inline-block;
-	background: url(../images/logo_beta.png);
-	width: 415px;
-	height: 112px;
+	background: url(../images/logo_full.png);
+	width: 960px;
+	height: 175px;
+	position: relative;
 }
 .addSection {
 	overflow:hidden;

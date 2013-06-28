@@ -463,11 +463,13 @@ h5 {
 }
  @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
 	.figure-slider ul li{width:287px !important; margin-right:0px;}
+	.header .logoContent a.logo {
+		left: -161px;
+	} 
  }
 
  @media only screen and (max-width:767px) and (orientation:landscape){
-	.header a.logo {
-		margin: 10px 0;
-		height: 140px;
+	.header .logoContent a.logo {
+		left: -50px;
 	} 
 }
