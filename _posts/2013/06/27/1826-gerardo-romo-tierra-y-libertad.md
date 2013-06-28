@@ -1,6 +1,6 @@
 ---
 published: true
-title: "•\tPromete Gerardo Romo regenerar imagen urbana y crear un proyecto turístico religioso en colonia Tierra y Libertad"
+title: Promete Gerardo Romo regenerar imagen urbana y crear un proyecto turístico religioso en colonia Tierra y Libertad
 author: REDACCION
 location: Local
 category: Destacadas
@@ -12,4 +12,3 @@ layout: posts
 El proyecto integral contempla la instalación de una figura monumental de la virgen de Guadalupe de 30 metros de altura y un mirador para contemplar la belleza de la ciudad, explicó el abanderado de la coalición Rescatemos Zacatecas.
 
 Este nuevo polo turístico será una gran oportunidad para las familias de la colonia, ya que formarán parte del proyecto, de ahí que se regenerará la imagen urbana con el embellecimiento de las fachadas y calles.
-
