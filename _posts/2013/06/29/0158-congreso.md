@@ -3,7 +3,7 @@ published: true
 title: Aprueba Congreso reformas locales  para las candidaturas independientes
 author: ARAZU TINAJERO
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
