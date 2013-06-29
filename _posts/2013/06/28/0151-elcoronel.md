@@ -3,7 +3,7 @@ published: true
 title: Cumplen un mes  en paro mineros  de El Coronel
 author: "ARAZU TINAJERO "
 location: Local
-category: Portada
+category: Reportaje Especial
 layout: posts
 ---
 
