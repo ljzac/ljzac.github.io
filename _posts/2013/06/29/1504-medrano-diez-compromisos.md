@@ -1,7 +1,10 @@
 ---
 published: true
+title: "Promete Medrano desarrollo, seguridad e impulso turístico para Plateros"
+twitt: El candidato presentó sus 10 compromisos
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
