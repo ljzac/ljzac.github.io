@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![](http://i.imgur.com/Xbn7dpRm.jpg)México, DF. La Procuraduría General de Justicia del Distrito Federal (PGJDF) detuvo a más de 80 personas durante un operativo realizado en el bar Cadillac, ubicado en el perímetro de la delegación Miguel Hidalgo.
+![](http://i.imgur.com/RWQE89Dm.jpg)México, DF. La Procuraduría General de Justicia del Distrito Federal (PGJDF) detuvo a más de 80 personas durante un operativo realizado en el bar Cadillac, ubicado en el perímetro de la delegación Miguel Hidalgo.
 
 Reportes policiales señalan que la acción estuvo encabezada por la Fiscalía de Trata de Personas y contó con el apoyo de elementos de la Policía Federal, quienes resguardaron las inmediaciones del inmueble que se localiza en Melchor Ocampo número 189, esquina con Michelett, en la colonia Anzures.
 
