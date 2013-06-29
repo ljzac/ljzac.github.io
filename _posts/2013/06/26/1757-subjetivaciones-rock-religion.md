@@ -7,7 +7,7 @@ category: De Rock
 layout: posts
 ---
 
-#   I
+## I
 
 Hace poco veía en televisión a un otrora indómito y rebelde rockero que, ciertamente, vivió y soportó las vicisitudes y adversidades a las que estuvo sometido el rock desde mediados de los pasados 70, hasta finales de los 80, pero que hoy casi se cuelga el molcajete, lo que a mí me parece totalmente respetable, sobre todo por tratarse de una figura de tal magnitud. No obstante, no es esto precisamente lo que me llevó a escribir las presentes líneas; en todo caso, lo que me movió a la reflexión, tras ver esa presentación televisiva, fue la relación que hay o puede haber entre religión y rock, y si ésta es posible.
 
