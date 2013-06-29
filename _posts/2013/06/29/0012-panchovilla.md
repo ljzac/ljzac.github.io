@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Escenifican la vida y muerte del general  Francisco Villa en la Plaza de Armas
 author: RAFAEL DE SANTIAGO
 location: Local
