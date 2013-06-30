@@ -2,7 +2,7 @@
 published: true
 title: "Cae 27% la popularidad de Dilma Rousseff tras marchas: sondeo"
 author: la jornada
-location: Local
+location: Internacional
 category: Mundo
 layout: posts
 ---
