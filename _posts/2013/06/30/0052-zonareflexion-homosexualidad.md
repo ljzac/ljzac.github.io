@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Panorama sobre el respeto a la diversidad  sexual entre jóvenes y adolescentes
 author: "PABLO SANTORO, CONCHA GABRIEL Y FERNANDO CONDE"
 location: Local
