@@ -2,7 +2,7 @@
 published: true
 title: Alemán Kittel gana primera etapa del Tour de Francia en su 100ª edición
 author: LA JORNADA
-location: Local
+location: Internacional
 category: Deportes
 layout: posts
 ---
