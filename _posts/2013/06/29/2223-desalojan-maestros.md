@@ -2,7 +2,7 @@
 published: true
 title: Desalojan congreso de maestros en Chiapas
 author: la jornada
-location: Local
+location: Nacional
 category: Principales
 layout: posts
 ---
