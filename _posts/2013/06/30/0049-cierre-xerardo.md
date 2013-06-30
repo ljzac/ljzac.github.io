@@ -3,7 +3,7 @@ published: true
 title: "Cierra el Partido Verde la campaña de  sus candidatos a alcalde y diputados "
 author: REDACCION
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
