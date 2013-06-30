@@ -3,7 +3,7 @@ published: true
 title: Plantea Alvarez Máynez sus propuestas de desarrollo a empresarios de la Canacintra
 author: REDACCION
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
