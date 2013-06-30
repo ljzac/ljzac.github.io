@@ -2,7 +2,7 @@
 published: true
 title: Peleará Omar Chávez contra el venezolano Charlie Navarro en Nayarit
 author: LA JORNADA
-location: Local
+location: Nacional
 category: Deportes
 layout: posts
 ---
