@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Invitan a participar en talleres de verano de  la Casa Municipal de Cultura capitalina "
 author: "RAFAEL DE SANTIAGO "
 location: Local
