@@ -2,7 +2,7 @@
 published: true
 title: "'Checo' Pérez saldrá en lugar 14 en GP de Gran Bretaña; Hamilton logró la pole"
 author: la jornada
-location: Local
+location: Internacional
 category: Deportes
 layout: posts
 ---
