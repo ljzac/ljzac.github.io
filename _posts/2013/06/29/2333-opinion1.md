@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Reestructura organizacional y administrativa  para los municipios de Zacatecas "
 author: "Juan Luis Rivera Ruiz Esparza "
 location: Local
