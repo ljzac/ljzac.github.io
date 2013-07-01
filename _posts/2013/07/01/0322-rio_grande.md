@@ -1,7 +1,7 @@
 ---
 published: true
 location: Local
-category: Portada
+category: Municipios
 layout: posts
 ---
 
