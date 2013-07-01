@@ -1,6 +1,6 @@
 ---
 published: true
-title: Cierre Regional en San Jerónimo
+title: Cierra Jorge Alvarez campaña regional en San Jerónimo
 author: REDACCION
 location: Local
 category: Destacadas
