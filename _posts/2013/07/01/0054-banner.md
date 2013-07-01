@@ -1,6 +1,7 @@
 ---
 published: true
 title: Publicidad
+author: Redacción
 location: Local
 category: Publicidad
 layout: posts
