@@ -13,4 +13,4 @@ Duetos, tríos y cuartetos fueron las agrupaciones musicales que dieron inicio a
 
 “El objetivo principal del curso fue tratar de reforzar en dos semanas los conocimientos teóricos del género para llevarlos a la práctica dentro del mismo, y luego a nuestros ámbitos individuales; desde luego, apoyados por la experiencia propia y la de maestros jazzistas con los cuales hemos trabajado y tomado cursos” agregó el maestro Ignacio Rosales Encina, instructor del curso.
 
-El evento concluyó con la interpretación de tres piezas standard: _Blue Miles, Green Dolphin Street_ y _Angel Eyes_, en las que participaron todos los alumnos; siendo premiados con los aplausos del público asistente por su dedicación y esfuerzo.
+El evento concluyó con la interpretación de tres piezas _standard_: _Blue Miles, Green Dolphin Street_ y _Angel Eyes_, en las que participaron todos los alumnos; siendo premiados con los aplausos del público asistente por su dedicación y esfuerzo.
