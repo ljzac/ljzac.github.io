@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/HpN6MMam.jpg)El patio central del edificio de rectoría fue el marco idóneo donde 22 alumnos, inscritos al Taller de Verano denominado Prácticas Jazzísticas Nivel 1, presentaron una muestra de fin de curso con ensambles musicales de diversos instrumentos. 
+![](http://i.imgur.com/HpN6MMam.jpg)El patio central del edificio de Rectoría fue el marco idóneo donde 22 alumnos, inscritos al Taller de Verano denominado Prácticas Jazzísticas Nivel 1, presentaron una muestra de fin de curso con ensambles musicales de diversos instrumentos. 
 
 Duetos, tríos y cuartetos fueron las agrupaciones musicales que dieron inicio al evento, presentando piezas del repertorio jazzístico llamado _standard_, del cual todos los interesados en este género tienen como referencia básica para sus estudios, conciertos y presentaciones.
 
