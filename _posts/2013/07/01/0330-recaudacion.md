@@ -1,6 +1,7 @@
 ---
 published: true
-title: Propuesta de RecaudaciOn Fiscal del Municipio de Zacatecas
+title: Propuesta de Recaudación Fiscal del Municipio de Zacatecas
+twitt: "e requiere una recaudación eficiente, no el incremento de impuestos"
 author: Redacción
 location: Local
 category: Portada
