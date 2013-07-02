@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/NsosHJRm.jpg)
+![](http://i.imgur.com/KxBD1N1m.jpg)
 Edward Snowden, ex contratista de la Agencia de Seguridad Nacional estadunidense (NSA, por sus siglas en inglés), acusó este lunes al presidente estadunindense, Barack Obama, de engañar y asustar a las naciones que buscan apoyarlo porque "tiene miedo de que exista una sociedad informada".
 
 En un comunicado publicado en la página de WikiLeaks, Snowden escribió: “Este tipo de engaño de un líder mundial no es justo, como tampoco lo es que aplique una sanción por buscar el exilio en otras naciones. Estas son las viejas y malas herramientas de agresión política.
@@ -31,5 +31,3 @@ El ex asesor de inteligencia estadunidense agradeció a Ecuador por su apoyo, su
 Snowden rinde un homenaje particular al diplomático Fidel Narváez, el cónsul de Ecuador en Londres, quien garantizó su protección cuando partió de Hong Kong, hace ocho días.
 
 "Yo nunca hubiera podido correr el riesgo de viajar sin él", señala en su carta, escrita en español.
-
- 
