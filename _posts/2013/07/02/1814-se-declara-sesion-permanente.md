@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Se declara en sesión permanente Grupo de Coordinación Local  en Seguridad
 author: REDACCION
 location: Local
@@ -17,4 +17,3 @@ A través de la Secretaría General de Gobierno, los integrantes de la mesa vigi
 El mandatario estatal y los miembros del Grupo de Coordinación Local en Seguridad, coincidieron en que en Zacatecas están dadas las condiciones de tranquilidad social y política para que la población acuda a las urnas a votar el próximo domingo 7 de julio. 
 
 Por otro lado, la Secretaría General de Gobierno informó que, con el objetivo de operar de manera inmediata y oportuna ante cualquier incidente que ponga en riesgo la seguridad de los votantes, y por instrucciones del gobernador del Estado, se instalará un centro de mando para la contienda electoral, el cual tendrá su base en el centro de control, comando y comunicación (C 4). Dicho centro de mando se instalará desde las 19:00 horas del viernes 5 de julio, iniciará actividades al día siguiente y estará en operación hasta que se determine la situación en cada uno de los 18 distritos electorales en que está conformada la entidad.
-
