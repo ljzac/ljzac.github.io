@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Cargos no reconocidos, la principal queja ante la Condusef en lo que va del año"
 author: ARAZU TINAJERO
 location: Local
