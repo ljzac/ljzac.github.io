@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Se llevó a cabo taller de cianotipia y sus posibilidades
 author: REDACCION
 location: Local
