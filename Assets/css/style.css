@@ -51,10 +51,11 @@ Header Section Css
 }
 .header-wrap {
 	width:100%;
-	background:#a8a9ad;
+	/*background:#a8a9ad;*/
 	margin-bottom: 7px;
 }
 .header {
+  background:#a8a9ad;
 	max-width:960px;
 	margin:0 auto;
 	min-height:206px;
