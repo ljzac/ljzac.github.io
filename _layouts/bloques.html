@@ -11,9 +11,11 @@
     <li>
       {{if $index}}
       {{else}}
-      <a href="{{$nota.url}}" class="customA">
-        <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" style="height:auto; width:100%;"/>
-      </a>
+        {{ if $nota.MainImg }}
+          <a href="{{$nota.url}}" class="customA">
+            <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" style="height:auto; width:100%;"/>
+          </a>
+        {{ end }}
       {{ end }}
       <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>
      <div style="text-align:justify"> <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}}</a></div>
@@ -65,7 +67,17 @@ No hay notas de esta sección
    <li>{{ $first.date | date_to_string }}/</li>
    <li class="comment_icon"><a href="{{ $first.url }}#disqus_thread"># </a></li>
  </ul>
- <article class="article"><p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a></p></article>
+ <article class="article">
+  {{ if $first.MainImg }}
+  <p>
+          <a href="{{$first.url}}">
+            <img src="{{$first.MainImgSize "t"}}" alt="{{$first.title}}" style="float:right;"/>
+          </a>
+    <div style="text-align:left"> 
+{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a></p> </article><div></article>
+{{ else}}
+  <p>{{ $first.GetIntrotext }} <a href="{{ $first.url }}">Leer más...</a></p> </article>
+{{end}}
 </article>
 
 {{else}}
