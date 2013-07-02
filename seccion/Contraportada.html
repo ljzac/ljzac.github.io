@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+{{ $category :=  "Contraportada" }}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
 
-{{ template "seccion_listado.html" .s.PostPaginated "Contraportada" 10 .page.GetCurrentPage }}
+{{ template "seccion_listado.html" .s.PostPaginated  $posts 10 .page.GetCurrentPage }}
 
 <div class="pagination">
 <ul>
@@ -15,3 +18,4 @@ layout: default
 </ul>
 </div>
 
+{{ end }}

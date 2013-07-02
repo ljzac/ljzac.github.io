@@ -4,19 +4,18 @@ layout: default
 
 
 {{ template "seccion_listado.html" .s.PostPaginated "Mundo" 10 .page.GetCurrentPage }}
+<p class="demo3"></p>
+<script type="text/javascript" >
+$('.demo3').bootpag({
+                           total: {{ .s.TotPag "Mundo" 10 }},
+                           page: {{ .page.GetCurrentPage }},
+                           href: "#pro-page-{{number}}",
+                           hrefVariable: "<%=number%>",
+                           leaps: false, 
+                        }).on('page', function(event, num){
 
-{{ $element := .s.TotalPages "Mundo" 10}}
-<div class="pagination">
-{{ if $element}}
-		<ul>
-			<li><a href="/seccion/Mundo{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev </a></li>
-			{{ range $index, $element := .s.TotalPages "Mundo" 10 }}
-				<li><a href="/seccion/Mundo{{ $index }}.html">{{ $index }}</a></li>
-			{{ end }}
-			 {{ $total := .s.TotPag "Mundo" 10}}
-			 <li><a href="/seccion/Mundo{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
-		</ul>
-		</div>
-{{else}}
-	</div>
-{{end}}
+                            $(".content3").html("Page " + num); // or some ajax content loading...
+
+                        });
+
+</script>

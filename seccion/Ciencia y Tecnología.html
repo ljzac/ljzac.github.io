@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{{ $category := "Ciencia y Tecnolagía" }}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
 
 {{ template "seccion_listado.html" .s.PostPaginated "Ciencia y Tecnología" 10 .page.GetCurrentPage }}
 
@@ -14,3 +17,4 @@ layout: default
 	 <li><a href="/seccion/Ciencia y Tecnología{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
 </ul>
 </div>
+{{ end }}

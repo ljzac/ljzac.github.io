@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{{ $category := "A debate" }}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
 
 {{ template "seccion_listado.html" .s.PostPaginated "Autor" 10 .page.GetCurrentPage }}
 
@@ -15,3 +18,4 @@ layout: default
 	 <li><a href="/seccion/Autor{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
 </ul>
 </div>
+{{ end }}

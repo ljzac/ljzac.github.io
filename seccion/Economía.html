@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+{{ $category := "Economía" }}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
 
 
-{{ template "seccion_listado.html" .s.PostPaginated "Economía" 10 .page.GetCurrentPage }}
+{{ template "seccion_listado.html" .s.PostPaginated $posts 10 .page.GetCurrentPage }}
 
 <div class="pagination">
 <ul>
@@ -14,4 +17,4 @@ layout: default
 	{{ $total := .s.TotPag "Economía" 10}}
 	 <li><a href="/seccion/Economía{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
 </ul>
-</div>
+</div>{{ end }}

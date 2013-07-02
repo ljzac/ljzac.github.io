@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+{{ $category := "Editorial"}}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
 
 
-{{ template "seccion_listado.html" .s.PostPaginated "Editorial" 10 .page.GetCurrentPage }}
+{{ template "seccion_listado.html" .s.PostPaginated $posts 10 .page.GetCurrentPage }}
 
 <div class="pagination">
 <ul>
@@ -15,3 +18,4 @@ layout: default
 	 <li><a href="/seccion/Editorial{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
 </ul>
 </div>
+{{ end }}
