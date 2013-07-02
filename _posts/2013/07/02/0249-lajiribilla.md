@@ -11,10 +11,15 @@ layout: posts
 “Patada de yegua no duele”
 
 UNO: Salvador Llamas, homofóbico a la vista 
+
 DOS: “Candil de la calle, oscuridad de la casa”
+
 TRES: Panal: La última patada del cuaco
+
 CUATRO:“Que te lleven al baile…”
+
 COLOFÓN: Retrasos
+
 
 **UNO: “Para que la cruz vaya a mi casa, que vaya a la ajena”**Vaya, vaya.
 Resultan bastante lamentables las declaraciones del candidato de Movimiento Ciudadano a presidente municipal de Zacatecas, Salvador Llamas, sobre el tema de las preferencias sexuales de un candidato, oponente suyo.
