@@ -3,7 +3,7 @@ published: true
 title: Aconsejan a la población de Río Grande tomar precauciones por golpes de calor
 author: "REDACCION "
 location: Local
-category: Política
+category: Municipios
 layout: posts
 ---
 
