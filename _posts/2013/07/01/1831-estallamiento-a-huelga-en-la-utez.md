@@ -1,6 +1,6 @@
 ---
 published: true
-title: "No hemos podido concluir con negociaciones : Felipe Alvarez, rector de la UTEZ"
+title: "No hemos podido concluir con negociaciones: Felipe Alvarez, rector de la UTEZ"
 author: REDACCION
 location: Local
 category: Destacadas
