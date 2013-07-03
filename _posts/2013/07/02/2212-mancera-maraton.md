@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "El Maratón de la ciudad de México retomará su categoría de élite: Mancera"
 author: LA JORNADA
 location: Local
