@@ -7,8 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/aagEQTwm.jpg)
-El dirigente nacional del PRI, César Camacho Quiroz admitió que su partido en la capital no tiene una diferencia “holgada” de preferencias, y si bien no pueden caen en algún error, tampoco hay temor, sino un reto y una prueba a superar.
+![](http://i.imgur.com/aagEQTwm.jpg) El dirigente nacional del PRI, César Camacho Quiroz admitió que su partido en la capital no tiene una diferencia “holgada” de preferencias, y si bien no pueden caen en algún error, tampoco hay temor, sino un reto y una prueba a superar.
 
 Este martes de visita en Zacatecas para acompañar a los candidatos a diputados y alcaldes del PRI en su cierre de campaña, en un acto multitudinario en la Megavelaria, el líder priísta declaró en una conferencia de prensa previa que el tricolor está a dos “brazadas” de alcanzar la orilla y ganar la mayoría el próximo domingo.
 
