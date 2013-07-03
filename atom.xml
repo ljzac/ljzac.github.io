@@ -8,7 +8,7 @@ layout: nil
 	<link href="http://beta.ljz.mx/"/>
 	<id>http://beta.ljz.mx/</id>
 	<updated>{{ .site.time | date_to_xmlschema }}</updated>
-	{{ range .s.PagesForCategory "MinuteByMinute" 20 }}
+	{{ range .s.PagesForCategory "MinuteByMinute" 12 }}
 	<entry>
 		<title>{{ .title }}</title>
     <link href="http://beta.ljz.mx/{{ .url }}" />
