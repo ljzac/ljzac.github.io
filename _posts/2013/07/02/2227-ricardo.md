@@ -2,7 +2,7 @@
 published: true
 title: "Ricardo Alarcón, removido del Buró Político del Partido Comunista de Cuba"
 author: la jornada
-location: Local
+location: Internacional
 category: Mundo
 layout: posts
 ---
