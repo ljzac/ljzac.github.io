@@ -1,14 +1,13 @@
 ---
 published: true
 title: "Ricardo Alarcón, removido del Buró Político del Partido Comunista de Cuba"
-author: la jornada
+author: LA JORNADA
 location: Internacional
 category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/P71Pplvm.jpg)
-La Habana. El ex canciller y ex presidente del Parlamento cubano Ricardo Alarcón, que fue un estrecho colaborador de Fidel Castro, fue removido del selecto Buró Político y del Comité Central del gobernante Partido Comunista de Cuba (único), informó este martes la televisión local.
+![](http://i.imgur.com/P71Pplvm.jpg) La Habana. El ex canciller y ex presidente del Parlamento cubano Ricardo Alarcón, que fue un estrecho colaborador de Fidel Castro, fue removido del selecto Buró Político y del Comité Central del gobernante Partido Comunista de Cuba (único), informó este martes la televisión local.
 
 Alarcón, de 76 años, fue excluido de la cúpula comunista durante el séptimo pleno del Comité Central, efectuado el lunes, que fue encabezado por el presidente Raúl Castro, indicó el telediario nocturno.
 
