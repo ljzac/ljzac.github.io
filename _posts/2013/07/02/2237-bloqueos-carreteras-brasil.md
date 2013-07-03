@@ -1,14 +1,13 @@
 ---
 published: true
 title: Bloquean camioneros carreteras en al menos cinco estados de Brasil
-author: la jornada
+author: LA JORNADA
 location: Internacional
 category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/OhkAQmhm.jpg)
-Camioneros bloquearon este martes carreteras en al menos cinco estados de Brasil, en reclamo de la eliminación de peajes, por subsidios al combustible diésel y mejoras en las condiciones de trabajo, informó el diario O Estado de Sao Paulo.
+![](http://i.imgur.com/OhkAQmhm.jpg) Camioneros bloquearon este martes carreteras en al menos cinco estados de Brasil, en reclamo de la eliminación de peajes, por subsidios al combustible diésel y mejoras en las condiciones de trabajo, informó el diario O Estado de Sao Paulo.
 
 Una de las principales rutas de acceso al puerto de Santos, el mayor de Latinoamérica, que fue bloqueada durante 24 horas por camioneros, fue liberada este martes, dijeron a la AFP portavoces de la policía militar y de la policía de Carreteras.
 
