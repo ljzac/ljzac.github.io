@@ -1,0 +1,19 @@
+---
+published: true
+title: Demagogia y ridiculez en la política zacatecana
+author: José Juan Espinosa Zúñiga
+location: Local
+category: Opinión
+layout: posts
+---
+
+No es nada nuevo escuchar a nuestros políticos hablar de dientes para afuera, con las mismas propuestas y soluciones de hace 100 años, situación que por cierto debe de tener muy contento a todo el priísmo, que ya se achicharra desde el más allá, al ver la vigencia del estilo por ellos patentado para hacer política. Y para que nadie se sienta, esa famosa familia de Fresnillo, tan devota del Santo Niño, va incluida en lo anterior. Tampoco es nada nuevo que los que sí somos pueblo nos quedemos callados escuchando cómo suena la campana y en el ring electoral se monta una comedia. Y esto último es una culpa que todos compartimos. Que la demagogia de nuestros poderosos sea la letanía desde siempre, es porque existen fieles dispuestos a oírla, y esa no es más que la verdad.   
+
+Lo que es efectivamente nuevo, o por lo menos se está  refrescando, es la incapacidad de nuestros políticos para imaginar soluciones que por lo menos suenen algo convincentes, yo no digo que tienen que ser verdades absolutas, llenas de gracia y convencimiento, sino que por lo menos no suenen tan estúpidas, eso sin mencionar que ridículas. Cómo está eso de decir que la delincuencia organizada se combatirá con alumbrado público, como si las lámparas redujeran el número de droga que circula por las calles, el número de adictos o las balaceras que se dan a plena luz del día. ¡Ojo! A plena luz del día.  Diría mi abuelo que en paz espante: “¡ah que pelaos tan inservibles!”.  
+Es increíble que si se le pregunta a un candidato el cómo combatirá la pobreza o la sequía que azota al estado, responda que con la unión de todos los zacatecanos, ateniendo al viejo y conocido refrán de “la unión hace la fuerza”. Me pregunto, ¿acaso todos nos tenemos que poner a mear para llenar las presas? ¿O en brigadas de hambrientos tendremos que atacar las grandes cadenas comerciales, haciendo parada en la Garrufa y los demás puestos de tacos? Claro que no, y no por falta de ganas, sino porque de seguro acabaremos en conocido hotel de Cieneguillas. ¡Ah! Porque cuando se trata de imponer la fuerza del estado, cualquier protesta, por menor que sea, es asunto de seguridad nacional y atentado contra el orden público.  
+
+Otro asuntillo de estos pillines, es el que tiene que ver con la propaganda. Las pancartas y los espectaculares que atiborraron la ciudad durante la campaña electoral convirtieron a la capital en un campo de batalla donde se libró una guerra de rostros (unos más feos que otros), y donde cualquier frase, por más rabona que fuese, se tornó grito de guerra. Eso sin mencionar el gran costo monetario que conlleva la política de plástico. Algunos apostaron por los slogans de marketing de probada tradición silvestre, otros por las in-soluciones e incapacidades que otorgan frases como “todos somos el cambio” o “la solución es verde”. ¡Esas son maneras de presumir la ineptitud y la demagogia! ¡Sí señor! Algunos más se conformaron con posar para la foto y mostrar las caries. 
+
+Yo no sé qué es lo que sucede, pero parece que sobre Zacatecas pende una maldición que hasta en el cielo los vemos ¡Ave María Putisima! Bueno, de los males el catarro, por lo menos no se le ha ocurrido a uno de nuestros políticos organizar matinés para ver las telenovelas… esperen… porque no ha ocurrido ¿verdad?
+
+Si de verdad la batalla de Zacatecas fuese por la honestidad, los zacatecanos agradeceríamos que honestamente nos dijeran desde el estrado: “vota por mí y engorda mi cuenta de banco, así podré orar por ti con ganas. Mis hijos te lo agradecerán desde el extranjero”. Por lo menos así mostrarían algo de respeto. Y aunque entiendo que no hay que pedirle peras al olmo ni pelos al calvo, se debiese de cambiar ipso facto la manera de hacer política, porque ya chole. ■
