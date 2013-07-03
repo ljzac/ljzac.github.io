@@ -2,7 +2,7 @@
 published: true
 title: Levantan huelga en dos minas de Frisco tras pactar pago de utilidades
 twitt: "Sin embargo, sigue en huelga la mina El Coronel, ya que no han concluido las negociaciones entre sindicato y el corporativo."
-author: La Jornada
+author: LA JORNADA
 location: Nacional
 category: Principales
 layout: posts
