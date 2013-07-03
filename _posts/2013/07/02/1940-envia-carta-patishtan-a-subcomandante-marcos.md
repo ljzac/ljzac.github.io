@@ -2,7 +2,7 @@
 published: true
 title: "'La escuelita', necesaria para seguir caminando juntos: Patishtán a Marcos y Moisés"
 twitt: "A través de una carta, Patishtán contesta a la invitación que recibió de ellos para acudir al curso “La libertad según los zapatistas” en agosto."
-author: La Jornada
+author: LA JORNADA
 location: Nacional
 category: Principales
 layout: posts
