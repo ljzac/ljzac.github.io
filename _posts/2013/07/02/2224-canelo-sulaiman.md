@@ -2,7 +2,7 @@
 published: true
 title: "El Canelo Álvarez ya despegó los pies de la Tierra: Sulaimán"
 author: LA JORNADA
-location: Local
+location: Nacional
 category: Deportes
 layout: posts
 ---
