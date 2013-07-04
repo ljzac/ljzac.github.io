@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: La Biblioteca Central Mauricio Magdaleno  invita a participar en los talleres de verano
 author: REDACCION
 location: Local
