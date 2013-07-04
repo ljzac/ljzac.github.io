@@ -2,7 +2,7 @@
 published: true
 title: Suman 14 muertos por choques entre partidarios y opositores de Mursi
 author: Redacción
-location: Local
+location: Internacional
 category: Principales
 layout: posts
 ---
