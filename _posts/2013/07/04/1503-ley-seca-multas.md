@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/eojc3OLm.jpg)A partir del sábado iniciará la llamada ley _seca_ en capital y concluirá hasta el lunes 8 a las 9 de la mañana.
+![](http://i.imgur.com/eojc3OLm.jpg)Este sábado iniciará la llamada ley _seca_ en capital y concluirá hasta el lunes 8 a las 9 de la mañana.
 
 El departamento de Ejecución Fiscal de la presidencia municipal de Zacatecas, en conjunto con la Policía y Protección Civil municipales, supervisarán que no haya venta de alcohol en establecimientos fijos y clandestinos. 
 
