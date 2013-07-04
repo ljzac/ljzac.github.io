@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Comer carne ¿es sostenible?"
 author: "Lucía De León "
 location: Local
