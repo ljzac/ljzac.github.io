@@ -5,15 +5,15 @@ layout: nil
 	<feed xmlns="http://www.w3.org/2005/Atom">
 	<title>La Jornada Zacatecas</title>
 	<link href="http://ljz.mx/atom.xml" rel="self"/>
-	<link href="http://beta.ljz.mx/"/>
-	<id>http://beta.ljz.mx/</id>
+	<link href="http://ljz.mx/"/>
+	<id>http://ljz.mx/</id>
 	<updated>{{ .site.time | date_to_xmlschema }}</updated>
 	{{ range .s.PagesForCategory "MinuteByMinute" 12 }}
 	<entry>
 		<title>{{ .title }}</title>
-    <link href="http://beta.ljz.mx/{{ .url }}" />
+    <link href="http://ljz.mx/{{ .url }}" />
 		<updated>{{ .date | date_to_xmlschema }}</updated>
-		<id>http://beta.ljz.mx/{{ .url }}</id>
+		<id>http://ljz.mx/{{ .url }}</id>
     <summary type="html">{{ .GetIntrotext | html}} ...</summary>
     {{if .MainImgSize "t"}}
     <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="{{ .MainImgSize "t"}}"/>
