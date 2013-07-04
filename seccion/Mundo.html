@@ -2,20 +2,22 @@
 layout: default
 ---
 
-
-{{ template "seccion_listado.html" .s.PostPaginated "Mundo" 10 .page.GetCurrentPage }}
+{{ $category := "Mundo" }}
+{{ $posts := index .site.categories $category }}
+{{ if $posts }}
+{{ template "seccion_listado.html" .s.PostPaginated $posts 20 .page.GetCurrentPage }}
+<div style="text-align:center">
 <p class="demo3"></p>
 <script type="text/javascript" >
-$('.demo3').bootpag({
-                           total: {{ .s.TotPag "Mundo" 10 }},
-                           page: {{ .page.GetCurrentPage }},
-                           href: "#pro-page-{{number}}",
-                           hrefVariable: "<%=number%>",
-                           leaps: false, 
-                        }).on('page', function(event, num){
-
-                            $(".content3").html("Page " + num); // or some ajax content loading...
-
-                        });
-
+$(document).ready(function(){
+  $('.demo3').bootpag({
+    total: {{ .s.TotPag $posts 20 }},
+    page: {{ .page.GetCurrentPage }},
+    href: "./{{$category}}<%=number%>",
+    hrefVariable: "<%=number%>",
+    leaps: false, maxVisible: 10, prev: null, next: null
+  });
+});
 </script>
+</div>
+{{ end }}

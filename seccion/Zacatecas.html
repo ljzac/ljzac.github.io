@@ -2,34 +2,22 @@
 layout: default
 ---
 
-
-<div class="title">
-	<h4>Zacatecas</h4>
+{{ $category := "Zacatecas"}}
+{{ $posts := .site.locations.Local }}
+{{ if $posts }}
+{{ template "seccion_listado.html" .s.PostPaginated $posts 20 .page.GetCurrentPage }}
+<div style="text-align:center">
+<p class="demo3"></p>
+<script type="text/javascript" >
+$(document).ready(function(){
+  $('.demo3').bootpag({
+    total: {{ .s.TotPag $posts 20 }},
+    page: {{ .page.GetCurrentPage }},
+    href: "./{{$category}}<%=number%>",
+    hrefVariable: "<%=number%>",
+    leaps: false, maxVisible: 10, prev: null, next: null
+  });
+});
+</script>
 </div>
-
-{{ range .site.locations.Local }}
-<article class="SubContent">
-	<a href="/{{ .url }}"><h3> {{ .title }}</h3></a>
-  {{if .MainImgSize "m"}}
-	<div class="grid_9 omega">
-		<div class="grid_image"><img src="{{ .MainImgSize "m" }}" class="pic" alt="pic" /> </div>
-	</div>
-	<div class="grid_7 alpha">
-  {{else}}
-  <div>
-  {{end}}
-		<ul class="comment">
-		{{ if .author }}	
-			<li>{{ .author }}/</li>
-		{{ end }}	
-      {{ if .date }}
-			<li>{{ .date | date_to_string }}/</li>
-      {{ end }}
-			<li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
-		</ul>
-		<article class="article"><p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p></article>
-	</div>
-</article>
-<br/><br/><br/>
-<hr/>
-{{end}}
+{{ end }}

@@ -4,18 +4,19 @@ layout: default
 {{ $category := "Educación" }}
 {{ $posts := index .site.categories $category }}
 {{ if $posts }}
-
-{{ template "seccion_listado.html" .s.PostPaginated $posts 10 .page.GetCurrentPage }}
-
-<div class="pagination">
-<ul>
-	<li><a href="/seccion/Educación{{ .s.PrevPag .page.GetCurrentPage }}.html">Prev</a></li>
-	{{ range $index, $element := .s.TotalPages "Educación" 10 }}
-		<li><a href="/seccion/Educación{{ $index }}.html">{{ $index }}</a></li>
-	{{ end }}
-	{{ $total := .s.TotPag "Educación" 10}}
-	 <li><a href="/seccion/Educación{{  .s.NextPag .page.GetCurrentPage $total}}.html">Next</a></li>
-</ul>
+{{ template "seccion_listado.html" .s.PostPaginated $posts 20 .page.GetCurrentPage }}
+<div style="text-align:center">
+<p class="demo3"></p>
+<script type="text/javascript" >
+$(document).ready(function(){
+  $('.demo3').bootpag({
+    total: {{ .s.TotPag $posts 20 }},
+    page: {{ .page.GetCurrentPage }},
+    href: "./{{$category}}<%=number%>",
+    hrefVariable: "<%=number%>",
+    leaps: false, maxVisible: 10, prev: null, next: null
+  });
+});
+</script>
 </div>
-
 {{ end }}
