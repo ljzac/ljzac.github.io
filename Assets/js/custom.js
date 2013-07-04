@@ -38,7 +38,7 @@ $(document).ready(function(){
       vertical: true,
       scroll: 1,
       wrap: null,
-      auto:500
+      auto:0
     });
 
   $(".touch span + span").click(function(){
