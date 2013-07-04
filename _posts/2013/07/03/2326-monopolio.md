@@ -2,7 +2,7 @@
 published: true
 title: Ratifica CFC multas contra Televisa y Telmex por prácticas monopólicas
 author: Redacción
-location: Local
+location: Nacional
 category: Principales
 layout: posts
 ---
