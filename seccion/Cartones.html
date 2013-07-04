@@ -2,17 +2,19 @@
 layout: default
 ---
 
+{{ $category := "Cartones" }}
+{{ $posts := index .site.categories "La Jiribilla" }}
+{{ $currentPosts := .s.PostPaginated $posts 20 .page.GetCurrentPage }}
 
-{{ $miseccion := index .site.categories "La Jiribilla"}}
-{{if $miseccion }}
+{{if $currentPosts }}
 <div class="title">
 	    <h4>Cartones</h4>
 </div>
-{{ range $miseccion }}
+{{ range $currentPosts }}
 			<article class="SubContent">
 	             <div class="grid_9 omega">
                      <div class="grid_image">
-                      {{ if .MainImg }} <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
+     {{ if .MainImg }} <a href= "{{ .MainImgSize "h" }}" rel="gallery_cartones" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
                          <img src="{{ .MainImg }}" class="pic" alt="{{ .tittle }}" /> 
                        </a>
                      </div>
@@ -27,11 +29,18 @@ layout: default
      {{ end }}
 {{end}}
 
-
-{{else }}
- <div class="news_tpoic">
-  <div class="title">
-   No hay notas de esta sección
- </div>
+<div style="text-align:center">
+<p class="demo3"></p>
+<script type="text/javascript" >
+$(document).ready(function(){
+  $('.demo3').bootpag({
+    total: {{ .s.TotPag $posts 20 }},
+    page: {{ .page.GetCurrentPage }},
+    href: "./{{$category}}<%=number%>",
+    hrefVariable: "<%=number%>",
+    leaps: false, maxVisible: 10, prev: null, next: null
+  });
+});
+</script>
 </div>
 {{ end }}
