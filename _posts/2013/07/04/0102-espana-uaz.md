@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Firman convenio de colaboración la UAZ y la Universidad de Girona, en España "
 author: REDACCION
 location: Local
