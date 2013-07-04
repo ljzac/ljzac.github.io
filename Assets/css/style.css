@@ -51,20 +51,27 @@ Header Section Css
 }
 .header-wrap {
 	width:100%;
-	background:#a8a9ad;
+	/*background:#a8a9ad;*/
 	margin-bottom: 7px;
 }
 .header {
+  background:#a8a9ad;
 	max-width:960px;
 	margin:0 auto;
 	min-height:206px;
 	text-align:center;
 }
-.header a.logo {
+.header .logoContent {
+	overflow: hidden;
+	width: 960px;
+	height: 175px;
+}
+.header .logoContent a.logo {
 	display:inline-block;
-	background: url(../images/logo_beta.png);
-	width: 415px;
-	height: 112px;
+	background: url(../images/logo_full.png);
+	width: 960px;
+	height: 175px;
+	position: relative;
 }
 .addSection {
 	overflow:hidden;
@@ -174,6 +181,7 @@ Header Section Css
 	/*background:url(../images/sub_nav_divider.png) center left no-repeat;*/
 	padding:0 0 0 11px;
 	display:inline-block;
+	width: 100%;
 }
 .dropdwon li:hover {
 	background:url(../images/sub_nav_divider.png) center left no-repeat;
@@ -387,7 +395,7 @@ Container Section Css
 .new-content .grid_9 img {
 	display:block;
 	border:4px solid #fff;
-	width:95%
+  max-height:208px;
 }
 .carousel_slider {
 	margin-top: 13px;

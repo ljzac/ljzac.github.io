@@ -334,7 +334,6 @@ h5 {
 	.header a.logo {
 		display: inline-block;
 		margin-top: 10px;
-		background: url(../images/logo_beta.png);
 		background-size: 100% auto;
 		background-repeat: no-repeat;
 		width: 100%;
@@ -463,11 +462,23 @@ h5 {
 }
  @media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
 	.figure-slider ul li{width:287px !important; margin-right:0px;}
+	.header .logoContent {
+ 		width: 100%;
+ 		height: auto;
+ 	}
+	.header .logoContent a.logo {
+		width: 700px;
+		height: 128px;
+		left: -127px;
+	} 
  }
 
  @media only screen and (max-width:767px) and (orientation:landscape){
-	.header a.logo {
-		margin: 10px 0;
-		height: 140px;
+ 	.header .logoContent {
+ 		width: 100%;
+ 		height: auto;
+ 	}
+	.header .logoContent a.logo {
+		left: -50px;
 	} 
 }
