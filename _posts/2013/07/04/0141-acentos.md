@@ -3,7 +3,7 @@ published: true
 title: "Las campañas se definieron por la entrega  de regalos y conciertos, afirman analistas"
 author: "CESAR PEREZ "
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
