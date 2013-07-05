@@ -3,7 +3,7 @@ published: true
 title: "No hay retrasos en el pago del  Subsemun, asevera secretario"
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
