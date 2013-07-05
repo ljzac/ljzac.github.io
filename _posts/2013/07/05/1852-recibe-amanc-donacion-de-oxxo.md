@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recibe Amanc donación de cadena Oxxo.
+title: Recibe Amanc donación de cadena Oxxo
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
