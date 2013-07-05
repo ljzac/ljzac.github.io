@@ -8,7 +8,7 @@ category: Ciencia y Tecnología
 layout: posts
 ---
 
-![Uno de los restos encontrados. Foto: Municipio de Quito  La información y el contenido multimedia, publicados por la Agencia de Noticias Andes, son de carácter público, libre y gratuito. Pueden ser reproducidos con la obligatoriedad de citar la fuente. http://www.andes.info.ec/es/cultura/restos-humanos-1600-anos-antes-cristo-fueron-rescatados-quito.html](http://i.imgur.com/2mF3Do1m.jpg)Quito. El ecuatoriano Instituto Metropolitano de Patrimonio (IMP) informó hoy la extracción de importantes vestigios arqueológicos en un sector al noroccidente de esta capital que estiman datan de más de mil 500 años antes de Cristo.
+![Uno de los restos encontrados. Foto: Municipio de Quito](http://i.imgur.com/QfexoBqm.jpg)El ecuatoriano Instituto Metropolitano de Patrimonio (IMP) informó hoy la extracción de importantes vestigios arqueológicos en un sector al noroccidente de esta capital que estiman datan de más de mil 500 años antes de Cristo.
 Entre lo hallados en el barrio Rancho Bajo, junto al Club El Condado, están unas 18 osamentas humanas, materiales líticos y de cerámica, los cuales se someten a los análisis especializados correspondientes.
 
 Un equipo de arqueólogos contratados por el IMP, dirigidos por la doctora Fernanda Ugalde y la coordinación técnica del arqueólogo Alfredo Santamaría, encontró estas "evidencias arqueológicas de suma importancia para la cultura de la capital y del país".
