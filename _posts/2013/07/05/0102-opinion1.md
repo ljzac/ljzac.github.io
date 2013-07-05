@@ -1,0 +1,21 @@
+---
+published: true
+title: "¿Qué es la Jornada Electoral?"
+author: "Jorge Chiquito Díaz De León*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+Por jornada electoral puede entenderse el período durante el que transcurre la votación o, dicho de una manera más simple, el número total de horas que permanecen abiertos las casillas electorales para recoger el voto de los electores. La Ley Electoral del Estado de Zacatecas señala que la etapa de la jornada electoral se inicia con la instalación de las casillas, a las 7:30 horas, la recepción de los votos a las 8:00 horas el primer domingo del mes de julio del año de la elección y concluye a las 18 horas con la clausura de las mismas.
+
+Previo a lo anterior, el órgano electoral lleva a cabo dos sorteos (insaculaciones) para designar y capacitar a los ciudadanos que integrarán las mesas directivas de casillas, las cuales están integradas por un presidente, un secretario, dos escrutadores y cuatro suplentes generales, estos últimos entrarán en funciones únicamente si faltara alguno de los propietarios. Estos ciudadanos son los encargados de recibir y contar los votos emitidos por los ciudadanos en cada casilla electoral instalada en el territorio estatal. 
+La jornada comicial siempre llevará de la mano el voto ciudadano,  su desarrollo debe ser transparente, sencillo y exhaustivo, es el día señalado por los preceptos legales, para  que  el  ciudadano  con  documento de identidad vigente –credencial para votar- ministrado por el Registro Federal de  Electores del Instituto Federal Electoral, o bien, resolución del Tribunal Electoral del Poder Judicial de la Federación (con la cual los faculta para emitir su voto por única ocasión) al no contar con credencial para votar, para que asista a la casilla electoral correspondiente a su sección electoral que a su domicilio corresponde a fin de que directa, personal y libremente exprese su voluntad en boleta electoral destinada para tal fin, y en ella  asentar en secreto su voto por el candidato del partido político y/o candidato independiente legalmente reconocido.
+
+La jornada electoral constituye, en definitiva, la culminación de todo el procedimiento electoral que se realizó durante la etapa de preparación de la elección; es, pues, el día más trascendente de todo el período que comprenden las elecciones que se iniciaron con la sesión del Consejo General del Instituto Electoral del Estado de Zacatecas, que celebró el primer lunes hábil del mes de enero del año de la elección y que finalizará con la proclamación de los candidatos electos, ya que durante dicha jornada electoral se hace efectiva la expresión de la voluntad para integrar la representación del pueblo en los órganos del Estado, mediante el ejercicio del derecho de sufragio, función elemental que sirve de cauce para la participación política de los ciudadanos. Es de afirmar que durante la jornada electoral es cuando, de manera no única, pero sí más significativa, puede verse a los ciudadanos desarrollando el papel de gobernantes, de ciudadanos con poder de decisión, de elegir libremente a quienes serán sus representantes.
+Hay que subrayar que durante toda la jornada electoral y tres días previos a la mismas, queda absolutamente prohibido cualquier tipo de propaganda política a favor o en contra de partidos políticos y candidatos, la publicación de encuestas o sondeos que influyan en la decisión de los votantes, que debe ser libre en todo momento.
+
+En efecto, es regla general de las legislaciones electorales prohibir cualquier acto de publicidad electoral no sólo el día de las elecciones, sino también durante tres días inmediatamente anteriores. Parece lógico establecer una tregua en la contienda electoral durante un plazo anterior a la votación, a fin de que los electores puedan contar con un período de reflexión para madurar el sentido de su voto.
+Es importante señalar que un voto responsable, libre y secreto puede construir el gobierno que merecemos; puede cambiar la historia, pero sobre todo puede que mejore la vida de todos en nuestro estado y en definitiva en este país, es importante que este domingo, 7 de julio salgamos todos, como ciudadanos responsables a emitir nuestro voto y de esta forma hacer posible la construcción de nuestro gobierno. ■
+
+*Vocal secretario de la 03 JDE del IFE en Zacatecas
