@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Llegará \"Los amantes pasajeros\" filme de Almodóvar este viernes a cines mexicanos"
+title: Llegará Los amantes pasajeros filme de Almodóvar este viernes a cines mexicanos
 twitt: "En Los amantes pasajeros, un grupo de viajeros se dirigen hacia la Ciudad de México, pero un severo problema en el vuelo provoca que todos ellos sientan que su muerte se acerca, de modo que comenzarán a sacar a relucir aspectos íntimos de sus vidas."
 author: Notimex
 location: Nacional
