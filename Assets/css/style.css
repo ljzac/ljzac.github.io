@@ -94,7 +94,7 @@ Header Section Css
 	background:url(../images/navigation_bg.png)left top repeat-y;
 	/*overflow:hidden;*/
 	border-radius:10px;
-	min-height:109px;
+	min-height:84px;
 	position:relative;
 }
 .nav {
@@ -129,7 +129,7 @@ Header Section Css
 }
 .sub-nav {
 	display: inline-block;
-	padding-top:41px;
+	padding-top:12px;
 	text-align: center;
 	width: 100%;
 }
@@ -254,7 +254,7 @@ Header Section Css
 }
 .time-date {
 	float:left;
-	width:33%;
+	width:17%;
 	margin-left:12px;
 }
 .social_icon {
