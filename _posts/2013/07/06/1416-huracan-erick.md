@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![Reserva de la Biosfera Sierra de Manantlán, ubicada en los límites de los estados Colima y Jalisco](http://i.imgur.com/ARu6v1Km.jpg)La tormenta tropical Erick se convirtió en huracán, y se desplaza muy cerca de las costas del Pacífico central, reportó el Servicio Meteorológico Nacional (SMN).
+![Reserva de la Biósfera Sierra de Manantlán, ubicada en los límites de los estados Colima y Jalisco](http://i.imgur.com/ARu6v1Km.jpg)La tormenta tropical Erick se convirtió en huracán, y se desplaza muy cerca de las costas del Pacífico central, reportó el Servicio Meteorológico Nacional (SMN).
 
 El organismo de la Comisión Nacional del Agua (Conagua) informó que los vientos producidos por este fenómeno meteorológico provocan oleaje elevado de hasta cuatro metros en las costas de Guerrero, Michoacán, Colima, Jalisco y Nayarit.
 
