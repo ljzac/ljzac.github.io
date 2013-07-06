@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Hospitalizan a \"Mantequilla\" Nápoles por anorexia y depresión"
+title: "Hospitalizan a 'Mantequilla' Nápoles por anorexia y depresión"
 twitt: "El pugilista campeón mundial de peso wélter en 1969 presenta desnutrición y anemia, pese a esto su vida no está en riesgo."
 author: Afp
 location: Nacional
