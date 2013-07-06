@@ -8,6 +8,7 @@ layout: posts
 ---
 
 •	Dijeron no confiar en autoridades locales para esta labor
+
 •	Informaron que tras el asesinato, hubo robo de documentos electorales que la víctima tenía en su poder
 
 ![](http://i.imgur.com/dcAlMNcm.jpg)Las dirigencias nacionales del Partido Acción Nacional (PAN) y del Partido de la Revolución Democrática (PRD) se solidarizaron, en conferencia de prensa, con la familia de Aquiles González Mayorga, asesinado ayer y quien fue coordinador de campaña del candidato a la alcaldía de Guadalupe por la coalición PAN-PRD, Gerardo Romo Fonseca. Exigieron que se realice un peritaje por parte de las autoridades federales, ya que no confían en las locales.
