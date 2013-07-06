@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Foto tomada de thenews.com.pk](http://i.imgur.com/zbFR6Mvm.jpg)Québec/Nueva York. Una serie de violentas explosiones tras el accidente de un tren de carga devastó una pequeña ciudad en el sudeste de Canadá y unas 60 personas se encuentran desaparecidas, según reportaron hoy medios locales.
+![Ap](http://i.imgur.com/f4tXPuNm.jpg)Québec/Nueva York. Una serie de violentas explosiones tras el accidente de un tren de carga devastó una pequeña ciudad en el sudeste de Canadá y unas 60 personas se encuentran desaparecidas, según reportaron hoy medios locales.
 
 En la pequeña localidad de Lac-Mégantic, solamente a pocos kilómetros de la frontera con Estados Unidos, descarrilaron vagones que trasladaban petróleo y luego se prendieron fuego.
 
@@ -23,5 +23,3 @@ Unas mil personas debieron abandonar sus viviendas. Durante el combate del fuego
 "Cuando se ven los daños, no se sabe cómo sobreponerse a esto", declaró la alcaldesa, Colette Roy-LaRoche. "Pero puedo decir que todos los que participaron ayudaron mucho. Hicimos todo lo humanamente posible".
 
 Lac-Mégantic es una pequeña localidad con unos 6 mil habitantes, ubicada en la provincia francesa de Québec.
-
-
