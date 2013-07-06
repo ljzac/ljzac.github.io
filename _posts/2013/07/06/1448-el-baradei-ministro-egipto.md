@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Ap](http://i.imgur.com/6XWxHm6m.jpg)El Cairo. El líder opositor y Premio Nobel de la Paz egipcio Mohamed El Baradei se convertirá en el nuevo primer ministro, reportaron hoy los medios de ese país.
+![Ap](http://i.imgur.com/lSrVVXdm.jpg)El Cairo. El líder opositor y Premio Nobel de la Paz egipcio Mohamed El Baradei se convertirá en el nuevo primer ministro, reportaron hoy los medios de ese país.
 
 El Baradei estará al frente de su gabinete hasta los comicios presidenciales y parlamentarios. De acuerdo con estos informes, jurará su cargo esta misma noche.
 
