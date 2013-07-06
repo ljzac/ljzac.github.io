@@ -3,7 +3,7 @@ published: true
 title: "Presentan El espíritu de la abstracción,  del artista plástico José Luis Bustamante"
 author: REDACCION
 location: Local
-category: Opinión
+category: Cultura y Espectáculos
 layout: posts
 ---
 
