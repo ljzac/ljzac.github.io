@@ -1,6 +1,6 @@
 ---
 published: true
-title: Solicita Godezac a PGR su coadyuvancia en investigación de homicidio de Aquiles González Mayorga
+title: Informa Godezac que solicitó a PGR su coadyuvancia en investigación de homicidio de Aquiles González Mayorga
 author: REDACCION
 location: Local
 category: Destacadas
