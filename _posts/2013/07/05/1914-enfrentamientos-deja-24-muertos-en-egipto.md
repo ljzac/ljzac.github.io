@@ -1,6 +1,6 @@
 ---
 published: true
-title: Refieren hasta 24 muertos por enfrentamientos en Egipto
+title: Enfrentamientos dejan al menos 24 muertos en Egipto
 twitt: "En Alejandría se reportan doce víctimas mortales y 200 heridos, la mayoría por armas de fuego. En El Cairo, las movilizaciones derivaron en una batalla a pedradas y por momentos se escucharon disparon."
 author: Reuters y Afp
 location: Internacional
