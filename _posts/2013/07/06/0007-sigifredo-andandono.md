@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Abandonan el pensamiento crítico  académicos e intelectuales: experto"
 twitt: MARTIN CATALAN LERMA
 location: Local
