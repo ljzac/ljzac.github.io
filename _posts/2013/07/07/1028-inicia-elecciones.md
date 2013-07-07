@@ -35,3 +35,5 @@ Por su parte, el candidato a alcalde de Guadalupe por el PAN-PRD, Gerardo Romo F
 Exhortó al gobernador para que se propicie una jornada pacífica y al procurador Arturo Nahle que deje de hostigar con el aparato de seguridad al reiterar que policías ministeriales seguían a su ex coordinador de campaña. Denunció que el PRI opera la compra de votos en casas marcadas con el logo del equipo de futbol del Toluca.
 
 Finalmente, el gobernador Miguel Alonso Reyes afirmó que existen condiciones para que la ciudadanía acuda a las urnas a votar, pese lo ocurrido el pasado viernes con el asesinato del coordinador de campaña del PRD en Guadalupe.
+
+En este sentido, afirmó que no se descarta ninguna línea de investigación, además de que es respetable que la oposición pida que la PGR intervenga en el asunto.
