@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Celebra Benjamín Medrano tranquilidad durante comicios "
 author: REDACCION
 location: Local
