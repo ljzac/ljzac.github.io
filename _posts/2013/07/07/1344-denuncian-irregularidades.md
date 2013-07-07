@@ -7,7 +7,7 @@ category: Elecciones 2013
 layout: posts
 ---
 
-![](http://i.imgur.com/hT2wSQNm.jpg)En sesión especial del Instituto Electoral del Estado de Zacatecas (IEEZ) se informó que hasta las 11 de la mañana se instaló 95.12 por ciento de las 2 mil 561 casillas en el estado. La representación del Partido Acción Nacional (PAN) denunció que los candidatos Héctor Pastor, del Partido Revolucionario Institucional (PRI), y Xerardo Ramírez, del Verde Ecologista de México (PVEM), permanecieron por más de 30 minutos en unas casillas promoviendo el voto a su favor.
+![](http://i.imgur.com/hT2wSQNm.jpg)En sesión especial del Instituto Electoral del Estado de Zacatecas (IEEZ), se informó que hasta las 11 de la mañana fue instalado 95.12 por ciento de las 2 mil 561 casillas en el estado. La representación del Partido Acción Nacional (PAN) denunció que los candidatos Héctor Pastor, del Partido Revolucionario Institucional (PRI), y Xerardo Ramírez, del Verde Ecologista de México (PVEM), permanecieron por más de 30 minutos en unas casillas promoviendo el voto a su favor.
 
 Mientras tanto, el aspirante a diputado local por el Partido de Revolución Democrática (PRD), Rafael Flores Mendoza, comentó que espera una jornada electoral tranquila, luego de los hechos violentos registrados este viernes en Guadalupe. Asimismo, advirtió que existe una camioneta con placas de Onappafa repartiendo sobres a la gente.
 
@@ -25,4 +25,4 @@ Xerardo Ramírez denunció, tras emitir su sufragio este mediodía, que ha ocurr
 
 Calificó estos hechos de actitudes antidemocráticas que van contra la legalidad e hizo un llamado al IEEZ para que a su vez convoque  a las autoridades municipales y estatales y cese esta intimidación. 
 
-Agregó, sin embargo, que está contento de participar y ver la afluencia de la gente, y expresó que es la ciudadanía de buen corazón, comprometida con su ciudad, la que está cuidando la elección.
+Añadió, sin embargo, que está contento de participar y ver la afluencia de la gente, y expresó que es la ciudadanía de buen corazón, comprometida con su ciudad, la que está cuidando la elección.
