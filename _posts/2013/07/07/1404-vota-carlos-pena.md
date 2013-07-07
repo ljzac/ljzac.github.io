@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Afirma Carlos Peña que la seguridad será una de sus prioridades, en caso de ser electo"
+author: REDACCION
 location: Local
-category: Portada
+category: Elecciones 2013
 layout: posts
 ---
 
