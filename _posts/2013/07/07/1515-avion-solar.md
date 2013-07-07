@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Avión solar concluye viaje en Nueva York
 author: Afp
 location: Internacional
