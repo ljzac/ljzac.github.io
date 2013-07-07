@@ -26,7 +26,9 @@ Cárdenas Hernández  se manifestó animado a pesar de las noticias nada alentad
 
 Por su lado, Alvarez Máynez dijo sentirse con buenos ánimos: “yo no estoy compitiendo contra candidatos de otros partidos, sino contra el abstencionismo. Hago un llamado a la población a emitir su voto, y que lo vean como una opción ciudadana y no como los políticos de siempre”.
 
-Jorge Alvarez fue acompañado por Enrique Ibarra, uno de los representantes de la izquierda en Jalisco.
+Jorge Alvarez acudió acompañado por Enrique Ibarra, uno de los representantes de la izquierda en Jalisco.
+
+Expresó que emitió su sufragio con alegría y esperanza, pues señala que la ciudadanía de esta demarcación quiere un cambio. Informó que en Guadalupe fueron instaladas 100 por ciento de las casillas y que sus representantes tienen cubiertas 98 por ciento de las mismas. Había enemigos a vencer en este proceso electoral, dijo, el poder del dinero y la corrupción, mismo que fue derrotado durante la campaña, y la apatía y el abstencionismo, sobre el  que convocó a vencer en esta jornada electoral.
 
 Felipe Álvarez Calderón expuso que la gente debe expresar y emitir su voto sin miedo, después de “los acontecimientos que hemos vivido en estos días”.
 
