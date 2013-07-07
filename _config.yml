@@ -58,6 +58,8 @@ prose:
               value: "Opinión"
             - name: "Educación"
               value: "Educación"
+            - name: "Elecciones 2013"
+              value: "Elecciones 2013"
             - name: "Sociedad y Justicia"
               value: "Sociedad y Justicia"
             - name: "Contraportada"
