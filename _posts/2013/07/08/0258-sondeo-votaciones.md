@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Falta de confianza en partidos y candidatos,  principal causa de abstencionismo: ciudadanos"
 author: MARTIN CATALAN LERMA
 location: Local
