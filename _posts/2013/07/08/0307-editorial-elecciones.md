@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Concluyó un episodio más de la tragicomedia electoral
 author: Editorial
 location: Local
