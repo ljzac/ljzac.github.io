@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Inauguran diplomado en prevención de accidentes mineros
 author: REDACCION
 location: Local
