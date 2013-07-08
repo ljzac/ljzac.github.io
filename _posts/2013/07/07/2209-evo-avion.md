@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "No fue inspeccionado avión de Evo Morales en Austria: presidente Fischer"
 author: la jornada
 location: Internacional
