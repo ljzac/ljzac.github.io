@@ -1,7 +1,9 @@
 ---
 published: true
+title: Denuncian que en casillas de Rogelio Cárdenas corporaciones policiacas han pretendido llevarse las urnas
+author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Portada
+category: Elecciones 2013
 layout: posts
 ---
 
