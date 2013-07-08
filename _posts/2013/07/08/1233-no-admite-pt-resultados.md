@@ -1,6 +1,6 @@
 ---
 published: true
-title: "No admite PT resultados de elección en Fresnillo, dice Bañuelos"
+title: "No admite PT resultados de elección en Fresnillo, advierte Bañuelos"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
