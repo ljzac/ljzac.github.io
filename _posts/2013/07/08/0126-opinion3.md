@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Evaluar la educación, evaluar al docente o calificar al alumno"
 author: Ramiro Espino De Lara
 location: Local
