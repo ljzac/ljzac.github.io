@@ -1,6 +1,6 @@
 ---
 published: true
-title: "riograndenses nos han puesto un gran ejemplo en la reciente jornada electoral: Mario Alberto Ramírez Rodríguez"
+title: "Riograndenses nos han puesto un gran ejemplo en la reciente jornada electoral: Mario Alberto Ramírez Rodríguez"
 author: REDACCION
 location: Local
 category: Destacadas
