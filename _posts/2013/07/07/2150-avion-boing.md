@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Identifican a dos víctimas de accidente de avión en San Francisco
 author: LA JORNADA
 location: Nacional
