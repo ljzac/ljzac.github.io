@@ -1,6 +1,6 @@
 ---
 published: true
-title: IFE continua servicio en modulos de atención ciudadana
+title: IFE continua servicio en módulos de atención ciudadana
 author: REDACCION
 location: Local
 category: Destacadas
@@ -20,11 +20,3 @@ Con horario de: lunes a viernes de 08:00 a 15:00 horas y sábados de 09:00 a 13:
 Además de los módulos fijos, también se cuentan con módulos itinerantes y para conocer la ubicación y horarios de ellos,  se puede llamar a  IFETEL 01-800-433-2000 o en Zacatecas al Centro Estatal de Orientación y Consulta Electoral: (492) 92 4 86 72  y (492) 92 4 82 08 o en internet en http://ubicatumodulo.ife.org.mx/.
 
 Los documentos que deben presentarse para tramitar la credencial para votar son los siguientes: original: acta de nacimiento, identificación con fotografía vigente y comprobante de domicilio reciente (no mayo a 3 meses). También podrán programar una cita y con ello evitar las filas; además, si por incapacidad física no se puede acudir a alguno de los módulos, el IFE acerca el servicio en el domicilio, previa solicitud por escrito, acompañada de la documentación que acredite la incapacidad. Para mayores informes consultar la página del IFE en:  www.ife.org.mx, llama gratis a IFETEL 01-800-433-2000.
-
-
-
-
-
-
-
-
