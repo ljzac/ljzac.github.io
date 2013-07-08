@@ -1,7 +1,7 @@
 ---
 published: true
 title: PRI y PVEM se disputan primeros lugares hasta el momento en la capital zacatecana
-author: ALMA RIOS Y ARAZU TINAJERO
+author: ALMA RIOS Y ALMA ALEJANDRA TAPIA
 location: Local
 category: Elecciones 2013
 layout: posts
