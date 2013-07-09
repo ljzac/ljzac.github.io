@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Bolivia denuncia ante OEA \"atentado\" contra Evo Morales en Europa"
+title: "Bolivia denuncia ante OEA 'atentado' contra Evo Morales en Europa"
 twitt: Condenó con dureza la actuación “grotesca” del embajador de España en Austria y sus intentos de inspeccionar el avión del mandatario boliviano.
 author: Dpa
 location: Internacional
