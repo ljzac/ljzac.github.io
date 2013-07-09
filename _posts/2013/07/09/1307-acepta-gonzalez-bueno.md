@@ -18,3 +18,5 @@ Como proyecto personal, se propone recabar firmas para solicitar a la empresa Te
 González Bueno dijo no creer en el _chapulinazo_, por lo que afirmó permanecerá en el Partido Acción Nacional (PAN), aunque manifestó que dicho partido debe replantearse. 
 
 A su campaña, comentó, le faltó convencer; no obstante, habló de deslealtades en la estructura de sus operadores, problema del que se responsabilizó por no haber tomado las decisiones correctas a tiempo.
+
+En torno al desinterés ciudadano en las elecciones, expresó que debe existir preocupación tanto de quienes hacen política como de quienes no.
