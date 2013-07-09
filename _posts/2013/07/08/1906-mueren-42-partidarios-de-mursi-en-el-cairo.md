@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mueren 42 partidarios de Mursi durante tiroteo en El Cair
+title: Mueren 42 partidarios de Mursi durante tiroteo en El Cairo
 twitt: Los Hermanos Musulmanes instan a los egipcios a levantarse contra el Ejército.
 author: Reuters
 location: Internacional
