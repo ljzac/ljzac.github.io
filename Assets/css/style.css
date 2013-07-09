@@ -1337,5 +1337,10 @@ Footer Section Css
 .p-top {
 	padding-top:0;
 }
+ #disqus_thread {
+  color: black;
+}
+#disqus_thread a {
+  color: #881b1e;
 .twitter-share-button{height:26px !important;width: 82px !important;}
 .addthis_button_facebook_like iframe{width:79px !important;}
