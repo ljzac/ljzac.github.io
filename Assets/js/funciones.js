@@ -1,8 +1,8 @@
 
-function buildShareThis(url){
+function buildShareThis(url,title){
      var customShareThis  = "<div class='share'>";
      customShareThis += "<span class='st_facebook_hcount' displayText='Facebook' st_url='"+url+"'></span> ";
-     customShareThis += "<span class='st_twitter_hcount' displayText='Tweet' st_url='"+url+"' st_via='lajornadazac'></span>";
+     customShareThis += "<span class='st_twitter_hcount' st_title='"+title+"' displayText='Tweet' st_url='"+url+"' st_via='lajornadazac'></span>";
      customShareThis += "<span class='st_pinterest_hcount' displayText='Pinterest' st_url='"+url+"' st_img='"+url+"' ></span>";
      customShareThis += "</div>";
      return customShareThis;
@@ -17,7 +17,7 @@ $(document).ready(function() {
 		titlePosition : 'inside',
 	 	beforeShow: function() {
          var caption =  $(this.element).data("caption") ? $(this.element).data("caption") : "";
-         this.title = this.title ? this.title + buildShareThis(this.href) + caption :        buildShareThis(this.href) + caption;
+         this.title = this.title ? this.title + buildShareThis(this.href,this.title) + caption :        buildShareThis(this.href,this.title) + caption;
       },
       afterShow: function(){
          stButtons.locateElements();
