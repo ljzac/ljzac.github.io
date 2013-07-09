@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/x5hj57Xm.jpg)El Servicio Meteorológico Nacional (SMN), dependiente de la Comisión Nacional del Agua (Conagua), informa que habrá lluvias fuertes a muy fuertes en gran parte del país. Detallaque Zacatecas se mantienen las condiciones favorables de precipitaciones.
+![](http://i.imgur.com/x5hj57Xm.jpg)El Servicio Meteorológico Nacional (SMN), dependiente de la Comisión Nacional del Agua (Conagua), informa que habrá lluvias fuertes a muy fuertes en gran parte del país. Detalla que Zacatecas se mantienen las condiciones favorables de precipitaciones.
 
 Se pronostica que las condiciones para las próximas 24 horas son línea de vaguada en superficie e inestabilidad atmosférica, en el noroeste del país, provocarán lluvias muy fuertes (50 a 70 mm) a lo largo de la Sierra Madre Occidental, desde Sonora hasta Michoacán y lluvias dispersas moderadas (5 a 20 mm) en el resto del norte del país.
 Habrá inestabilidad en el noreste y centro del país, y afluencia de humedad del Golfo de México favorece lluvias moderadas (5 a 20 mm) en ambas regiones, con valores puntuales fuertes (20 a 50 mm) en zonas montañosas del centro del país, incluyendo el Valle de México. “Erick” iniciará su fase de disipación. 
