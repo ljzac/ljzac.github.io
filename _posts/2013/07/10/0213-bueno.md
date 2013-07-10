@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/YCawzkVm.jpg)
+![](http://i.imgur.com/HiAbxrAm.jpg)
 En solitario, Fernando González Bueno, ex candidato a la alcaldía de Zacatecas por la coalición PAN-PRD, informó en conferencia de prensa que acepta los resultados de la elección “como hombre que cree en las instituciones”, sin embargo señaló, que “todos nos dimos cuenta que hubo irregularidades” y destacó que su campaña se sujetó a los 2 millones 800 mil pesos previstos para los gastos.
 
 Sobre los resultados de su candidatura obtenidos en esta contienda, agregó que “le faltó convencer”, pero denunció también deslealtades en la estructura de sus operadores políticos, problema del que se responsabilizó por “no haber tomado las decisiones correctas a tiempo”.
