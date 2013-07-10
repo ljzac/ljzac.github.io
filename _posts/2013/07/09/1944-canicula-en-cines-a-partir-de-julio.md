@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Exhibirán el documental \"Canícula\" en cines de México el 12 de julio"
+title: "Exhibirán el documental 'Canícula' en cines de México el 12 de julio"
 twitt: "El director José Álvarez retrata la vida en las comunidades totonacas de Veracruz, donde la lluvia es una de las cosas más esperadas y deseadas, tras la canícula, ese periodo de 40 días en el que el Sol abrasa y es llamado el sol sangrante."
 author: Notimex
 location: Nacional
