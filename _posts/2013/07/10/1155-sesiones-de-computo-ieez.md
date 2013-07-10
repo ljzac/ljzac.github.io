@@ -1,11 +1,13 @@
 ---
 published: true
-title: Inicia IEEZ cómputo para validar elección del domingo; podría realizarse recuento de votos en 6 municipios y 3 distritos
+title: Podría realizar IEEZ recuento de votos en 6 municipios y 3 distritos
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
 layout: posts
 ---
+
+- Inicia este órgano electoral cómputo para validar elección del pasado domingo
 
 ![ALEJANDRO ORTEGA NERI](http://i.imgur.com/dtkNyh6m.jpg)Los consejos distritales y municipales del Instituto Electoral del Estado de Zacatecas (IEEZ) iniciaron esta mañana las sesiones de escrutinio y cómputo para validar la elección del domingo pasado. 
 
