@@ -7,6 +7,7 @@ category: La Jiribilla
 layout: posts
 ---
 
+![](http://i.imgur.com/siSkkrjm.jpg)
 “Entre hermanos… que nadie meta la mano”
 
 UNO: “Nomás jálele al hilito, para que esto se deshaga” 
