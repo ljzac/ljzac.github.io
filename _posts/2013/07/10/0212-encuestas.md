@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "IEEZ, rebasado por publicación de encuestas  altamente tendenciosas: Leopoldo Trueba"
 author: "ARAZU TINAJERO "
 location: Local
