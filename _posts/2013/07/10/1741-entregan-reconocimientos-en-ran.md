@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Entregan reconocimientos a trabajadores del RAN
 author: REDACCION
 location: Local
