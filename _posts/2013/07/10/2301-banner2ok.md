@@ -1,7 +1,7 @@
 ---
 published: true
 location: Local
-category: Principales
+category: Publicidad
 layout: posts
 ---
 
