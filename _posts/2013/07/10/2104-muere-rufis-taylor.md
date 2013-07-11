@@ -1,7 +1,7 @@
 ---
 published: true
 title: Muere Rufis Taylor
-author: ARACELI RODARTE SOLORZANO
+author: REDACCION
 location: Local
 category: Destacadas
 layout: posts
