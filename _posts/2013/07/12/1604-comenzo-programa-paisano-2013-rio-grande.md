@@ -1,6 +1,6 @@
 ---
 published: true
-title: Comenzó  el Programa Paisano 2013 en Río Grande
+title: Comenzó  el Programa Paisano 2013 y remodelación de CERESO en Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
@@ -19,7 +19,7 @@ Recordó que también que se ha trabajado de la mano con los migrantes a través
 
 En otro tema, el Centro de Bienestar Social (CEBIS) durante el periodo de vacaciones correspondiente al verano, seguirá brindando los distintos cursos para las y los pequeñines, informó el primer mandatario municipal Mario Alberto Ramírez Rodríguez.
 
-Mientras que en el mes de septiembre la obra de remodelación que recibe el Centro de Readaptación Social (CERESO), de Río Grande, informó al gobierno municipal encabezado por Mario Alberto Ramírez Rodríguez, Ricardo Ramírez Díaz, director general de Prevención y Reinserción Social del estado de Zacatecas.
+Mientras que se entregará en el mes de septiembre la obra de remodelación que recibe el Centro de Readaptación Social (CERESO), de Río Grande, informó al gobierno municipal encabezado por Mario Alberto Ramírez Rodríguez, Ricardo Ramírez Díaz, director general de Prevención y Reinserción Social del estado de Zacatecas.
 
 Salvador de Jesús Rojas Delgado, director del Instituto Municipal de Cultura de Río Grande, informó que se presenta una exposición de fotografía taurina, titulada “Tauromaquia en México”.
 
