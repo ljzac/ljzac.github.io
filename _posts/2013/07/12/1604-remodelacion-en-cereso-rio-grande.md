@@ -1,13 +1,13 @@
 ---
 published: true
-title: Dió inicio Programa Paisano 2013 y además se mejorarán instalaciones actuales del CERESO en Río Grande
+title: Remodelarán Cereso de Río Grande; aumentará capacidad al doble
 author: REDACCION
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/lNQpSyNm.jpg)RIO GRANDE, ZAC. Víctor Espinoza Leyva, director del Instituto de Atención al Migrante, de Río Grande, señaló que comenzó el Programa Paisano 2013 correspondiente al verano, desde el pasado lunes 8 de julio.
+![](http://i.imgur.com/2fDDOQBm.jpg)RIO GRANDE, ZAC. Víctor Espinoza Leyva, director del Instituto de Atención al Migrante, de Río Grande, señaló que comenzó el Programa Paisano 2013 correspondiente al verano, desde el pasado lunes 8 de julio.
 
 Señaló que el trabajo realizado entre el departamento municipal en coordinación con el Instituto Nacional de Migración, el Instituto Estatal de Migración, la Comisión Estatal de Derechos Humanos (CEDH), y la Secretaría de la Función Pública del Estado de Zacatecas, se buscará atender a los connacionales y ciudadanos que radican en otros estados del país en el módulo ubicado en la Carretera federal 49, conocido como “San Juditas”.
 
