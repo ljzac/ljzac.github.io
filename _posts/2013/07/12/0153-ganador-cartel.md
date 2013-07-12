@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Presentan cartel ganador de la Fenaza en su edición 2013; autor recibe 30 mil pesos
 author: RAFAEL DE SANTIAGO
 location: Local
