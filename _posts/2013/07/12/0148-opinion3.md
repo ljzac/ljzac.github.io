@@ -1,0 +1,20 @@
+---
+published: true
+title: "¿Quiénes son los funcionarios de casilla?"
+author: "Jesús García Almeida*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+En todo proceso electoral, sea federal o estatal, escuchamos en todos los medios de comunicación menciones sobre los funcionarios de la mesa directiva de casilla, pero, ¿quiénes son éstos? ¿qué papel juegan en  las elecciones o, aún mejor, el día de la jornada electoral? 
+
+El funcionario de casilla es un ciudadano mexicano de 18 años o más inscrito en la Lista Nominal de Electores, cuenta con su credencial para votar, sabe leer y escribir y puede tener hasta 70 años de edad. Por regla general, son seleccionados por los órganos electorales mediante dos sorteos en los meses de enero y marzo del año de la elección, considerando el mes de nacimiento y la letra de su primer apellido, respectivamente, para integrar la mesa directiva de casilla de la sección correspondiente al domicilio registrado en su credencial para votar. El día de las elecciones se convierten en la máxima autoridad en la casilla.
+Antes de la jornada electoral y después de recibir su nombramiento, los funcionarios de casilla se capacitan y asisten a los simulacros de la jornada electoral en los que practican las actividades que deben desarrollar en ella. El día de la elección, son responsables de la instalación y funcionamiento de la casilla, de mantener el orden, recibir la votación de los vecinos de la sección que presenten su credencial y aparezcan en el listado nominal, llenar las actas de la jornada electoral y la de escrutinio y cómputo de cada elección; ésta última se llena al cerrar la votación, luego de realizar la clasificación y conteo de los votos depositados en la urna y en ella se asientan los votos por cada partido político, coalición, candidatos no registrados y los nulos.  Al clausurar la casilla deben publicar los resultados en el exterior, para que todos los que ahí votaron tengan conocimiento de los mismos. Finalmente, deben entregar el paquete electoral (con toda la documentación de la casilla) al Consejo Distrital o Municipal que corresponda. Todas sus funciones las realizan en una jornada de 7:30 y hasta las 21 horas, aproximadamente, es decir, dedican a estas labores alrededor de 14:30 horas.
+
+Su actuación no ha estado exenta de dudas respecto a su imparcialidad, particularmente en la elección de 2006; sin embargo, la principal fortaleza del sistema de selección de funcionarios de casilla, precisamente, es la aleatoriedad, a través de una doble insaculación o sorteo, es decir, todos los ciudadanos tienen la oportunidad de ejercer el cargo y garantizar con ello que los votos se reciben y se cuentan conforme a lo que establece la ley. Antes de este sistema, los funcionarios de casilla eran propuestos por los propios partidos políticos, lo que no daba garantías de imparcialidad. Ahora, no significa que quienes están como máxima autoridad en la casilla no tengan preferencia política alguna, pero sí se garantiza que atienden puntualmente las reglas y que hay vigilancia y acompañamiento continuo entre los propios funcionarios de casilla y los representantes que los partidos políticos tienen derecho a acreditar. 
+
+En el pasada elección del 7 de julio en Zacateas se instalaron 2 mil 561 casillas, atendidas por 4 funcionarios (presidente, secretario y dos escrutadores), esto es, un ejército de 10 mil 244 personas que atendieron a más de 633, 397 zacatecanos que, según el PREP del  IEEZ, acudieron a votar. Parece fácil pero no lo es, por ello, va desde este espacio el mayor reconocimiento para  aquellos ciudadanos que tuvieron que dejar ese domingo familiar sus asuntos personales para, con toda seriedad y responsabilidad, atender y orientar a los votantes y sufrir las inclemencias del tiempo. Tú que cumpliste con tu deber ciudadano, el más sincero de los reconocimientos por tu labor, tu entrega, esfuerzo y ejemplo cívico. Gracias a ti, el próximo septiembre se renovarán el Poder Legislativo y los 58 Ayuntamientos del Estado. ■
+
+*Encargado de la Vocalía Ejecutiva de la
+04 Junta Distrital Ejecutiva del IFE en Zacatecas.
