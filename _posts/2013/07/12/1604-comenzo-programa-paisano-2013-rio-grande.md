@@ -1,6 +1,6 @@
 ---
 published: true
-title: Comenzó  el Programa Paisano 2013 en Rio Grande
+title: Comenzó  el Programa Paisano 2013 en Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
