@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reconocen con Premio al Mérito Jurídico a abogados en su día
 author: CESAR PEREZ
 location: Local
