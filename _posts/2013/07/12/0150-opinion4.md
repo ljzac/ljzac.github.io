@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "¿De qué estamos hechos los mexicanos?"
 author: "Raúl López Herrera*"
 location: Local
