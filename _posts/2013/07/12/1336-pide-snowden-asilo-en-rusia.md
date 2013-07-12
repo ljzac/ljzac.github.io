@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Snowden pide asilo político a Rusia
+twitt: El motivo de su solicitud sería su incapacidad para viajar a otro país. Se trata de la primera aparición pública del ex contratista de la NSA
+author: "Dpa y Afp "
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
