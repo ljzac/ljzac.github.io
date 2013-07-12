@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/mo5eYdim.jpg)En un ambiente de compañerismo y entusiasmo, fueron celebrados, con motivo del Día del Minero, los colaboradores del proyecto de Goldcorp, Camino Rojo, en la comunidad San Tiburcio, en el municipio Mazapil.
+![](http://i.imgur.com/BGROIrKm.jpg)En un ambiente de compañerismo y entusiasmo, fueron celebrados, con motivo del Día del Minero, los colaboradores del proyecto de Goldcorp, Camino Rojo, en la comunidad San Tiburcio, en el municipio Mazapil.
 
 En este festejo se desarrollaron actividades deportivas entre las empresas que conforman el proyecto, así como un rally que tuvo desde carreras en burro, brincolines y en zancos.
 
@@ -16,4 +16,3 @@ Cabe destacar que estas actividades buscan promover la sana convivencia y el for
 A la celebración asistieron como invitados los estudiantes con mejor promedio de  los planteles educativos de San Tiburcio.
 
 Por su parte, la supervisora administrativa y de Recursos Humanos de Camino Rojo, Olivia Pinales, mencionó que en este contexto, la intención es generar compañerismo.
-
