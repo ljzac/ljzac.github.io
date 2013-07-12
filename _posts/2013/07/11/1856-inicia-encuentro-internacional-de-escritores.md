@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Inicia Encuentro Internacional de Escritores \"José Revueltas\" en Durango"
+title: "Inicia Encuentro Internacional de Escritores 'José Revueltas' en Durango"
 twitt: "Concluirá el 13 de julio, participarán 45 escritores nacionales y extranjeros entre los que destaca el célebre poeta sueco Lasse Söderberg, nominado actualmente al Premio Nobel de Literatura."
 author: Notimex
 location: Nacional
