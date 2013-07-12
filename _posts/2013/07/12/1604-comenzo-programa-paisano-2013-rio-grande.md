@@ -1,8 +1,9 @@
 ---
 published: true
 title: Comenzó  el Programa Paisano 2013 en Rio Grande
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
@@ -22,4 +23,4 @@ Mientras que en el mes de septiembre la obra de remodelación que recibe el Cent
 
 Salvador de Jesús Rojas Delgado, director del Instituto Municipal de Cultura de Río Grande, informó que se presenta una exposición de fotografía taurina, titulada “Tauromaquia en México”.
 
-El funcionario, señaló que esta exposición permanente de fotografía, fue recopilada por la riograndense Paulina Rojas Luján, quien actualmente estudia en la Universidad de las Artes en Aguascalientes. Añadió que el horario de exposición es de 8:30 de la mañana a 3:30 de la tarde, para que aprovechen el tiempo vacacional y acudan a apreciar esta gran colección titulada _Tauromaquia en México._ 
+El funcionario, señaló que esta exposición permanente de fotografía, fue recopilada por la riograndense Paulina Rojas Luján, quien actualmente estudia en la Universidad de las Artes en Aguascalientes. Añadió que el horario de exposición es de 8:30 de la mañana a 3:30 de la tarde, para que aprovechen el tiempo vacacional y acudan a apreciar esta gran colección titulada _Tauromaquia en México._
