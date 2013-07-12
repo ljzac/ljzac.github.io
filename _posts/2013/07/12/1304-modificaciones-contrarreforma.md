@@ -3,8 +3,8 @@ published: true
 title: "Modificaciones en educación son una “contrarreforma”: González Casanova"
 twitt: "Envían también mensaje de apoyo al magisterio disidente Raúl Vera, Gilberto López y Rivas, Magdalena Gómez, Luis Hernández Navarro, Alicia Castellanos y Miguel Álvarez Gándara"
 author: La Jornada
-location: Local
-category: Destacadas
+location: Nacional
+category: Principales
 layout: posts
 ---
 
