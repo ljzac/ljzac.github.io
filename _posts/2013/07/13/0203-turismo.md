@@ -3,7 +3,7 @@ published: true
 title: "Se espera que la ocupación hotelera en  la entidad llegue a 53%: Raúl Muñoz"
 author: ARAZU TINAJERO
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
