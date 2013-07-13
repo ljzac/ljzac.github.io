@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Exponen 14 artistas mexicanos gráfica con temas de actualidad, en Museograbado"
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
