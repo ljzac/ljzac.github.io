@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Se crearán 90 espacios para reducir el número de maestros sin plaza: Seduzac"
 author: MARTIN CATALAN LERMA
 location: Local
@@ -16,6 +16,7 @@ A pesar de ello, reiteró que muchos maestros quedarán fuera del sistema educat
 “Desafortunadamente este año se están ofertando menos plazas, pero es la realidad, es lo que tenemos y es lo que necesitamos. Por eso ahora ya dependemos de las jubilaciones puesto que no recibimos ni una sola plaza de la Federación”, explicó Flores Chávez.
 
 En consecuencia, las plazas que se concursarán este domingo obedecen a las necesidades de servicio y en función de los maestros que se jubilaron durante el ciclo escolar que recientemente concluyó.
+
 El funcionario reiteró entonces que una cantidad considerable de profesores quedarán desempleados, motivo por el cual se crearán vacantes para que los docentes funjan como asesores pedagógicos itinerantes, para lo cual se contratarían a 90 personas, con la posibilidad de abrir 45 espacios más, a quienes se les firmarán contratos por nueve meses.
 
 Por otra parte, Flores Chávez informó que la organización del Concurso Nacional para el Otorgamiento de Plazas Docentes está prácticamente listo y al igual que en años anteriores, se espera que la aplicación del examen a los profesores que aspiran a una plaza, transcurra sin problemas este domingo.
