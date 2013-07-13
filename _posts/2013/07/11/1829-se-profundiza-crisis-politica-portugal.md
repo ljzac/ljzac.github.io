@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Se profundiza crisis política en Portugal; presidente convoca a elecciones anticipadas
 twitt: Aníbal Cavaco Silva propuso un acuerdo interpartidario entre la coalición gobernante y la oposición socialista para garantizar un amplio apoyo a las medidas de austeridad necesarias para que Portugal salga de su rescate el año que viene.
 author: Reuters
