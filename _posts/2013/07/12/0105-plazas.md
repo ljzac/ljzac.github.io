@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Se crearán 90 espacios para reducir el número de maestros sin plaza: Seduzac"
 author: MARTIN CATALAN LERMA
 location: Local
