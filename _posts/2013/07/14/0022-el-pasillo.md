@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: La asociación civil El Pasillo continuará  con proyectos de formación y divulgación
 author: ALMA RIOS
 location: Local
