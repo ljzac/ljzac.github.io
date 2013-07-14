@@ -2,7 +2,7 @@
 published: true
 title: Ataque de avión no tripulado de EUA deja tres muertos en Pakistán
 author: la jornada
-location: Local
+location: Internacional
 category: Mundo
 layout: posts
 ---
