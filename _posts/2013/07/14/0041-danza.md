@@ -1,5 +1,7 @@
 ---
 published: true
+title: "La danza es un momento de libertad:Hugo Pinales, joven becario del Pecdaz"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts
