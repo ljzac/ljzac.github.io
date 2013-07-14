@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Necesario, estar preparados con una proveeduría  fortalecida para la minería local: líder del clúster"
 author: REDACCION
 location: Local
