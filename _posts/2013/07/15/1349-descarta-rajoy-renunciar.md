@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Reuters](http://i.imgur.com/9JCxWtum.jpg)Madrid. El presidente del gobierno español, Mariano Rajoy, rechazó hoy la dimisión que le exige parte de la oposición por el escándalo de una supuesta financiación ilegal de su Partido Popular (PP): “Voy a defender la estabilidad política y voy a cumplir el mandato que me han dado los españoles”, dijo.
+![Reuters](http://i.imgur.com/9JCxWtum.jpg) Madrid. El presidente del gobierno español, Mariano Rajoy, rechazó hoy la dimisión que le exige parte de la oposición por el escándalo de una supuesta financiación ilegal de su Partido Popular (PP): “Voy a defender la estabilidad política y voy a cumplir el mandato que me han dado los españoles”, dijo.
 
 Rajoy se expresó así en una rueda de prensa en La Moncloa junto al primer ministro polaco, Donald Tusk, mientras el ex tesorero de su formación Luis Bárcenas admitía ante el juez en la Audiencia Nacional española ser el autor de la supuesta contabilidad en la sombra publicada por medios españoles desde enero y aireaba pagos a Rajoy también entre 2008 y 2010.
 
