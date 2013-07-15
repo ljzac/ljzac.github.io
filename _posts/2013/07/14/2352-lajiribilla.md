@@ -1,6 +1,6 @@
 ---
 published: true
-title: La Jiribilla
+title: La Jiribilla 15/07/2013
 author: por El Refranero
 location: Local
 category: La Jiribilla
