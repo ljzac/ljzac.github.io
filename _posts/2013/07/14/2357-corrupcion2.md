@@ -55,4 +55,4 @@ Para el titular de la ASE, en Zacatecas el gran reto de la transparencia es que 
 
 Hace algunos días el presidente de la Comisión Estatal para el Acceso a la Información Pública (CEAIP), Jaime Cervantes Durán, declaró que la transparencia en Zacatecas aún no tiene la claridad que se debiera y quisiera.
 
-![](http://i.imgur.com/JM0ANHvm.jpg)
+![](http://i.imgur.com/JM0ANHv.jpg)
