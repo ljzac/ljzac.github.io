@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Llama PRI a no regresar al pasado, \"cuando no sucedía nada\""
+title: "Llama PRI a no regresar al pasado, 'cuando no sucedía nada'"
 twitt: "En los temas a debate en el periodo extraordinario de sesiones que inicia este martes en el Congreso federal debe prevalecer el interés de la nación y no los particulares o partidistas, señala Hécto Gutiérrez."
 author: La Jornada
 location: Nacional
