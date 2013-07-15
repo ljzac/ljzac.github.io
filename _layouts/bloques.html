@@ -35,8 +35,42 @@
 {{end}}
 {{end}}
 
+{{define "seccion_destacadas"}}
+{{if .}}
+{{$first := index . 0 }}
+<div class="news_tpoic">
+  <div class="title">
+    <h4>Últimas Noticias Zacatecas</h4>
+  </div>
+  <ul class="news-filter mycarousel jcarousel jcarousel-skin-tango">
+    {{ range $index, $nota := . }}
 
+    <li>
+      {{if $index}}
+      {{else}}
+        {{ if $nota.MainImg }}
+          <a href="{{$nota.url}}" class="customA">
+            <img src="{{$nota.MainImg}}" alt="{{$nota.title}}" style="height:auto; width:100%;"/>
+          </a>
+        {{ end }}
+      {{ end }}
+      <h3><a href="{{ $nota.url }}" >{{ $nota.title }}</a></h3>
+     <div style="text-align:justify"> <a href="{{ $nota.url }}" >{{ $nota.author }} {{ $nota.twitt}}</a></div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+<!-- section frst end -->
+<div class="news-pagination"> <small>MAS NOTICIAS</small> </div>
 
+{{else}}
+<div class="news_tpoic">
+  <div class="title">
+   No hay notas de esta sección
+ </div>
+</div>
+{{end}}
+{{end}}
 
 {{define "cuadrosecciones"}}
 {{if .}}
