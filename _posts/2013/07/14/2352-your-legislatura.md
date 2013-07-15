@@ -9,6 +9,7 @@ layout: posts
 
 ![](http://i.imgur.com/yscWtz2m.jpg)
 El PRI será el instituto político que tendrá mayoría en el Congreso local con 13 diputados de mayoría relativa y uno de representación proporcional;  al PAN se le asignaron dos legisladores plurinominales, al igual que al PRD, tres al PT, dos al PVEM, uno a Movimiento Ciudadano y otro para el Partido Nueva Alianza (Panal).
+
 Así se aprobó ayer con cinco votos a favor y dos en contra en sesión especial del Consejo General del Instituto Electoral del Estado de Zacatecas (IEEZ), esto pese a la inconformidad de dos consejeros electorales y los partidos de oposición, quienes anunciaron que impugnarán el acuerdo ante el órgano jurisdiccional, al considerar que el PRI tendrá una sobrerepresentación.
 En la 61 Legislatura habrá por tanto 14 diputados del PRI, cuatro del PAN, cuatro del PRD, cuatro del PT, dos del PVEM, uno del Panal y otro de Movimiento Ciudadano.
 
