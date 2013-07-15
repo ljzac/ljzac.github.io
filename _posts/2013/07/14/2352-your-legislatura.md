@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Tendrá el Revolucionario Institucional\_ mayoría en el Congreso del estado"
+title: Tendrá el Revolucionario Institucional mayoría en el Congreso del estado
 author: Alma Alejandra Tapia
 location: Local
 category: Portada
