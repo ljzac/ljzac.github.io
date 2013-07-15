@@ -1,0 +1,16 @@
+---
+published: true
+title: "Corrupción: arquitecturas del vampiro"
+author: Redacción
+location: Local
+category: Editorial
+layout: posts
+---
+
+Con la reciente aparición de los resultados del Barómetro Global de la Corrupción, que publica Transparencia Internacional, y en los que se observa un escenario de contaminación abrumador; y en forma especial se destacan a las policías y los partidos políticos como ámbitos dominantes de infección. Este escenario nos obliga, una vez más, a pensar el tema del origen y soluciones al sempiterno problema de la corrupción.
+
+El pensamiento liberal ha hecho dos operaciones para enfrentar el problema de la corrupción en la esfera pública: primero, no ha definido el problema de la corrupción como una cuestión de moral privada, esto es, pensar que sus causas y soluciones van en la dirección de promover reformas morales en los individuos; en lugar de esto, parte del supuesto de una antropología pesimista (todos los individuos humanos somos proclives a la falta). En segundo lugar, como espejo de este supuesto antropológico, separa el ámbito de lo público y lo privado, y define el problema de la corrupción como una cuestión de diseño institucional, lo cual significa que es la forma de las instituciones lo que debe prevenir el siempre potencial acto de corrupción. Es decir, que si pasa un acto de corrupción, es porque es posible que ocurra: lo que debe evitarse es justo esa posibilidad, aun partiendo del supuesto de que los individuos estarán siempre buscando la manera de realizarlo. Las instituciones son como cercos o corrales que evitan que los lobos se robenlas gallinas. 
+
+Todo individuo es como un lobo que babea alrededor del corral y siempre desea brincarlo. Así por ejemplo, si los regidores elevan sus salarios hasta el límite de la inmoralidad, es porque hay mecanismos institucionales que hacen posible que lo hagan. La solución no es que los regidores se moralicen (eso es un asunto privado), sino que institucionalmente sea imposible que eleven sus salarios a libre arbitrio. En conclusión, si hay una corrupción en ascenso, es porque hay degradación de las instituciones: son variables inversamente proporcionales.
+
+Si de esta manera se define el problema de la corrupción, luego entonces la solución debe ser un llamado a reformas de las bases y arquitecturas institucionales; pero –¡oh paradoja!− los encargados de aprobar dichas reformas son justamente los más involucrados en los círculos viciosos de corrupción. Los encargados de reparar el corral son…¡ los propios lobos! Esa tarea parece casi imposible, porque además, la sociedad también está corrompida. Así, de acuerdo a este escenario ensombrecido, son organizaciones de la sociedad civil altamente capacitadas, provenientes de los sectores menos tocados por este cáncer (como iglesias y universidades) los que pueden llevar a cabo la agencia social contra la corrupción; agencia que es una suerte de apófansis social: poner a la luz las debilidades institucionales que generan corrupción. Ya que esta última es vampirezca: vive en la oscuridad y la luz de la transparencia le da muerte. Por ello mismo, acciones como los de Transparencia Internacional son claves para combatirla. Por tanto, en Zacatecas hacen falta organizaciones con altas capacidades que se dediquen a sacar a la luz las arquitecturas del vampiro. 
