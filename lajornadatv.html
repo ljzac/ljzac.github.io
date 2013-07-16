@@ -8,30 +8,46 @@ layout: default
 
 		<article class="SubContent">
 	 
-	  <script type="text/javascript"> 
+	  <script type="text/javascript" src="http://swfobject.googlecode.com/svn/trunk/swfobject/swfobject.js"></script>
+<script type="text/javascript">
+function loadVideo(playerUrl, autoplay) {
+  swfobject.embedSWF(
+      playerUrl + '&rel=1&border=0&fs=1&autoplay=' + 
+      (autoplay?1:0), 'player', '670', '350', '9.0.0', false, 
+      false, {allowfullscreen: 'true'});
+}
 
-	  		function youtube_videos(data) { 
-	  			var feed = data.feed; 
-	  			var entries = feed.entry || []; 
-	  			var html = []; 
-	  			for (var i = 0; i < entries.length; i++) { 
-	  				var entry = entries[i]; 
-	  				var title = entry.title.$t; 
-	  				var width = "450"; 
-	  				var height = "300"; 
-	  				var showtitle = "Yes"; 
-	  				var titledisplay = ''; 
-	  				if(showtitle == "Yes") { 
-	  					titledisplay = '<h3>' + title + '</h3>'; } 
-	  				else { 
-	  					titledisplay = ''; 
-	  				} 
-	  				var playerUrl = entries[i].media$group.media$content[0].url; 
-	  				html.push( "<div class=\"flex-video widescreen\">", titledisplay ,"\n", "<object width='" , width , "' height='" , height , "'><param name='movie' value='" , playerUrl , "&hl=en&fx=1&'></param><param name='allowFullScreen' value='true'></param><param name='allowscriptaccess' value='always'></param><embed src='" , playerUrl , "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width , "' height='" , height , "'></embed></object></div><p></p><hr>" );
-	  				 } //fin del for
-	  				 document.getElementById('videos').innerHTML = html.join(''); 
-			} // fin de la funcion
-			</script>
- <div id="videos"> </div><script type="text/javascript" src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?alt=json-in-script&max-results=10&callback=youtube_videos"> </script>
+function showMyVideos2(data) {
+  var feed = data.feed;
+  var entries = feed.entry || [];
+  var html = ['<div><ul class="videos">'];
+  for (var i = 0; i < entries.length; i++) {
+    var entry = entries[i];
+    var title = entry.title.$t;
+    var thumbnailUrl = entries[i].media$group.media$thumbnail[0].url;
+    var playerUrl = entries[i].media$group.media$content[0].url;
+    var author = entry.author[0].name.$t;
+    var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
+    var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
+    var reproduc = entry.yt$statistics.viewCount;
+	    html.push('<li onclick="loadVideo(\'', playerUrl, '\', true)">',
+	              '<span><h5>', title, '</h5></span><img src="', 
+	              thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></li><br /><br />');
+  } //for end
+  html.push('</ul></div><br style="clear: left;"/>');
+  document.getElementById('videos2').innerHTML = html.join('');
+  if (entries.length > 0) {
+    loadVideo(entries[0].media$group.media$content[0].url, false);
+  }
+}
+</script>
+<div id="playerContainer">
+    <div><object id="player"></object><br><br><br><br></div>
+</div>
+<div id="videos2"></div>
+<script 
+    type="text/javascript" 
+    src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?alt=json-in-script&callback=showMyVideos2&max-results=12">
+</script>
 
   		</article>
