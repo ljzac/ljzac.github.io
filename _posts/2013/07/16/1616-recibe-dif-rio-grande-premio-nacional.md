@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Recibe Blanca Antonia Salas Guzmán, presidenta del DIF en Río Grande el premio nacional"
+title: "Recibe Blanca Antonia Salas Guzmán, presidenta del DIF en Río Grande premio nacional"
 author: REDACCION
 location: Local
 category: Destacadas
