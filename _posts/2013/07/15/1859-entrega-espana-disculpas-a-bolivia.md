@@ -4,7 +4,7 @@ title: Entrega España disculpas a Bolivia por incidente aéreo con Evo Morales
 twitt: Embajador en La Paz remitió nota oficial de su gobierno y expresó que la excusa fue por el impasse y las molestias ocasionadas al mandatario cuando regresaba de Rusia.
 author: Dpa
 location: Internacional
-category: Mundo
+category: Política
 layout: posts
 ---
 
