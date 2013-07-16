@@ -3,7 +3,7 @@ published: true
 title: "Inicia campamento de verano en el  museo Zig-Zag; participan 190 niños"
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
