@@ -1,7 +1,9 @@
 ---
 published: true
+title: Detiene Policía Municipal de Zacatecas a presunto responsable de robo a una casa
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
