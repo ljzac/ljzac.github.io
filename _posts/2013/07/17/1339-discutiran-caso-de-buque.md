@@ -1,6 +1,6 @@
 ---
 published: true
-title: Adquiere Harvard archivo de pionera de la cocina mexicana en EU
+title: "EU hablará con Cuba sobre barco norcoreano en Panamá 'muy pronto': vocero"
 twitt: "\"Le hemos dicho a los cubanos que vamos a hablar con ellos muy pronto del barco\", dijo a periodistas la portavoz del Departamento de Estado, Marie Harf"
 author: "Afp "
 location: Internacional
