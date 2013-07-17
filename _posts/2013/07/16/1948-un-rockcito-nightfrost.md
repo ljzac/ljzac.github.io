@@ -1,6 +1,6 @@
 ---
 published: true
-title: Un rockcito para todos los roles / Nightfrost
+title: Un rockcito para todos los roles / Nightfrost y Postnecrum
 author: Jaime Flores Guardado
 location: Local
 category: De Rock
