@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/wILxSxRm.jpg)
+![](http://i.imgur.com/7SP3zAtm.jpg)
 -- Algunos legisladores pretendían obtener 1.5 mdp, pero no será posible: Osvaldo Contreras 
 
 -- A comparación de otras Legislaturas nosotros nos daremos algo “muy módico”, sostuvo
