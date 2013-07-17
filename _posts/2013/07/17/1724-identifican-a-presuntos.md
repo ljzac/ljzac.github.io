@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/7jLe5NHm.jpg)El asesinato de Aquiles González Mayorga, coordinador de la campaña del ex candidato por el PAN-PRD a la presidencia municipal de Guadalupe, Gerardo Romo Fonseca, no tuvo un móvil político.  Su homicidio, dijo Arturo Nahle García, procurador general de Justicia del Estado, en conferencia de prensa, está plenamente esclarecido. 
+![](http://i.imgur.com/LC8x4HXm.jpg)El asesinato de Aquiles González Mayorga, coordinador de la campaña del ex candidato por el PAN-PRD a la presidencia municipal de Guadalupe, Gerardo Romo Fonseca, no tuvo un móvil político.  Su homicidio, dijo Arturo Nahle García, procurador general de Justicia del Estado, en conferencia de prensa, está plenamente esclarecido. 
 
 Confeso de este crimen está ya en el Cerereso de Cieneguillas Víctor Manuel Pérez López alias "La Tuta", joven de 22 años de edad originario de Guatemala, quien conjuntamente con otras tres personas sería responsable de la muerte de González Mayorga. 
 
