@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Continúa huelga del Sututez pese a acuerdos; sin respuesta, tema de la prima de antigüedad"
 author: MARTIN CATALAN LERMA
 location: Local
