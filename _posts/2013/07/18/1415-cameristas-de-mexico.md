@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Con un programa de música contemporánea, se presentó Cameristas de México "
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
