@@ -1,6 +1,6 @@
 ---
 published: true
-title: Inicia SEDUZAC proceso de reestructuración
+title: Inicia Seduzac proceso de reestructuración
 author: REDACCION
 location: Local
 category: Destacadas
