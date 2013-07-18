@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/38QpKE1m.jpg)Ante la presencia del Gobernador Miguel Alonso Reyes y del Consejo Consultivo Delegacional, Javier de Jesús Cabral Soto tomó posesión como nuevo delegado del Instituto Mexicano del Seguro Social (IMSS) en Zacatecas.
+![](http://i.imgur.com/38QpKE1m.jpg)Ante la presencia del gobernador Miguel Alonso Reyes y del Consejo Consultivo Delegacional, Javier de Jesús Cabral Soto tomó posesión como nuevo delegado del Instituto Mexicano del Seguro Social (IMSS) en Zacatecas.
 
 En el marco de la decimocuarta reunión ordinaria del Consejo Consultivo, el mandatario estatal manifestó su disposición para trabajar de manera cercana y vinculada con el instituto, mediante la búsqueda de acuerdos en beneficio del sector salud en Zacatecas, a fin de lograr un estado cada vez más justo y más productivo.
 
