@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: El candidato zombi
 author: José Gil Olmos
 location: Local
