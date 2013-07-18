@@ -1,7 +1,9 @@
 ---
 published: true
+title: Toma posesión nuevo delegado estatal del IMSS
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
