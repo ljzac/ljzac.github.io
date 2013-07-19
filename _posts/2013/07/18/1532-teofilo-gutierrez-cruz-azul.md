@@ -4,7 +4,7 @@ title: Deja Teófilo Gutiérrez entrenamientos con Cruz Azul hasta definir su si
 twitt: Se prevé que para el fin de semana quede todo resuelto
 author: La Jornada
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
