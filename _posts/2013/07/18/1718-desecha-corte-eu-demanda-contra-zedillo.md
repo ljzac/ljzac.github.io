@@ -4,7 +4,7 @@ title: Desecha corte en Estados Unidos demanda contra Zedillo por caso Acteal
 twitt: Juez de Connecticut sobreseyó la denuncia presentada en 2011. Los demandantes podrían aún apelar en una corte de distrito de Hartford.
 author: Notimex
 location: Internacional
-category: Política
+category: Mundo
 layout: posts
 ---
 
