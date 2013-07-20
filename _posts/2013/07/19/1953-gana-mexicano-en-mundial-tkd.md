@@ -3,8 +3,8 @@ published: true
 title: "Se impone mexicano 6-5 sobre colombiano y avanza a octavos de final en Campeonato de TKD"
 twitt: "El marcador lo abrió Ocelotzin Sánchez con 3 puntos, pero Carlos Cañas fue hábil con un giro y patada arriba que le dio 4 puntos, dándole la voltereta."
 author: Notimex
-location: Local
-category: Portada
+location: Nacional
+category: Deportes
 layout: posts
 ---
 
