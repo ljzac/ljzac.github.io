@@ -1,7 +1,9 @@
 ---
 published: true
+title: Muestran jaliscienses sus creaciones abstractas en museo Manuel Felguérez
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
