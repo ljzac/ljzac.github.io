@@ -3,7 +3,7 @@ published: true
 title: Recomiendan SSZ medidas preventivas para  evitar la obesidad y el sobrepeso en infantes
 author: Redacción
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
