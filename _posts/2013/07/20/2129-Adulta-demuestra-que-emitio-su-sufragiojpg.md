@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-![Adulta demuestra que emitió su sufragio]()
+![Adulta demuestra que emitió su sufragio](http://i.imgur.com/vpadsRIm.jpg)
 
 Adulta demuestra que emitió su sufragio

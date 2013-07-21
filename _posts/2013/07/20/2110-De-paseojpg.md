@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-![De paseo]()
+![De paseo](http://i.imgur.com/yaQ1yjom.jpg)
 
 De paseo

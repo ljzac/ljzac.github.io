@@ -9,6 +9,6 @@ layout: posts
 
 ---
 
-![Manifestación de mineros]()
+![Manifestación de mineros](http://i.imgur.com/q5rBVGzm.jpg)
 
 Manifestación de mineros
