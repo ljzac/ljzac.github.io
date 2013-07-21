@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Esto es limpiar las calles de Zacatecas
 author: ANDRÉS SÁNCHEZ
 location: Local

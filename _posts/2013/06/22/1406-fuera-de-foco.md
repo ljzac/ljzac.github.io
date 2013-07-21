@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Un joven de secundaria listo para su festival
 author: ANDRÉS SÁNCHEZ
 location: Local

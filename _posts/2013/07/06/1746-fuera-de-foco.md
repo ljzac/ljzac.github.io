@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Limpiando Plaza de Armas zacatecana
 author: ANDRÉS SÁNCHEZ
 location: Local

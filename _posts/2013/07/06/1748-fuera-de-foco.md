@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Listas para el festival de fin de cursos
 author: ANDRÉS SÁNCHEZ
 location: Local

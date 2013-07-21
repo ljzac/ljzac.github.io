@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: "Gustavo Madero, presidente nacional del PAN, en su reciente visita a Zacatecas"
 author: ALEJANDRO ORTEGA NERI
 location: Local

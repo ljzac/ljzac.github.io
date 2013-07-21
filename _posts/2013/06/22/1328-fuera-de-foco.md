@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: "Un niño juega afuera de su casa en la comunidad Casa de Cerros, en Pánuco"
 author: ALEJANDRO ORTEGA NERI
 location: Local

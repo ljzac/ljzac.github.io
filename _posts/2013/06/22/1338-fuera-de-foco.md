@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: "Comunidades indígenas, en la capital zacatecana"
 author: ANDRÉS SÁNCHEZ
 location: Local

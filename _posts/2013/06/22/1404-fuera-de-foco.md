@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Tradicional pan zacatecano
 author: ANDRÉS SÁNCHEZ
 location: Local

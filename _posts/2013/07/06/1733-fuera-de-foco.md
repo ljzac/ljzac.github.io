@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Buscando un espacio para la música
 author: ANDRÉS SÁNCHEZ
 location: Local

@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Recolector de basura en la capital zacatecana
 author: ALEJANDRO ORTEGA NERI
 location: Local

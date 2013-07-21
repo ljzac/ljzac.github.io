@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Tras bambalinas
 author: ANDRÉS SÁNCHEZ
 location: Local

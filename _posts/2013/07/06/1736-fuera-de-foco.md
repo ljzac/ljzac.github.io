@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Colorido zacatecano
 author: ANDRÉS SÁNCHEZ
 location: Local

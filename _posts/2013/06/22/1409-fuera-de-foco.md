@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Zacatecas y sus mujeres
 author: ANDRÉS SÁNCHEZ
 location: Local

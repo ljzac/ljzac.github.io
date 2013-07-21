@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: La ventana
 author: ANDRÉS SÁNCHEZ
 location: Local

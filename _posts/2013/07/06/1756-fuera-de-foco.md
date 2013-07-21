@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: "Tras bambalinas, durante acto oficial"
 author: ANDRÉS SÁNCHEZ
 location: Local

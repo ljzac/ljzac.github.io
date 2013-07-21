@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: "Arturo Nahle García, procurador general de Justicia del Estado, fumando un cigarro"
 author: ALEJANDRO ORTEGA NERI
 location: Local

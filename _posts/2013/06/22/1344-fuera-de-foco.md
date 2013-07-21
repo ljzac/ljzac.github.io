@@ -1,5 +1,5 @@
 ---
-published false
+published: true
 title: Guillermo Huizar bosteza durante un acto oficial
 author: ANDRÉS SÁNCHEZ
 location: Local
