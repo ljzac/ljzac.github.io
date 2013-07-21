@@ -1,6 +1,6 @@
 ---
 published: true
-title: "En septiembre Cofetel emitirá su fallo para la licitación del segundo \"apagón\""
+title: "En septiembre Cofetel emitirá su fallo para la licitación del segundo 'apagón'"
 twitt: "La secretaria ejecutiva de Comisión Intersecretarial para la Transición Digital, María Lizárraga, dijo que la adjudicación se realizará por partidas, de tal forma que Juárez sea una, Monterrey otra, mientras que Reynosa, Matamoros y Nuevo Laredo formen una tercera."
 author: Notimex
 location: Nacional
