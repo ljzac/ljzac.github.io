@@ -1,6 +1,6 @@
 ---
 published: true
-title: Invierte Godezac 58 mdp para distribuir 215 mil uniformes escolares gratuitos SUMAR
+title: Destina Godezac 58 mdp para distribuir 215 mil uniformes escolares gratuitos SUMAR
 author: REDACCION
 location: Local
 category: Destacadas
