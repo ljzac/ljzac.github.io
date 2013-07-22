@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![](http://i.imgur.com/8uUvF7fm.jpg)México, DF. El Movimiento de Regeneración Nacional (Morena) recurrirá a las movilizaciones ciudadanas en el país y a una gran concentración el 8 de septiembre en el Zócalo de la ciudad de México para impedir la privatización de Pemex.
+![](http://i.imgur.com/EhPNmySm.jpg)México, DF. El Movimiento de Regeneración Nacional (Morena) recurrirá a las movilizaciones ciudadanas en el país y a una gran concentración el 8 de septiembre en el Zócalo de la ciudad de México para impedir la privatización de Pemex.
 
 “Se emprenderá una férrea defensa de la paraestatal, de la cual emanan 100 mil millones de dólares anuales que son destinados a salud, educación, vivienda, empleo y obra pública”, asentó Martí Batres, presidente de Morena, en conferencia de prensa.
 
