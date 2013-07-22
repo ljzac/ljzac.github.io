@@ -2,7 +2,7 @@
 published: true
 title: Dos terremotos en China dejan al menos 19 muertos
 author: Redacción
-location: Local
+location: Internacional
 category: Principales
 layout: posts
 ---
