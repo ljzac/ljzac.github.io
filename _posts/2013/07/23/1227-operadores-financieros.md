@@ -1,7 +1,7 @@
 ---
 published: true
-title: "Va EU tras dinero de operadores financieros de los 'zetas'"
-twitt: "Al amparo de la ley Kingpin, el Departamento del Tesoro podría decomisar hasta 20 mdd a José Odilón Ramírez Perales, quien enfrenta cargos de 'lavado' en una corte de Texas"
+title: "Decomisará EU bienes de dos operadores financieros 'zetas'"
+twitt: "Al amparo de la ley de Designación de Narcotraficantes Extranjeros, el Departamento del Tesoro podrá decomisar hasta 20 millones de dólares tan sólo a uno de ellos"
 author: Notimex
 location: Internacional
 category: Mundo
