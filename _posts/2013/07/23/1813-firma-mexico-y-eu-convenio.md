@@ -1,6 +1,6 @@
 ---
 published: true
-title: Firman México y EU convenio para intercambio de información fronteriza
+title: Pactan México y EU convenio para intercambio de información fronteriza
 twitt: "El documento, con el que se busca detectar zonas de riesgos y en donde ya hay problemas de violencia e inseguridad, fue firmado por la titular de Seguridad Interna de EU, Janet Napolitano, y de Gobernación, Miguel Ángel Osorio Chong."
 author: La Jornada
 location: Nacional
