@@ -2,7 +2,7 @@
 published: true
 title: Policía dispersa a manifestantes que protestaban por el gasto público de visita papal
 author: Redacción
-location: Local
+location: Internacional
 category: Mundo
 layout: posts
 ---
