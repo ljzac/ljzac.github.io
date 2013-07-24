@@ -1,6 +1,6 @@
 ---
 published: true
-title: Abre PGR dos averiguaciones previas por ataques en Michoacán
+title: Abre PGR dos averiguaciones previas por ataques a Policía Federal en Michoacán
 twitt: Una se inició por la muerte de dos policías federales y otra por la obstrucción de carreteras. No se descarta que la dependencia atraiga las investigaciones.
 author: "Alfredo Méndez "
 location: Nacional
