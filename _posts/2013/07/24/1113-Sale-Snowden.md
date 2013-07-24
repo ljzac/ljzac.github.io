@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Permite Rusia a Snowden salir del aeropuerto de Moscú
 twitt: El Servicio de Migraciones le suministró el documento que le permitirá abandonar la zona de tránsito.
 author: "Afp "
