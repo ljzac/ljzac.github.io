@@ -1,13 +1,13 @@
 ---
 published: true
-title: Recibirá Zacatecas visita de especialistas en la Segunda Reunión Regional de Ingenieros Civiles
+title: Recibirá Zacatecas visita de especialistas en la segunda reunión regional de Ingenieros Civiles
 author: REDACCION
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/T9KuGwIm.jpg)Este jueves 25 de julio, Zacatecas recibirá la visita de destacados especialistas de la ingeniería civil de todo el país, al ser la sede de la Segunda Reunión Regional, que servirá como antecedente rumbo al 27 Congreso Nacional de Ingeniería Civil, a realizarse en noviembre próximo en la Ciudad de México. 
+![](http://i.imgur.com/T9KuGwIm.jpg)Este jueves 25 de julio, Zacatecas recibirá la visita de destacados especialistas de la ingeniería civil de todo el país, al ser la sede de la segunda reunión regional, que servirá como antecedente rumbo al 27 Congreso Nacional de Ingeniería Civil, a realizarse en noviembre próximo en la Ciudad de México. 
 
 El evento es coordinado por instancias federales, como la Secretaría de Comunicaciones y Transportes (SCT), la Comisión Nacional del Agua (Conagua); en conjunto con el Gobierno del Estado y organismos como el Colegio de Ingenieros Civiles de México y de Zacatecas, así como la Federación Mexicana que los agrupa.
 
