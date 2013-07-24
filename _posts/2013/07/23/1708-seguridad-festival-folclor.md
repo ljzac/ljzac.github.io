@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fortalecerán instancias estatales y federales seguridad para el Festival del Folclor Internacional
+title: Fortalecerán instancias estatales y federales seguridad para el festival del folclor internacional
 author: REDACCION
 location: Local
 category: Destacadas
@@ -20,4 +20,3 @@ Se prevé la mejor temporada de los últimos seis años, por lo que algunas pres
 Las diferentes instancias participantes aseguraron que hasta el momento no se tienen reportes de desgracias personales en las inundaciones que se presentaron en municipios como Fresnillo, Cañitas de Felipe Pescador y Río Grande, por mencionar algunos.
 
 En cada caso se ha contado con el apoyo del Ejército Mexicano, la Policía Federal, la Policía Estatal Preventiva y Protección Civil, a través de los cuales el Gobierno del Estado ha otorgado víveres, cobijas, ropa, agua y el desazolve de las viviendas inundadas.
-
