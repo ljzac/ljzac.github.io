@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Michoacán: dos ataques contra la PF y narcobloqueos"
 author: Redacción
 location: Nacional
