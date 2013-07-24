@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Ap](http://i.imgur.com/Gtv3g1Xm.jpg)Moscú. Rusia entregó al ex consultor de inteligencia estadunidense Edward Snowden  los documentos que le permitirán salir del aeropuerto de Moscú, donde está bloqueado desde hace un mes, indicaron el miércoles varias fuentes a las agencias rusas.
+![Rusia. El abogado ruso, Anatoli Kucherena, entregó al estadunidense Edward Snowden los documentos que le permitirán salir del aeropuerto de Moscú, donde está varado desde hace un mes. Reuters](http://i.imgur.com/V5Yy8sxm.jpg)Moscú. Rusia entregó al ex consultor de inteligencia estadunidense Edward Snowden  los documentos que le permitirán salir del aeropuerto de Moscú, donde está bloqueado desde hace un mes, indicaron el miércoles varias fuentes a las agencias rusas.
 
 “El estadunidense se dispone a salir”, indicó una fuente conocedora del caso a la agencia Interfax. Otra fuente precisó a esta agencia que el fugitivo estadunidense podría salir del aeropuerto en las próximas horas.
 
