@@ -2,7 +2,7 @@
 published: true
 title: Gabinete de seguridad se reúne con Napolitano en Gobernación
 twitt: "Después, la secretaria del Interior de EU conversará con Enrique Peña Nieto en Los Pinos."
-author: "Fabiola Martínez "
+author: La Jornada
 location: Nacional
 category: Principales
 layout: posts
