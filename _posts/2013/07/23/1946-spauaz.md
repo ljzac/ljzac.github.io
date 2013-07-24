@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Incumple Rectoría con algunos pagos, informa Spauaz"
+title: Afirma Spauaz que Rectoría no ha cumplido con algunos pagos
 author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
