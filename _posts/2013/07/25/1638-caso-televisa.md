@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![](http://i.imgur.com/CoRa8lfm.jpg)Managua. La fiscalía de Nicaragua archivó temporalmente este jueves las investigaciones en el caso de 18 mexicanos condenados a 30 años de cárcel tras ser detenidos en seis camionetas con logotipos falsos de la empresa Televisa.
+![](http://i.imgur.com/fOiphqim.jpg)Managua. La fiscalía de Nicaragua archivó temporalmente este jueves las investigaciones en el caso de 18 mexicanos condenados a 30 años de cárcel tras ser detenidos en seis camionetas con logotipos falsos de la empresa Televisa.
 
 La fiscalía resolvió “mandar a archivar, sin cerrar el caso, dando cabida a cualquier otra diligencia que podamos incorporar” en un plazo de tres meses, dijo el inspector general de la Fiscalía, Armando Juárez, al Canal 12.
 
