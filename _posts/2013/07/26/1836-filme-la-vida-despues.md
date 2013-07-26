@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Filme mexicano \"La vida después\", representará a México en el Festival de Cine de Venecia"
+title: "Filme mexicano 'La vida después', representará a México en el Festival de Cine de Venecia"
 twitt: "La cinta es dirigida por David Pablos, y será exhibida junto a 16 largometrajes provenientes de países como Italia, Suiza, India, Japón, Argentina, China, entre otros."
 author: Notimex
 location: Nacional
