@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Gobierno federal se replanteará IVA en alimentos y medicinas: Reuters"
+title: Aumentar IVA en alimentos y medicinas significaría 50 mil mdd al año en recaudación
 twitt: Fuentes oficiales informaron a la agencia de noticias que en septiembre presentarán la iniciativa.
 author: Reuters
 location: Nacional
