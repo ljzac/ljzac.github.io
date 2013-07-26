@@ -1,0 +1,22 @@
+---
+published: true
+title: "Un ideal de Justicia: entre la legalidad y la legitimidad"
+author: Julio Yrízar
+location: Local
+category: Opinión
+layout: posts
+---
+
+**■ Factótum**
+
+Es necesario no solo reconocer, sino también fortalecer las diferencias que existen entre aquello que resulta legítimo y aquello que se declara como legal, porque ni todo lo legal carga el equipaje de la legitimidad, ni lo que nos parece luego legítimo tiene mucha injerencia en los círculos de la legalidad. Sin embargo y pese a la necesidad de hacer una distinción, reconocemos que debe existir una suerte de simbiosis entre los dos conceptos, ya que la presencia de uno en ausencia del otro, en un caso carece de utilidad práctica, y en el otro, desgarra la sustancia de las leyes. Sin embargo las similitudes no deben nunca ser la única justificación de la identidad. Así pues, una postura crítica que invite al discernimiento entre los dos conceptos, más allá del mero análisis exegético –que al caso abona poca cosa-, es clave para delinear un Ideal de Justicia. 
+
+Aunque ambos conceptos habitan en el mismo vecindario semántico, debemos acotar sus alcances basados en su origen para favorecer el discernimiento: desde un extremo pareciera que la legitimidad se encuentra ligada de manera indisoluble a nuestra connatural capacidad de reconocer aquello que es justo, en tanto que la legalidad parte de la literalidad de las leyes, redactadas en un ejercicio legislativo que aspira a la justicia; la legitimidad viene muy de la mano con lo evidente, mientras que la legalidad abreva de acuerdos que conforman el conjunto de las reglas sociales formales; aquella tiene su raíz en un entendimiento natural de la equidad, ésta en convencionalismos, pactos y convenios. Ambos conceptos entendidos como un par de conjuntos ilustrados por círculos que se  intersecan, encuentran su punto de convergencia en el concepto de “Justicia”, pese a que éste se encuentre, a causa de ligera consubstancialidad, en un mayor porcentaje dentro del universo de lo legítimo, con respecto al universo de lo legal, donde adopta más la forma de “ideal” que de “hecho”. Es decir que toda legalidad aspira a la justicia a través del filtro de la legitimidad.
+ 
+ Se supone entonces, que todo lo que está orlado por el marco de la legalidad, debiera por derivación ser legítimo, y por ende justo. Lo anterior partiendo además del supuesto de que las leyes, que están sujetas a una jerarquía y se encuentran por eso mismo estratificadas, deben considerar antes de su promulgación, los fundamentos filosóficos sobre los que se construyen las normas supremas de la soberanía desde donde ellas emanan, pues ese sitio es el mismo donde reside la sustancia de las disposiciones jurídicas contingentes. Es decir que todas las normas están sujetas a lo determinado por la Constitución, y ésta, al estar dictada por la voluntad colectiva, se presume esencialmente legítima.
+
+El problema surge por la volubilidad de las sociedades -precio inevitable de su dinamismo-, la cual se ha magnificado exponencialmente por los nuevos modelos culturales y por las tecnologías de la información que los propagan, con lo que ninguna Constitución Política hoy en día se encuentra exenta de caer en anacronismos -los cuales se tratan de sortear en muchos sentidos y sin verdadera efectividad a través de tratados internacionales. Con todo, la legitimidad de nuestra Carta Magna necesita para subsistir, una constante transfusión de valores, acorde más que a las disposiciones que dictan los tiempos actuales del mundo globalizado, a las urgencias nacionales que reclaman atención, sin por ello desatender los principios históricos que alimentan la raíz de nuestro colectivo sentir como pueblo.
+
+En suma quiero decir que no me parece correcto estar realizando reformas constitucionales sin considerar directamente la voz de la gente, la cual no está contenida en las opiniones de nuestros legisladores, por precisamente la ausencia de legitimidad de la que estos adolecen, eventualidad parida de un proceder egoísta, que priva los intereses personales o de grupo, por encima del bienestar colectivo,  y que a fuerza de cotidiana, ha conducido además al actual fracaso de nuestro sistema político representativo. Hasta que no se salve la abismal distancia que existe entre la clase política y la sociedad civil, toda reforma a la Constitución será un monumento a la legitimidad moribunda; una ratificación de la injusticia nacional; un centenario para la alcancía de los ríos revueltos. ■
+
+yrizac@gmail.com
