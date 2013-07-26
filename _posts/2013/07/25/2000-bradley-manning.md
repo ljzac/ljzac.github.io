@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Fiscalía califica a Manning de \"traidor\" y ególatra"
+title: "Fiscalía califica a Manning de 'traidor' y ególatra"
 twitt: "Señalaron que el soldado, acusado de la mayor filtración de información clasificada en la historia de EU, buscaba notoriedad al liberar documentos sobre las guerras de Irak y Afganistán."
 author: Dpa
 location: Internacional
