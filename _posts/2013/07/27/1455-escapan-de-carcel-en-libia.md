@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Celda en una corte de Trípoli, Libia. EFE](http://i.imgur.com/UErJgqkm.jpg)Bengasi. Más de mil prisioneros, la mayoría comunes, se escaparon este sábado de una cárcel de Bengasi (este de Libia) tras amotinarse, un responsable de los servicios de seguridad.
+![Celda en una corte de Trípoli, Libia. EFE](http://i.imgur.com/UErJgqkm.jpg)Bengasi. Más de mil prisioneros, la mayoría comunes, se escaparon este sábado de una cárcel de Bengasi (este de Libia) tras amotinarse, informó un responsable de los servicios de seguridad.
 
 "Hubo un motín en la prisión de Al Kuifiya y también un ataque desde el exterior. Más de mil presos pudieron escaparse. Las fuerzas especiales que llegaron para reforzar recibieron la orden de no disparar a los prisioneros", explicó el responsable, que pidió mantener el anonimato.
 
