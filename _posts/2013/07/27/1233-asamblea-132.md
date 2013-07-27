@@ -7,10 +7,9 @@ category: Destacadas
 layout: posts
 ---
 
-- Inició hoy la asamblea nacional de este movimiento, donde serán abordados la reforma energética y el Pacto por México
+![RAQUEL OLLAQUINDIA](http://i.imgur.com/izl5trjm.jpg)- Inició hoy la asamblea nacional de este movimiento, donde serán abordados la reforma energética y el Pacto por México
 
-
-![RAQUEL OLLAQUINDIA](http://i.imgur.com/izl5trjm.jpg)Este sábado comenzaron las actividades de la asamblea nacional del movimiento #YoSoy132, en el auditorio de la Unidad Académica de Estudios del Desarrollo de la Universidad Autónoma de Zacatecas (UAZ).
+Este sábado comenzaron las actividades de la asamblea nacional del movimiento #YoSoy132, en el auditorio de la Unidad Académica de Estudios del Desarrollo de la Universidad Autónoma de Zacatecas (UAZ).
 
 En el encuentro, que concluirá este domingo, participan jóvenes de diferentes estados de la República Mexicana, como Durango, San Luis Potosí, Aguascalientes, Puebla, entre otros, además del Distrito Federal.
 
