@@ -3,7 +3,7 @@ published: true
 title: Ganan Veracruz y Pachuca primeros dos encuentros sabatinos
 author: Redacción
 location: Nacional
-category: Mundo
+category: Deportes
 layout: posts
 ---
 
