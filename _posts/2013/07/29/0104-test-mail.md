@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "test mail"
 twitt: "test mail"
 author: "Alejandro Garcia"
