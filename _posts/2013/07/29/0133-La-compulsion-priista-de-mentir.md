@@ -2,15 +2,15 @@
 published: "false"
 title: "La compulsión priísta de mentir"
 twitt: "La compulsión priísta de mentir"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Saúl Monreal Ávila"
+authorlink: "https://ljz.mx/autores/Saúl Monreal Ávila"
 category: "Opinión"
 layout: "posts"
 
 ---
 
 
-Saúl Monreal Ávila
+
 
 De acuerdo al diccionario de la Real Academia de la Lengua Española, mentir
 se define como: “expresión o manifestación contraria a lo que se sabe, se
