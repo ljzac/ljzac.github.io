@@ -1,15 +1,15 @@
 ---
-published: "false"
+published: "true"
 title: "Graves, problemas de salud generados por el tabaquismo en México: Moreno García"
 twitt: "Graves, problemas de salud generados por el tabaquismo en México: Moreno García"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "MARTIN CATALAN LERMA"
+authorlink: "https://ljz.mx/autores/MARTIN CATALAN LERMA"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/RHcE9hPm.jpg)
 
 ■ Es necesario identificar las situaciones de riesgo para el consumo y la
 exposición, advierte
@@ -17,7 +17,7 @@ exposición, advierte
 ■ La implementación del modelo UAZ Siglo 21 ha permitido la formación
 integral de los alumnos
 
-MARTIN CATALAN LERMA
+
 
 Los problemas de salud generados por el tabaquismo en México son tan graves
 que se requiere una estrategia seria respecto a la promoción de espacios
