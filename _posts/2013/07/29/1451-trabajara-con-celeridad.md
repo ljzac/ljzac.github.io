@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![](/_posts/2013/07/29/epn1.jpg)México, DF. El gobierno federal trabajará “con toda celeridad” para detener y poner a la justicia a los responsables de los ataques donde fueron asesinados el vicealmirante Carlos Miguel Salazar Ramonet y un miembro más de la Marina Armada de México, aseguró el presidente Enrique Peña Nieto.
+![](http://i.imgur.com/Z3cAYJdm.jpg)México, DF. El gobierno federal trabajará “con toda celeridad” para detener y poner a la justicia a los responsables de los ataques donde fueron asesinados el vicealmirante Carlos Miguel Salazar Ramonet y un miembro más de la Marina Armada de México, aseguró el presidente Enrique Peña Nieto.
 
 En un evento en la residencia oficial de Los Pinos, donde recibió el certificado de Nuevo Bien de Patrimonio Mundial Natural 2013 a las reservas de la biósfera El Pinacate y el Gran Desierto de Altar, en el estado de Sonora, el mandatario aprovechó para referirse a los hechos ocurridos en la víspera en el estado de Michoacán.
 
