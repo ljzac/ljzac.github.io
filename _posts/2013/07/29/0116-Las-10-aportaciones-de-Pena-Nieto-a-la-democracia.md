@@ -2,7 +2,7 @@
 published: "true"
 title: "Las 10 aportaciones de Peña Nieto a la democracia"
 twitt: "Las 10 aportaciones de Peña Nieto a la democracia"
-author: "Sistemase Infodem"
+author: "Sistemas Infodem"
 authorlink: "https://ljz.mx/autores/Sistemase Infodem"
 category: "Opinión"
 layout: "posts"
