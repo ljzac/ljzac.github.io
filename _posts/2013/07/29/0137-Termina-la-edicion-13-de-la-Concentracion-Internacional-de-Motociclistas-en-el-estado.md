@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Termina la edición 13 de la Concentración Internacional de Motociclistas en el estado"
 twitt: "Termina la edición 13 de la Concentración Internacional de Motociclistas en el estado"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: ""RAFAEL DE SANTIAGO"
+authorlink: "https://ljz.mx/autores/RAFAEL DE SANTIAGO"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![](http://i.imgur.com/pL5r9OWm.jpg)
 
-RAFAEL DE SANTIAGO
+
 
 ■ En el último día, los participantes asistieron al municipio de Jerez para
 concluir el evento
