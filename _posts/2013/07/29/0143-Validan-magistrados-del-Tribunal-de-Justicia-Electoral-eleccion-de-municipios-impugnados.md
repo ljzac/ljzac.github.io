@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Validan magistrados del Tribunal de Justicia Electoral elección de municipios impugnados"
 twitt: "Validan magistrados del Tribunal de Justicia Electoral elección de municipios impugnados"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Alma Alejandra Tapia"
+authorlink: "https://ljz.mx/autores/Alma Alejandra Tapia"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/NVaY2EEm.jpg)
 
-Alma Alejandra Tapia
+
 
 Por unanimidad los magistrados del Tribunal de Justicia Electoral del
 Estado de Zacatecas (TJEEZ) validaron la elección de 12 municipios que
