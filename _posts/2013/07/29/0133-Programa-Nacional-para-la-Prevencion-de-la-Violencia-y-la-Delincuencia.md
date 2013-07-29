@@ -1,16 +1,13 @@
 ---
-published: "false"
+published: "true"
 title: "Programa Nacional para la Prevención de la Violencia y la Delincuencia"
 twitt: "Programa Nacional para la Prevención de la Violencia y la Delincuencia"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "José Luis Bernal"
+authorlink: "https://ljz.mx/autores/José Luis Bernal"
 category: "Opinión"
 layout: "posts"
 
 ---
-
-
-José Luis Bernal
 
 Una de las principales estrategias del Programa Nacional para la Prevención
 de la Violencia y la Delincuencia del gobierno de Enrique Peña Nieto es el
