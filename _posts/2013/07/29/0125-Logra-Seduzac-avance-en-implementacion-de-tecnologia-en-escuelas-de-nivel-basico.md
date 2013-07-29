@@ -2,8 +2,8 @@
 published: "false"
 title: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
 twitt: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Sistemas Infodem"
+authorlink: "https://ljz.mx/autores/Sistemas Infodem"
 category: "Educación"
 layout: "posts"
 
