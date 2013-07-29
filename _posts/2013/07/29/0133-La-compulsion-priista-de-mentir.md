@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "La compulsión priísta de mentir"
 twitt: "La compulsión priísta de mentir"
 author: "Saúl Monreal Ávila"
