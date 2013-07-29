@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Manifiesta el IEEZ estar satisfecho por el trabajo que realizó en los comicios"
 twitt: "Manifiesta el IEEZ estar satisfecho por el trabajo que realizó en los comicios"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Alma Alejandra Tapia"
+authorlink: "https://ljz.mx/autores/Alma Alejandra Tapia"
 category: "Política"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![](http://i.imgur.com/loa10D4m.jpg)
 
-Alma Alejandra Tapia
+
 
 A unas semanas de la elección de alcaldes y diputados locales, el Instituto
 Electoral del Estado de Zacatecas (IEEZ) se dijo satisfecho y con la dicha
