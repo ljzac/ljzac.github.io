@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Sector gubernamental, con alto rezago en lo educativo: IZEA"
 twitt: "Sector gubernamental, con alto rezago en lo educativo: IZEA"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "MARTIN CATALAN LERMA"
+authorlink: "https://ljz.mx/autores/MARTIN CATALAN LERMA"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![](http://i.imgur.com/jHglpV7m.jpg)
 
-MARTIN CATALAN LERMA
+
 
 José Manuel Maldonado Romero, director del Instituto Zacatecano para la
 Educación de los Adultos (IZEA), informó que uno de los sectores donde hay
