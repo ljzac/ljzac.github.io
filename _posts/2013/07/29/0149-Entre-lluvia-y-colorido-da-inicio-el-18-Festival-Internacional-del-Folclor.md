@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Entre lluvia y colorido da inicio el 18 Festival Internacional del Folclor"
 twitt: "Entre lluvia y colorido da inicio el 18 Festival Internacional del Folclor"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ALMA RIOS"
+authorlink: "https://ljz.mx/autores/ALMA RIOS"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/6ym2Q5cm.jpg)
 
-ALMA RIOS
+
 
 Con una intensa lluvia que disolvió casi en su totalidad la concentración
 humana que esperaba ver en Plaza de Armas la muestra inicial de grupos
