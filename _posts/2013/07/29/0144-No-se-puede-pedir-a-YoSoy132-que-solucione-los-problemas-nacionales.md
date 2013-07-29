@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "No se puede pedir a #YoSoy132 que solucione los problemas nacionales"
 twitt: "No se puede pedir a #YoSoy132 que solucione los problemas nacionales"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Alma Alejandra Tapia"
+authorlink: "https://ljz.mx/autores/Alma Alejandra Tapia"
 category: "Política"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![](http://i.imgur.com/MpZDH4nm.jpg)
 
-Alma Alejandra Tapia
+
 
 En los últimos años los movimientos sociales en el mundo han conseguido
 bastante pero no se les puede pedir que a un año de su creación solucionen
