@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Las 10 aportaciones de Peña Nieto a la democracia"
 twitt: "Las 10 aportaciones de Peña Nieto a la democracia"
 author: "Carlos García"
