@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Destacan clases magistrales que impartieron a la par del Festival de Música de Cámara"
 twitt: "Destacan clases magistrales que impartieron a la par del Festival de Música de Cámara"
 author: "Carlos García"
@@ -8,8 +8,6 @@ category: "Cultura y Espectáculos"
 layout: "posts"
 
 ---
-
-![Pie de Foto](Traceback (most recent call last):)
 
 Las clases magistrales que se impartieron a la par de la celebración del
 Festival de Música de Cámara Zacatecas 2013, fueron destacadas por el
