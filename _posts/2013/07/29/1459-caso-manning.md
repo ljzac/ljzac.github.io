@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![](/_posts/2013/07/29/Bradley%20Manning.jpg)Fort Meade. La jueza del caso por las filtraciones a WikiLeaks de cientos de miles de cables militares y diplomáticos estadunidenses dará a conocer mañana martes su veredicto de culpabilidad o inocencia sobre el acusado de proporcionar la información, el soldado Bradley Manning.
+![](http://i.imgur.com/g8HGA4zm.jpg)Fort Meade. La jueza del caso por las filtraciones a WikiLeaks de cientos de miles de cables militares y diplomáticos estadunidenses dará a conocer mañana martes su veredicto de culpabilidad o inocencia sobre el acusado de proporcionar la información, el soldado Bradley Manning.
 
 Según confirmaron fuentes del proceso que se sigue en Fort Meade, en las afueras de Washington, la jueza militar Denise Lind leerá en una audiencia fijada para las 13:00 horas local del martes su decisión sobre los 21 cargos que pesan sobre el ex analista de inteligencia en Irak, de 25 años.
 
