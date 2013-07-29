@@ -2,16 +2,12 @@
 published: "true"
 title: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
 twitt: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
-author: "Sistemas Infodem"
-authorlink: "https://ljz.mx/autores/Sistemas Infodem"
+author: "MARTIN CATALAN LERMA"
+authorlink: "https://ljz.mx/autores/MARTIN CATALAN LERMA"
 category: "Educación"
 layout: "posts"
 
 ---
-
-![Pie de Foto](Traceback (most recent call last):)
-
-MARTIN CATALAN LERMA
 
 Marco Vinicio Flores Chávez, titular de la Secretaría de Educación de
 Zacatecas (Seduzac), informó que se ha logrado un avance importante en la
