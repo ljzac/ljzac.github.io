@@ -2,8 +2,8 @@
 published: "true"
 title: "Destacan clases magistrales que impartieron a la par del Festival de Música de Cámara"
 twitt: "Destacan clases magistrales que impartieron a la par del Festival de Música de Cámara"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Sistemas Infodem"
+authorlink: "https://ljz.mx/autores/Sistemas Infodem"
 category: "Cultura y Espectáculos"
 layout: "posts"
 
