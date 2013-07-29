@@ -2,8 +2,8 @@
 published: "true"
 title: "Las 10 aportaciones de Peña Nieto a la democracia"
 twitt: "Las 10 aportaciones de Peña Nieto a la democracia"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Sistemase Infodem"
+authorlink: "https://ljz.mx/autores/Sistemase Infodem"
 category: "Opinión"
 layout: "posts"
 
