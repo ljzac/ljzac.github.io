@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Ap](/_posts/2013/07/29/choquedetrenes_ap.jpg)Cantón de Vaud. Dos trenes chocaron el lunes al terminar la tarde en Granges-près-Marnand en Suiza francófona, causando varios heridos, anunció la policía cantonal.
+![](http://i.imgur.com/9EiWEZvm.jpg)Cantón de Vaud. Dos trenes chocaron el lunes al terminar la tarde en Granges-près-Marnand en Suiza francófona, causando varios heridos, anunció la policía cantonal.
 
 El choque frontal entre los dos trenes se produjo hacia las 19H00 locales (17H00 GMT). Una de las formaciones circulaba hacia Lausana y la otra venía de esa ciudad.
 
