@@ -1,5 +1,5 @@
 ---
-published: "false"
+published: "true"
 title: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
 twitt: "Logra Seduzac avance en implementación de tecnología en escuelas de nivel básico"
 author: "Sistemas Infodem"
