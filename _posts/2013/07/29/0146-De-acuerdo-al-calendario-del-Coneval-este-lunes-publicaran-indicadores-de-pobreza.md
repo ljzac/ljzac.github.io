@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "De acuerdo al calendario del Coneval, este lunes publicarán indicadores de pobreza"
 twitt: "De acuerdo al calendario del Coneval, este lunes publicarán indicadores de pobreza"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Carlos Alberto Navarrete"
+authorlink: "https://ljz.mx/autores/Carlos Alberto Navarrete"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/UtPQ5GLm.jpg)
 
-Carlos Alberto Navarrete
+
 
 Según el calendario del Coneval hoy se presentan los nuevos resultados de
 la medición de la pobreza realizados por el Consejo Nacional de Evaluación
