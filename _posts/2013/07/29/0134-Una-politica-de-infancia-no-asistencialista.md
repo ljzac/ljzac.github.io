@@ -1,16 +1,16 @@
 ---
-published: "false"
+published: "true"
 title: "Una política de infancia no asistencialista"
 twitt: "Una política de infancia no asistencialista"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Luis Alberto Barquera"
+authorlink: "https://ljz.mx/autores/Luis Alberto Barquera"
 category: "Opinión"
 layout: "posts"
 
 ---
 
 
-Luis Alberto Barquera
+
 
 El pasado martes 23 de julio tuve el gusto de participar en el diálogo que
 convocó Unicef México con la señora Marcia López, ex ministra de Desarrollo
