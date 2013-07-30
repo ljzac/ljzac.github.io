@@ -1,5 +1,7 @@
 ---
 published: true
+title: "85 mil personas en el mundo observaron  vía Internet el Festival del Folclor: CIOFF"
+author: Redacción
 location: Local
 category: Portada
 layout: posts
