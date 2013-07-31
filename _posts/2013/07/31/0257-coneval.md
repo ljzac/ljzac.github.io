@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sigue controversia  por resultados sobre  pobreza del Coneva
+title: Sigue controversia  por resultados sobre  pobreza del Coneval
 author: "MARTIN CATALAN LERMA Y ALMA ALEJANDRA TAPIA "
 location: Local
 category: Portada
@@ -83,4 +83,4 @@ Refirió que hubo años de sequía y el estado vive del campo, la minería ha so
 
 Para la legisladora sería injusto culpar a Sumar de que hay pocos avances en el combate a la pobreza, cuando su labor es contraria, “la pobreza no existe hace tres años, siempre ha existido, es un problema histórico”.
 
-Cuestionó además que muchas personas no requieren del apoyo de Sumar y sin embargo lo reciben, por tanto se requiere reestructurar la lista de beneficiarios para que se den a la gente que realmente lo necesita. 
+Cuestionó además que muchas personas no requieren del apoyo de Sumar y sin embargo lo reciben, por tanto se requiere reestructurar la lista de beneficiarios para que se den a la gente que realmente lo necesita.
