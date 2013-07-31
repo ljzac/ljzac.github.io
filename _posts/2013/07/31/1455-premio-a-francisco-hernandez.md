@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Obtiene Francisco Hernández Premio de Poesía \"Jaime Sabines-Lapointe\""
+title: "Obtiene Francisco Hernández Premio de Poesía 'Jaime Sabines-Lapointe'"
 twitt: "El galardón, dotado con 50 mil pesos, será entregado en noviembre próximo en el marco de la décimoquinta edición Encuentro de Poetas del Mundo Latino"
 author: "Notimex "
 location: Nacional
