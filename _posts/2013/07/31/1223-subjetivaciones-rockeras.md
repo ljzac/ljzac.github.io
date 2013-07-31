@@ -3,7 +3,7 @@ published: true
 title: Subjetivaciones rockeras / Rock comprometido
 author: Federico Priapo Chew Araiza
 location: Local
-category: Destacadas
+category: De Rock
 layout: posts
 ---
 
