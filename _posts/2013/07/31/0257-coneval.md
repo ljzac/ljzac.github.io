@@ -8,13 +8,13 @@ layout: posts
 ---
 
 ![](http://i.imgur.com/uzwZrZ6m.jpg)
-> Los indicadores dados a conocer obedecen a una metodología deficiente: Víctor Corona
+-- Los indicadores dados a conocer obedecen a una metodología deficiente: Víctor Corona
 
-> México tiene la mayor inflación entre los países de la OCDE; el desempleo se mantiene, señala
+-- México tiene la mayor inflación entre los países de la OCDE; el desempleo se mantiene, señala
 
-> Unicamente con la generación de trabajos es como se podrá atacar el problema: Muro
+-- Unicamente con la generación de trabajos es como se podrá atacar el problema: Muro
 
-> Las cifras también provocaron opiniones encontradas de los legisladores zacatecanos
+-- Las cifras también provocaron opiniones encontradas de los legisladores zacatecanos
 
 Los indicadores que dio a conocer el Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval) en relación a la pobreza, obedecen a una metodología deficiente, pues es incomprensible que en Zacatecas ese problema haya disminuido a pesar de la reducción de las remesas en el mismo periodo entre 2010 y 2012, afirmó Víctor Corona Loera, docente investigador de la Unidad Académica de Antropología de la Universidad Autónoma de Zacatecas (UAZ).
 
