@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![](/_posts/2013/08/01/billetesmexicanos.jpg)Washington. Estados Unidos designó hoy al suegro de Miguel Ángel Treviño Morales, el Z-40, como sujeto de acciones de incautación y decomiso de bienes por su participación en labores de narcotráfico y lavado de dinero a favor del grupo criminal de Los Zetas.
+![](http://i.imgur.com/PHxjvTum.jpg)Washington. Estados Unidos designó hoy al suegro de Miguel Ángel Treviño Morales, el Z-40, como sujeto de acciones de incautación y decomiso de bienes por su participación en labores de narcotráfico y lavado de dinero a favor del grupo criminal de Los Zetas.
 
 La designación de Jesús Fernández de Luna, quien enfrenta ya cargos de narcotráfico junto a Joaquín "El Chapo" Guzmán en una corte de Texas, derivó de su papel como facilitador de operaciones de lavado de dinero.
 
