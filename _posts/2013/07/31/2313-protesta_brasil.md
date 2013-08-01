@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Protestan en Brasil contra plan que promueve la contratación de médicos extranjeros
 author: Redacción
 location: Internacional
