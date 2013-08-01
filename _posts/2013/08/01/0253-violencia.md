@@ -1,5 +1,7 @@
 ---
 published: true
+title: "La violencia pasó de un problema social a cultural: académico "
+author: MARTIN CATALAN LERMA Y ALMA ALEJANDRA TAPIA
 location: Local
 category: Portada
 layout: posts
