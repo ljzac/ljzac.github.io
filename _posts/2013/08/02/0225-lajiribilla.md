@@ -7,6 +7,7 @@ category: La Jiribilla
 layout: posts
 ---
 
+![](http://i.imgur.com/NoYCZghm.jpg)
 UNO: Ramiro Ordaz: “Nunca falta la criada que se desquita con la niña”
 DOS: Edgar López: “Al que le gusta el chicharrón, con ver el puerco se alegra”
 TRES: Funcionarios estatales: “Palabra, ofensa y piedra suelta no tienen vuelta”
