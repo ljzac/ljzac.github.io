@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Otra definición para la pobreza
 author: Julio Yrízar
 location: Local
