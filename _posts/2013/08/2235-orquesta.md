@@ -7,6 +7,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
+![](http://i.imgur.com/jAU5AGwm.jpg)
 Gustavo Dudamel al frente de la Orquesta Sinfónica Simón Bolívar de Venezuela (OSSBV) y la Coral Nacional Juvenil Simón Bolívar de Venezuela (CNJSBV) fueron ovacionados de pie durante 18 minutos este martes, en su segunda participación en el Festival de Salzburgo, máximo foro cultural del mundo.
 
 El sitio web oficisal de la Fundación Musical Simón Bolívar reportó que los 368 músicos y coristas venezolanos interpretaron la Sinfonía no. 3 del compositor alemán Gustav Mahler, al lado de la mezzosoprano Anna Larsson, el violinista Alejandro Carreño y el trompetista Román Granda, ante el aplauso delirante y la entrega del público.
