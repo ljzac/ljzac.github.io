@@ -3,7 +3,7 @@ published: true
 title: "Productores de frijol sufren escasez de semilla certificada de calidad: Rincón"
 author: "RAQUEL OLLAQUINDIA "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
