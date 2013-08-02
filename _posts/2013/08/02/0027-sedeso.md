@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Firma Sedeso convenio con DGETI para que los jóvenes tengan acceso a programas
 author: Redacción
 location: Local
@@ -7,6 +7,7 @@ category: Educación
 layout: posts
 ---
 
+![](http://i.imgur.com/R5Nueuam.jpg)
 Se apoyará a instituciones que participen en Súmate a la Prevención.
 
 La Secretaría de Desarrollo Social (Sedeso), a través de la Subsecretaría de la Juventud, firmó un acuerdo de colaboración con la Dirección General de Educación Tecnológica Industrial (DGETI) a fin de dar apoyo a los jóvenes, así como otorgarles las facilidades para que accedan a los programas gubernamentales que ofrece la Administración estatal de Zacatecas.
