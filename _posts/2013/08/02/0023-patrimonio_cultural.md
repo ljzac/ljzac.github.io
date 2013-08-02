@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Patrimonio Cultural de Zacatecas, destinado únicamente a turistas y comercios: Márquez"
 author: MARTIN CATALAN LERMA
 location: Local
