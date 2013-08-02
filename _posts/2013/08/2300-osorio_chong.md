@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Anuncia Osorio Chong que gobierno federal \"entrará en pleno\" a Michoacán"
 author: Redacción
 location: Nacional
