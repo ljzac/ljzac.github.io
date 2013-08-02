@@ -7,7 +7,7 @@ category: Educación
 layout: posts
 ---
 
-Se generan festivales de distinta índole que sólo benefician a los visitantes: académico.
+![](http://i.imgur.com/ej4wqMbm.jpg)Se generan festivales de distinta índole que sólo benefician a los visitantes: académico.
 
 En las colonias y barrios populares impera la inseguridad y no hay espacios para recreación.
 
