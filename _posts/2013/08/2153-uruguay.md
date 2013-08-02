@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Uruguay no será paraíso de las drogas: Mujica"
 author: Redacción
 location: Internacional
