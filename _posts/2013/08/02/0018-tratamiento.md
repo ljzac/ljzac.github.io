@@ -3,7 +3,7 @@ published: true
 title: "Tratamientos biológicos serán la mejor opción para atender enfermedades reumáticas: Herrera"
 author: MARTIN CATALAN LERMA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
