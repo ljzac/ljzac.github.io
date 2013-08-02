@@ -3,7 +3,7 @@ published: true
 title: "Cae Chivas 2-0 ante los Tiburones"
 author: Redacción
 location: Nacional
-category: Educación
+category: Deportes
 layout: posts
 ---
 
@@ -37,5 +37,3 @@ Alineaciones:
 Guadalajara.- Luis Ernesto Michel, Kristian Alvarez, Héctor Reynoso, Omar Esparza, Miguel Ponce (Giovani Hernández, 69), Patricio Araujo, Michael Pérez (Angel Saldívar, 59), Marco Fabián, Jesús Sánchez, Rafael Márquez Lugo y Miguel Sabah (Carlos Fierro, 46). DT Benjamín Galindo.
 
 Veracruz.- Leonin Pineda (Edgar Hernández, 43), Emmanuel Gil, Oscar Mascorro, Hugo Cid, Adrián Cortés, Jehu Chiapas, Luis Martínez, Luis Sánchez, Isrel Martínez, Christian Marrugo (Jesús Sánchez, 75) y Angel Reyna. DT Juan Antonio Luna.
-
- 
