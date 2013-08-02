@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Vigente el Pacto por México para impulsar reformas: Peña"
 author: Redacción
 location: Nacional
