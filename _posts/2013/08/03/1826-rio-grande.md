@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Se reúne alcalde de Río Grande con delegados comunitarios; seguridad, uno de los temas abordados"
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
