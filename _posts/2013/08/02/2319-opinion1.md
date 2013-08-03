@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ley Federal de Responsabilidad Ambiental
 author: Sandra Mendoza Barrera
 location: Local
