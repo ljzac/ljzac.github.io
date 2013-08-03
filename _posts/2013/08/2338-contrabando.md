@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Venezuela y Colombia combatirán el contrabando en sus fronteras
 author: Redacción
 location: Internacional
