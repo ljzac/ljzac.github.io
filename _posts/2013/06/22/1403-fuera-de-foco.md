@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Trabajador de la construcción, en azotea del Museo de Arte Abstracto Manuel Felguérez"
 author: ANDRÉS SÁNCHEZ
 location: Local

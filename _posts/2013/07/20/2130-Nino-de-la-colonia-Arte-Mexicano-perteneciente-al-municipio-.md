@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Niño de la colonia Arte Mexicano, perteneciente al municipio Guadalupe, sonríe ante la cámara
 twitt: Niño de la colonia Arte Mexicano, perteneciente al municipio Guadalupe, sonríe ante la cámara
 author: MIGUEL ÁNGEL NÚÑEZ

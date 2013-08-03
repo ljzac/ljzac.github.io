@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: En talleres de verano, en el Centro Cultural Ciudadela del Arte
 twitt: En talleres de verano, en el Centro Cultural Ciudadela del Arte
 author: ANDRÉS SÁNCHEZ

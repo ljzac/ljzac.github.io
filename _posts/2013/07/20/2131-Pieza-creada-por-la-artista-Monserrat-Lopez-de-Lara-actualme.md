@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Pieza creada por la artista Monserrat López de Lara, actualmente instalada en la antigua harinera, espacio cultural localizado en el municipio Guadalupe
 twitt: Pieza creada por la artista Monserrat López de Lara, actualmente instalada en la antigua harinera, espacio cultural localizado en el municipio Guadalupe
 author: MIGUEL ÁNGEL NÚÑEZ

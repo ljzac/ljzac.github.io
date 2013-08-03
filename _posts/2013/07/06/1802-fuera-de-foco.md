@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Aspecto de la Feria del Libro de Verano, establecida en Portal de Rosales del centro de la ciudad capital"
 author: ALEJANDRO ORTEGA NERI
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Pepenador de la capital zacatecana es acompañado por su perro
 author: ANDRÉS SÁNCHEZ
 location: Local

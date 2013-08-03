@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Los extremos en las clases sociales
 twitt: Los extremos en las clases sociales
 author: ANDRÉS SÁNCHEZ

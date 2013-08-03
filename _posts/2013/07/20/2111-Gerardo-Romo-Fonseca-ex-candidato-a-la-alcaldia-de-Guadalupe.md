@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Gerardo Romo Fonseca, ex candidato a la alcaldía de Guadalupe, llora la muerte de su colaborador y amigo Aquiles González
 twitt: Gerardo Romo Fonseca, ex candidato a la alcaldía de Guadalupe, llora la muerte de su colaborador y amigo Aquiles González
 author: ALEJANDRO ORTEGA NERI

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mineros en manifestación
 twitt: Mineros en manifestación
 author: ANDRÉS SÁNCHEZ

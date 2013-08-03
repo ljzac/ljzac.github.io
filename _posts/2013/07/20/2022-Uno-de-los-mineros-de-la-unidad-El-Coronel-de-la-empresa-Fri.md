@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Uno de los mineros de la unidad El Coronel de la empresa Frisco, quienes marcharon para exigir la reanudación de actividades en esa mina
 twitt: Uno de los mineros de la unidad El Coronel de la empresa Frisco, quienes marcharon para exigir la reanudación de actividades en esa mina
 author: ALEJANDRO ORTEGA NERI

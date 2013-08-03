@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: En proceso de identificación de electores dentro de la jornada del pasado 7 de julio
 twitt: En proceso de identificación de electores dentro de la jornada del pasado 7 de julio
 author: ALEJANDRO ORTEGA NERI

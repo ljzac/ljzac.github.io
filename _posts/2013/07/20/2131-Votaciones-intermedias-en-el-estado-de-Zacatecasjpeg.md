@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Votaciones intermedias en el estado de Zacatecas
 twitt: Votaciones intermedias en el estado de Zacatecas
 author: MIGUEL ÁNGEL NÚÑEZ

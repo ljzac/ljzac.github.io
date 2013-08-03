@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Trabajador del ayuntamiento de Zacatecas pinta las jardineras de la plazuela Goitia
 author: RAFAEL DE SANTIAGO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Limosneros al exterior de la Catedral Basílica de Zacatecas
 author: ANDRÉS SÁNCHEZ
 location: Local

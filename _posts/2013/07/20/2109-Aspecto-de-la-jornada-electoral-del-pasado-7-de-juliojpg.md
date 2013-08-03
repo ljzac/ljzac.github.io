@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Aspecto de la jornada electoral del pasado 7 de julio
 twitt: Aspecto de la jornada electoral del pasado 7 de julio
 author: ALEJANDRO ORTEGA NERI
