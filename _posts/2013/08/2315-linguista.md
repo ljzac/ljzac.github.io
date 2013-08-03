@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Fallece el lingüista José Moreno de Alba
 author: Redacción
 location: Nacional
