@@ -7,7 +7,6 @@ category: Deportes
 layout: posts
 ---
 
-
 ![](http://i.imgur.com/f87GmZim.jpg)Barcelona. El argentino Gerardo Martino tuvo un estreno a toda orquesta como entrenador del Barcelona, que hoy goleó 8-0 al Santos en un Camp Nou que vio jugar por primera vez en casa al astro brasileño Neymar.
 
 Tras marcar cuatro goles en la primera media hora de juego, el Barcelona se llevó un partido sin equivalencias que le permite alzar el torneo amistoso Joan Gamper.
