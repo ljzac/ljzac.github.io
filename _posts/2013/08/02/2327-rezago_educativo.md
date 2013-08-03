@@ -3,7 +3,7 @@ published: true
 title: "La mitad de la población mayor de 15 años en la capital es analfabeta, advierte IZEA"
 author: "MARTIN CATALAN LERMA "
 location: Local
-category: Educación
+category: Portada
 layout: posts
 ---
 
