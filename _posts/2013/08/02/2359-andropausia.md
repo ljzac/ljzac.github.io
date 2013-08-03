@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Proponen reemplazar hormona a pacientes con andropausia
 author: Redacción
 location: Nacional
