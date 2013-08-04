@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "América vence al Atlas 3-0 mientras que Cruz Azul pierde en sufrido encuentro ante el Veracruz"
 author: Redacción
 location: Nacional
