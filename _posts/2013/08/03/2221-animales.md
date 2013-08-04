@@ -21,5 +21,3 @@ La presa de jales ya tiene impacto negativo en el hábitat y en la población. E
 Aclaró que minera del Norte pidió un permiso de extracción al gobierno federal aunque el estudio de impacto que presentó no reporta ninguna especie en categoría de riesgo, no presenta planes de contingencia en casos de desastres, ni prevé el impacto negativo de esta mina en el ecosistema o las comunidades aledañas.
 
 Si esta mina se construye, lamentó, no se podrá realizar este proyecto de National Geographic sobre la víbora de cascabel, pues existe una población de esta especie en la Sierra de Perote, Minatitlán, por lo que planteó un estudio para colocar radiotransmisores en varios individuos para seguir sus movimientos y estudiar el tipo de hábitat que prefiere, sus periodos de actividad, época de apareamiento, alimentación.
-
-
