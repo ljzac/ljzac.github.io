@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "¿Un nuevo modelo de medición de la calidad educativa?"
 author: Ramiro Espino De Lara
 location: Local
