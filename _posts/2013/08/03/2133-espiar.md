@@ -7,7 +7,6 @@ category: Principales
 layout: posts
 ---
 
-
 ![](http://i.imgur.com/9sPd7Dhm.jpg)Sao Paulo. La revista Época de Brasil, divulgó hoy un documento secreto de la Agencia de Seguridad Nacional (NSA) estadunidense, en el que se revela que Estados Unidos utilizó informaciones obtenidas a través de su red de espionaje para definir su actuación en la Cumbre de las Américas realizada en 2009 en Trinidad y Tobago.
 
 Se trata de una carta escrita por el entonces secretario auxiliar de Estado y actual embajador de Estados Unidos en Brasil, Thomas Shannon, en la cual agradece y felicita al director de la NSA, el general Keith Alexander, por las "excepcionales" informaciones que le fueron suministradas en más de un centenar de documentos.
