@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Cae aeronave en Sao Paulo, deja 4 muertos"
 author: Redacción
 location: Internacional
