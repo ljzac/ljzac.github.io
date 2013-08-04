@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Estados Unidos espió en Cumbre de las Américas: prensa brasileña"
 author: Redacción
 location: Internacional
