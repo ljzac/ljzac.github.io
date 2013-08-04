@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Pierde Tri femenil sub-20 final de Copa Internacional Feria de las Flores"
 author: Redacción
 location: Internacional
