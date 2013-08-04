@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: La mitad de los alumnos de bachillerato en  Zacatecas tiene desempeño insuficiente
 author: "MARTIN CATALAN LERMA "
 location: Local
