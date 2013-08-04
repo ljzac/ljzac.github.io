@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Difícil, reforma política del DF este año: López Obrador"
 author: Redacción
 location: Nacional
