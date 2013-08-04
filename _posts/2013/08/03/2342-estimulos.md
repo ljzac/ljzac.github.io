@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Des ¿estímulos?"
 author: Mariana Terán
 location: Local
