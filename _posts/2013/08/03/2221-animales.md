@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "En riesgo 37 especies animales, por proyectos mineros"
 author: Redacción
 location: Nacional
