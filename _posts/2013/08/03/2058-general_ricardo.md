@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Denuncian desaparición de general de las Islas Marías
 author: Redacción
 location: Nacional
