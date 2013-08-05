@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Rusia y China realizan ejercicio militar conjunto; serán tres etapas
 author: Redacción
 location: Internacional
