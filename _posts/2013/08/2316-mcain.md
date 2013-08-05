@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Obama comisiona a John McCain para viajar a El Cairo y pedir elecciones
 author: LA JORNADA
 location: Internacional
