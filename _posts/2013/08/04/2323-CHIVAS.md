@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Chivas ya ganó, dio cuenta por la mínima diferencia 1-0, del Atlante"
 author: LA JORNADA
 location: Nacional
