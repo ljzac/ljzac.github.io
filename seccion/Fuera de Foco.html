@@ -13,8 +13,11 @@ layout: default
 			<article class="SubContent">
 	             <div class="grid_9 omega" style="max-height: 320px;width: 99%;overflow: hidden;">
                      <div style="max-height:260px; width:auto;">
+                      <h3>{{ .title }}</h3>
+                      <ul class="comment">
+                        <li> {{ if .author }}{{ .author }} {{end}}</li>
+                      </ul>
                        <a href= "{{ .MainImgSize "h" }}" rel="gallery_foco" class="fancybox" title="{{ .title }} - {{ .twitt }}"> 
-                         <h3>{{ .title }}</h3>
                          <img src="{{ .MainImg }}" alt="{{ .tittle }}" /> 
                        </a>
                </div></div>
