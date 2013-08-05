@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recolectan18 toneladas de basura en Festival del Folclor
+title: Recolectan 18 toneladas de basura en Festival del Folclor
 author: REDACCION
 location: Local
 category: Destacadas
@@ -17,4 +17,4 @@ El funcionario comentó que para el cierre del Festival del Folclor se comision�
  
 Por otra parte, Jaime Cruz dio a conocer que este fin de semana en toda la ciudad fueron recolectadas 185 toneladas de basura. Asimismo anunció que a partir del próximo domingo, se reanudarán las jornadas de destilichización.
  
-De lunes a viernes, abundó, se recoge un promedio de entre 160 y 165 toneladas diarias y explicó que las colonias donde más desechos se generaron fueron Tres Cruces, Lázaro Cárdenas, Fovissste, H. Ayuntamiento, CTM, Minera, Las Palmas, entre otras. 
+De lunes a viernes, abundó, se recoge un promedio de entre 160 y 165 toneladas diarias y explicó que las colonias donde más desechos se generaron fueron Tres Cruces, Lázaro Cárdenas, Fovissste, H. Ayuntamiento, CTM, Minera, Las Palmas, entre otras.
