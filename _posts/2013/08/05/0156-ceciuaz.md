@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Confirma Sindicato paro de labores este lunes en el plantel educativo Ceciuaz
 author: MARTIN CATALAN LERMA
 location: Local
