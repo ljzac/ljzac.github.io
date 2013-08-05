@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "En enfrentamiento con el Ejército, muere líder de 'La Familia' en Edomex"
 author: Redacción
 location: Nacional
@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-Luvianos, Méx. Durante un enfrentamiento entre militares y miembros de la organización criminal La Familia Michoacana, elementos castrenses abatieron a Pablo Jaimes Castrejón, identificado como el jefe de operaciones de esa organización en Tierra Caliente del estado de México, informó la PGJEM.
+![](http://i.imgur.com/jrlvKKkm.jpg)Luvianos, Méx. Durante un enfrentamiento entre militares y miembros de la organización criminal La Familia Michoacana, elementos castrenses abatieron a Pablo Jaimes Castrejón, identificado como el jefe de operaciones de esa organización en Tierra Caliente del estado de México, informó la PGJEM.
  
 La Procuraduría General de Justicia del Estado de México (PGJEM) indicó que elementos de la Secretaría de la Defensa Nacional (Sedena) se enfrentaron el sábado contra cuatro hombres armados en el municipio de Luvianos, resultando tres personas muertas en el lugar.
  
