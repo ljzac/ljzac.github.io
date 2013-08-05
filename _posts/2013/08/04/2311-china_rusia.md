@@ -7,6 +7,7 @@ category: Mundo
 layout: posts
 ---
 
+![](http://i.imgur.com/xk7LKmym.jpg)
 Chelyabinsk. Vehículos de combate terrestre pesados del grupo de batalla del ejército chino se integraron al ejercicio conjunto entre China y Rusia que tiene lugar en Chelyabinsk, en la región de los Montes Urales de Rusia del 27 de julio al 15 de agosto.
 
 Un total de 88 vehículos de combate terrestres chinos, incluidos tanques 96A, ingresaron en el campo de entrenamiento combinado Chebarkul cuando el ejercicio, llamado en clave Misión de Paz 2013 entró en la etapa de planificación de batalla el sábado.
