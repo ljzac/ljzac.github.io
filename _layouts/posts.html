@@ -35,6 +35,7 @@ layout: defaultSimple
             <h1 class="font-resize">{{ .page.title }}</h1>
             <ul class="comment">
               <li> {{ if .page.author }}{{ .page.author }} {{end}} /{{if .page.date}} {{ .page.date | date_to_string }}/{{end}}</li>
+               <li> {{ if .page.twitt }}{{ .page.twitt }}{{end}}</li>
             </ul>
             {{ .content }}
           </article>
