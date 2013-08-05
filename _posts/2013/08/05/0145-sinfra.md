@@ -3,7 +3,7 @@ published: true
 title: Verifica Sinfra 70 viviendas básicas  construidas en el municipio de Atolinga
 author: REDACCION
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
