@@ -8,6 +8,9 @@ layout: posts
 ---
 
 ![](http://i.imgur.com/1go1bVcm.jpg)
+De 85 millones para la obra, 25 son destinados a pavimentos y terracerías: Avila Mier.
+
+Atlas Copco ya anunció una inversión de 7 millones de dólares en Zacatecas, informan.
 
 La construcción del parque industrial de Zacatecas continúa avanzando y actualmente se realiza una obra con un monto de licitación de 85 millones de pesos, los cuales se ejecutan en conceptos de urbanización, instalaciones de canaletas y el diseño de un espacio para la instalación del gas natural, con lo cual se tendrá entre 800 metros y un kilómetro de construcción totalmente habilitada para la instalación de empresas.
 
