@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-Acapulco, Gro. El líder del Movimiento de Regeneración Nacional (Morena), Andrés Manuel López Obrador, llamó a empresarios a recapacitar en referencia a la privatización del petróleo y el incremento de los impuestos, pues subrayó que no le convienen a nadie, durante una gira por Ometepec y Cruz Grande, municipios de la región de Costa Chica y Acapulco.
+![](http://i.imgur.com/ntTb1t9m.jpg)Acapulco, Gro. El líder del Movimiento de Regeneración Nacional (Morena), Andrés Manuel López Obrador, llamó a empresarios a recapacitar en referencia a la privatización del petróleo y el incremento de los impuestos, pues subrayó que no le convienen a nadie, durante una gira por Ometepec y Cruz Grande, municipios de la región de Costa Chica y Acapulco.
  
 En acto masivo efectuado en el salón de La Cartuja, manifestó que “desde Acapulco hago un llamado a todos los empresarios de México para que reflexionen, que se informen bien y que también participen en este movimiento”, pues advirtió que “va a perjudicar a todos; no habrá recursos para el desarrollo, y si no hay crecimiento y si no hay empleo no habrá tranquilidad y paz social, y va a seguir esta descomposición y decadencia que no nos conviene a nadie”.
  
