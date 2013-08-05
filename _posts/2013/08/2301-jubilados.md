@@ -1,7 +1,9 @@
 ---
 published: true
+title: Sindicatos nicaragüenses presentarán reforma a sistema de jubilaciones
+author: LA JORNADA
 location: Local
-category: Portada
+category: Mundo
 layout: posts
 ---
 
