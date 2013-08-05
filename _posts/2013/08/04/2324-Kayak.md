@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Obtienen bronce kayakistas mexicanas en Mundial Juvenil de Canadá
 author: LA JORNADA
 location: Internacional
@@ -7,6 +7,7 @@ category: Deportes
 layout: posts
 ---
 
+![](http://i.imgur.com/AGoJuIqm.jpg)
 México, DF. Las mexicanas Karina Alanís y Marcela Montemayor, obtuvieron la medalla de bronce en el kayak dentro Campeonato Mundial Juvenil y Sub23 de Canotaje, que se realizó en Canadá.
 
 La pareja mexicana cubrió la distancia de los 500 metros (K2-500), en la categoría de Sub23, en 1:42.015 minutos.
