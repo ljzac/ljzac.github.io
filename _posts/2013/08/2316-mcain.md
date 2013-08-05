@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-
+![](http://i.imgur.com/NyzaOJrm.jpg)
 Washington. Los senadores estadounidenses John McCain y Lindsey Graham viajarán este lunes a Egipto a pedido del presidente Barack Obama para exhortar al gobierno de ese país a organizar elecciones, según confirmó hoy la oficina del mandatario de transición, Adli Mansur.
 
 Los senadores republicanos John McCain y Lindsey Graham viajaran en representación de Obama y se reunirán el martes con integrantes del gobierno de transición egipcio. También tienen previstos encuentros con grupos opositores.
