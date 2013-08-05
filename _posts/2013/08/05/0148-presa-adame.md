@@ -3,7 +3,7 @@ published: true
 title: Buscan eliminar el lirio acuático que afecta a la presa Julián Adame
 author: REDACCION
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
