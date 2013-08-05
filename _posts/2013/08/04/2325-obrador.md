@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "AMLO: No convienen privatización del petróleo ni aumentar impuestos"
 author: Redacción
 location: Nacional
