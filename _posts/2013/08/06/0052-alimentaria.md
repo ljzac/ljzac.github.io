@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reflexiones sobre la segurdiad alimentaria
 author: Marcos Salvador Ibarra Infante
 location: Local
