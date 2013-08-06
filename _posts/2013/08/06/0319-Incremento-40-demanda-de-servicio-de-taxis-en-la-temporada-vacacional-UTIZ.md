@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Incrementó 40% demanda de servicio de taxis en la temporada vacacional: UTIZ"
 twitt: "Incrementó 40% demanda de servicio de taxis en la temporada vacacional: UTIZ"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "RAFAEL DE SANTIAGO"
+authorlink: "https://ljz.mx/autores/RAFAEL DE SANTIAGO"
 category: "Sociedad y Justicia"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/zTKTnQMm.jpg)
 
-RAFAEL DE SANTIAGO
+
 
 En esta temporada vacacional y durante el Festival Internacional del
 Folclor, incrementó la demanda de servicio de taxis hasta 40 por ciento
