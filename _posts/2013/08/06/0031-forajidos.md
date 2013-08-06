@@ -7,7 +7,7 @@ category: Contraportada
 layout: posts
 ---
 
-![](http://i.imgur.com/Etwd8edm.jpg)
+![](http://i.imgur.com/QDUR1qPm.jpg)
 La escuadra completó 24 puntos contra los 16 puntos del equipo Pumitas Garra Dorada.
 
 La sexta Jornada del calendario 2013 se realizó en el Campus Siglo 21.
