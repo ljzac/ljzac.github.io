@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "FPLZ iniciará en septiembre campaña de sensibilización en defensa de Pemex"
 twitt: "FPLZ iniciará en septiembre campaña de sensibilización en defensa de Pemex"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "RAFAEL DE SANTIAGO"
+authorlink: "https://ljz.mx/autores/RAFAEL DE SANTIAGO"
 category: "Política"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/wTy46KHm.jpg)
 
-RAFAEL DE SANTIAGO
+
 
 José Narro Céspedes, dirigente del Frente Popular de Lucha de Zacatecas
 (FPLZ), mencionó que quienes buscan vender el patrimonio de los mexicanos,
