@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Guerrero: unos cien militares cumplen más de ocho horas retenidos por grupos de autodefensa"
 author: Redacción
 location: Nacional
