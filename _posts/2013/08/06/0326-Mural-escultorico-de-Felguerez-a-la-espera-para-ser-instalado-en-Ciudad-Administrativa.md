@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Mural escultórico de Felguérez, a la espera para ser instalado en Ciudad Administrativa"
 twitt: "Mural escultórico de Felguérez, a la espera para ser instalado en Ciudad Administrativa"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ALMA RIOS"
+authorlink: "https://ljz.mx/autores/ALMA RIOS"
 category: "Cultura y Espectáculos"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/GurzCWEm.jpg)
 
-ALMA RIOS
+
 
 El mural relieve del destacado artista visual Manuel Felguérez que espera
 por su instalación en una explanada de Ciudad Administrativa desde hace más
