@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "REDACCION"
 title: "Paga el ayuntamiento de Río Grande prestaciones firmadas con sindicalizados"
 twitt: "Paga el ayuntamiento de Río Grande prestaciones firmadas con sindicalizados"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "REDACCION"
+authorlink: "https://ljz.mx/autores/REDACCION"
 category: "Municipios"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/T6w6C8Wm.jpg)
 
-REDACCION
+
 
 El gobierno municipal de Río Grande erogó más de un millón 164 mil pesos
 por los conceptos de primas vacacionales y reintegros del Impuesto Sobre la

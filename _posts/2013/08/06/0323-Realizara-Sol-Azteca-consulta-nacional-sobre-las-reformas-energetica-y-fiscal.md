@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "ALMA ALEJANDRA TAPIA"
 title: "Realizará Sol Azteca consulta nacional sobre las reformas energética y fiscal"
 twitt: "Realizará Sol Azteca consulta nacional sobre las reformas energética y fiscal"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ALMA ALEJANDRA TAPIA"
+authorlink: "https://ljz.mx/autores/ALMA ALEJANDRA TAPIA"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/TnKocp2m.jpg)
 
-ALMA ALEJANDRA TAPIA
+
 
 El 14 de septiembre y 25 de octubre el PRD a través de las organizaciones
 Alianza Cívica y Consejo Nacional Ciudadano realizará una consulta nacional

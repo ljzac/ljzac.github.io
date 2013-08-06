@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "ALMA ALEJANDRA TAPIA"
 title: "Divergencias ideológicas nacionales no frenarán alianza local PAN-PRD: Espinoza"
 twitt: "Divergencias ideológicas nacionales no frenarán alianza local PAN-PRD: Espinoza"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ALMA ALEJANDRA TAPIA"
+authorlink: "https://ljz.mx/autores/ALMA ALEJANDRA TAPIA"
 category: "Política"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/ppywF13m.jpg)
 
-ALMA ALEJANDRA TAPIA
+
 
 Pese a las divergencias ideológicas y las diferentes posturas marcadas en
 temas como la reforma energética y fiscal entre el PRD y el PAN, el
