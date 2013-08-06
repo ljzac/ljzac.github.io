@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Han entregado más de 200 mdp en semillas para el cultivo de frijol y forrajes"
 twitt: "Han entregado más de 200 mdp en semillas para el cultivo de frijol y forrajes"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "RAQUEL OLLAQUINDIA"
+authorlink: "https://ljz.mx/autores/RAQUEL OLLAQUINDIA"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/Y6jVXbIm.jpg)
 
-RAQUEL OLLAQUINDIA
+
 
 En el presente ciclo agrícola primavera-verano se entregaron ya más de 200
 millones de pesos en forma de semillas de diferentes cultivos como el
