@@ -1,15 +1,15 @@
 ---
-published: "false"
+published: "true"
 title: "Informa Grupo de Coordinación sobre 2 personas fallecidas en el marco de operativo Verano Seguro"
 twitt: "Informa Grupo de Coordinación sobre 2 personas fallecidas en el marco de operativo Verano Seguro"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "REDACCION"
+authorlink: "https://ljz.mx/autores/REDACCION"
 category: "Sociedad y Justicia"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/ptzp1xpm.jpg)
 
 REDACCION
 
