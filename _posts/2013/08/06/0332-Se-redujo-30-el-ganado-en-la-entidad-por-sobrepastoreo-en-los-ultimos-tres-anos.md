@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Se redujo 30% el ganado en la entidad por sobrepastoreo en los últimos tres años"
 twitt: "Se redujo 30% el ganado en la entidad por sobrepastoreo en los últimos tres años"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "RAQUEL OLLAQUINDIA"
+authorlink: "https://ljz.mx/autores/RAQUEL OLLAQUINDIA"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/B17XZ8Ym.jpg)
 
-RAQUEL OLLAQUINDIA
+
 
 A raíz de que la sequía agravó el problema del sobrepastoreo en la entidad,
 a través de diversas iniciativas se logró reducir hasta 30 por ciento,
