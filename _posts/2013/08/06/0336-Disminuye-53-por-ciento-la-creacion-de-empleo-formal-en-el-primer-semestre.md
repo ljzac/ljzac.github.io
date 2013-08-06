@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Disminuye 53 por ciento la creación de empleo formal en el primer semestre"
 twitt: "Disminuye 53 por ciento la creación de empleo formal en el primer semestre"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ARAZU TINAJERO"
+authorlink: "https://ljz.mx/autores/ARAZU TINAJERO"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/3yqOjQGm.jpg)
 
-ARAZU TINAJERO
+
 
 La creación de empleos formales en el estado sufrió una caída de 53.09 por
 ciento durante el primer semestre del año, en comparación con el mismo

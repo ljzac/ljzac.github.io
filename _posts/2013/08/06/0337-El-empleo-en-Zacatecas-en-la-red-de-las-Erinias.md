@@ -1,9 +1,9 @@
 ---
-published: "false"
+published: "true"
 title: "El empleo en Zacatecas: en la red de las Erinias"
 twitt: "El empleo en Zacatecas: en la red de las Erinias"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "Editorial"
+authorlink: "https://ljz.mx/autores/Editorial"
 category: "Editorial"
 layout: "posts"
 

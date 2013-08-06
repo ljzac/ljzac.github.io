@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Analiza Miguel Alonso Reyes logros y acciones rumbo al tercer informe"
 twitt: "Analiza Miguel Alonso Reyes logros y acciones rumbo al tercer informe"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "REDACCION"
+authorlink: "https://ljz.mx/autores/REDACCION"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/JXOpUAFm.jpg)
 
-El gobernador Miguel Alonso Reyes, convencido de que Zacatecas tiene la
+El gobernador Miguel Alonso Reyes, convencido de que Zacatecas tiene la 
 gran oportunidad de consolidar el trabajo que se ha realizado durante sus
 primeros 3 años, se reunió con los integrantes de su gabinete ampliado para
 analizar los logros y acciones previo a su Tercer Informe de Gobierno.

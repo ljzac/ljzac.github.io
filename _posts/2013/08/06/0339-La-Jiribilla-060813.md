@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "La Jiribilla 06/08/13"
 twitt: "La Jiribilla 06/08/13"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "por El Refranero"
+authorlink: "https://ljz.mx/autores/El Refranero"
 category: "La Jiribilla"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/Qw9r7z9m.jpg)
 
-por El Refranero
+
 
 UNO: Daniel Solís: “Cuando te vengues, cava dos tumbas”
 DOS: Chema González: “Hombre señalado, o muy bueno o muy malo”

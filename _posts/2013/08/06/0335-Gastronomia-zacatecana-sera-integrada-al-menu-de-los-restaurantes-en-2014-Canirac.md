@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Gastronomía zacatecana será integrada al menú de los restaurantes en 2014: Canirac"
 twitt: "Gastronomía zacatecana será integrada al menú de los restaurantes en 2014: Canirac"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "ARAZU TINAJERO"
+authorlink: "https://ljz.mx/autores/ARAZU TINAJERO"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/KZfGx06m.jpg)
 
-ARAZU TINAJERO
+
 
 La gastronomía zacatecana, reconocida como Patrimonio Cultural Inmaterial
 del Estado, se integrará formalmente al menú de los restaurantes a partir
