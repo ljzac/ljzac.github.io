@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Rendirán homenaje al poeta Roberto Cabral del Hoyo debido al centenario de su natalicio"
 twitt: "Rendirán homenaje al poeta Roberto Cabral del Hoyo debido al centenario de su natalicio"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "REDACCION"
+authorlink: "https://ljz.mx/autores/REDACCION"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://imgur.com/439XiKrm.jpg)
 
-REDACCION
+
 
 Gobierno del Estado,  a través del Instituto Zacatecano de Cultura (IZC)
 realizará un homenaje al poeta Roberto Cabral del Hoyo en el centenario de

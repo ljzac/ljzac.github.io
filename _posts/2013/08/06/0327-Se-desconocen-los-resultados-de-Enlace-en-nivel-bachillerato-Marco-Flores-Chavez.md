@@ -1,17 +1,17 @@
 ---
-published: "false"
+published: "true"
 title: "Se desconocen los resultados de Enlace en nivel bachillerato: Marco Flores Chávez"
 twitt: "Se desconocen los resultados de Enlace en nivel bachillerato: Marco Flores Chávez"
-author: "Carlos García"
-authorlink: "https://ljz.mx/autores/Carlos García"
+author: "RAFAEL DE SANTIAGO"
+authorlink: "https://ljz.mx/autores/RAFAEL DE SANTIAGO"
 category: "Portada"
 layout: "posts"
 
 ---
 
-![Pie de Foto](Traceback (most recent call last):)
+![Pie de Foto](http://i.imgur.com/q5HPxJmm.jpg)
 
-RAFAEL DE SANTIAGO
+
 
 El secretario de Educación del estado, Marco Vinicio Flores Chávez,
 mencionó que aún no se reciben los resultados de la prueba Enlace, por lo
