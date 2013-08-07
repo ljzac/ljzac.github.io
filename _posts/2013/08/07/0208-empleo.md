@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Caída en la creación de empleos será revertida con el arribo de nuevas empresas: Tumoine"
 author: ARAZU TINAJERO
 location: Local
