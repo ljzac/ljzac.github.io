@@ -1,7 +1,9 @@
 ---
 published: true
+title: Semana Mundial de la Lactancia Materna
+author: Lucía de León
 location: Local
-category: Portada
+category: Opinión
 layout: posts
 ---
 
