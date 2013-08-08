@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: La muerte no tiene permiso… de publicarse
 author: Lucía Medina Suárez Del Real
 location: Local
