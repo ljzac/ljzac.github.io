@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Develan autoridades estatales fotos oficiales de las aspirantes a reina de la Fenaza 2013
 author: "ABRAHAM CABRALES "
 location: Local
