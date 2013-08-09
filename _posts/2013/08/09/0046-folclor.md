@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Festival del Folclor, sin beneficio para pequeños comercios, asevera Canacope"
 author: ARAZU TINAJERO
 location: Local
