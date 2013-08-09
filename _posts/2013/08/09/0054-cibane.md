@@ -7,11 +7,11 @@ category: Contraportada
 layout: posts
 ---
 
-Tendrán la oportunidad de disputar la clasificación de la temporada 2013 del Cibane 
+![](http://i.imgur.com/9MfYxPjm.jpg) Tendrán la oportunidad de disputar la clasificación de la temporada 2013 del Cibane 
 
 Tuzos de la UAZ llegará a Saltillo con ventaja de dos juegos; necesita de sólo una victoria
 
-![](http://i.imgur.com/9MfYxPjm.jpg)Los Mineros de Fresnillo regresan a su terruño para recibir el tercer encuentro de la serie ante los Madereros de Durango; en su visita al vecino estado del norte los Mineros lograron arrancar una victoria, aunque cayeron en el segundo enfrentamiento.
+Los Mineros de Fresnillo regresan a su terruño para recibir el tercer encuentro de la serie ante los Madereros de Durango; en su visita al vecino estado del norte los Mineros lograron arrancar una victoria, aunque cayeron en el segundo enfrentamiento.
 La disputa se realiza dentro de una de las series de semifinales de la temporada 2013 del Circuito de Basquetbol del Noreste (Cibane), hoy y mañana los fresnillenses tendrán la oportunidad de adjudicarse la clasificación si ganan los dos partidos que tendrán en casa.
 
 En el primer enfrentamiento los Mineros demostraron por qué no se les puede descartar en la carrera por el título, y vencieron en calidad de visitantes a los Madereros, el resultado final fue de 92 puntos contra 89, una diferencia de 3 unidades que le da vida a los todavía campeones Mineros de Fresnillo.
