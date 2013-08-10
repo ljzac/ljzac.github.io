@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Pinos, sin recibir el dinero federal que  le corresponde por ser Pueblo Mágico"
 author: RAQUEL OLLAQUINDIA
 location: Local
