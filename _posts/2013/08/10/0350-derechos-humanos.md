@@ -1,0 +1,18 @@
+---
+published: true
+title: "RAFAEL DE SANTIAGO   Referente al debate que se ha levantado en diferentes foros y organismos, respecto a la legalización de la mariguana, la Secretaría de Salud (Ssa) a través de un comunicado sostiene que antes de tomarse una decisión al respecto, se debe hacer una evaluación con base en evidencias científicas acerca de los efectos nocivos que provoca su consumo en la salud humana. Aunque se han realizado foros, sobre todo en la Ciudad de México, donde han participado especialistas y académicos, la postura de la secretaría es que se debe tomar en cuenta que su consumo es nocivo para la salud. La dependencia estima que el debate de las ideas sobre este tema enriquecerá el conocimiento sobre esta droga y permitirá tener una visión más amplia sobre este narcótico; sin embargo, el punto más importante es que se deben medir los daños y riesgos que el consumo de esta droga genera a la salud física y mental de la población, sobre todo en niños y jóvenes.  Sostuvo que se tiene evidencia que cuando la adicción a la cannabis inicia en edades tempranas, ocurre una disminución de las capacidades intelectuales y cognoscitivas, y es causa de problemas escolares y deserción.  Asimismo, al afectar los reflejos y propiciar una pérdida de la noción de las distancias y el tiempo, es causa de graves accidentes y pérdida de motivación.  La Secretaría de Salud indicó que la discusión no es la legalización, sino que el tema prioritario es la violación al derecho humano de la protección de la salud de los mexicanos, como garantía social establecida en el artículo 4 de la Constitución de los Estados Unidos Mexicanos."
+author: ALMA ALEJANDRA TAPIA
+location: Local
+category: Portada
+layout: posts
+---
+
+![](http://i.imgur.com/AX1Tifzm.jpg)
+El presidente de la Comisión de Derechos Humanos del Estado de Zacatecas (CDHEZ), Arnulfo Correa Chacón, consideró que México no tiene las condiciones para discutir el tema de una eventual legalización de la mariguana en la capital del país.
+A propósito del debate que ha iniciado en el Distrito Federal, donde algunos sectores de la sociedad se han pronunciado por hacer legal la venta de ese narcótico, el ombudsman zacatecano opinó en entrevista que los mexicanos no están preparados para una “situación de ese tipo”, aunque esperará la postura final de quienes toman decisiones.
+
+Correa evitó opinar sobre el tema bajo su perspectiva personal, pues dijo que como presidente de la CDHEZ, al igual que los otros consejeros del órgano autónomo, deben ser respetuosos de las leyes al estar para cumplir la cultura de la legalidad.
+Refirió por tanto que estará atento a ver cómo termina el tema de la legalización del estupefaciente. Mientras tanto, comentó que en Zacatecas no se ha dado el debate y es así que evadió emitir una postura personal e institucional acerca de ello. 
+Las declaraciones de Correa Chacón contrastan con las del presidente de la Comisión de Derechos Humanos del Distrito Federal (CDHDF), Luis González Placencia, quien hace unos días manifestó que el debate sobre una posible legalización de la mariguana debe realizarse con un enfoque en el derecho de libertad de decisión, para empezar a hablar de un consumo “responsable”.
+
+De igual manera según reporta La Jornada nacional, especialistas participantes del Foro internacional sobre drogas y derechos humanos organizado por la CDHDF, han opinado que el punto central del debate de la legalización de la droga debe centrarse en los consumidores, quienes son vistos como delincuentes, porque la simple portación del enervante los criminaliza y discrimina.
