@@ -1,0 +1,31 @@
+---
+published: true
+title: Graves regresiones
+author: Ernesto Villanueva
+location: Local
+category: Opinión
+layout: posts
+---
+
+La reforma constitucional de 2013 en materia de telecomunicaciones y competencia económica dispone la creación de dos organismos constitucionales autónomos, la Comisión Federal de Competencia Económica (Cofece) y el Instituto Federal de Telecomunicaciones (Ifetel). La designación de sus integrantes, prevista en el artículo 28 de la Constitución, establece un novedoso modelo que habría de mejorar las prácticas existentes. La realidad, empero, apunta hacia el camino contrario. Veamos por qué afirmo lo anterior.
+
+Primero. El artículo 28 constitucional dispone que el Comité de Evaluación, integrado por los titulares del Inegi, del Banco de México y del Instituto Nacional para la Evaluación de la Educación (INEE), “emitirá una convocatoria pública para cubrir la vacante. Verificará el cumplimiento, por parte de los aspirantes, de los requisitos contenidos en el presente artículo y, a quienes los hayan satisfecho, aplicará un examen de conocimientos en la materia; el procedimiento deberá observar los principios de transparencia, publicidad y máxima concurrencia (cursivas mías)”.
+
+Las convocatorias públicas para integrar el Ifetel y la Cofece contradicen el mandato constitucional y abren la puerta de par en par a la suspicacia tan nuestra. En efecto, con convocatorias mal fundadas y motivadas, el comité decidió que la sociedad no tiene derecho a saber los nombres y apellidos de los mexicanos que se sacrificarán por la patria, como la convocatoria del Ifetel señala: “7. A más tardar el 29 de julio de 2013, el Comité de Evaluación publicará en el Portal de Internet y enviará a publicar en el Diario Oficial de la Federación la relación que contenga únicamente los números de los folios de aquellos aspirantes que hayan acreditado el cumplimiento de los requisitos, sin que dé a conocer sus nombres”. Las mismas disposiciones tiene la convocatoria para conformar la Cofece.
+
+Al margen de la Constitución y la ley, Sylvia Irene Schmelkes del Valle, del INEE; Agustín Guillermo Carstens Carstens, de Banxico, y Eduardo Sojo Garza-Aldape, del INEGI, llegaron incluso a fortalecer al máximo la opacidad, habida cuenta que las convocatorias señalan que los nombres y apellidos de los aspirantes se mantendrán en secreto de manera indefinida. En el numeral 9 de la de Ifetel se evidencia su espíritu secretista: “Los datos personales de los aspirantes son confidenciales aun después de concluido el procedimiento de selección”.
+
+Esta medida no sólo es inconstitucional, sino regresiva de las prácticas institucionales en México. Como es sabido, los aspirantes a consejeros del IFE, del IEDF, el presidente de la CNDH o de la CDHDF, tan sólo por citar unos ejemplos, fueron dados a conocer en tiempo y forma, sin que paradójicamente hubiera una orden constitucional específica de realizar ese acto de transparencia, como sí está previsto para integrar la Cofece y el Ifetel. Hay que recordar además que nadie obliga a los interesados a formar parte de la estructura del poder del Estado y que su aceptación implica sujetarse al control del escrutinio público.
+
+Segundo. Las convocatorias en cuestión ponen en práctica la discriminación prohibida por el artículo 1º, párrafo quinto, de la Constitución, y por el artículo 24 de la Convención Americana de Derechos Humanos, al solicitar “cartas de no antecedentes penales” a los interesados. Sobra decir que en el Distrito Federal y en Tabasco, a vías de ejemplo, no existen esos documentos precisamente por ser considerados discriminatorios. Peor aún, ya en el desaseo jurídico, las convocatorias solicitan requisitos de imposible cumplimiento para personas de varias entidades federativas, pues si bien es cierto que aceptan como documento sustituto la “carta de no antecedentes penales” federal, también lo es que ese documento tampoco lo emite la PGR, la cual sólo otorga el de “antecedentes registrales”, que jurídicamente es distinto.
+
+Del mismo modo, las convocatorias son omisas en transparentar otro aspecto medular: el relativo a quién o quiénes calificarán los exámenes practicados a los aspirantes. Tampoco hay candados para garantizar que quien obtuvo la más alta calificación fue evaluado con idéntico criterio que quien tuvo notas inferiores. La única salida a este problema es observar el mandato expreso del artículo 28 constitucional y hacer públicos los exámenes calificados para no dejar duda alguna. Hay que recordar que esta tarea no es un acto de fe, sino de autoridad y constitucionalmente público.
+
+En la misma línea se inscribe el tema concerniente a la integración de las listas compuestas de entre tres y cinco de los aspirantes con las calificaciones más altas. No hay públicamente un criterio metodológico para realizar esta labor, cuya importancia reside en el hecho de que la ubicación en una lista o en otra puede hacer la diferencia para ser comisionado o no; es decir, si un aspirante aparece en una lista donde también se encuentran personajes con visible cercanía con un partido político, tendrá menores oportunidades que si aparece en otra donde no hay cuotas partidistas o son menores.
+
+Tercero. La debilidad jurídica que sostiene la validez de las citadas convocatorias permite que éstas o actos derivados de las mismas puedan eventualmente impugnarse por la vía de amparo; de entrada, por algún aspirante inconforme. Si bien es verdad que la convocatoria del Ifetel señala en el numeral 9 que el aspirante acepta por el hecho de inscribirse los términos de la convocatoria, no lo es menos que los derechos humanos son irrenunciables. Con toda claridad, el artículo 103, fracción 1 de la Constitución, dispone que: “Los tribunales de la Federación resolverán toda controversia que se suscite: I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado mexicano sea parte”.
+
+Esta posibilidad podría implicar la reposición del procedimiento para ajustarse a lo ordenado por la Constitución, además de establecer las responsabilidades legales en que podrían incurrir los titulares del IEE, Banxico e INEGI. 
+
+ evillanueva99@yahoo.com
+@evillanuevamx
