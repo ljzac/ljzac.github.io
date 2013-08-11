@@ -7,7 +7,7 @@ category: Contraportada
 layout: posts
 ---
 
-La institución se mantiene en buen nivel en el contexto nacional
+![](http://i.imgur.com/wurzBQUm.jpg)La institución se mantiene en buen nivel en el contexto nacional
 
 Ramiro Torres Bañuelos, director de la Normal Manuel Avila Camacho, informó que este año solamente entre 60 y 70 por ciento de los egresados de esa institución obtuvo una vacante en el sector educativo, luego de participar en el Concurso Nacional para la Asignación de Plazas Docentes 2013.
 
