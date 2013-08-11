@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-La carencia de un procesamiento adecuado de las cosechas permite el intermediarismo: Secampo
+![](http://i.imgur.com/XN8Yw9Im.jpg)La carencia de un procesamiento adecuado de las cosechas permite el intermediarismo: Secampo
 
 Cadenas comerciales, con disposición para comprar directamente a campesinos: Vallejo
 
