@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-La calificación pasó de 7.1 a 6.4, después de una evaluación de la CNDH y Segob
+![](http://i.imgur.com/VHzjjdKm.jpg)La calificación pasó de 7.1 a 6.4, después de una evaluación de la CNDH y Segob
 
 El penal de Fresnillo, el más bajo en rubros como higiene, seguridad e infraestructura
 
