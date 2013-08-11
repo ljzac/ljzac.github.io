@@ -3,7 +3,7 @@ published: true
 title: Persiste coyotaje en el campo por falta de organización entre productores locales
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
