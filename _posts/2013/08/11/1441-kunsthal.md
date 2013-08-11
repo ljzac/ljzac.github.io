@@ -1,11 +1,14 @@
 ---
-published: false
-location: Local
-category: Portada
+published: true
+title: Juicio por espectacular robo de lienzos en Kunsthal inicia el martes en Bucarest
+twitt: "Seis rumanos están acusados del hurto de obras de Monet, Picasso y Gauguin, que podrían haber sido quemadas."
+author: Afp
+location: Internacional
+category: Cultura y Espectáculos
 layout: posts
 ---
 
-Bucarest. El juicio de uno de los robos más espectaculares de lienzos del siglo inicia el martes en Bucarest, donde serán juzgados seis rumanos acusados del hurto de obras de Monet, Picasso y Gauguin, que podrían haber sido quemadas.
+![](http://i.imgur.com/vCHSwwum.jpg)Bucarest. El juicio de uno de los robos más espectaculares de lienzos del siglo inicia el martes en Bucarest, donde serán juzgados seis rumanos acusados del hurto de obras de Monet, Picasso y Gauguin, que podrían haber sido quemadas.
 
 La madre del principal acusado confesó a los investigadores haber quemado los cuadros antes de retractarse.
 
