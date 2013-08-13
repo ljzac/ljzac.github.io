@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/Z8i7YZ7m.jpg)
+![](http://i.imgur.com/AbwMDnxm.jpg)
 -- El gobierno de Peña Nieto pretende echar abajo la segunda Revolución Mexicana, afirman 
 
 -- El Partido de la Revolución Democrática ya tiene su propia agenda: Gerardo Espinoza
