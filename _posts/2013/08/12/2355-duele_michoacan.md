@@ -1,0 +1,25 @@
+---
+published: true
+title: Duele Michoacán
+author: "Lilian Chapa Koloffon*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+Las fuerzas federales llegaron al estado en diciembre de 2006 en el denominado Operativo Conjunto Michoacán, el primero que lanzó en el país el entonces presidente Felipe Calderón. Seis años después, y nueve meses más bajo una nueva administración federal, duele que la entidad es más mortífera de lo que ya era cuando el gobierno de la entidad que encabezaba Lázaro Cárdenas Batel, al verse rebasado por la violencia relacionada con el crimen organizado, pidió la ayuda del Ejecutivo Federal: mientras que en 2007 el promedio mensual de denuncias por homicidio doloso fue de 43.9, el de 2013 es de 69.1.
+
+La gravedad de la situación es tal que a menos que algo muy bueno ocurra en Michoacán, 2013 desplazará a 2011 como el año más violento en Michoacán desde 2007. Por si no fuera suficiente, la tendencia en las denuncias por secuestro y extorsión en suelo michoacano va a la alza. Para el primero, el promedio mensual de denuncias fue de 2.9 en 2007, 11.3 en 2010 y de 15 en 2013. En cuanto a la extorsión, el promedio fue de 15.2 en 2007 a 11.3 en 2011, ubicándose en 15 este año. El ¿Quién puede decir que la intervención federal para recuperar la seguridad fue efectiva en ese territorio?, ¿y quién que lo hecho en la nueva administración federal va por buen camino? ¿Quién puede asegurar que de las autoridades vendrá una solución sostenible y respetuosa de la vida, producto de la comprensión del fenómeno delictivo en la región?
+
+Aunque resulta complicado definir con precisión desde cuándo, es un hecho que el Estado perdió el control en más de un municipio de la entidad. No es un secreto que una de las cabezas del grupo delictivo conocido como los “caballeros templarios” se refiere a Buenavista Tomatlán, La Ruana y Tepalcatepec como “sus pueblos” y que ofrece incluso –en medio de los episodios de violencia y desgobierno que ahí tienen lugar–  que todo se acabará cuando “se los entreguen”. Mientras eso ocurre o se restablecen los poderes legalmente constituidos, ni Petróleos Mexicanos puede llegar a surtir gasolina a sus puntos de venta en La Ruana (Felipe Carrillo Puerto), ni el programa Oportunidades de la Secretaría de Desarrollo Social puede llegar a sus beneficiarios. 
+
+Los criminales afectan además directamente a productores agrícolas, empacadores y transportistas en 13 municipios de Michoacán, quienes por lo menos desde 2011 deben pagarle a los extorsionadores una suerte de impuesto para poder trabajar la tierra y sacar sus productos de la entidad. Duele que el titular de la Secretaría de Desarrollo Rural estatal, Ramón Cano Vega, declare que la problemática de los limoneros en Tierra Caliente no es asunto que pueda resolver la dependencia a su cargo y que destaque, incluso, que el precio de este cítrico haya subido a favor de los productores. Duele el deterioro en más de un aspecto en la vida de los michoacanos.
+
+A falta de una línea estratégica que nos permita ver la luz al final del túnel que es la seguridad en Michoacán, habemos quienes volteamos a mirar a la educación como una de las posibles soluciones a largo plazo. La educación de calidad puede servir como motor de oportunidades para niños y jóvenes así como para el bienestar de la sociedad michoacana en su conjunto. Pero el motor educativo en la entidad está averiado por razones entre las que se encuentran las siguientes: 1) la inseguridad está afectando la matrícula educativa de acuerdo con información preliminar, y 2) un número importante de quienes están al frente de las aulas michoacanas dista de ser promotor de la calidad educativa.
+
+Por eso duele que sólo 33.3 por ciento de los alumnos michoacanos en el último grado del bachillerato se ubiquen en el rango de resultados bueno y excelente en matemáticas, por debajo de la media nacional (36.3) de acuerdo con los resultados de este año en la Evaluación Nacional del Logro Académico en Centros Escolares (Enlace). También duele que en 2012, más de la mitad de los alumnos de primaria (54 por ciento) que cursan entre el tercero y el sexto año de primaria en el Estado obtuvieron resultados insuficientes o elementales en español.  Duele aún más cuando se sabe que estos porcentajes representan sólo una pequeña muestra de lo que ocurre en el estado porque los profesores han bloqueado la aplicación de Enlace en la mayor parte de las primarias y secundarias michoacanas.
+
+Hacer a un lado los cálculos políticos para conservar la titularidad del gobierno estatal sin importar los costos, tiene que ser uno de los siguientes pasos. Así como la emergencia en materia de seguridad en Ciudad Juárez, Chihuahua, sentó a tres niveles de gobierno a trabajar junto a los juarenses, Michoacán requiere con urgencia otro esfuerzo extraordinario de gobierno y ciudadanía. Un esfuerzo de igual o mayor tamaño que su dolorosa tragedia para implementar políticas efectivas que resuelvan su problemática de manera integral y sostenible. 
+
+*Investigadora de México Evalúa
+ @cklilian
