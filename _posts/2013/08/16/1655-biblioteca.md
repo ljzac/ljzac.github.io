@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Se presenta video sobre inventario de la Biblioteca 'Elías Amador'"
+title: "Presentan video sobre inventario de la biblioteca 'Elías Amador'"
 author: REDACCION
 location: Local
 category: Destacadas
