@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Esclerosis múltiple, una enfermedad que daña  la calidad de vida de los pacientes: especialista"
 author: RAFAEL DE SANTIAGO
 location: Local
