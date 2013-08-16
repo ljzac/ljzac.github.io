@@ -1,6 +1,7 @@
 ---
 published: true
-title: No será posible rehabilitar ni la mitad de las carreteras estatales durante 2013
+title: "Tras inversión de 30 mdp, inaugura MAR dos tramos carreteros de Joaquín Amaro"
+twitt: No será posible rehabilitar ni la mitad de las carreteras estatales durante 2013
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
