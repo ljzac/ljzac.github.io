@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Instalador se refleja en uno de los vidrios de la empresa donde trabaja
 twitt: Instalador se refleja en uno de los vidrios de la empresa donde trabaja
 author: ALEJANDRO ORTEGA NERI
