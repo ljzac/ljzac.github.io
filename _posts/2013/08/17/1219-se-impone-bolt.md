@@ -8,7 +8,7 @@ category: Deportes
 layout: posts
 ---
 
-![Bolt, en Londres 2012. Reuters](http://i.imgur.com/IZJW7Tem.jpg)Moscú. El jamaicano Usain Bolt ganó este sábado el título de 200 metros del Mundial de atletismo en Moscú 2013, con la mejor marca de la temporada (19.66), logrando su segunda medalla de oro en la competición, que puede elevar a tres si se impone el domingo en el relevo 4x100 metros.
+![Bolt, en Londres 2012. Reuters](http://i.imgur.com/XN0zkfpm.jpg)Moscú. El jamaicano Usain Bolt ganó este sábado el título de 200 metros del Mundial de atletismo en Moscú 2013, con la mejor marca de la temporada (19.66), logrando su segunda medalla de oro en la competición, que puede elevar a tres si se impone el domingo en el relevo 4x100 metros.
 
 La medalla de plata fue para su compatriota Warren Weir (19.79), confirmando los pronósticos de que los jamaicanos se harían con las dos primeras plazas en la prueba, y el bronce lo conquistó el estadunidense Curtis Mitchell (20.04).
 
