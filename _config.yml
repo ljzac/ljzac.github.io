@@ -98,6 +98,10 @@ prose:
               value: "Publicidad"
             - name: "Editorial"
               value: "Editorial"
+            - name: "Memoria"
+              value: "Memoria"
+            - name: "Editorial Blog"
+              value: "Editorial Blog"  
           selected: "Portada" 
       - name: "layout"
         field:
