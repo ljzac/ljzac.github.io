@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mujeres se ejercitan cerca de las escalinatas del cerro de La Bufa
 twitt: Mujeres se ejercitan cerca de las escalinatas del cerro de La Bufa
 author: RAFAEL DE SANTIAGO
