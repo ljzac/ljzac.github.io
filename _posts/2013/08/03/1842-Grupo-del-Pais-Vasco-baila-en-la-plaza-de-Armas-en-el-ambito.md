@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Grupo del País Vasco baila en la plaza de Armas en el ámbito del 18 Festival Zacatecas del Folclor Internacional
 twitt: Grupo del País Vasco baila en la plaza de Armas en el ámbito del 18 Festival Zacatecas del Folclor Internacional
 author: ALEJANDRO ORTEGA NERI
