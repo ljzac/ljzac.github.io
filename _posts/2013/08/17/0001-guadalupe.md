@@ -3,7 +3,7 @@ published: true
 title: Sin servicio de agua potable colonias  de Guadalupe por trabajos de la CFE
 author: Redacción
 location: Local
-category: Portada
+category: Municipios
 layout: posts
 ---
 
