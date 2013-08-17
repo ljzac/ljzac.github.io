@@ -1,6 +1,6 @@
 ---
 published: true
-title: Policía britanica tiene nueva información sobre la muerte de la princesa Diana
+title: Policía británica tiene nueva información sobre la muerte de la princesa Diana
 twitt: "Las autoridades no dieron más detalles sobre la información o sobre su origen, pero la cadena de televisión británica Sky News dijo que la información fue entregada por los suegros de un ex militar británico"
 author: "Reuters "
 location: Internacional
