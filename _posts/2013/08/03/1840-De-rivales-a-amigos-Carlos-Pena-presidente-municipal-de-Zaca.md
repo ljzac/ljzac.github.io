@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "De rivales a amigos, Carlos Peña, presidente municipal de Zacatecas electo y Fernando González Bueno, ex candidato por la alianza PAN-PRD a la capital, intercambian teléfonos"
 twitt: "De rivales a amigos, Carlos Peña, presidente municipal de Zacatecas electo y Fernando González Bueno, ex candidato por la alianza PAN-PRD a la capital, intercambian teléfonos"
 author: ALEJANDRO ORTEGA NERI
