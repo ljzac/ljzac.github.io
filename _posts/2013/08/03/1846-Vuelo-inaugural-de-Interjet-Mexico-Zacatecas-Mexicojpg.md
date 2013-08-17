@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Vuelo inaugural de Interjet México-Zacatecas-México
 twitt: Vuelo inaugural de Interjet México-Zacatecas-México
 author: ALEJANDRO ORTEGA NERI
