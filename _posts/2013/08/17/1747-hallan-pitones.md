@@ -14,6 +14,6 @@ Los 40 reptiles "que van desde los 30 centímetros a los 1,40 metros" fueron con
 
 La policía de Ontario recordó que la posesión de pitones es ilegal y ha abierto una investigación en curso para determinar la forma en que la pareja pudo hacerse con tantas serpientes.
 
-El pasado 5 de agosto dos hermano de 5 y 7 años morían en Canadá estrangulados mientras dormían por una pitón de 4 metros de largo y 45 kilos.
+El pasado 5 de agosto dos hermanos de 5 y 7 años morían en Canadá estrangulados mientras dormían por una pitón de 4 metros de largo y 45 kilos.
 
 En muchas provincias del país, las autoridades han llevado a cabo una revisión de su legislación sobre la posesión de animales salvajes.
