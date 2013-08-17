@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Uno de los ensambles participantes en el Festival Internacional de Música de Cámara de Zacatecas
 twitt: Uno de los ensambles participantes en el Festival Internacional de Música de Cámara de Zacatecas
 author: ALEJANDRO ORTEGA NERI
