@@ -1,6 +1,6 @@
 ---
 published: true
-title: Se llevó a cabo la primera charla histórica de esclerosis múltiple y buffete de comida novohispana
+title: Se llevó a cabo charla histórica de esclerosis múltiple y buffete de comida novohispana
 author: Rafael de Santiago
 location: Local
 category: Destacadas
