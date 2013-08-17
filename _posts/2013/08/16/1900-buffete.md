@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/l0YlFbtm.jpg)Este viernes se llevó a cabo la primera charla histórica de esclerosis múltiple y buffete de comida novohispana a beneficio de la Asociación Zacatecana de Esclerosis Múltiple (Azem) en el patio central del Obispado. En el evento, Lourdes Ortiz, presidenta de la asociación, mencionó que actualmente apoyan a 154 personas con esclerosis múltiple para que puedan recibir tratamiento.
+![](http://i.imgur.com/Y49cRm1m.jpg)Este viernes se llevó a cabo la primera charla histórica de esclerosis múltiple y buffete de comida novohispana a beneficio de la Asociación Zacatecana de Esclerosis Múltiple (Azem) en el patio central del Obispado. En el evento, Lourdes Ortiz, presidenta de la asociación, mencionó que actualmente apoyan a 154 personas con esclerosis múltiple para que puedan recibir tratamiento.
 
 Pues el tratamiento en instituciones médicas privadas llega a costar hasta 30 mil pesos al mes, y el Seguro Popular no cubre este tipo de padecimiento.
 
