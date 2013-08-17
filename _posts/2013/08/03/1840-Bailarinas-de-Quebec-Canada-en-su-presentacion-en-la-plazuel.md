@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Bailarinas de Québec, Canadá, en su presentación en la plazuela Francisco Goitia, dentro del 18 Festival Zacatecas del Folclor Internacional
 twitt: Bailarinas de Québec, Canadá, en su presentación en la plazuela Francisco Goitia, dentro del 18 Festival Zacatecas del Folclor Internacional
 author: ALEJANDRO ORTEGA NERI
