@@ -1,6 +1,6 @@
 ---
 published: true
-title: Visita Elizabeth Castro Casa Hogar
+title: Visita Elizabeth Castro casa hogar
 author: REDACCION
 location: Local
 category: Destacadas
