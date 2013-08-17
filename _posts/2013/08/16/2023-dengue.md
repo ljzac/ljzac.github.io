@@ -1,29 +1,29 @@
 ---
 published: true
-title: Cientificos panameños logran reproducción de ranas doradas en cautiverio
-twitt: Buscan proteger a esa y otras especies que se encuentran en peligro de extinción ante dispersión de hongo y alteración de hábitat.
+title: Buscan científicos cubanos desarrollar vacuna contra el dengue
+twitt: "Especialistas del Instituto de Medicina Tropical \"Pedro Kourí\" (IPK) de Cuba, junto con el Centro de Ingeniería Genética y Biotecnología (CIGB), trabajan en el desarrollo de un inmunógeno."
 author: Dpa
 location: Internacional
 category: Ciencia y Tecnología
 layout: posts
 ---
 
-![](http://i.imgur.com/dsQrvSTm.jpg)Ciudad de Panamá. Un grupo de científicos ha conseguido en Panamá la reproducción de ranas doradas en cautiverio, en un intento por salvar a la especie del peligro de extinción, confirmaron hoy representantes del Instituto Smithsonian de Investigaciones Tropicales (STRI, por sus siglas en inglés).
+![](http://i.imgur.com/dsQrvSTm.jpg)La Habana. Científicos cubanos trabajan para desarrollar una vacuna contra el dengue, que se encuentra en fase de estudios preclínicos, informaron hoy fuentes oficiales en el marco del XIII Curso Internacional sobre esa enfermedad.
 
-Heidi Ross, directora del Centro de Conservación de Anfibios en el Valle de Antón, en Panamá, destacó los esfuerzos para proteger a la rana dorada (Aletopus zeteki) y otras especies de anfibios ante la dispersión del hongo Batrachochytrium dendrobatidis, o Bd, y la alteración del hábitat.
+La experta cubana en virología, Alienys Izquierdo, señaló que especialistas del Instituto de Medicina Tropical "Pedro Kourí" (IPK) de Cuba, junto con el Centro de Ingeniería Genética y Biotecnología (CIGB), trabajan en el desarrollo de un inmunógeno.
 
-Una nidada puesta el 24 de noviembre 2012 se convirtió en renacuajos que hoy forman un grupo de 42 ranas doradas sanas de seis meses de edad, resaltó la investigadora experta en batracios.
+La especialista, miembro del Proyecto Nacional Vacuna Dengue, explicó que se trata de una proteína, una región del virus muy específica que induce anticuerpos neutralizantes, que podrían proporcionar protección.
 
-La rana dorada es endémica de El Valle de Antón. Allí opera el Centro de Conservación de Anfibios, localizado en el Zoológico de El Níspero. El área está enclavada en un antiguo cráter volcánico, a unos 128 kilómetros al oeste de la capital panameña, donde hay ejemplares de 18 especies en cautiverio.
+Sin embargo, Izquierdo reconoció que aún queda mucho tiempo antes de concluir las investigaciones y poder lograr una vacuna efectiva.
 
-Ross recordó que las ranas doradas silvestres habitan en los arroyos de aguas claras, que fluyen en las montañas del centro de Panamá, por lo que recrear esas condiciones en espacios cerrados es crucial para obtener con éxito a los renacuajos en cautiverio.
+El diario Juventud Rebelde indicó que el proyecto cubano "es uno de los más avanzados y con mejores perspectivas de desarrollo en el mundo", y precisó que se encuentra en fase de estudio preclínico en ratones y monos.
 
-"Tuvimos que recrear a la madre naturaleza en el interior del Centro. Tomó tecnología, recursos y la innovación para que puedan reproducirse y convertirse en adultos jóvenes", puntualizó la investigadora.
+El director de la Iniciativa para la Vacuna del Dengue (DVI) en Brasil, Luiz Jacinto da Silva, estimó por su parte que los primeros resultados de estudios con prueba en humanos podrían aparecer a finales de 2014, según Juventud Rebelde.
 
-Las ranas doradas, de atractivo color dorado rematado con manchas oscuras, son únicas en Panamá y fueron veneradas por las culturas precolombinas. Se comunican a través de un lenguaje corporal, acompañado de sonidos throatales y ondas de manos, que semejan el saludo de los humanos.
+Sin embargo, Da Silva prefirió de momento "no albergar muchas expectativas".
 
-Sin embargo, desde 2007 no han sido vistas en estado salvaje. Los biólogos atribuyen su declinación al hongo Bd, que ingresó a este país en 1997, desde Costa Rica, a la pérdida del hábitat y a la extracción furtiva de ejemplares para ser usados como mascotas.
+La jefa del Departamento de Virología del IPK, Guadalupe Guzmán, anunció que los científicos de ese instituto cubano enfocan sus trabajos hacia el agente transmisor, el mosquito aedes aegypti, también causante de la fiebre amarilla.
 
-Roberto Ibáñez, director del proyecto de Rescate y Conservación de Anfibios de Panamá, dijo que el éxito reproductivo de la rana es un "hito en los esfuerzos de conservación de la biodiversidad". Añadió que "crear la capacidad local para administrar a las poblaciones de anfibios requiere tiempo y trabajo duro".
+En el curso internacional sobre dengue participan unos 300 expertos de varios países, los cuales debaten sobre vigilancia integrada, clínica, factores ambientales de riesgo, participación comunitaria y control del mosquito aedes aegypti.
 
-Ibáñez sostuvo que la esperanza es aprender a criar a esos animales en cautiverio, hasta que se sepa lo suficiente sobre la enfermedad fúngica, antes de que los investigadores los puedan liberar en su hábitat.
+La Organización Panamericana de la Salud (OPS) considera que "en el mejor de los escenarios" la vacuna contra el dengue podría estar disponible en 2017, a juicio de varios grupos de investigadores de todo el mundo.
