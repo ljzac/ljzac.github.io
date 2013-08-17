@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Un centenar de muertos en violento \"día de la ira\" en Egipto"
+title: Un centenar de muertos en violento día de la ira en Egipto
 author: Redacción
 location: Internacional
 category: Mundo
