@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+ <title>La Jornada Zacatecas</title>
+ <description></description>
+ <link>http://www.ljz.mx/</link>
+ <atom:link href="http://www.ljz.mx/rss.xml" rel="self" type="application/rss+xml" />
+
+ <lastBuildDate>{{ .site.time | date_to_rfc822 }}</lastBuildDate>
+ <pubDate>{{ .site.time | date_to_rfc822 }}</pubDate>
+ <ttl>1800</ttl>
+{{ range .s.PagesForCategory "MinuteByMinute" 12 }}
+ <item>
+  <title>{{ .title }}</title>
+  <description>{{ .GetIntrotext | html}} ...</description>
+  <link>http://www.ljz.mx/{{ .url }}</link>
+  <guid>http://www.ljz.mx/{{ .url }}</guid>
+
+  {{if .MainImgSize "t"}}
+  <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" type="image/jpeg" url="{{ .MainImgSize "t"}}"/>
+  {{ end }}
+ </item>
+{{ end }}
+</channel>
+</rss>
