@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-## A New Post
+
 ![](http://i.imgur.com/5co5VV8m.jpg)México, DF. El vocero del gabinete de seguridad, Eduardo Sánchez, ratificó esta tarde que ayer sábado el Ejército mexicano capturó en el municipio de Reynosa, Tamaulipas a Mario Armando Ramírez Treviño, “presunto líder del cártel del Golfo acusado de cometer delitos contra la salud, secuestro y crimen organizado entre otros”.
 
 El funcionario, quien estuvo acompañado por funcionarios de la PGR y del Ejército, destacó que al ser detenido Ramírez Treviño se le aseguraron tres armas largas para uso exclusivo del ejército, nueve teléfonos celulares, 38 mil dólares, 25 mil pesos y 11 centenarios.
