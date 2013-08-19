@@ -1,6 +1,6 @@
 ---
 published: true
-title: Detiene policía municipal a 91 personas el fin de semana
+title: Policía municipal detuvo a 91 personas el fin de semana
 author: REDACCION
 location: Local
 category: Destacadas
