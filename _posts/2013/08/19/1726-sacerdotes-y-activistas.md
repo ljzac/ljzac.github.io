@@ -4,7 +4,7 @@ title: "Sacerdotes y activistas, obligados a negociar con crimen organizado para
 twitt: "Requieren “permiso” para cruzar territorios de diferentes cárteles o ser transportados a lugares, señaló."
 author: La Jornada
 location: Nacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
