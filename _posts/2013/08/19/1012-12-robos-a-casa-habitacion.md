@@ -1,6 +1,6 @@
 ---
 published: true
-title: Registró DSPM de Zacatecas 12 robos a casa habitación durante temporada vacacional
+title: Registró DSPM de Zacatecas 12 robos a casa habitación durante vacaciones; no hubo detenidos
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
