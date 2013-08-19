@@ -1,6 +1,6 @@
 ---
 published: true
-title: Repúblicanos sin acuerdo sobre suspensión de ayuda a Egipto
+title: Republicanos sin acuerdo sobre suspensión de ayuda a Egipto
 author: Redacción
 location: Internacional
 category: Mundo
