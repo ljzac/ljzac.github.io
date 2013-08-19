@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-## A New Post
+
 
 ![](http://i.imgur.com/nTm0ZgLm.jpg)México, DF. Abogados constitucionalistas y expertos en régimen contractual no descartaron la posibilidad de que en la reforma energética que apruebe el Congreso de la Unión se puedan sumar distintos tipos de contratos, incluso algunas concesiones petroleras “disfrazadas de contratos”, aunque éstas no se consideren en la iniciativa de reforma constitucional que envió el Ejecutivo.
 
