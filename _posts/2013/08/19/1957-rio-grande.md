@@ -1,6 +1,6 @@
 ---
 published: true
-title: Se presenta la Internacional Banda de Música de la Estado de Zacatecas en Río Grande
+title: Se presenta la Internacional Banda de Música del Estado de Zacatecas en Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
