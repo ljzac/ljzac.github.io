@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/zudwa0lm.jpg)A pesar de las dificultades económicas que ha atravesado la delegación en Zacatecas de la Cámara Mexicana de la Industria de la Construcción (CMIC), este martes se concretó un año más la donación que este organismo realiza a la Cruz Roja Mexicana. 
+![RAQUEL OLLAQUINDIA](http://i.imgur.com/zudwa0lm.jpg)A pesar de las dificultades económicas que ha atravesado la delegación en Zacatecas de la Cámara Mexicana de la Industria de la Construcción (CMIC), este martes se concretó un año más la donación que este organismo realiza a la Cruz Roja Mexicana. 
 
 El presidente, Salvador González, aseguró que, con un esfuerzo un poco mayor al de otros años, pudieron otorgar este cheque por valor de 100 mil pesos a la institución de asistencia médica que opera en el estado.
 
