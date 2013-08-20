@@ -1,6 +1,6 @@
 ---
 published: true
-title: Abordará mañana 60 Legislatura denuncia de juicio político contra integrantes de Comisión de Planeación
+title: Abordará 60 Legislatura denuncia de juicio político contra integrantes de Comisión de Planeación
 author: ARAZU TINAJERO
 location: Local
 category: Destacadas
