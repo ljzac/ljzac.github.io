@@ -3,7 +3,7 @@ published: true
 title: Asegura MAR que sí hay proyecto de  reutilización de agua en Osiris; será gradual
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
