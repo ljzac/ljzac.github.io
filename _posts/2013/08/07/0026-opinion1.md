@@ -3,7 +3,7 @@ published: true
 title: Las responsabilidades de la UAZ con Zacatecas
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 

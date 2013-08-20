@@ -3,7 +3,7 @@ published: true
 title: Dia mundial de la asistencia humanitaria
 author: Redacción
 location: Local
-category: Editorial Blog
+category: Editorial
 layout: posts
 ---
 

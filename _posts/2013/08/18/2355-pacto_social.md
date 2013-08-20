@@ -3,7 +3,7 @@ published: true
 title: "Pacto social, Estado y Reforma Energética"
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 

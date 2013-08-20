@@ -3,7 +3,7 @@ published: true
 title: “No se dejen excluir y no excluyan a los ancianos”
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 
