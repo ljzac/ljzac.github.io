@@ -1,10 +1,9 @@
 ---
 published: true
-title: Reconocen a José Emilio Pacheco con el Premio Internacional Corona de Oro
-twitt: Es uno de los máximos galardones de poesía y lo han recibido varios ganadores del Nobel
+title: Incendian camión de la comisión de Aquila
 author: La Jornada
-location: Internacional
-category: Mundo
+location: Nacional
+category: Principales
 layout: posts
 ---
 
