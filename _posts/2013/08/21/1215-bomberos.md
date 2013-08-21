@@ -1,6 +1,6 @@
 ---
 published: true
-title: Muestran sus destrezas bomberos de la entidad; hay en Zacatecas 250
+title: Muestran bomberos sus destrezas; hay en Zacatecas 250 trabajadores en este sector
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
