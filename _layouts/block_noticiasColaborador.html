@@ -1,19 +1,13 @@
 <div class="title">
       <h4>NOTICIAS COLABORADOR</h4>
     </div>
-    <div class="partner">
+    <div class="list">
       <ul class="mycarousel jcarousel jcarousel-skin-tango">
 {{ if index .site.postByAuthor .page.author}}
 
 			  {{range index .site.postByAuthor .page.author}}
         <li>
-			    <figure>
-            <img src="{{.MainImgThumb}}" width="97" height="103" alt="avtar">
-          </figure>
-			    <div class="intro">
-			      <h6><a href="{{.GetUrl}}">{{.GetTitle}}</a></h6>
-			      <p>{{.twitt}} </p>
-			    </div>
+			    <a href="{{.GetUrl}}">{{.GetTitle}}</a>
         </li>
 			  {{end}}
 {{end}}

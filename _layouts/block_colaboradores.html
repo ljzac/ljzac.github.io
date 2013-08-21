@@ -6,10 +6,10 @@
 			  {{range index .site.categories "Autor"}}
         <li>
 				  <figure>
-            <img src="{{.MainImgThumb}}" width="97" height="103" alt="avtar">
+            <img src="{{.MainImgThumb}}" width="97" height="103" alt="avatar">
           </figure>
 				  <div class="intro">
-				    <h6><a href="{{.GetAuthorLink}}">{{.GetAuthor}}</a></h6>
+				    <h6><a href="{{.GetUrl}}">{{.GetAuthor}}</a></h6>
 				    <p>{{.twitt}} </p>
 				  </div>
         </li>
