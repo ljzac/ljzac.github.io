@@ -1,7 +1,9 @@
 ---
 published: true
+title: Muestran sus destrezas bomberos de la entidad; hay en Zacatecas 250
+author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
