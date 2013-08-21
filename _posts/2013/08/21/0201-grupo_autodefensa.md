@@ -3,7 +3,7 @@ published: true
 title: Niega el secretario general de Gobierno que  haya en Zacatecas grupos de autodefensa
 author: "ALMA ALEJANDRA TAPIA "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
