@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Busca Paralelo 9 MX impulsar el desarrollo económico mediante industrias culturales y creativas en Zacatecas http://ow.ly/o8MQa"
+title: Bloquean manifestantes acceso a Morelia; piden desintegrar autodefensas
 twitt: "En la capital michoacana están reunidos el titular de Gobernación, Miguel Ángel Osorio Chong y el gobernador Jesús Reyna"
 author: La Jornada
 location: Nacional
