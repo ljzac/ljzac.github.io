@@ -1,6 +1,6 @@
 ---
 published: true
-title: Continúa la promoción de la Fenaza en la perla tapatía
+title: "Proyectan derrama económica superior a 48 mdp durante Fenaza 2013 "
 author: REDACCION
 location: Local
 category: Destacadas
