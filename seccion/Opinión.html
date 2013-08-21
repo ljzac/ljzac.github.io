@@ -1,5 +1,13 @@
 ---
-layout: default
+layout: defaultSimple
 ---
 
-{{ template "seccion_listado.html" .s.PagesForCategory "Opinión" 60}}
+<section class="container">
+<div class="grid_12 alpha">
+{{ template "seccion_listado.html" .s.PagesForCategory "Opinión" 20}}
+</div>
+<div class="grid_4 omega">
+ {{ template "block_colaboradores.html" .}}
+ {{template "gsb.html" .}}
+ {{template "barraDerecha.html" .}}
+</div>

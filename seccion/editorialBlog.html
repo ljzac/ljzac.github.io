@@ -3,10 +3,25 @@ layout: defaultSimple
 ---
 <section class="container">
 <div class="grid_12 alpha">
-{{ template "seccion_listado.html" .s.PagesForCategory "Editorial Blog" 1}}
+{{ template "seccion_listado.html" .s.PagesForCategory "Editorial Blog" 15}}
 </div>
 <div class="grid_4 omega">
- {{ template "block_colaboradores.html" .}}
+ 	<div class="title">
+      <h4>COLABORADORES </h4>
+    </div>
+    <div class="partner">
+      <ul class="mycarousel jcarousel jcarousel-skin-tango">
+        <li>
+			<figure>
+            <img src="http://i.imgur.com/JIakgtYs.jpg" width="97" height="103" alt="avatar">
+          </figure>
+		  <div class="intro">
+			<h6><a href="#">Raymundo cárdenas Vargas</a></h6>
+			<p> </p>
+		   </div>
+        </li>
+      </ul>
+    </div>
 </div
 
 </section>
