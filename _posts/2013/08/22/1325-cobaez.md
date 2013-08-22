@@ -1,6 +1,6 @@
 ---
 published: true
-title: Exigen trabajadores y profesores del Cobaez destitución de director general
+title: Exigen trabajadores y profesores del Cobaez destitución de Mario Caballero
 author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
