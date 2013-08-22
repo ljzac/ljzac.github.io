@@ -63,15 +63,12 @@ Header Section Css
 }
 .header .logoContent {
 	overflow: hidden;
-	width: 960px;
-	height: 175px;
+	max-width: 100%;
+	height: auto;
 }
-.header .logoContent a.logo {
-	display:inline-block;
-	background: url(../images/logo_full.png);
-	width: 960px;
-	height: 175px;
-	position: relative;
+.header .logoContent img {
+	width: 100%;
+    display: block;
 }
 .addSection {
 	overflow:hidden;
