@@ -1,0 +1,16 @@
+---
+published: true
+title: "Industria cultural y creativa: la potencia de Zacatecas"
+author: Redacción
+location: Local
+category: Editorial
+layout: posts
+---
+
+Cuando escuchábamos hablar de ‘industria’ lo asociábamos a fábricas y confección de productos tangibles para el mercado. Pero una vez que se amplió el concepto al turismo, ahora se aplica también a la producción y valor económico de la cultura y los procesos creativos. “Industria cultural” se refiere a aquellas industrias que combinan la creación, la producción y la comercialización de contenidos creativos que contienen intangibles y que son de naturaleza cultural. Industrias culturales incluyen tradicionalmente los sectores editorial,  audiovisual (televisión, cine, multimedia, etc.), artes escénicas, patrimonio,  artes visuales y artesanía. 
+
+Las industrias creativas incluyen a las industrias culturales tradicionales y  otras actividades como el diseño industrial, la producción de software, la  arquitectura y la publicidad. Y esta industria se puede organizar en Pequeñas y Medianas empresas culturales (PyMEs creativas), que abarca tanto a empresas de creación, como las incubadoras de las mismas y sus procesos de comercialización. 
+
+La importancia económica de estas empresas es cada vez más relevante; son ahora poderosos instrumentos de fomento del desarrollo económico y  potentes factores de competitividad, porque la identidad se convierte en una ventaja comparativa: la expresión de la identidad se transfigura en una singularidad que, por lo mismo, adquiere un gran valor económico. Ya existe toda una medición del valor económico de esta industria: cuánto aporta al PIB de un país, cuántos empleos de calidad crea, cómo detona otras áreas de la economía, etcétera. En Europa es ya una disciplina en la que se especializan académicos y programadores económicos. Y para los europeos son industrias importantes porque aportan entre 4 a 6 por ciento de su PIB, según sea el país del que se trate.  En algunos países de América Latina también se ha avanzado en ello, como el caso de Uruguay, Brasil y Argentina. Y en México, aun cuando hay algunos vacíos en cuanto a sus procesos de medición económica de la cultura, se estima que la llamada Industria Básica aporta 3.7 por ciento del PIB, y si se suman todas las empresas que están en la informalidad y la sombra, se calcula que puede llegar a 6 por ciento. Así que es toda una potencia que debe justamente, potenciarse. 
+
+Por ello, las iniciativas tendientes a extender las medidas para darle sistematicidad y dinamismos a las industrias culturales son bienvenidas siempre y cuando sean incluyentes y accesibles a todos los involucrados en el tema. Zacatecas tiene una fuerte potencia en este ramo, cuenta con instituciones formadoras de capital humano vinculado a la producción cultural, es un destino turístico reconocido, y una tradición en la creación en ciertas áreas de las artes, que hacen factible visualizar a Zacatecas como un polo nacional de PyMEs culturales de altos vuelos. Es cosa de tener sentido de estrategia y un decidido apoyo del Estado en este asunto. Si se logra articular un buen plan con los actores locales del ramo, la entidad puede despegar como productora relevante de industrias culturales en el país.
