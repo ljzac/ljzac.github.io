@@ -99,9 +99,7 @@ prose:
             - name: "Editorial"
               value: "Editorial"
             - name: "Memoria"
-              value: "Memoria"
-            - name: "Editorial Blog"
-              value: "Editorial Blog"  
+              value: "Memoria" 
           selected: "Portada" 
       - name: "layout"
         field:

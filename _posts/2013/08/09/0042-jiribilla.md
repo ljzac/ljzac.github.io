@@ -3,7 +3,7 @@ published: true
 title: La Jiribilla
 author: por El Refranero
 location: Local
-category: Editorial
+category: La Jiribilla
 layout: posts
 ---
 
