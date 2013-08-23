@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: "Queda constatada la reactivación de los paramilitares en Chenalhó: Las Abejas"
+twitt: "Advierten posibilidad una masacre de familias católicas que están bajo amenazas; “sabemos leer esas señales de humo”, indican."
+author: La Jornada
+location: Nacional
+category: Principales
 layout: posts
 ---
 
