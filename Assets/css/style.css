@@ -127,8 +127,8 @@ Header Section Css
 .sub-nav {
 	display: inline-block;
 	padding-top:12px;
-	text-align: center;
 	width: 100%;
+	text-align: center;
 }
 /* Dropdown Css */
 
@@ -216,7 +216,6 @@ Header Section Css
 }
 .sub-nav ul {
 	display: inline-block;
-	margin-left: 11px;
 	overflow: hidden;
 	text-align: center;
 }
@@ -612,19 +611,19 @@ Right Section Css
 }
 .papper {
 	position:absolute;
-	right:8px;
+	right:2px;
 	top:45px;
 }
 .papper span {
 	display:block;
-	color:#fff;
+	color:#881b1e;
 	font-size:1.1em;
 	margin-left: 10px;
 }
 .papper a{
 	background-position: -521.7272570133209px -157.36361694335938px ;
-	width: 113px;
-	height: 103px;
+	width: 100px;
+	height: 80px;
 	display: block;
 }
 .news_section {
