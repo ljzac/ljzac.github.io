@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Inicia SAMA campaña de reforestación en 34 municipios
 author: REDACCION
 location: Local
@@ -7,8 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-
-La Secretaría de Agua y Medio Ambiente (SAMA) lleva a cabo una campaña de reforestación en 34 municipios, dentro de la cual tiene la meta de plantar 200 mil árboles durante la presente temporada de lluvias.
+![](http://i.imgur.com/8DTI6Zam.jpg)La Secretaría de Agua y Medio Ambiente (SAMA) lleva a cabo una campaña de reforestación en 34 municipios, dentro de la cual tiene la meta de plantar 200 mil árboles durante la presente temporada de lluvias.
 
 La encargada de SAMA, Alma Fabiola Rivera Salinas, dio  a conocer que la reforestación se realizará en 43 localidades, para cubrir una superficie de 500 hectáreas, con las especies de pino, michoacana, gregy, mezquite y cedro blanco.
 
