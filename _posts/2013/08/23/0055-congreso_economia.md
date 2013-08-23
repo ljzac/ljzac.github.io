@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Realizarán Congreso Internacional de Economía por su 50 aniversario
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-La Unidad Académica de Economía de la Universidad Autónoma de Zacatecas en el marco de su 50 aniversario convoca a investigadores, estudiantes, organismos públicos, sociales y privados al primer Congreso Internacional de Economía Perspectivas de la crisis y reestructuración económica en el contexto del capitalismo actual a realizarse en la ciudad de Zacatecas del 26 al 28 de marzo de 2014.
+![](http://i.imgur.com/9egPcx4m.jpg)La Unidad Académica de Economía de la Universidad Autónoma de Zacatecas en el marco de su 50 aniversario convoca a investigadores, estudiantes, organismos públicos, sociales y privados al primer Congreso Internacional de Economía Perspectivas de la crisis y reestructuración económica en el contexto del capitalismo actual a realizarse en la ciudad de Zacatecas del 26 al 28 de marzo de 2014.
 
 Así lo anunció el responsable del Programa de Licenciatura, Humberto de Luna López ante docentes y estudiantes de séptimo, octavo, noveno y décimo semestre que en la actualidad realizan sus trabajos de investigación para titularse como licenciados en Economía.
 
