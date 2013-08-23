@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: "EU pagó a Microsoft, Google, Yahoo y FB para que participaran con NSA"
+twitt: "Nuevos documentos filtrados a The Guardian por el ex analista de la CIA Edward Snowden, evidencian el gasto de millones de dólares"
+author: La Jornada
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
