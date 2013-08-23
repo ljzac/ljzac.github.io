@@ -1,0 +1,24 @@
+---
+published: true
+title: La cultura como motor del bienestar social
+author: Julio Yrízar
+location: Local
+category: Opinión
+layout: posts
+---
+
+Conviene recordar nuestro origen colectivo, nuestro primitivo punto de partida como especie, antes de jactarnos de manera complaciente, de ser individuos formados por la educación que contribuyen con los ideales de la civilidad. Somos animales en principio, y pese a que el desarrollo de nuestro cerebro de primate goza con el beneficio de un neocórtex abultado, y nuestro complejísimo lóbulo frontal nos permite la comunicación eficiente por medio de lenguajes articulados -aunque imperfectos, eficaces-, en el fondo y por origen, somos bestiales.
+
+¿Quién no ha sentido el impetuoso deseo del arrebato, del dominio, de la complacencia personal por encima del bienestar colectivo? ¿Quién, alguna vez al menos, no ha soñado con el homicidio, con la subyugación del otro y con la perpetuación de su personal entendimiento del mundo, sin importar circunstancias ni contextos? El hombre nace con una inclinación natural hacia lo irracional, de aquí la necesidad de la educación. Es decir que la educación debe promover la formación de sujetos que aspiren al bienestar colectivo. La ética –de origen griego- y la moral –con cuna en el mundo latino-, son las doctrinas ideales a las que da sustento el conocimiento, herramienta capaz de rescatar al hombre del infierno de permanecer rudo e ignorante.
+
+Con peligro de tropezar con un maniqueísmo monocromo, es indispensable definir al bien como una cuestión de respeto por aquello que resulta provechoso y benéfico para todos –o al menos para la mayoría, con una sana deferencia por las disidencias ideológicas de los menos, en tanto que éstas no resulten nocivas. Tal es uno de los ideales de la democracia-. De tal suerte, el mal radica en ser adverso al provecho general, por lo que la educación debe permitir al hombre encaminarse hacia un ideal no utópico sino viable, y alejarlo en la medida de lo saludable, del egoísmo que nos promulga tantos deseos ominosos en la psique. 
+
+Dejó fuera del discurso a la compasión -que también como la falta de ciencia, es connatural del espíritu humano-, pues a pesar de que su práctica permite también expresiones benéficas para el grupo, en lo personal me inclino a considerar que los peldaños más elevados del bien, solo se alcanzan por medio de la razón. Es decir que en otro sentido, el mal es la cúspide de la ignorancia: somos malvados por naturaleza porque nacemos ignorantes, ese es el verdadero pecado original, empero, tenemos la opción de educarnos, de aquí la importancia de la promoción cultural. De aquí también la necesidad de tener mecanismos y organismos que alimenten el juicio crítico de las personas que conforman una sociedad.
+
+Por otro lado, la historia de las sociedades es generosa en ejemplos que demuestran como los segmentos más cultos de una colectividad, es decir, su clase intelectual, ha sido en casi todos los casos sometida a los caprichos de quienes detentan el poder. Si bien la democracia no impone condiciones degradantes a los intelectuales, tampoco podemos afirmar que les permita participar de manera contundente en las decisiones fundamentales de un Estado. En todo gobierno ha existido siempre al menos un residuo de corrupción, y las sociedades emancipadas no escapan de tal incidencia. El signo fundamental de este hecho en nuestro contexto, es el control de las opiniones, además de la enajenación de las expresiones culturales de carácter artístico por parte de la autoridad.
+
+Lo que pretendo decir es que los gobiernos a través de sus instituciones culturales, tienen la obligación de fomentar el desarrollo crítico de la sociedad donde se enraízan; tienen el compromiso de dar apertura, a espacios que sean escenarios propicios para la expresión del espíritu humano educado, incluso –y sobre todo-, si tales expresiones atentan contra los modelos establecidos, por buscar una realidad cotidiana más favorable para todos. Es decir que el gobierno debe promover el desarrollo de las expresiones artísticas que alimenten la cultura, pero sin fiscalizarlas, pues como ya fue dicho, la cultura además liberarnos del triste destino de ser unas bestias, promueve, cuando se la deja volar libre con buen viento bajo las alas, que tanto los individuos que la generan, como aquello otros que la beben, se transformen en mejores elementos del conjunto en el que todos participamos: la civilización. 
+
+La educación nos libera no sólo de nuestra naturaleza animal, sino que también nos ofrece una visión diáfana de las luminosas posibilidades en las que podemos transformar nuestra realidad, por ello, toda medida gubernamental que pretenda distanciar la cultura de la masa social, debe ser combatida con furia y determinación. No al gravamen de los libros por parte de la nueva reforma fiscal. 
+
+yrizac@gmail.com
