@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Capacita Secturz a prestadores de servicio en estándares de calidad
 author: Redacción
 location: Local
