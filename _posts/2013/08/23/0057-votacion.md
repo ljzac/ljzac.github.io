@@ -1,0 +1,22 @@
+---
+published: true
+title: "Después de la votación… ¿Qué pasa con la Lista Nominal de Electores?"
+author: "Martin Escobedo Gutierrez*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+Una vez que la elección local ha pasado, continúan las actividades permanentes del Instituto Federal Electoral, en particular las relativas a la actualización del Padrón Electoral y la Lista Nominal de Electores. Los Módulos de Atención Ciudadana dan servicio a quien acude a realizar su trámite, ya sea por primera vez o para actualizar su información. Se podría pensar que el mantener vigente los instrumentos electorales, después de 22 años que se inició su integración, no representa un arduo trabajo como lo fue visitar todas las viviendas del país; la situación es, ahora, convencer a los ciudadanos de la importancia de tener su credencial actualizada y vigente.
+
+Cito un ejemplo: derivado de las actividades de reseccionamiento realizadas en la extinta sección 0550 del municipio de Guadalupe se invitó durante los meses de enero a marzo a más de 14,000 ciudadanos a actualizar su credencial y tener la posibilidad de referenciarlos en alguna de las 27 nuevas secciones que se crearon, producto de la nueva división territorial. De ellos, a poco más de 11,200 que no realizaron el trámite de actualización se le volvió a notificar en el mes de junio la ubicación de la casilla donde debieron votar el pasado mes de julio. La notificación personalizada efectuada arroja que 8,500 habitan el mismo domicilio y más de 2,400 ya se cambiaron; la diferencia corresponde, entre otras causas, a 650 viviendas deshabitadas, donde ya no es posible conocer la situación del ciudadano pero, evidentemente, también cambió de domicilio. Esta movilidad de la ciudadanía implica la desactualización de la información contenida en el Padrón Electoral y la Lista Nominal de Electores, pero el propio ciudadano debe asumir el compromiso de informar su nuevo domicilio y actualizar su credencial en los módulos.
+
+A partir del primero de enero de 2014, las credenciales cuyo último recuerdo para marcar la votación sea el 09 o 12, es decir, no tienen un 15, dejarán de ser válidas como identificación, además de ser dadas de baja de la Lista Nominal de Electores; en el estado de Zacatecas al 30 de junio de 2013 se tenían 139,963 ciudadanos en esta situación,  los cuales deberán acudir a remplazarla. A ellos se le reitera la importancia de mantener vigente su credencial después de 10 años de haberla obtenido, incluso para tener una fotografía más parecida al portador; algunos habrán cambiado ya de domicilio, doble razón para obtener su credencial. 
+
+Mención aparte merecen los trabajos de depuración permanente. En los primeros seis meses del presente año se dieron de baja de los productos electorales a poco más de 5,200 ciudadanos fallecidos; además, atendiendo lo dispuesto por jueces del Poder Judicial que determinaron la suspensión de derechos de 289 personas se eliminaron del PE igual número de registros. Realizar estas actividades requiere la participación de las oficialías del Registro Civil y los juzgados de la entidad y del resto del país, quienes envían al RFE las correspondientes notificaciones de defunción y suspensiones de derechos, respectivamente.
+
+De enero a agosto de 2013 han acudido a los módulos más de 80 mil zacatecanos a realizar el trámite para obtener su credencial, lo que equivale a una fila de aproximadamente 80 kilómetros de ciudadanos que comparten la responsabilidad de tener una credencial vigente y actualizada; quienes además, han regresado al mismo módulo para recogerla. 
+
+Estas actividades descritas de manera breve requieren, además de la importante participación de los ciudadanos, la de los funcionarios de los módulos, cara visible del Instituto Federal Electoral; asimismo hay personal que se encarga de dar seguimiento y validar las actividades de actualización y depuración del Padrón Electoral y la Lista Nominal de Electores, mantener el correcto funcionamiento de los equipos de cómputo, actualizar la cartografía electoral para lograr la correcta georeferenciación del ciudadano, entre otras tareas necesarias para organizar una elección y, sobre todo, para que usted tenga en sus manos un instrumento certero, confiable e infalible. Así que acuda a actualizar su credencial y sea parte del equipo que da el primer paso para la democracia: otorgar a todos la posibilidad de votar. 
+
+*Jefe de Oficina, Seguimiento y Análisis del Registro Federal de Electores en Junta Local del IFE en Zacatecas
