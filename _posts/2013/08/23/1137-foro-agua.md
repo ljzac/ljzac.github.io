@@ -1,7 +1,7 @@
 ---
 published: true
 title: Inauguran foro Gestión del Agua bajo Condiciones de Sequía en Zacatecas
-twitt: "\tBuscan, por medio de éste, plantear estrategias para mitigar los efectos de este fenómeno climatológico"
+twitt: "Buscan, por medio de éste, plantear estrategias para mitigar los efectos de este fenómeno climatológico"
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
@@ -17,4 +17,3 @@ Entre las instancias participantes están la Secretaría del Campo (Secampo), el
 El propósito principal de la reunión y de las ponencias será el de plantear acciones eficientes y estrategias que ayuden a intervenir con mayor rapidez para mitigar los efectos de la sequía en la entidad.
 
 Además, se hará un balance del programa nacional en contra de este fenómeno climatológico que se ha implementado en el estado hasta el momento.
-
