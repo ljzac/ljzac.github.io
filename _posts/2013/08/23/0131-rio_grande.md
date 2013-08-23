@@ -3,7 +3,7 @@ published: true
 title: Pacta alcalde de Río Grande realizar pagos  de prestaciones a empleados del Simaparg
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Municipios
 layout: posts
 ---
 
