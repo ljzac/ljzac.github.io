@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Con inversión de 1.6 mdp, rehabilitan Casa de Cultura de Sombrerete"
+title: Con inversión de 1.6 mdp rehabilitan Casa de Cultura de Sombrerete
 author: REDACCION
 location: Local
 category: Destacadas
