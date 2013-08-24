@@ -1,6 +1,6 @@
 ---
 published: true
-title: "\tCoinciden expertos que para enfrentar la sequía la prevención es más factible y menos costosa"
+title: Coinciden expertos que para enfrentar la sequía la prevención es más factible y menos costosa
 author: REDACCION
 location: Local
 category: Destacadas
