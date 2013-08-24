@@ -1,7 +1,8 @@
 ---
 published: true
+title: "Las experiencias, punto de partida para crear una historia: Silvia Molina"
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
