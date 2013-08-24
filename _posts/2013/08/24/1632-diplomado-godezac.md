@@ -1,6 +1,6 @@
 ---
 published: true
-title: Capacita GODEZAC a funcionarios públicos en contabilidad gubernamental
+title: Capacitan a funcionarios públicos en contabilidad gubernamental
 author: REDACCION
 location: Local
 category: Destacadas
