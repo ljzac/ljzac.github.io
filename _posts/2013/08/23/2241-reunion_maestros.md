@@ -3,7 +3,7 @@ published: true
 title: "Se reúnen maestros y senadores perredistas, a convocatoria de Mancera"
 author: Redacción
 location: Nacional
-category: Portada
+category: Principales
 layout: posts
 ---
 
