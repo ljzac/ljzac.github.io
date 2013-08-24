@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sobre la fundación de Santa Elena del Río Grande
 author: César Eduardo Gutiérrez Rojas
 location: Local
