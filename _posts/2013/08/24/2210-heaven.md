@@ -1,6 +1,6 @@
 ---
 published: true
-title: Maestros de Chiapas se suman al paro nacional convocado por la CNTE
+title: Familiares de víctimas del bar Heaven acudirán a PGR a identificar cuerpos
 author: Redación
 location: Nacional
 category: Principales
