@@ -3,7 +3,7 @@ published: true
 title: Gobierno sirio advierte a EU que se abstenga de lanzar ataque militar
 author: Redacción
 location: Internacional
-category: Principales
+category: Mundo
 layout: posts
 ---
 
