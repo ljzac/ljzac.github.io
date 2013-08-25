@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Suspiran mujeres fresnillenses ante “El Galán de la Banda” "
 author: SUSANA ZACARIAS
 location: Local
