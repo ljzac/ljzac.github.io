@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/3PQrH1Hm.jpg)■ El Bebeto y su banda Patria Chica tocaron durante más de dos horas
+![](http://i.imgur.com/YkgbwdMm.jpg)■ El Bebeto y su banda Patria Chica tocaron durante más de dos horas
  
 ■ El telonero fue el grupo Huichol Musical, que interpretó más de una vez La Cusinela
 
