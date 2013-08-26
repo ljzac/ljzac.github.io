@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Paro de Inconformes no frena calidad educativa del Cobaez: MACR"
+title: "Paro de inconformes no frena calidad educativa del Cobaez: MACR"
 author: Martín Catalán Lerma
 location: Local
 category: Destacadas
