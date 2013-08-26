@@ -3,7 +3,7 @@ published: true
 title: Autorealiza Poder Legislativo auditoría para conocer manejo de recurso público
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
