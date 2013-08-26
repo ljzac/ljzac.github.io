@@ -3,7 +3,7 @@ published: true
 title: "Las condiciones de seguridad en el estado han mejorado exponencialmente: Escobedo"
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
