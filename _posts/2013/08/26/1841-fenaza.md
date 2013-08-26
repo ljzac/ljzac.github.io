@@ -1,6 +1,6 @@
 ---
 published: true
-title: "\tArranca segunda etapa de promoción de la Fenaza 2013 en Aguascalientes"
+title: Arranca segunda etapa de promoción de la Fenaza 2013 en Aguascalientes
 author: REDACCION
 location: Local
 category: Destacadas
@@ -17,4 +17,4 @@ De igual manera, dio a conocer que este año, por indicaciones del Gobernador Mi
 
 Agregó también la importancia que tiene el serial taurino para esta edición 2013, en la que se contará con grandes figuras del toreo como Ricardo Frausto, Andrés Rozo, Rafael Ortega, Arturo Macías “El Cejas”, Sergio Aguilar, Eulalio López “Zotoluco”, Octavio García “El Payo”, entre otros.
 
-Cabe mencionar que está será la edición número 44 de la Fenaza, conmemorando además el 467 aniversario de la fundación de la ciudad de Zacatecas y como en todas sus ediciones se ha planeado una celebración segura y familiar, señalo el secretario de Turismo, Pedro Inguanzo. 
+Cabe mencionar que está será la edición número 44 de la Fenaza, conmemorando además el 467 aniversario de la fundación de la ciudad de Zacatecas y como en todas sus ediciones se ha planeado una celebración segura y familiar, señalo el secretario de Turismo, Pedro Inguanzo.
