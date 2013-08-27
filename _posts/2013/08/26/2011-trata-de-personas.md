@@ -8,7 +8,8 @@ category: Principales
 layout: posts
 ---
 
-![](http://i.imgur.com/P9YrFlzm.jpg)San Cristóbal de Las Casas, Chis. Policías estatales y municipales, en coordinación con agentes del Instituto Nacional de Migración (INM) “rescataron” a 15 mujeres originarias de Honduras, Nicaragua y México que eran víctimas de explotación en distintos bares del municipio de Pijijiapan, ubicado en la costa de Chiapas, informó la Procuraduría General de Justicia del Estado (PGJE).
+![](http://i.imgur.com/zH3Wffmm.jpg)
+San Cristóbal de Las Casas, Chis. Policías estatales y municipales, en coordinación con agentes del Instituto Nacional de Migración (INM) “rescataron” a 15 mujeres originarias de Honduras, Nicaragua y México que eran víctimas de explotación en distintos bares del municipio de Pijijiapan, ubicado en la costa de Chiapas, informó la Procuraduría General de Justicia del Estado (PGJE).
 
 En un comunicado añadió que los agentes detuvieron a Amado Romero Cruz y Fabiola Medina Cruz, encargados de los establecimientos asegurados, por los delitos de trata de personas en la modalidad de explotación sexual y laboral, así como por delitos en materia sanitaria.
 
