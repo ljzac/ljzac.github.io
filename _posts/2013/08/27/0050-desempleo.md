@@ -1,0 +1,20 @@
+---
+published: true
+title: El desempleo y el apoyo a las reformas
+author: Marcos Salvador Ibarra Infante
+location: Local
+category: Opinión
+layout: posts
+---
+
+![](http://i.imgur.com/HNlfnVYm.jpg)En los periodos de crisis o desaceleración económica uno de los retos más importantes y complicados para los gobiernos es el desempleo. Los efectos de la falta de ingreso permanente, o al menos eventual, para los ciudadanos, traen aparejadas consecuencias económicas y sociales, y puede degenerar, dependiendo del número de resentimientos acumulados y de intereses mezclados, en manifestaciones y revueltas con una fuerte carga de violencia. 
+
+México se encuentra en un momento complicado en la materia. En los últimos 12 meses, de acuerdo con cifras que publica la Secretaría de Trabajo y Previsión Social, el número de empleos generados es el menor desde la crisis económica de 2008-2009. En lo que va de 2013 se han creado 300 mil 689 empleos permanentes y eventuales registrados ante el IMSS, una cifra 40 por ciento menor que los 498 mil 892 nuevos empleos que se generaron en los primeros siete meses de 2012. Pero no sólo la cantidad de empleos sino también la calidad de éstos ha sido mermada. De acuerdo con el Inegi, la insatisfacción del trabajo, medida por la tasa de condiciones críticas de ocupación se incrementó a 12.55 por ciento en el séptimo mes de 2013, cuando el año anterior era de 12.21 por ciento; la tasa de condiciones críticas es un indicador de la insatisfacción del trabajo, ya sea por el tiempo que se le destina, por la remuneración que se obtiene de él, o incluso una combinación de ambas, de tal forma que para julio de 2013 se contabilizaron 6 millones 218 mil 441 trabajadores en esa condición. En este grupo  se incluye a personas que trabajan menos de 35 horas a la semana por razones ajenas a ella, más las que trabajan más de 35 horas semanales con ingresos mensuales inferiores al salario mínimo. Tenemos entonces pocos empleos y de los que hay muchos de ellos son críticos o insatisfactorios, en contraparte, como resulta lógico, está creciendo el empleo informal, que al corte de julio del 2013 alcanzó las 29 millones 729 mil 599 personas en esta condición.
+
+El reto es altamente complejo, necesitamos, en términos coloquiales, repartir mejor el pastel, es decir el presupuesto federal, pero antes se requiere que el pastel crezca, y agregaría que tenemos también que cambiar la receta con que se cocina dicho pastel.
+
+Es decir, necesitamos generar más ingresos, que dichos ingresos se repartan mejor, pero al mismo tiempo necesitamos modificar el origen de los recursos y la forma en que estos se mezclan.  La visión que debe privar es una de integralidad, transversalidad y focalización. Se debe analizar toda la “cadena” presupuestal con un enfoque de sustentabilidad que permita tener claro qué efectos o externalidades provoca en el ámbito económico, social y ecológico, cada peso que recolectamos y que gastamos. Debe pagar más quién más gana, pero no es suficiente, adicionalmente, debe recibir más quien más lo necesita hasta tener garantizados sus derechos sociales básicos y entonces, deberá contribuir en condiciones igualmente proporcionales a todos los demás.
+
+El presidente Enrique Peña Nieto está planteando un esquema integral de reformas que consideran un crecimiento en la recaudación con beneficios inmediatos para todos, de ahí la reforma energética, pero también una nueva forma de obtener esa recaudación y distribuirla, con la reforma hacendaria y otras más como la de telecomunicaciones y la de educación. México esta ante la oportunidad histórica de lograr una verdadera transformación, que atienda de manera integral las distintas vertientes que generen un crecimiento sustentable o de lo contrario quedar como siempre en el “ya merito”. Todas las voces y críticas son bienvenidas, pero siempre bajo un marco de respeto a la diversidad y a los derechos de los demás, es el momento de que todos tomemos partido, es el momento de mover a México. 
+
+Ibarram77@gmail.com
