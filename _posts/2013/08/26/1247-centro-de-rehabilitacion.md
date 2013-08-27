@@ -1,6 +1,6 @@
 ---
 published: true
-title: Inauguran el centro de rehabilitación sur en Tabasco; mil 200 personas recibirán atención
+title: Inauguran el centro de rehabilitación en el sur del estado; mil 200 personas recibirán atención
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
