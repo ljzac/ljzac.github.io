@@ -9,6 +9,8 @@ layout: posts
 
 ![RAFAEL DE SANTIAGO](http://i.imgur.com/R4xtr7Dm.jpg)El Sindicato Nacional de Trabajadores de la Salud (SNTSA) sección 39 mantiene detenidas las áreas de Dirección y Administración del Centro Estatal de Transfusión Sanguínea.
 
+El resto de los espacios opera de manera normal.
+
 Norma Castorena Berrelleza, secretaria general de esta sección, explicó que se busca destituir de la dirección a Ivone Sotelo, pues desde hace dos años ha mostrado una actitud prepotente al negar derechos laborales a los empleados y ocultar incidencias de trabajadores. 
 
 Además, amenaza, comentó Castorena, a algunos servidores públicos con retirarles sus contratos laborales. 
