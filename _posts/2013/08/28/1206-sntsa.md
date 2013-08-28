@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Paraliza SNTSA áreas del Centro Estatal de Transfusión Sanguínea; pide destitución de directora "
+title: "Paraliza SNTSA dos áreas del Centro Estatal de Transfusión Sanguínea; pide destitución de directora "
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
