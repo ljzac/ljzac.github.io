@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-La Paz, Bolivia. El presidente Evo Morales solicitó a Brasil regresar al senador opositor boliviano Roger Pinto para que sea juzgado en Bolivia, al haberse violado normas internacionales en su traslado.
+![](http://i.imgur.com/APSFMl9m.jpg)La Paz, Bolivia. El presidente Evo Morales solicitó a Brasil regresar al senador opositor boliviano Roger Pinto para que sea juzgado en Bolivia, al haberse violado normas internacionales en su traslado.
 
 Si la presidenta brasileña Dilma Rousseff "condenó" la forma en que Pinto salió del país, "entonces lo que cabe es devolver a Pinto a la justicia" para que sea juzgado en Bolivia, dijo el mandatario en rueda de prensa el miércoles.
 
