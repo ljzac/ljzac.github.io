@@ -1336,6 +1336,9 @@ Footer Section Css
  #disqus_thread {
   color: black;
 }
+strong {
+	font-weight: bolder;
+}
 #disqus_thread a {
   color: #881b1e;
 .twitter-share-button{height:26px !important;width: 82px !important;}
