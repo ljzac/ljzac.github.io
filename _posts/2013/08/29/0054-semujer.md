@@ -1,7 +1,7 @@
 ---
 published: true
 title: "“Más vale solas que mal acompañadas”: beneficiaria del programa de Semujer"
-author: "ALMA RIOS \_"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts
