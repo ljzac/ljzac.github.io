@@ -1,6 +1,6 @@
 ---
 published: true
-title: ubjetivaciones rockeras / Un grupo de rock debe ser más que sus integrantes
+title: Subjetivaciones rockeras / Un grupo de rock debe ser más que sus integrantes
 author: Federico Priapo Chew Araiza
 location: Local
 category: De Rock
