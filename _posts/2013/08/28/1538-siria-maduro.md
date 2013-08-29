@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/CwFYLjFm.jpg)Caracas. El presidente de Venezuela, Nicolás Maduro, acusó este miércoles a Estados Unidos y a países de la Organización del Tratado del Atlántico Norte (OTAN) de armar a grupos terroristas en Siria para justificar una intervención **militar**.
+![](http://i.imgur.com/CwFYLjFm.jpg)Caracas. El presidente de Venezuela, Nicolás Maduro, acusó este miércoles a Estados Unidos y a países de la Organización del Tratado del Atlántico Norte (OTAN) de armar a grupos terroristas en Siria para justificar una intervención militar.
 
 El gobernante dijo que Venezuela suma su voz a la de los pueblos que rechazan los planes para una intervención militar del "imperio contra el pueblo de Siria".
 
