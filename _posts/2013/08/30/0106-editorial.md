@@ -1,0 +1,16 @@
+---
+published: true
+title: Prevalece la deuda del gobierno federal con zacatecas
+author: Redacción
+location: Local
+category: Editorial
+layout: posts
+---
+
+El pasado primero de diciembre de 2012, tras tomar posesión como presidente de la República, Enrique Peña Nieto formuló una serie de compromisos de gobierno sin duda necesarios. El primero de ellos fue emprender un viraje en la estrategia de seguridad a fin de poner al Estado al lado de las víctimas y familiares e incluir en ella el combate a las adicciones, el rescate de los espacios públicos y la promoción de proyectos productivos; asimismo, ofreció enviar al Congreso una iniciativa de reforma para unificar en uno solo los 33 códigos penales –de las 32 entidades más el federal– con el propósito de crear mejores condiciones para combatir la impunidad.
+
+Por otra parte, el político mexiquense se comprometió a emprender, en un plazo no mayor a dos meses, una cruzada nacional contra el hambre; a establecer un seguro de vida para jefas de familia; a reducir a 65 años la edad requerida para ser incluido en las pensiones del programa de adultos mayores; a promover una reforma educativa que incluiría la creación del servicio civil de carrera docente y terminar con las plazas magisteriales vitalicias y hereditarias; a restablecer en el país el transporte ferroviario de pasajeros; a licitar dos nuevas cadenas de televisión abierta, ampliar el acceso a la banda ancha y propiciar una mayor competencia en telefonía, transmisión de datos, televisión y radio. Por último, Peña Nieto prometió elaborar un proyecto de Ley Nacional de Deuda Pública y Responsabilidad Hacendaria que buscaría acotar el endeudamiento de los gobiernos estatales.
+
+Las decisiones referidas son plausibles, en principio, pero a horas de su primer informe de gobierno se duda mucho de las concepciones y los medios a utilizar para concretarlas. En el caso de la cruzada contra el hambre, es fecha que no se arranca por completo. Por lo que hace al prometido cambio en la estrategia de seguridad, el aun nuevo presidente no ha podido deslindarse de las inercias bélicas y violentas de la catastrófica administración anterior e incluso ya se duda si en verdad existe una estrategia distinta. En lo que se refiere a la reforma educativa, es claro que la propuesta de Peña Nieto, a pesar de tener aspectos pertinentes, dejó de lado las propuestas de los maestros agrupados en la CNTE, lo que ha generado movilizaciones importantes, una campaña mediática de linchamiento contra los movilizados, y una polarización social que está llegando a niveles realmente preocupantes. En cuanto a los acotamientos legales al endeudamiento de las entidades federativas, la propuesta sigue pendiente en el Congreso. 
+
+Lo cierto es que Peña Nieto asumió, junto con el cargo presidencial, compromisos formidables cuyo cumplimiento, en su primer informe llenan de dudas el panorama. A la fecha, la población zacatecana sigue agraviada por la violencia del crimen organizado, exasperada por la persistencia del desempleo, la desigualdad y la pobreza generadas por el modelo económico neoliberal, y paralizadas por la falta de inversiones públicas importantes. Podemos decir que en vísperas del primer informe de la administración de Enrique Peña Nieto, ésta sigue en deuda con los zacatecanos.
