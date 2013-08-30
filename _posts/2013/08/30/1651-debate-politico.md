@@ -1,6 +1,6 @@
 ---
 published: true
-title: Se realiza concurso estatal de Debate Político Juvenil 2013
+title: Realizan concurso estatal de Debate Político Juvenil 2013
 author: REDACCION
 location: Local
 category: Destacadas
