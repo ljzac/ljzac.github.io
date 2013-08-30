@@ -2,8 +2,8 @@
 published: true
 title: Ganan Tigres de QR el título de la Liga Mexicana de Beisbol
 author: Redacción
-location: Local
-category: Portada
+location: Nacional
+category: Deportes
 layout: posts
 ---
 
