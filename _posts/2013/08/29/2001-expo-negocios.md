@@ -1,6 +1,6 @@
 ---
 published: true
-title: Brina Ricardo el finito López conferencia magistral en Expo Negocios Zacatecas 2013
+title: Brinda Ricardo el finito López conferencia magistral en Expo Negocios Zacatecas 2013
 author: Rafael de Santiago
 location: Local
 category: Destacadas
