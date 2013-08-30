@@ -1,6 +1,6 @@
 ---
 published: true
-title: Invitan a los zacatecanos a disfrutar el rodeo PBR México en la Fenaza 3013
+title: Invitan a los zacatecanos a disfrutar el rodeo PBR México en la Fenaza 2013
 author: REDACCION
 location: Local
 category: Destacadas
