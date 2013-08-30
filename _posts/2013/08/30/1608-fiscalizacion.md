@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Aunque aún no hemos llegado a la meta en materia de fiscalización, sí hemos avanzado y tenemos un sistema perfectible: Lescieur Talavera"
+title: "Aunque no hemos llegado a la meta en materia de fiscalización, hemos avanzado y tenemos un sistema perfectible: Lescieur Talavera"
 author: REDACCION
 location: Local
 category: Destacadas
