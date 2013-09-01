@@ -1,37 +1,57 @@
 ---
 published: false
-title: Piden migrantes trámites más rápidos  para poder invertir en Zacatecas
-author: "ARAZU TINAJERO "
+title: "Presentarán PRD-PAN un recurso de reconsideración  ante Tribunal Federal sobre la elección en Sombrerete"
+author: "ARAZU TINAJERO Y REDACCION "
 location: Local
 category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/9WTs6v9m.jpg)■ Entre 80 y 90% de los nuevos capitales estarían dirigidos al sector agrícola
+![](http://i.imgur.com/WZNF6vOm.jpg)■ Con el dictamen hay un empate con 8 mil 324 votos entre el PRI y la coalición
 
-■ Una opción para concretar negocios sería que desde EU se envíe a personal: Castrellón
+■ La Legislatura debe emitir decreto para celebrar los comicios extraordinarios: IEEZ
 
-La inversión directa en el estado por parte de migrantes residentes en Estados Unidos es difícil debido los largos procesos burocráticos, así como al desconocimiento del mercado, expuso el presidente de la Cámara Binacional de Negocios en Estados Unidos, Pascual Castrellón.
+El Partido de la Revolución Democrática (PRD) interpondrá un recurso de reconsideración ante la sala regional Monterrey del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) que ratificó la invalidez de la segunda casilla en conflicto, ubicada en San José de los Rancho, Sombrerete, por lo que se mandata realizar elecciones extraordinarias en este municipio.
 
-El también presidente de la Central de Abastos en Los Angeles, California, expuso que para los empresarios radicados en el vecino país del norte es muy difícil “operar a control remoto” o a larga distancia, por lo que es imprescindible asociarse con alguien establecido en Zacatecas.
+El dirigente estatal de este instituto político, Gerardo Espinoza Solís, informó que el recurso sería interpuesto este domingo, pues tienen un plazo de 72 horas.
 
-La otra opción es que desde Estados Unidos envíe a su personal, sin embargo, agregó, hay pocas posibilidades de que se realice de esta forma por lo que destacó la función de la Cámara Binacional de Negocios.
+El fallo emitido por el TEPJF el pasado viernes ratificó una de las dos anulaciones de casilla acordadas por el Tribunal de Justicia Electoral del Estado de Zacatecas (TJEEZ).
 
-“Nosotros que estamos allá queremos ser socios de alguien de acá, no podemos estar aquí. La idea es que no te comas el pastel tú solo, tenemos que compartir pero sí vamos a traer inversión para acá”, expuso.
+Este dictamen establece un empate con 8 mil 324 votos entre la alianza PRD-PAN, que se erigía como ganadora de la elección, y el Partido Revolucionario Institucional (PRI) en los resultados electorales del pasado 7 de julio.
 
-Entre los principales obstáculos para concretar la inversión o creación de una empresa en Zacatecas es la cultura empresarial, pues en Estados Unidos se requieren sólo dos o tres días para instituir una compañía legalmente, mientras en México los trámites son más lentos.
+De concretarse la elección extraordinaria, Sombrerete se uniría a El Salvador como segundo municipio donde se ha presentado esta situación en la historia del estado.
 
-Sin embargo no descartó la inversión e instalación en Zacatecas de empresas de mexicanos radicados en Estados Unidos, “es cuestión de aclimatarse de lo que es trabajar en México. Tarde o temprano vamos a estar otra vez aquí”.
+Al respecto el líder perredista dijo respetar pero no compartir la resolución por parte del Tribunal, por lo que informó que tras analizar el tema con el dirigente del Partido Acción Nacional en Zacatecas, Arturo López de Lara, presentarán el recurso de reconsideración.
 
-El 80 o 90 por ciento de interés de invertir en Zacatecas está dirigido al sector de la agricultura, en su mayoría jitomate y chile, pero aún analizar qué productos se pueden desarrollar pues Zacatecas cuenta con todas las condiciones para hacerlo, expuso.
+Calificó como cínicas las acciones por parte del PRI y sus candidatos, al haber impugnado la elección mientras que en ese municipio se comprobó la entrega de despensas a favor de ese instituto político, así como la participación de Marco Vinicio Flores Chávez, secretario de Educación (Seduzac), en actos proselitistas.
 
-Una de las tareas de la Cámara es informar a los empresarios sobre el clima de negocios y las condiciones con que cuenta Zacatecas.
+Los tribunales, agregó, le han quedado a deber a Zacatecas, pues no se garantiza la realización de procesos electorales con certeza jurídica, además de que varían los criterios en cada caso que se presenta.
 
-La Cámara Binacional de Negocios Capítulo Estados Unidos tiene como tarea vincular a los productores zacatecanos con los empresarios en aquel país, a fin de que se establezcan lazos de intercambio comercial.
+De calificarse como improcedente el recurso de reconsideración, expuso que se encuentran fuertes rumbo a la realización del proceso de elecciones extraordinarias, al afirmar que los ciudadanos de Sombrerete se manifestarán a favor de la alianza PAN-PRD, luego de los desgastantes comicios concluidos el pasado 7 de julio. 
 
-Pascual Castrellón destacó que el mercado del vecino país del norte tiene gran apertura a los productos mexicanos, siempre y cuando cumplan con los requerimientos de calidad y certificación en algunos casos.
-Los zacatecanos, agregó, cuentan con la calidad, mientras aquellos que aún no alcanzan las certificaciones son capacitados a través de la CBN en temas que incluyen imagen y valor agregado entre otros temas.
+Recordó que en dicho proceso incluso el dirigente municipal del PRD fue objeto de un intento de homicidio en manos de supuestos integrantes del PRI.
 
-En este sentido el presidente de la Cámara en Zacatecas, Alejandro Mendoza Arrillaga, expuso que con la intervención de este organismo se solucionarán trabas en el difícil tema de la exportación, sobre todo a Estados Unidos, pues se encargan de realizar los ajustes como es el tema de empaques.
+Afirmó que la coalición volverá a ganar “ahora con mayor contundencia y con el doble de votos”.
+“El PRI está preocupado por su deficiente imagen pública y porque perderán la gubernatura, por ello tratan de controlar el territorio a través de las presidencias municipales”, concluyó.
 
-Destacó además que entre las tareas de esta organización se buscará a empresarios que quieran invertir sobre todo en productos como el tomate y el chile.
+
+**IEEZ, preparado para organizar
+una elección extraordinaria**
+
+El Instituto Electoral del Estado de Zacatecas se encuentra preparado para la celebración de una elección extraordinaria, una vez que la Legislatura del estado, de ser el caso, emita el decreto correspondiente mediante el cual instruya al Consejo General del IEEZ a celebrar la elección extraordinaria en el municipio de Sombrerete, dijo Leticia Catalina Soto Acosta, consejera presidente.
+
+De acuerdo con la sentencia de la Sala Monterrey del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), al resolver el Juicio de Revisión Constitucional SU-JNE-20/2013 y acumulado, la cual modificó la resolución del Tribunal Electoral Local que había determinado anular dos casillas en la elección de Sombrerete.
+
+En este caso, la Sala Monterrey del TEPJF decidió anular sólo una casilla, la número 1356 básica, la cual se instaló en la comunidad San José de los Ranchos, municipio de Sombrerete.
+
+Ante esta determinación, el resultado de la elección es de 8 mil 324 votos para cada uno de los candidatos del PRI y de la coalición PAN- PRD. Se trata de una decisión jurisdiccional que empata la elección y, ante un empate, lo que procede es realizar una elección extraordinaria, explicó Soto Acosta.
+
+Sin embargo, precisó que en materia electoral existe el recurso de reconsideración, un derecho que tienen los partidos políticos ante una instancia superior, que en este caso sería la Sala Superior del TEPJF, en el término de tres días. 
+
+En caso de que se presente y se admita este recurso de reconsideración, la Sala Superior del TEPJF determinará si prevalece o no el empate en la elección ordinaria del proceso electoral 2013.
+
+Por lo tanto, una vez que la resolución emitida por el TEPJF sea definitiva, la  Legislatura podrá emitirá un decreto en el que ordene al IEEZ aprobar la convocatoria para que la elección extraordinaria se realice dentro de los 45 días siguientes.
+
+“En este escenario, en el instituto tendremos que establecer un calendario de las acciones a realizar, desde la insaculación de funcionarios para integrar las mesas directivas de casilla, registro de candidatos, los plazos para la realización de campaña electoral y todas las tareas necesarias para preparar la elección”, expuso.
+
+Además, en una elección extraordinaria podrán participar los partidos políticos, la coalición y los dos candidatos independientes de la pasada jornada electoral del 7 de julio.
