@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "A 50 años del discurso emblemático por  los Derechos Civiles: Martin Luther King"
 author: "REDACCION "
 location: Local
