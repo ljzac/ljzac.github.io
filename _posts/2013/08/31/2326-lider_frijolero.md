@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Líder frijolero secuestrado está libre,  se escapó, informó Arturo Nahle"
 author: REDACCION
 location: Local
