@@ -3,7 +3,7 @@ published: true
 title: La universidad y las derechas  expuestas en Venecia
 author: CARLOS BELMONTE GREY / LA GUALDRA
 location: Local
-category: Contraportada
+category: Cultura y Espectáculos
 layout: posts
 ---
 
