@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Presentarán PRD-PAN un recurso de reconsideración  ante Tribunal Federal sobre la elección en Sombrerete"
 author: "ARAZU TINAJERO Y REDACCION "
 location: Local
