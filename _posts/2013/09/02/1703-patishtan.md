@@ -1,6 +1,6 @@
 ---
 published: true
-title: Magistrado Celis Fuentes será responsable de proyecto del caso Patishtán
+title: Turnan caso Patishtán a presidente de tribunal en Tuxtla Gutiérrez
 twitt: "El Primer Tribunal Colegiado de Circuito con residencia en Tuxtla Gutiérrez agregó que una vez que esté listo el proyecto, Celis Fuentes y los otros dos magistrados sesionarán para analizarlo y luego votarlo por mayoría o por unanimidad."
 author: La Jornada
 location: Nacional
