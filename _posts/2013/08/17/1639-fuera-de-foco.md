@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Una tienda del centro de la capital zacatecana pone a la venta artículos para el regreso a clases
 author: ALEJANDRO ORTEGA NERI
 location: Local

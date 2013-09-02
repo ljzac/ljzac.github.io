@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Niño zacatecano en un día de trabajo
 author: ANDRÉS SÁNCHEZ
 location: Local

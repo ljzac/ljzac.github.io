@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Pedro Juan Avilés Project, de Cuba, abrió el sexto Festival Internacional de Jazz y Blues, realizado en las instalaciones del Museo de Arte Abstracto Manuel Felguérez"
 author: ALEJANDRO ORTEGA NERI
 location: Local

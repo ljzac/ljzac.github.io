@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Iraida Noriega Harmonic Trío, en concierto, como parte del sexto Festival Internacional de Jazz y Blues"
 author: ANDRÉS SÁNCHEZ
 location: Local

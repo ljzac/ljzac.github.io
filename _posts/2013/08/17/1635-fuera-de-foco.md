@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Turistas observan la iconografía del frontispicio de la Catedral Basílica de Zacatecas
 author: ALEJANDRO ORTEGA NERI
 location: Local

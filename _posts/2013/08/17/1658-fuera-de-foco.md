@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Eddie Gómez Trío, dentro del sexto Festival Internacional de Jazz y Blues"
 author: ANDRÉS SÁNCHEZ
 location: Local

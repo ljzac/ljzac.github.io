@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Lamentable y cotidiano
 author: ANDRÉS SÁNCHEZ
 location: Local

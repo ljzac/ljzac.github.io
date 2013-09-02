@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Develación de fotos de las candidatas a reina de la Fenaza 2013, en jardín Independencia"
 author: ALEJANDRO ORTEGA NERI
 location: Local

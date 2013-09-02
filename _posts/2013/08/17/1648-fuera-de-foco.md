@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Unidad minera El Coronel, en Ojocaliente, donde las labores estaban paralizadas desde mayo pasado y donde, ahora, el problema ya está solucionado"
 author: ALEJANDRO ORTEGA NERI
 location: Local

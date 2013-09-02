@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Iraida Noriega Harmonic Trío, de México, durante su presentación dentro del sexto Festival Internacional de Jazz y Blues Zacatecas"
 author: ANDRÉS SÁNCHEZ
 location: Local
