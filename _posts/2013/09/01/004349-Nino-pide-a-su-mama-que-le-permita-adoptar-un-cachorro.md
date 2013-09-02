@@ -2,8 +2,8 @@
 published: "true"
 title: "Niño pide a su mamá que le permita adoptar un cachorro"
 twitt: "Niño pide a su mamá que le permita adoptar un cachorro"
-author: "Rafael De Santiago"
-authorlink: "https://ljz.mx/autores/Rafael De Santiago"
+author: "Rafael de Santiago"
+authorlink: "https://ljz.mx/autores/Rafael de Santiago"
 category: "Fuera de Foco"
 layout: "posts"
 
