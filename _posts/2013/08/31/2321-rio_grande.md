@@ -7,7 +7,7 @@ category: Política
 layout: posts
 ---
 
-![](http://i.imgur.com/uqJZLEzm.jpg)Amini Yalili Salcedo Castillo, síndico municipal de Río Grande, informó que se darán de baja bienes muebles y de ocho vehículos que están adscritos a la alcaldía.
+![](http://i.imgur.com/uqJZLEz.jpg)Amini Yalili Salcedo Castillo, síndico municipal de Río Grande, informó que se darán de baja bienes muebles y de ocho vehículos que están adscritos a la alcaldía.
 
 Señaló que “con antelación a la realización de la solicitud al cabildo de Río Grande, de dar de baja bienes muebles, se realizó una verificación física resultando 31, y siete más que fueron extraviados o reportados como robados”.
 
