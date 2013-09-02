@@ -2,8 +2,8 @@
 published: "true"
 title: "Entrando al personaje"
 twitt: "Entrando al personaje"
-author: "Rafael De Santiago"
-authorlink: "https://ljz.mx/autores/Rafael De Santiago"
+author: "Rafael de Santiago"
+authorlink: "https://ljz.mx/autores/Rafael de Santiago"
 category: "Fuera de Foco"
 layout: "posts"
 

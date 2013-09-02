@@ -2,8 +2,8 @@
 published: "true"
 title: "Una tarde en el jardín Independencia"
 twitt: "Una tarde en el jardín Independencia"
-author: "Rafael De Santiago"
-authorlink: "https://ljz.mx/autores/Rafael De Santiago"
+author: "Rafael de Santiago"
+authorlink: "https://ljz.mx/autores/Rafael de Santiago"
 category: "Fuera de Foco"
 layout: "posts"
 
