@@ -4,7 +4,10 @@ layout: default
 <!-- los templates estan en _layouts/bloques.html -->
 
 {{ template "laNotaPrincipal.html" .s.PagesForCategory "Portada" 10}}
-{{ template "lajornadatvPrincipal.html" }}
+<div class="title">
+    <h4>La Jornada TV</h4>
+  </div><br><br>
+{{ template "videos.html" }}
 <div class="grid_16 dot">
   <div class="grid_8 alpha">
 	  {{ template "seccion_destacadas" .s.PagesForCategory "Destacadas" 15}}
