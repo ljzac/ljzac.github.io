@@ -1,6 +1,6 @@
 ---
 published: true
-title: ‘Toman’ docentes Rectoría de la UAZ; exigen 23 mdp correspondientes a programa de estímulos  docentes
+title: ‘Toman’ docentes Rectoría de la UAZ; exigen 23 mdp correspondientes a programa de estímulos
 author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
