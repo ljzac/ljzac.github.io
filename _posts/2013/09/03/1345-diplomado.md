@@ -1,6 +1,6 @@
 ---
 published: true
-title: Concluyen 63 funcionarios públicos diplomado acerca de restauración de edificios patrimoniales
+title: Concluyen 63 funcionarios públicos diplomado en restauración de edificios patrimoniales
 author: ALMA RIOS
 location: Local
 category: Destacadas
