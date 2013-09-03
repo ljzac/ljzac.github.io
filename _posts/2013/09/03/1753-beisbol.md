@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Reinaugura,  tras rehabilitación, Parque de Beisbol Zacatecas"
+title: "Reinauguran,  tras rehabilitación, Parque de Beisbol Zacatecas"
 author: REDACCION
 location: Local
 category: Destacadas
