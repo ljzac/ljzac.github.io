@@ -1,5 +1,13 @@
 ---
 layout: defaultSimple
 ---
+<section class="container">
+<div class="grid_12 alpha">
+{{ template "seccion_listado.html" .s.PagesForCategory "La Gualdra" 20}}
+</div>
 
-{{ template "gualdra.html" }}
+{{template "gualdra.html" }}
+{{template "gsb.html" .}}
+{{template "barraDerecha.html" .}}
+</div>
+</section>
