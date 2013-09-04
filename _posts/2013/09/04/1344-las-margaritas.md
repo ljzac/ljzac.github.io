@@ -1,6 +1,6 @@
 ---
 published: true
-title: Impartirán clases de deporte en Las Margaritas; el espacio dará también servicio de hidroterapia
+title: Impartirán clases de deporte en Las Margaritas; el balneario dará también servicio de hidroterapia
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
