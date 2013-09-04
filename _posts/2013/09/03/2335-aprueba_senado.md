@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-![](http://i.imgur.com/NkZZZ8am.jpg)
+![](http://i.imgur.com/k8VZjXtm.jpg)
 México, DF.  El pleno del Senado aprobó en lo general el dictamen de la Ley General del Servicio Profesional Docente con 102 votos a favor, 22 en contra y sin abstenciones.
 
 El dictamen que establece nuevas reglas en los procesos de evaluación, promoción y permanencia frente a los grupos de alumnos de todos los profesores del país.
