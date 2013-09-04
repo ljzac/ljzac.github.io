@@ -3,8 +3,8 @@ published: true
 title: "“Decepcionante”, primer Informe de Peña Nieto en derechos humanos: AI"
 twitt: "Carece de medidas para erradicar la violencia contra mujeres y migrantes, entre otros"
 author: La Jornada
-location: Local
-category: Destacadas
+location: Nacional
+category: Principales
 layout: posts
 ---
 
