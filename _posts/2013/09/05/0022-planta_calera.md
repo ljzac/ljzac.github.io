@@ -7,7 +7,7 @@ category: Municipios
 layout: posts
 ---
 
-![](http://i.imgur.com/TU2Czdwm.jpg)
+![](http://i.imgur.com/s7HBcM3m.jpg)
 El gobernador Miguel Alonso Reyes inauguró la planta de alimentos balanceados y comercializadora ubicada en Calera, dependiente de la Unión Ganadera Regional de Zacatecas (UGRZ). Esta tendrá la posibilidad de procesar 12 mil toneladas anuales de alimento, lo que será un complemento significativo para la alimentación del ganado de la entidad.
 
 Ante decenas de agremiados a la UGRZ de varias partes de la entidad, el mandatario detalló que Gobierno estatal invirtió 4 millones 800 mil pesos, la mitad del costo total, el resto lo aportaron Gobierno federal y los propios ganaderos.
