@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Inicia construcción de empresa danesa \tde proveeduría minera; generará 225 empleos directos"
+title: Inicia construcción de empresa danesa de proveeduría minera; generará 225 empleos directos
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
