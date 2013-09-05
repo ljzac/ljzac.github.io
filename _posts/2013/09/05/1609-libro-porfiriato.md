@@ -1,6 +1,6 @@
 ---
 published: true
-title: Se presenta libro sobre la  educación femenina durante el porfiriato
+title: Presentan libro sobre la  educación femenina durante el porfiriato
 author: REDACCION
 location: Local
 category: Destacadas
