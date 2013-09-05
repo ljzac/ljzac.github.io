@@ -3,7 +3,7 @@ published: true
 title: "¿Y la Corrupción qué, Presidente?"
 author: Sabina Berman
 location: Local
-category: Portada
+category: Opinión
 layout: posts
 ---
 
