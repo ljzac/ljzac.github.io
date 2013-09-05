@@ -30,6 +30,7 @@ En cuanto a la seguridad en la operación del proyecto, el empresario explicó q
 
 Insistió en los beneficios que aportará la llegada de este recurso energético a la entidad, ya que “el gas natural es una fábrica de fábricas, una vez que esté el gas natural van a llegar muchas empresas aquí al estado. Desgraciadamente en años anteriores que no había gas, no veíamos que se establecieran aquí en Zacatecas”.
 
+![](http://i.imgur.com/0kmsjYLm.jpg)
 **Se crearán 500 mil empleos en 5 años con la reforma energética: Coldwell**
 
 El secretario de Energía, Pedro Joaquín Coldwell, estimó que con la reforma energética planteada por Gobierno federal se crearán 500 mil nuevos empleos en el país, en los próximos cinco años.
