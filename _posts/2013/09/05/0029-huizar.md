@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/FcEd2Kam.jpg)
+![](http://i.imgur.com/UsWhWSYm.jpg)
 ■ Al tiempo de la auditoría, faltaban recursos por ejercerse, según titular de la SFP
 
 ■ No habrá sanción administrativa alguna de parte del órgano fiscalizador, dijo
@@ -22,4 +22,4 @@ Sin embargo, aseguró que a esta fecha ya están totalmente ejercidos y las obse
 
 Aunque según el informe de fiscalización en mención, la auditoría se practicó hasta finales de año y fue por ello que advirtió de posibles sanciones administrativas para tener posibles recuperaciones por 17 millones 388 mil pesos, equivalentes a los daños y perjuicios que se pudieron causar a la Hacienda Pública Federal. 
 
-Ya que en total se registraron 40 observaciones, de las cuales en aquel entonces 16 ya habían sido solventadas. 
+Ya que en total se registraron 40 observaciones, de las cuales en aquel entonces 16 ya habían sido solventadas.
