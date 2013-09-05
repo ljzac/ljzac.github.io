@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/uqbAOWcm.jpg)Después de siete años de espera y tras haberse reducido en un 80 por ciento el número de pequeños mineros zacatecanos por la falta de oportunidades de trabajo, se puso en operación la planta de beneficio de Vetagrande y se colocó la primera piedra de la fundidora que se construirá en el mismo lugar.
+![](http://i.imgur.com/hYXPLfwm.jpg)Después de siete años de espera y tras haberse reducido en un 80 por ciento el número de pequeños mineros zacatecanos por la falta de oportunidades de trabajo, se puso en operación la planta de beneficio de Vetagrande y se colocó la primera piedra de la fundidora que se construirá en el mismo lugar.
 
 De esta forma, expuso el gobernador Miguel Alonso Reyes, se cierra el ciclo de la minería en Zacatecas con los procesos de explotación, beneficio y fundición en el territorio zacatecano.
 
