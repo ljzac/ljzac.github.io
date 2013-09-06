@@ -3,8 +3,8 @@ published: true
 title: Noveno gasolinazo durante 2013; suma casi un peso
 twitt: "De esta manera, a partir del primer minuto de este sábado la gasolina Magna pasará de 11.69 a 11.80 pesos por litro; la Premium de 12.25 a 12.36 pesos y el diesel de 12.05 a 12.16 pesos"
 author: La Jornada
-location: Local
-category: Destacadas
+location: Nacional
+category: Principales
 layout: posts
 ---
 
