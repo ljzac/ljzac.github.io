@@ -905,6 +905,8 @@ Bottom Section Css
 .link_interes li {
 	float:left;
 	margin-right:16px;
+	padding-left: 15px;
+	padding-right: 45px;
 }
 .link_interes li.last {
 	margin-right:0;
