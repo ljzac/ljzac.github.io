@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Inauguran en la capital del estado la Sala Regional Norte 4, del TFJFA; rinden protesta 28 abogados"
+title: "Inauguran en la capital del estado la Sala Regional Norte 4, del TFJFA; rinden protesta sus 28 abogados"
 author: ALMA RIOS
 location: Local
 category: Destacadas
