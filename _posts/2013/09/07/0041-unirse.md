@@ -3,7 +3,7 @@ published: true
 title: "Dos últimas Unirses presentan 90% de avance en construcción"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
