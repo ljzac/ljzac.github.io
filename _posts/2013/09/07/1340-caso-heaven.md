@@ -1,6 +1,6 @@
 ---
 published: true
-title: Reconocen padres de los 13 jóvenes del Heaven por medio de fotografías restos de sus hijos
+title: Reconocen a jóvenes del caso Heaven por fotos de cuerpos
 twitt: "De acuerdo al informe que entregó la PGR el protocolo de Necropsia que se aplicó, incluye exámenes de odontología, dactiloscopia, medicina forense, entre otros, por lo menos los restos fueron sometidos a 10 pruebas para determinar que se trataba de los jóvenes plagiados"
 location: Nacional
 category: Principales
