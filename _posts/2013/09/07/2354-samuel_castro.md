@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/xwr5TOam.jpg)■ El líder de Movimiento Ciudadano dijo que declarará ante el MP en otro momento 
+![](http://i.imgur.com/cs5ONhem.jpg)■ El líder de Movimiento Ciudadano dijo que declarará ante el MP en otro momento 
 
 ■ Después de su recuperación dará a conocer más información sobre su estado, dijo
 
