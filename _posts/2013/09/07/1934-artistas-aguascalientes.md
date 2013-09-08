@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Homenajean a José Guadalupe Posada, a 100 años de su muerte, con exposición de artistas hidrocálidos"
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
