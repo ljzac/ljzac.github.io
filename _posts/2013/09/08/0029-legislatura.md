@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/trB9hkFm.jpg)■ Entra en funciones la 61 Legislatura; será presidida por María Guadalupe Medina Padilla
+![](http://i.imgur.com/16nOwJom.jpg)■ Entra en funciones la 61 Legislatura; será presidida por María Guadalupe Medina Padilla
 
 Cerca de 700 millones de pesos se gastaron en los tres años de trabajo de la 60 Legislatura del Estado, según se informó de manera desglosada en la sesión solemne celebrada este sábado, con motivo de la transmisión del Poder Legislativo a los nuevos diputados.
 
@@ -34,5 +34,3 @@ También resaltó el trabajo de las comisiones primera y segunda de Hacienda, en
 En esta sesión solemne, se instaló además la primera mesa directiva de la nueva Legislatura presidida por la diputada María Guadalupe Medina Padilla. Como vicepresidenta se nombró a Eugenia Flores Hernández, y las secretarias serán Susana Rodríguez y María Elena Martínez.
 
 Ya en voz de la nueva presidenta, se clausuró el acto solemne pasadas las 11:30 horas y se citó a la próxima sesión para este domingo 8 de septiembre a las 9 horas, en la cual se recibirá el documento del Tercer Informe de Gobierno.
-
-
