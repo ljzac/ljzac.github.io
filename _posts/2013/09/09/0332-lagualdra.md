@@ -6,4 +6,6 @@ category: La Gualdra
 layout: posts
 ---
 
-[![](http://i.imgur.com/PRPUM9i.png)](http://issuu.com/lajornadazacatecas.com.mx/docs/la_gualdra_115 "La Gualdra 115ok")
+![](http://i.imgur.com/PRPUM9i.png)
+
+<iframe width="600" height="1200" src="//e.issuu.com/embed.html#1493577/4763088" frameborder="0" allowfullscreen></iframe>
