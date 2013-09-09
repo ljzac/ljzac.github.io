@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/54QDwbPm.jpg)
+![](http://i.imgur.com/vVGiaa3m.jpg)
 San José Nacahuil, Guatemala. El llanto y lamentos de los habitantes de la comunidad San José Nacahuil, al noreste de la capital guatemalteca, no deja de escucharse, luego de que desconocidos asesinaron a 11 personas y dejaron por lo menos 18 heridas en el ataque a dos cantinas de la localidad.
 
 La tranquilidad de la noche del sábado se convirtió en una pesadilla para los pobladores. Las mujeres del lugar lloran por momento a gritos, lamentando la muerte de sus esposos, primos, sobrinos e hijos asesinados.
