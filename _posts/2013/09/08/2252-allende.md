@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/usZx0gXm.jpg)
+![](http://i.imgur.com/ObRzvmlm.jpg)
 Santiago de Chile. Decenas de manifestantes con el rostro cubierto encendieron barricadas y se enfrentaron a la policía al término de una marcha en recuerdo de las víctimas de violaciones a los derechos humanos, acto que marcó el inicio de la conmemoración de los 40 años del golpe de Estado que derrocó al gobierno constitucional de Salvador Allende.
 
 Los encapuchados lanzaron piedras y bombas incendiarias contra carros lanzaaguas de la policía uniformada, que también actuó con gases lacrimógenos.
