@@ -8,4 +8,4 @@ layout: posts
 
 ![](http://i.imgur.com/PRPUM9i.png)
 
-<iframe width="600" height="1200" src="//e.issuu.com/embed.html#1493577/4763088" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="800" src="//e.issuu.com/embed.html#1493577/4763088" frameborder="0" allowfullscreen></iframe>
