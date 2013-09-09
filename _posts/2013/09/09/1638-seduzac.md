@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fortalecen Seduzac Y CNDH núcleos familiares
+title: Fortalecen Seduzac y CNDH núcleos familiares
 author: REDACCION
 location: Local
 category: Destacadas
