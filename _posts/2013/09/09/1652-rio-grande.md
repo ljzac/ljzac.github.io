@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Informa Río Grande arranque a la obra de la rehabilitación de la línea de los pozos del Cazadero; se invertirán casi 3 mdp "
+title: "Informa Río Grande arranque a la obra de la rehabilitación de la línea de pozos del Cazadero; invertirán casi 3 mdp "
 author: REDACCION
 location: Local
 category: Destacadas
