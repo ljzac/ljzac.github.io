@@ -1,6 +1,6 @@
 ---
 published: true
-title: La Gualdra 115ok
+title: La Gualdra 115
 location: Local
 category: La Gualdra
 layout: posts
