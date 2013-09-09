@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/xFsLyxdm.jpg)
+![](http://i.imgur.com/wHM2eyNm.jpg)
 Sao Paulo. El gobierno de Estados Unidos supuestamente espió a la compañía petrolera estatal de Brasil, Petroleo Brasileiro SA, conocida como Petrobras, según el sitio en Internet de Globo, la mayor cadena de televisión del país sudamericano.
 
 La cadena dijo que su información nuevamente proviene de Glenn Greenwald, un activista estadunidense que ha trabajado con el fugitivo ex analista de la NSA Edward Snowden para exponer la extensión del espionaje de Washington a nivel local e internacional.
