@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Armando Silva Cháirez, rector de la Universidad Autónoma de Zacatecas, fue protagonista hace unos días, al presentar su renuncia al cargo y al haberle sido negada por el Consejo Universitario_1"
 twitt: "Armando Silva Cháirez, rector de la Universidad Autónoma de Zacatecas, fue protagonista hace unos días, al presentar su renuncia al cargo y al haberle sido negada por el Consejo Universitario_1"
 author: Alejandro Ortega Neri
