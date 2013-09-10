@@ -1,7 +1,9 @@
 ---
 published: true
+title: Inauguran exposición sobre Genaro Codina en el Archivo Histórico
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
