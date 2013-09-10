@@ -1,6 +1,6 @@
 ---
 published: true
-title: Pondrá en operaciones Casa Municipal de Cultura este miércoles 11 de septiembre
+title: Pondrá Trancoso en operaciones Casa Municipal de Cultura este miércoles 11 de septiembre
 author: REDACCION
 location: Local
 category: Destacadas
