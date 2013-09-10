@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-![](http://i.imgur.com/yiNA0Eom.jpg)■ Firman cerca de 100 acuerdos con usuarios de varias colonias capitalinas
+![](http://i.imgur.com/PXt9D9Fm.jpg)■ Firman cerca de 100 acuerdos con usuarios de varias colonias capitalinas
 
 ■ El objetivo de ello es ahorrar tiempo y trámites a los usuarios: García Flores
 
