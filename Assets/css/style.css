@@ -135,13 +135,13 @@ Header Section Css
 /* Dropdown Css */
 
 .dropdwon {
-	visibility:hidden;
-	position:absolute;
-	top:40px;
-	left:-42px;
-	width: 300px;
+	visibility: hidden;
+	position: absolute;
+	top: 40px;
+	left: -36px;
+	width: 200px;
 	height: auto;
-	padding-bottom:9px;
+	padding-bottom: 9px;
 	padding-top: 10px;
 	box-shadow: 0 2px 5px #333333;
 	background: #C2C2C2;
@@ -153,8 +153,9 @@ Header Section Css
 	background: linear-gradient(#C2C2C2, #fefefe);
 	-pie-background: linear-gradient(#C2C2C2, #fefefe);
 	-webkit-border-radius: 0px 0px 10px 10px;
-    border-radius: 0px 0px 10px 10px;
-    z-index: 9999;
+	border-radius: 0px 0px 10px 10px;
+	z-index: 9999;
+	overflow: hidden;
 }
 .nav li:hover .dropdwon {
 	visibility:visible;
