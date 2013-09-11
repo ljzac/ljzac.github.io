@@ -1,4 +1,5 @@
-{{ $miseccion := index .site.categories "Fuera de Foco"}}
+{{if .}}
+{{ $miseccion := index . 0}}
 <div class="news_section">
   <div class="title">
     <h4>FUERA DE FOCO</h4>
@@ -6,18 +7,17 @@
   <div class="news"> 
     <div class="slider flexslider">
       <ul class="slides">
-{{if $miseccion }}
-        {{ range $miseccion }}
+        {{ range . }}
         <li>
           <h3 style="margin: 0 auto;width: 95%;">{{.title}}</h3>
-          <a href="{{.MainImgSize "h"}}" rel="gallery1" class="fancybox" title="{{.title}}. <br /> {{.author}}"><img src="{{.MainImgSize "b"}}" alt="{{.title}}"></a>
+          <a href='{{.MainImgSize "h"}}' rel="gallery1" class="fancybox" title="{{.title}}. <br /> {{.author}}"><img src='{{.MainImgSize "b"}}' alt="{{.title}}"></a>
             <ul class="comment">
               <li>por {{ .author }} </li>
             </ul>
         </li>
         {{end}}
-{{end}}
       </ul>
     </div>
   </div>
 </div>
+{{end}}
