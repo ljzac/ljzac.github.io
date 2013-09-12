@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/bMTrPmNm.jpg)
+![](http://i.imgur.com/C46GYAvm.jpg)
 ■ A su paso, recibieron muestras de apoyo de la gente que observaba la protesta
 
 ■ Anuncian la próxima toma de la caseta en la carretera a Calera y un paro el 19 de septiembre
