@@ -8,7 +8,7 @@ category: Deportes
 layout: posts
 ---
 
-México, DF.  Christian Giménez señaló que la caída ante Estados Unidos fue “un golpe duro” pero son parte de la vida y deben levantarse. Y como siempre soñó estar en la selección mexicana, “quiero estar tanto en las buenas como en las malas y hoy más que nunca dar la cara con nuestra gente”.
+![](http://i.imgur.com/o3Fxes7m.jpg)México, DF.  Christian Giménez señaló que la caída ante Estados Unidos fue “un golpe duro” pero son parte de la vida y deben levantarse. Y como siempre soñó estar en la selección mexicana, “quiero estar tanto en las buenas como en las malas y hoy más que nunca dar la cara con nuestra gente”.
 Rechazó que es una vergüenza tener que pelear en repechaje, “hay que analizar todas las cosas y partir de eso trabajar, enfocarse en lo que viene porque nos jugamos más que la carrera que el futbol; ojalá podamos clasificar al mundial.
 
 Para el panameño Felipe Baloy no es imposible que eliminen a México el próximo 11 de octubre “nadie pensaba que en estos momentos iba a estar en esa posición”, apuntó al ser entrevistado en el aeropuerto capitalino.
