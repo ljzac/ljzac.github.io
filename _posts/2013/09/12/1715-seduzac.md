@@ -1,6 +1,6 @@
 ---
 published: true
-title: Entregará SEDUZAC becas a estudiantes de excelencia académica
+title: Entregará Seduzac becas a estudiantes de excelencia académica
 author: REDACCION
 location: Local
 category: Destacadas
