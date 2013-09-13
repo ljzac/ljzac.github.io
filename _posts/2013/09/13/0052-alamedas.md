@@ -1,0 +1,26 @@
+---
+published: true
+title: Las grandes alamedas
+author: Socorro Martínez Ortiz
+location: Local
+category: Opinión
+layout: posts
+---
+
+El miércoles pasado se conmemoró el 40 aniversario del sangriento golpe de Estado militar en Chile, encabezado por Augusto Pinochet en el Palacio de la Moneda en la capital de aquel país, que tuvo por objeto derrocar y asesinar a Salvador Allende, entonces Presidente civil que había llegado a ocupar ese cargo mediante la elección popular de 1970.
+
+A partir de 11 de septiembre de 1973, se impuso como gobierno una férrea y autoritaria dictadura militar que le caracterizó el salvajismo y la impunidad; ejerció el poder durante 16 años consecutivos, de 1973 a 1989, cuando Pinochet fue derrotado por el pueblo chileno en forma pacífica y a través de las urnas el 14 de diciembre de este último año.  Esa elección se llevó a cabo como resultado del plebiscito del 5 de octubre de 1988, convocado por el dictador, para que los ciudadanos manifestaran su decisión de mantenerlo en el poder. Fue: NO. 
+
+Consecuencia inmediata de la dictadura para el pueblo chileno, fue el terror que impusieron los militares: feroces persecuciones en contra del mundo intelectual; universitarios; periodistas; cinematógrafos, etc., y de otras personas por simples sospechas de ser opositores al régimen, existiendo el inminente peligro de ser capturados, torturados cruelmente, privados de su libertad, de su integridad física y de su vida. Degrada a la humanidad conocer que durante los 16 años de la dictadura militar, según datos proporcionados en 1990 por la  Coordinadora Nacional de Derechos Humanos de aquel país, existieron 30 mil ejecutados; 768 desaparecidos; 500 mil torturados y encarcelados; 450 presos políticos; mil 500 procesados y un millón de exiliados.
+
+ México, siempre ha hecho honor al respeto  que internacionalmente mantiene hacia los demás países, y se apresuró a mostrar una vez más, su solidaridad con el pueblo chileno ante esa situación de inminente peligro para la población. Por eso el 11 de septiembre de 1973 fue también para los mexicanos una fecha dolorosa. Sin embargo, nuestro país mantuvo sus relaciones diplomáticas con aquél, para no cerrar sus puertas a los chilenos que trataran de llegar en calidad de refugiados, asilados, exiliados o, simplemente perseguidos.
+ 
+Para lograr tanto el asilo político como el exilio, es necesario la existencia de relaciones diplomáticas entre ambos Estados: aquél de donde es originario el asilado o exiliado y aquél que los recibirá. Por eso, el gobierno mexicano tuvo que soportar indignamente mantener relaciones diplomáticas con Chile, durante un año y dos meses después de que Pinochet implantó la dictadura, de lo contrario muchos chilenos no podrían haber salido oportunamente de aquél terror.
+
+Después, Luis Echeverría Alvarez como Presidente Mexicano y siendo Embajador Gonzalo Martínez Corbalá, rompió relaciones diplomáticas con aquél gobierno en noviembre de 1974. La ruptura fue con el gobierno de Pinochet, no con el pueblo chileno.  
+
+Una vez rotas las relaciones diplomáticas, México abrió sus puertas a los chilenos que huyendo de su país, o desterrados de éste, se internaron en el nuestro como extranjeros en la calidad de exiliados. Muchos dieron aportaciones a las ciencias; las artes, la cultura etcétera. Algunos se integraron en universidades. Los  chilenos que llegaron a nuestro país, lo hicieron en condición de extranjeros, y en calidad de no inmigrantes, esto es, el extranjero que se interna en nuestro país con el propósito de no radicar en él definitivamente. En tal calidad, encontramos varias formas, entre ellas a los asilados políticos estos son los que en su país de origen, debido a su concepción ideológica o pertenencia a tal o cual partido político es objeto de persecución, al grado que peligra su integridad física, su libertad, su vida y se hace necesario internarse en otro que lo acoja con esta calidad y forma. También la internación de chilenos en nuestro país, se dio mediante el exilio, que no es otra cosa que, el destierro de una persona por parte del gobierno del país de donde es originaria. Pinochet desterró a miles.
+
+El pueblo chileno no dobló las manos ante el opresor. Combatir a Pinochet no fue fácil. Fue  una lucha tenaz de todos. Aún de aquellos que, durante el Gobierno del Presidente Salvador Allende, no coincidían con sus ideales porque se dieron cuenta, que su dirección apuntaba hacia el socialismo. Ejemplo de ello, fue el caso del Partido Demócrata Cristiano, de oposición en aquél tiempo (1970-1973), dentro del cual militaba Patricio Aylwin, quien no únicamente fue opositor al gobierno de Allende, sino también brindó apoyo incondicional a los militares y a Pinochet.
+
+Con la derrota de Pinochet, y la elección popular de Patricio Aylwin como presidente, se restablecieron las relaciones diplomáticas entre aquél país y el nuestro; se tuvo fe en la nueva democracia chilena al recordar las palabras que dijera el Presidente Salvador Allende, bajo el bombardeo de la Fuerza Aérea antes de morir en el Palacio de la Moneda, el 11 de septiembre de 1973: “…”se abrirán las grandes alamedas por donde pase el hombre libre, para construir una sociedad mejor…” ■
