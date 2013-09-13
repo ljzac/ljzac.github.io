@@ -1,6 +1,6 @@
 ---
 published: true
-title: Concluye pavimentación en Noria de Ángeles; invierten 30 mdp
+title: Concluye pavimentación en Noria de Ángeles; se invirtió 30 mdp
 author: REDACCION
 location: Local
 category: Destacadas
