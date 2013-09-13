@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-Washington. Las filtraciones del ex contratista de inteligencia estadunidense Edward Snowden generaron un muy necesario debate sobre inteligencia, aunque sus revelaciones comprometieron a la seguridad nacional, dijo el jefe del espionaje de Washington este jueves.
+![](http://i.imgur.com/J7Rx2xIm.jpg)Washington. Las filtraciones del ex contratista de inteligencia estadunidense Edward Snowden generaron un muy necesario debate sobre inteligencia, aunque sus revelaciones comprometieron a la seguridad nacional, dijo el jefe del espionaje de Washington este jueves.
 
 "Detesto tener que reconocerlo, pero lo que ocurrió -y que es muy nocivo- suscitó conversaciones y un debate que probablemente eran necesarios", dijo James Clapper, director de Seguridad Nacional (NSA), agregando que es reacio a dar algún crédito por ello a Snowden.
 
