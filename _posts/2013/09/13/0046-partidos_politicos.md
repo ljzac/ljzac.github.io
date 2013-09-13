@@ -1,0 +1,24 @@
+---
+published: true
+title: "Partidos políticos y su financiamiento "
+author: "J. Jesús Santana Araujo*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+En México la denominación de Partido Político Nacional se reserva a las organizaciones políticas que solicitan formalmente y cumplen con los requisitos necesarios para obtener su registro legal. El reconocimiento de su personalidad jurídica le confiere a los partidos políticos una serie de derechos, prerrogativas y obligaciones previstas por la ley, entre ellas contar con acceso permanente y gratuito a la radio y televisión, participar de un financiamiento público y gozar de un régimen fiscal especial y de franquicias postales y telegráficas. 
+
+Por mandato constitucional, el financiamiento público debe prevalecer sobre los tipos de financiamiento privado permitidos y regulados por la ley. Es decir, en el volumen total de recursos que los partidos políticos tengan a su disposición para cumplir con los fines que la ley les confiere debe ser siempre mayor la proporción de recursos públicos. Es conveniente aclarar que la ley no contempla una proporción determinada para estos efectos, simplemente precisa que debe ser mayor el monto de recursos de origen público.  La ley distingue tres conceptos para el otorgamiento de financiamiento público y fija los procedimientos específicos para su aplicación por parte del Consejo General del Instituto Federal Electoral (IFE). El primero es el relativo al sostenimiento de sus actividades ordinarias permanentes, el cual se determina anualmente y resulta de multiplicar el número de ciudadanos inscritos en el padrón electoral por el 65 por ciento del salario mínimo diario vigente para el Distrito Federal. El segundo concepto es el relativo a gastos de campaña y, como su nombre lo sugiere, sólo se asigna el año de la elección. En año de elecciones generales cada partido recibe para estos efectos un monto adicional equivalente a 50 por ciento del financiamiento que le corresponde para actividades ordinarias. Cuando se trata de elecciones legislativas intermedias, como las de 2009, cada partido sólo recibe un monto adicional equivalente a 30 por ciento de su financiamiento ordinario. El tercer concepto es el destinado a subvencionar las actividades específicas que realicen en materia de educación y capacitación política, investigación socio-económica y política, así como en tareas editoriales, para lo cual se destina una bolsa equivalente a 3 por ciento del monto global destinado al financiamiento de actividades ordinarias.
+
+La ley también contempla los criterios para otorgar financiamiento público a los partidos que hayan obtenido su registro en fecha posterior a la última elección federal y antes de que participen en su primera contienda. 
+
+De igual manera, desde 1993 la legislación electoral delimita y reglamenta cuatro fuentes privadas de financiamiento a los partidos políticos: 1) por su militancia; 2) por simpatizantes; 3) por autofinanciamiento; y finalmente, 4) por rendimientos financieros. 
+
+Es pertinente mencionar que la legislación electoral refiere puntualmente las diversas fuentes o instancias a las que les está expresamente prohibido realizar cualquier aportación o donativo a los partidos políticos, tanto en dinero como en especie,  por sí mismas o a través de interpósita persona. Entre ellas figuran todos los poderes públicos; las dependencias, entidades u organismos de la administración pública en todos sus niveles; los partidos políticos, personas físicas o morales extranjeras; los organismos internacionales de cualquier naturaleza; los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta; las personas que viven o trabajen en el extranjero y las empresas mexicanas de carácter mercantil. 
+
+La importancia de los partidos políticos en una democracia es innegable. Han demostrado que, pese a sus problemas internos, constituyen el mejor vehículo para consolidar o mantener una democracia constitucional. Por ello, la importancia de vigilar y controlar a los partidos políticos, para evitar caer en excesos. Uno de los retos, si no es que el más importante, lo constituye la fiscalización de los recursos de los partidos políticos. El Instituto Federal Electoral encargado, por mandato constitucional y legal, de fiscalizar estos recursos, establece mecanismos de control y vigilancia, a través de actividades preventivas, normativas, de vigilancia, de control operativo y, en última instancia, de investigación, asegurando con ello la transparencia, equidad y legalidad en la actuación de los partidos políticos para la realización de sus fines. Por ello, el desarrollo cabal de la tarea de fiscalización no puede entenderse como una afrenta a los partidos políticos, sino como un ejercicio que legitima y fortalece la competencia democrática en el sistema de partidos. ■
+
+
+*Vocal Secretario de la 04 Junta Distrital 
+Ejecutiva del IFE en Zacatecas. 
