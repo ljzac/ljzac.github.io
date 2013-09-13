@@ -1,0 +1,17 @@
+---
+published: true
+title: El acto social
+author: Julio Yrízar
+location: Local
+category: Opinión
+layout: posts
+---
+
+![](http://i.imgur.com/F4oqJqFm.jpg)El acto social puro siempre ha carecido de motivaciones definidas –los hombres se reúnen por su tradición gregaria signada con fuego en los genes-, con lo que toda la grandeza que puede llegar a alcanzar dicho acto, será consecuencia natural de la reunión y el entrechoque de las distintas personalidades que asisten al hecho. Por lo demás, ningún relieve podemos encontrar en la arquitectura del acto social puro, lo que nos permite definirlo como una eventualidad que carece de valor sustancial y está constreñida a los incidentes que propician dentro de él, los diferentes caracteres y temperamentos que se encuentran presentes cuando sucede. Así pues, el acto social puro es del todo intrascendente.
+
+Sin embargo, el acto social legitima las acciones que se suscitan en su interior. Un participante del acto social tiene por la gracia de los coloquios, la atención de las otras personas que se encuentran presentes. Así pues, en términos espaciales, en el acto social puro, aquel quien habla obtiene por momentos una posición privilegiada entre los participantes, con lo que podríamos también sugerir que el acto tiene forma geométrica, cuasi circular, donde el portavoz se encuentra siempre en el centro de la situación, al tiempo que en derredor suyo, equidistantes, atienden a sus palabras los otros hombres. Ahora bien, cuando la forma somete al fondo –como generalmente ocurre en nuestra política nacional-, el acto político puede enajenar al social para justificar las arbitrariedades y los desatinos del poder, ignorando para el caso los fundamentos de la elegante inutilidad del acto social puro. El pasado informe de gobierno es un ejemplo actual de lo aquí expresado.
+
+Pudimos ver llegar al sujeto que se situará, gracias a los artificios de la simulación política, en el centro del acto social –el informe de gobierno-. El auditorio se encuentra falazmente expectante, cada elemento que conforma al público comprende la inutilidad del suceso, y sin embargo colabora con él, poniendo su parte de simulación a fin de aparentar trascendencia. Así van más o menos las cosas cuando por fin oímos hablar al hombre del centro. ¿Qué dice? Qué importa, mientras se tenga el acto social. Más aún, es fundamental que no diga nada inesperado, que no hable de nada novedoso, que no sugiera un motivo capaz de perturbar al adocenamiento alcanzado por la clase política. Así, durante el tiempo que dura el montaje, el mundo se reduce a lo que contienen los muros del recinto donde sucede el evento. Afuera pueden estar lloviendo sapos, ¡nadie pierde las ganas de bostezar, hay acto social dentro! Afuera Roma se consume por el fuego, ¡y qué, si adentro el emperador toca la lira para sus favoritos! Afuera se sangra por la educación y la energía nacionales. No interesa, porque adentro se aplaude la derrota, y el discurso del hombre en el centro nada añade al tema de las soluciones; adentro un hombre mueve los labios, pero nada dice: todas sus palabras han dejado de ser metáforas de sí mismas, y se han convertido en espectros, en sombras sin significado, en fórmulas redactadas con brillante esmero sobre una esencia marchita. Incluso la sintaxis con la que se atan los términos del hombre del centro está toda empantanada, hiede a insignificancia y juega dentro de los parámetros de la mentira, pero nada interesa, porque hay acto social. ■
+
+
+yrizac@gmail.com
