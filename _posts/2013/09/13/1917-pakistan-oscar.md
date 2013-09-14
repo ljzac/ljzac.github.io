@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Pakistán enviará en 2014 después de 50 años una película para competir en los Oscar
+twitt: "Zinda Bhaang, rodada en urdu y punjabi, es una mezcla de thriller y comedia en la que tres jóvenes paquistaníes intentan llegar al extranjero a través de métodos poco convencionales. Está escrita y dirigida por Meenu Gaur y Farjad Nabi."
+author: Dpa
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
