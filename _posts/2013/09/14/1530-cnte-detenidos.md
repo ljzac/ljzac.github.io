@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Revelan nombres de 31 detenidos en desalojo del Zócalo
+twitt: Hasta el momento no se han informado los delitos que se les imputan
+author: La Jornada
+location: Nacional
+category: Principales
 layout: posts
 ---
 
