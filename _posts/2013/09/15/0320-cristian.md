@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/oV54oikm.jpg)Cantó temas de su más reciente disco, titulado Cristian Castro En primera fila día 1
+![](http://i.imgur.com/FRgf6RHm.jpg)Cantó temas de su más reciente disco, titulado Cristian Castro En primera fila día 1
 
 El pop latino y la balada romántica hicieron presos a los cientos de asistentes que acudieron anoche al Palenque de la Feria Nacional de Zacatecas (Fenaza) para disfrutar de la actuación de Cristian Castro, quien remontó a sus seguidores a la pasada época de los 90 con la interpretación de un ramillete de éxitos.
 
