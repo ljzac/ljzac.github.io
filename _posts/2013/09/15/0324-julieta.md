@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/oiC3z6Mm.jpg)"Vamos a salir adelante de las situaciones difíciles" expresó respecto a la situación actual de México
+![](http://i.imgur.com/xlPWGDdm.jpg)"Vamos a salir adelante de las situaciones difíciles" expresó respecto a la situación actual de México
 
 La artista Julieta Venegas presentó anoche un excelente concierto dentro de la Feria Nacional de Zacatecas (Fenaza) 2013, teniendo como escenario el teatro de pueblo, el cual estuvo con un lleno espectacular.
 
