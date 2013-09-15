@@ -1,6 +1,6 @@
 ---
 published: true
-title: "\"Hackers\" publican datos personales de 50 mil policías de Río de Janeiro"
+title: "'Hackers' publican datos personales de 50 mil policías de Río de Janeiro"
 twitt: "La información comprendía domicilio, teléfono y número de documento de los agentes, según detallaron medios de comunicación brasileños."
 author: Afp
 location: Internacional
