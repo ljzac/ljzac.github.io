@@ -1,6 +1,6 @@
 ---
 published: true
-title: Anuncia Conagua posibles precipitaciones de muy fuertes a intensas en territorio zacatecano
+title: Anuncia SMN posibles precipitaciones de muy fuertes a intensas en territorio zacatecano
 author: REDACCION
 location: Local
 category: Destacadas
@@ -24,4 +24,3 @@ Ambos fenómenos siguen provocando vientos fuertes y oleaje alto en sus respecti
 Se pide a la población continuar atenta a los llamados de Protección Civil; a quienes acudirán a centros vacacionales durante el puente de fiestas patrias, se les recomienda extremar precauciones en el mar y ríos cercanos. En zonas urbanas se pueden registrar inundaciones y encharcamientos, así como posibles deslaves en áreas montañosas. El transporte marítimo, terrestre y aéreo debe observar cautela ante los vientos fuertes y el oleaje alto previstos.
 
 Asimismo, el SMN exhorta al público en general a consultar el mapa del tiempo y las condiciones meteorológicas por ciudad, así como los avisos de ciclón y la vigilancia tropical en su página de internet, http://smn.conagua.gob.mx, los cuales son actualizados cada seis horas. También puede seguir la cuenta de Twitter @conagua_clima y utilizar la aplicación para teléfono celular MeteoInfo.
- 
