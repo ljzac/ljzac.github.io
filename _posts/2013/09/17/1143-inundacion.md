@@ -13,4 +13,6 @@ El procurador General de Justicia del Estado, Arturo Nahle García, informó que
 
 ![](http://i.imgur.com/d7LRAC0m.jpg)Las colonias más afectadas fueron Alamos 1 y 2, así como Trinidad, ya que las tres zonas habitacionales están ubicadas sobre arroyos naturales.
 
-En estos momentos, se realiza ya la evaluación y cuantificación de los daños materiales y, en base a los reportes meteorológicos de las próximas horas, los elementos castrenses podrían poner en marcha el Plan de Emergencia DN-III.
+Asimismo, se registran pérdidas en las cosechas, pues cerca de mil hectáreas sufrieron daños.
+
+![](http://i.imgur.com/2TyFcA5m.jpg)En estos momentos, se realiza ya la evaluación y cuantificación de los daños materiales y, en base a los reportes meteorológicos de las próximas horas, los elementos castrenses podrían poner en marcha el Plan de Emergencia DN-III.
