@@ -1,0 +1,25 @@
+---
+published: true
+title: El Ensayo
+author: René Lara Ramos
+location: Local
+category: Opinión
+layout: posts
+---
+
+México fue escenario estremecido por una irrupción de movilizaciones sociales, incluida la consistente solidaridad popular sin cuya ayuda no se hubiera podido contrarrestar la represión desatada bajo la sombra del titular del Ejecutivo federal, Enrique Peña Nieto, a cuyo gobierno se reclama el fallecimiento de un profesor muerto al no haberse podido recuperar de los golpes recibidos en el operativo de desalojo, cuyo drama, así se convirtió en tragedia. 
+
+El ensayo fue concluido con tiempo suficiente para convertir en basura el campamento de la CNTE, cuyas pertenencias fueron a parar a la basura y sus integrantes se refugiaron en el Monumento a la Revolución. Ahí pudieron acampar con la generosa ayuda de los capitalinos, cuya solidaridad contradice las mentiras de una senadora panista, prima de Calderón, Mariana Gómez del Campo, si mal no recuerdo su nombre, virulenta enemiga de la movilización magisterial y popular, inventora y difusora de sospechas o mentiras sobre el origen del financiamiento de la movilización magisterial.
+
+Hasta el momento sigue en pie la decisión de los maestros de la CNTE: intentar regresar al Zócalo el próximo miércoles, circunstancia ligada al balance sobre lo ocurrido y al debate sobre el futuro y pertinencia de continuar con su movilización, pendientes de las negociaciones que sostienen sus representantes con las autoridades educativas.
+
+Por lo pronto, es inédito que en plenas fiestas patrias, las autoridades federales, con Peña Nieto a la cabeza, hayan decidido ensayar la represión, ya convertida en lección  de lo que ocurrirá a los manifestantes y a las manifestaciones en la lucha contra la reforma energética que tiene en la mira privatizar tramos clave, por ejemplo, para prospectar o extraer el petróleo de yacimientos marinos, en aguas profundas. ¿De Atenco al Zócalo y qué sigue en la agenda del gobierno del Pacto, donde Zambrano insiste en seguir para legitimar una aparente pluralidad ideológica y política? A ver con qué pretexto se legitima después de la represión abierta, que la acción de los medios al servicio de Peña Nieto no podrá contrarrestar su virulencia. 
+Casi de inmediato en Oaxaca, Chiapas y Michoacán se protestó contra la represión y sin duda pasadas las fiestas patrias se articulará una protesta casi nacional, ensayos necesarios para agregar fuerzas cuya lucha acote la privatización de tramos de la industria energética, asunto fatuo después de ser expuesta su prescindibilidad con amplitud y precisión, por el Ing. Cuauhtémoc Cárdenas Solórzano, quien de ese modo alerta sobre un proceso atentatorio contra la nación, como lo es el desplazamiento del Estado en el área estratégica de los energéticos, justo ahora que debe fortalecerse su buen funcionamiento y control en pos de volver más plausibles las oportunidades para el desarrollo nacional.
+
+Por supuesto, “el secretario de Gobernación, Miguel Angel Osorio Chong, y el jefe de Gobierno del Distrito Federal, Miguel Angel Mancera, justificaron, en mensajes separados, la acción policial.” Sin abonar con ello a su imagen pública alguna otra cosa que el demérito. 
+
+Los maestros por su parte y a pesar de algunos casos aislados de violencia por intentar resistir en el Zócalo, lo irresistible, fueron más las lecciones favorables obtenidas  en las calles. Como es usual, tuvieron en contra la televisión y la radio, que no propagaron que los maestros defienden sus derechos, “de paso los nuestros, los de los niños de hoy y de mañana”. La propaganda fue perversa e implacable: “se les presentó como holgazanes que no quieren trabajar y abandonan aulas y alumnos, como si dormir en el duro cemento del Zócalo, en tiendas de campaña, soportar el agua, el sol, el viento fuera lo más placentero del mundo; como si marchar, ser repelidos y empujados por los escudos de los granaderos fuera una especie de sofisticado deporte con el que se divierten y entretienen.”
+
+“Y ¿quiénes les echan en cara esto? Elegantes conductores de televisión y gritones de la radio que cobran, y mucho, por la campaña indigna, por la guerra sucia en contra de uno de los sectores peor pagados en la absurda estructura de nuestra sociedad, que premia con riqueza y honores a futbolistas, estrellas de espectáculos y políticos atildados, y deja un punto por arriba de la miseria a quienes, con cierta ironía y conscientes de la realidad, se autonombran “pobresores”, debido a lo poco que reciben por desempeñar el importantísimo y duro trabajo de educar, en las más difíciles condiciones pensables, en las aulas más pobres y abandonas de Oaxaca, Chiapas, Guerrero y Michoacán, entre otros estados.” Bernardo Bátiz V. fue al grano en su colaboración para La Jornada, del 14 de Septiembre de 2013: Lecciones en las calles.
+
+Nada sencillo manifestarse si por ahí pasará Peña Nieto. Además, los profesores sabían que el ejército cumplió años como institución al servicio de la Patria y ayer fue SU desfile en la plaza mayor. ■
