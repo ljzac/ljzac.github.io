@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Unidos con trabajo, visión y compromiso, construiremos un mejor Guadalupe: Roberto Luévano Ruúz"
+title: "Unidos con trabajo, visión y compromiso, construiremos un mejor Guadalupe: Roberto Luévano Ruíz"
 author: REDACCION
 location: Local
 category: Destacadas
