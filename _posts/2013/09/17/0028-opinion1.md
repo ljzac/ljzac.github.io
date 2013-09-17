@@ -1,0 +1,23 @@
+---
+published: true
+title: "Región Tacoaleche: Nuevo Municipio"
+author: Marco Antonio Torres Inguanzo
+location: Local
+category: Opinión
+layout: posts
+---
+
+a historia de las divisiones políticas en México, en la formación de estados y municipios, es una historia que se define por la influencia territorial de los cacicazgos políticos y no por criterios que definan una geografía para el desarrollo de los propios territorios. Así, en el caso de la región que está alrededor de Tacoaleche, vemos una oportunidad de proponer un nuevo municipio que no se defina (ni en la delimitación de su polígono, ni en la estructura de su gobierno) por el viejo criterio de influencia de caciques viejos o nuevos; sino por el contrario, como la oportunidad de crear un antecedente donde el nuevo municipio se construya a partir de la justificación de una geografía para el desarrollo y una estructura de gobierno municipal que supere los viejos vicios que impiden a los municipios contar con una visión compartida de su territorio, con estrategias serias y efectivas de desarrollo humano y con instancias de decisión basadas en mecanismos democráticos más allá del grosero sistema de partidos que hoy tenemos. 
+
+En suma, Tacoaleche tiene las condiciones para plantear la creación de un municipio que reúna la geografía natural, la geografía económica y la histórico-cultural, con la geografía político administrativa; y con ello, se haga posible la detonación de un proceso coherente de desarrollo territorial. Y además, que desde su origen, el nuevo municipio vaya acompañado de un proyecto de municipalización que actualice una nueva estructura institucional que haga realidad la democracia participativa para definir los programas y proyectos de desarrollo de todos los sectores y actores locales. Donde se vean los mejores mecanismos de planeación y toma de decisiones, de transparencia, rendición de cuentas y evaluación rigurosa que muestre cómo se construye un gobierno orientado al desarrollo humano, y no orientado al botín. 
+
+Para construir la delimitación territorial del municipio propuesto se parte de una “negociación” que conforme el mejor escenario de unidad entre los polígonos ejidales, los corredores económicos, los circuitos de fiestas tradicionales y las zonas de influencia de dotación de servicios. Ya realizada la delimitación −aún así− se construyen varios escenarios de composición territorial, para que los habitantes opinen sobre el mejor tablero posible.
+
+Las localidades que están dentro de la propuesta del municipio Tacoaleche, son la El Bordo, Los Rancheros, La Cocinera, Méndez, Casa Blanca, La Luz, Lomas de Guadalupe, Ojo de Agua, San Ignacio, Noria de la Soledad, San José de la Era, Las Norias, Santa Rita, Norias de Amaya,  El Lampotal, y la propia localidad de Tacoaleche, (y según otros criterios se agregan Santa Mónica y Zóquite). La localidad de Tacoaleche sería la cabecera, porque  es la que (según las proyecciones de población) ya ha rebasado ligeramente los 10 mil habitantes. En el escenario más grande de polígono la totalidad de población del nuevo municipio sería de 25 mil habitantes, y en el escenario más pequeño de 21 mil habitantes, con un área de 375 kilómetros cuadrados. 
+
+Lo cual significa que podría ser un municipio más grande que 43 municipios del estado; es decir, sería el municipio número 16 según el tamaño  de población. Estaría en el grupo de municipios del tamaño de Saín Alto, Nieves, Miguel Auza o Jalpa. Ahora mismo, la delegación municipal no recibe recursos líquidos más allá de 30 mil pesos; y en cambio, ya como municipio (si tuviera un presupuesto parecido al de Jalpa), tendría ingresos por el monto de los 95 millones de pesos anuales. 
+
+El proceso de municipalización deberá pasar por una ruta crítica nada rápida: informar y hacer espacios de debate, para que se exprese la opinión de todos los habitantes en su entera pluralidad, se deberá pasar por una consulta donde 70 por ciento de empadronados estén de acuerdo en el proyecto, y la solicitud formal deberá ser aprobada por la legislatura local. Cabe mencionar, que hay una (posible) meta intermedia: la Congregación Municipal. Lograr este paso intermedio es ya una ventaja, porque constituye una experiencia de mayor autonomía de gobierno a la actual: se constituye el consejo congregacional con representación de todas las localidades y se recibe un presupuesto del cabildo municipal que se administra con criterios propios.
+
+En fin, aquí hay una oportunidad de crear un nuevo municipio, que aparte de tener todas las justificaciones legales, abre la posibilidad de formar desde su origen un esquema de gobierno que sea demostrativo para el resto de los municipios del estado. 
+Vale. ■
