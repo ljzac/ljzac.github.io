@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/iAUyUvdm.jpg)
+![](http://i.imgur.com/vc8egKUm.jpg)
 -- Aclaró que no ha pensado en retirarse de la música; seguirá cantando hasta que pueda
 
 Zacatecas tuvo el honor de presenciar uno de los conciertos más memorables dentro del teatro del pueblo de la Feria Nacional de Zacatecas (Fenaza) 2013 con el espectáculo de la cantante Dulce, quien enamoró a su público con su entrega, profesionalismo e interacción hacia él.
