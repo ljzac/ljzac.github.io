@@ -1,6 +1,6 @@
 ---
 published: true
-title: Planean lineamientos para tercera Semana Nacional de Vacunación
+title: Planea Guadalupe lineamientos para tercera Semana Nacional de Vacunación
 author: REDACCION
 location: Local
 category: Destacadas
