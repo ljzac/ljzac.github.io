@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Entregan alcaldía de Guadalupe y Gobierno del Estado más de mil apoyos para vivienda
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Política
 layout: posts
 ---
 
-■ “A dos días de esta nueva etapa administrativa se están dando resultados”: Roberto Luévano
+![](http://i.imgur.com/zuG58Lnm.jpg)■ “A dos días de esta nueva etapa administrativa se están dando resultados”: Roberto Luévano
  
 El ayuntamiento de Guadalupe en coordinación con Gobierno del Estado, a través de la Secretaría de Infraestructura entregaron más de mil acciones de mejoramiento de vivienda entre habitantes de zonas vulnerables y en condiciones de marginación de todo el municipio.
 
