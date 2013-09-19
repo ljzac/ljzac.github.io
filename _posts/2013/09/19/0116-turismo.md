@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Inicia Secturz trabajos para conformar  Subsecretaría de Turismo en la capital
 author: Inicia Secturz trabajos para conformar  Subsecretaría de Turismo en la capital
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Número de hoteles podría aumentar conforme a ocupación
+![](http://i.imgur.com/m4uwxhym.jpg)■ Número de hoteles podría aumentar conforme a ocupación
 
 Pedro Inguanzo, titular de la Secretaría de Turismo de Zacatecas (Secturz), expuso que hay acercamiento con el gobierno municipal de Zacatecas, encabezado por Carlos Peña Badillo, para que se conforme una Subsecretaría de Turismo en el ayuntamiento, la cual podría iniciar trabajos a partir del primero de enero del próximo año con el objetivo de trabajar en el tema del Centro Histórico.
 
