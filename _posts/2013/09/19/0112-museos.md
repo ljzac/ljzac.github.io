@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Llevaron a cabo algunos arreglos en el Rafael Coronel, Francisco Goitia y Pedro Coronel
+![](http://i.imgur.com/Xff999Zm.jpg)■ Llevaron a cabo algunos arreglos en el Rafael Coronel, Francisco Goitia y Pedro Coronel
 
 En prevención de la temporada de precipitaciones pluviales, se realizaron revisiones de techumbres e impermeabilizaciones para evitar filtraciones de agua así como limpieza de azoteas a los museos Rafael Coronel, Francisco Goitia y Pedro Coronel, mismos en los que se atendieron prioridades al respecto.
 
