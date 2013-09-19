@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gobierno del Estado entrega apoyos a damnificados por los aguaceros
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ 2 mil personas fueron trasladadas a refugios temporales
+![](http://i.imgur.com/Y3ewwAum.jpg)■ 2 mil personas fueron trasladadas a refugios temporales
 
 Familias de los municipios de Río Grande y Fresnillo recibieron de Gobierno del Estado los primeros apoyos para mitigar la emergencia provocada por las lluvias de los últimos días.
 
