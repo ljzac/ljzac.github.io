@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. La hacienda pública pierde más recursos por los impuestos que dejan de declarar las empresas legalmente establecidas que le venden sus productos al sector informal, que por la actividad en sí de éstos últimos negocios, señaló el secretario de Hacienda y Crédito Público, Luis Videgaray Caso.
+![](http://i.imgur.com/1AvAFGkm.jpg)México, DF. La hacienda pública pierde más recursos por los impuestos que dejan de declarar las empresas legalmente establecidas que le venden sus productos al sector informal, que por la actividad en sí de éstos últimos negocios, señaló el secretario de Hacienda y Crédito Público, Luis Videgaray Caso.
 
 Durante su participación en la Reunión Anual de la Confederación de Cámaras Industriales (Concamin), el funcionario explicó que el costo fiscal de la informalidad no necesariamente está en los informales.
 
