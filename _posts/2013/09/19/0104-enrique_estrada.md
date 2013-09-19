@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "No son elevadas las deudas que se dejaron en Enrique Estrada: Ortiz"
 author: RAQUEL OLLAQUINDIA
 location: Local
@@ -7,7 +7,7 @@ category: Política
 layout: posts
 ---
 
-■ Afirma ex alcalde que los compromisos no son por 4 mdp, sino de poco más de 2
+![](http://i.imgur.com/Ci4YNuGm.jpg)■ Afirma ex alcalde que los compromisos no son por 4 mdp, sino de poco más de 2
 
 ■ Reconoció que se debe cubrir otro millón al IMSS;  no es tan grave como asegura de Luna, dijo
 
