@@ -1,24 +1,49 @@
 ---
 layout: defaultSimple
 ---
+
+<div>
+  <a href="http://ayudaparalamemoria.blogspot.mx/" target="_blank"><img src="/Assets/images/Banner1.png" /></a>
+</div> <br><br>
+{{ $miseccion := index .site.categories "Memoria" }}
+
 <section class="container">
 <div class="grid_12 alpha">
-{{ template "seccion_listado.html" .s.PagesForCategory "Memoria" 15}}
-</div>
-<div class="grid_4 omega">
+{{if $miseccion}}
+  {{ range $miseccion}}
+      <article class="SubContent">
+        <a href="/{{ .url }}"><h3> {{ .title }}</h3></a>
+      {{if .MainImgSize "m"}}
+      <div class="grid_9 omega">
+      <div class="grid_image"><img src="{{ .MainImgSize "m" }}" class="pic" alt="pic" /> </div>
+      </div>
+      <div class="grid_7 alpha">
+      {{else}}
+        <div>
+      {{end}}
+      <ul class="comment">
+      {{ if .author }}  
+        <li>{{ .author }}/</li>
+      {{ end }} 
+      {{ if .date }}
+      <li>{{ .date | date_to_string }}/</li>
+      {{ end }}
+      <li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
+      </ul>
+    <article class="article"><p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p></article>
+    </div>       
+      </article>
+      <br><br><br>
+      <hr>
+  {{end}}
+{{else}}
   <div>
-    <div class="title">
-      <h4>COLABORADOR </h4>
-    </div>
-    <div class="partner">
-            <img src="http://i.imgur.com/JIakgtYs.jpg" width="97" height="103" alt="avatar" align="left">
-				    <h6><a href="http://ayudaparalamemoria.blogspot.mx/" target="_blank" style="color: #921B1E">Raymundo cárdenas Hernández</a></h6>
-    </div>
-    <br><br><br><br><br><br>
+    <p> </p>
   </div>
-    <br><br><br>
+{{end}}
+</div>
+  <div class="grid_4 omega">
      {{template "gsb.html" .}}
     {{template "barraDerecha.html" .}}
-</div>
-
+  </div>
 </section>
