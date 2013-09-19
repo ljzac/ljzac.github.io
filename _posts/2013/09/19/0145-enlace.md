@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Resultados de Enlace deben analizarse de manera contextualizada: De la Torre"
 author: MARTIN CATALAN LERMA
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Las deducciones de cada plantel dependen de diversos factores, asegura subdirector
+![](http://i.imgur.com/stjEu3Km.jpg)■ Las deducciones de cada plantel dependen de diversos factores, asegura subdirector
 
 ■ En la Osfaez-SEP se planea elaborar un ranking de las mejores 25 escuelas, dice
 
