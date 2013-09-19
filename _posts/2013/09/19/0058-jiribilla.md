@@ -7,7 +7,7 @@ category: La Jiribilla
 layout: posts
 ---
 
-UNO: Educación privada en Zacatecas, para puras vergüenzas
+![](http://i.imgur.com/ZQXiJEEm.jpg)UNO: Educación privada en Zacatecas, para puras vergüenzas
 
 DOS: “Hasta que a meta no llegues, no te pongas los laureles”
 
