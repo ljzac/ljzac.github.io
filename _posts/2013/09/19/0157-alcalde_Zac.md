@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ordena alcalde de Zacatecas alerta  máxima por las constantes lluvias
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ En Guadalupe contabilizan 100 afectaciones
+![](http://i.imgur.com/0nlqlrkm.jpg)■ En Guadalupe contabilizan 100 afectaciones
 
 Debido a las constantes lluvias, el alcalde de Zacatecas, Carlos Peña Badillo, ordenó a las corporaciones de Protección Civil y Seguridad Pública estar en alerta máxima para auxiliar a la ciudadanía y prevenir contingencias.
 
