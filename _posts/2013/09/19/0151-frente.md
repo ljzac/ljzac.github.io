@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: FPLZ se manifiesta en contra de reformas estructurales de EPN
 author: ALMA ALEJANDRA TAPIA
 location: Local
@@ -7,7 +7,7 @@ category: Política
 layout: posts
 ---
 
-■ Dan información a la ciudadanía en el jardín Independencia; la lucha ha de seguir, afirman
+![](http://i.imgur.com/O2pQbt5m.jpg)■ Dan información a la ciudadanía en el jardín Independencia; la lucha ha de seguir, afirman
 
 ■ La movilización social es la única manera en que se podrán detener las propuestas: Flores
 
@@ -23,4 +23,4 @@ Es así que como perredistas y miembros del FPLZ han decidido realizar en Zacate
 
 Flores se dijo convencida de que en el sexenio de Lázaro Cárdenas el pueblo mexicano se levantó a favor de la expropiación petrolera y así en honor a esos mexicanos, no se permitirá que 70 años después el gobierno priísta vuelva a traer a inversión extranjera a Pemex. 
 
-El pueblo está engañado, los medios de comunicación no dan información verídica y por ello se continuarán realizando marchas y eventos de diversa índole para que los zacatecanos escuchen, no por nada hace algunas semanas en la consulta nacional sobre el petróleo, 83 por ciento de los participantes se manifestaron en contra de la reforma energética, finalizó. 
+El pueblo está engañado, los medios de comunicación no dan información verídica y por ello se continuarán realizando marchas y eventos de diversa índole para que los zacatecanos escuchen, no por nada hace algunas semanas en la consulta nacional sobre el petróleo, 83 por ciento de los participantes se manifestaron en contra de la reforma energética, finalizó.
