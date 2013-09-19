@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Frailes de Guadalupe será semillero de  Aguilas Reales, informa su entrenador"
 author: CESAR A. GONZALEZ
 location: Local
@@ -7,7 +7,7 @@ category: Deportes
 layout: posts
 ---
 
-■ En puerta, el inicio de la cuarta división y ganar la Copa Telmex
+![](http://i.imgur.com/ApZWKGum.jpg)■ En puerta, el inicio de la cuarta división y ganar la Copa Telmex
 
 ■ Sin fecha de inicio y nuevo calendario del torneo de cuarta
 
