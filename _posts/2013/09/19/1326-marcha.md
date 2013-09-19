@@ -11,4 +11,3 @@ layout: posts
 
 ![MARTIN CATALAN LERMA](http://i.imgur.com/DsCIzVEm.jpg)Hace unos minutos participaban cerca de cinco mil.
 
-Un grupo de docentes también está presente en la caseta de cobro de Calera.
