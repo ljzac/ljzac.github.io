@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Urge reestructurar políticas públicas sobre desarrollo urbano y vivienda
 author: RAQUEL OLLAQUINDIA
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Déficit, de más de 20 mil casas; lotes baldíos y asentamientos irregulares, principales problemas
+![](http://i.imgur.com/BjFvERJm.jpg)■ Déficit, de más de 20 mil casas; lotes baldíos y asentamientos irregulares, principales problemas
 
 ■ Anuncia Sinfra realización de foro de consulta ciudadana sobre el tema, para el 23 de este mes
 
