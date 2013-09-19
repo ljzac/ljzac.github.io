@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Reforma no repercutirá en Pemex, como  sucedió con Telmex y la Banca: Tello"
 author: "CARLOS ALBERTO NAVARRETE "
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Necesario, “quitar el paradigma nacionalista” en lo que se refiere al petróleo, puntualiza
+![](http://i.imgur.com/LLAIX4Dm.jpg)■ Necesario, “quitar el paradigma nacionalista” en lo que se refiere al petróleo, puntualiza
 
 ■ Los contratos de utilidad compartida no deben representar riesgo alguno para el país, asevera
 
