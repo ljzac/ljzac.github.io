@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "En riesgo de hundimiento, varias zonas  del Centro Histórico capitalino: Sinfra"
 author: "En riesgo de hundimiento, varias zonas  del Centro Histórico capitalino: Sinfra"
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Cerca de 30% de los túneles de drenaje y embovedado subterráneo, en malas condiciones
+![](http://i.imgur.com/1MN07nRm.jpg)■ Cerca de 30% de los túneles de drenaje y embovedado subterráneo, en malas condiciones
 
 A causa de las lluvias y del deterioro que con los años ha sufrido el embovedado y los túneles de drenaje que atraviesan el subsuelo del Centro Histórico de Zacatecas, hay varias zonas de la ciudad que, en estos momentos, se encuentran en riesgo de hundimiento.
 
