@@ -1,6 +1,6 @@
 ---
 published: true
-title: Entrega SINFRA apoyos para viviendas afectadas por lluvias en Sain Alto
+title: Otorga Sinfra apoyos para viviendas afectadas por lluvias en Sain Alto
 author: REDACCION
 location: Local
 category: Destacadas
