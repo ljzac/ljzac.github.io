@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Incompleta, página de transparencia en Congreso por omisión de diputados"
 author: ALMA ALEJANDRA TAPIA
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Sólo 10 de los 30 legisladores han atendido el llamado de entregar sus currículos
+![](http://i.imgur.com/Zw65uetm.jpg)■ Sólo 10 de los 30 legisladores han atendido el llamado de entregar sus currículos
 
 ■ La mayoría cuenta con licenciatura, aunque no hay un perfil promedio
 
