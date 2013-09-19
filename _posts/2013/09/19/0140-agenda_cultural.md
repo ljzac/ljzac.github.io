@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Agenda cultural
 author: ARACELI RODARTE SOLORZANO
 location: Local
@@ -7,7 +7,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
-El séptimo arte de tres países distintos, México, España y Alemania, será exhibido entre hoy y mañana en la Cineteca Zacatecas. De manera cronológica, se trata de las siguientes producciones:
+![](http://i.imgur.com/kdHXFyFm.jpg)El séptimo arte de tres países distintos, México, España y Alemania, será exhibido entre hoy y mañana en la Cineteca Zacatecas. De manera cronológica, se trata de las siguientes producciones:
 
 
 Jueves 19
