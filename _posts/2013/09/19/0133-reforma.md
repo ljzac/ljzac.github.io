@@ -7,7 +7,7 @@ category: Opinión
 layout: posts
 ---
 
-El pueblo de México ha manifestado de diversas formas y contundentemente su rechazo a las reformas energética y hacendaria que plantea Enrique Peña Nieto. Propuestas que van en contra de la gente.
+![](http://i.imgur.com/f06a4BQm.jpg)El pueblo de México ha manifestado de diversas formas y contundentemente su rechazo a las reformas energética y hacendaria que plantea Enrique Peña Nieto. Propuestas que van en contra de la gente.
 
 Lejos de buscar el bien común, de apoyar a las clases más vulnerables del país y de promover acciones para hacer que quienes tienen más paguen más, Peña Nieto se ha convertido en el defensor de los ricos y en el más fuerte enemigo de los 50 millones de personas que viven en pobreza, lo mismo que para quienes integramos la llamada clase media.
 
