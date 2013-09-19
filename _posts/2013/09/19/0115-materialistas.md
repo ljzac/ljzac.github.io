@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Materialistas toman instalaciones de la JLCA; exigen reconocimiento de huelga
 author: MARTIN CATALAN LERMA
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ “Tenemos documentos probatorios que aseguran que es legal”, asevera Esparza Leyva
+![](http://i.imgur.com/I6EeNjLm.jpg)■ “Tenemos documentos probatorios que aseguran que es legal”, asevera Esparza Leyva
 
 ■ En caso de no llegar a una negociación realizarán marcha hacia el Centro Histórico
 
