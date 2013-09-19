@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Habitantes de Bracho, afectados por las lluvias que han azotado la entidad"
 author: RAFAEL DE SANTIAGO
 location: Local
@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Los caminos no pavimentados se convierten en arroyos de agua sucia, comentan
+![](http://i.imgur.com/t0JIFOZm.jpg)■ Los caminos no pavimentados se convierten en arroyos de agua sucia, comentan
 
 ■ Ramón Medellín, con riesgo de contraer una infección al trabajar en el basurero
 
