@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/LvfuLeYm.jpg)Se llevó a cabo la clausura del Diplomado en Ciencias Sociales, en la unidad académica del mismo nombre. En representación del rector Armando Silva Cháirez, estuvo el coordinador de Vinculación, Hans Hiram Pacheco García, quien señaló que uno de los objetivos más importantes del área que dirige es tratar de vincularse con todas las unidades académicas de la Universidad Autónoma de Zacatecas (UAZ) por medio de las actividades académicas. 
+![](http://i.imgur.com/LvfuLeYm.jpg)Se llevó a cabo la clausura del diplomado en Ciencias Sociales, en la unidad académica del mismo nombre. En representación del rector Armando Silva Cháirez, estuvo el coordinador de Vinculación, Hans Hiram Pacheco García, quien señaló que uno de los objetivos más importantes del área que dirige es tratar de vincularse con todas las unidades académicas de la Universidad Autónoma de Zacatecas (UAZ) por medio de las actividades académicas. 
 
 Pacheco García felicitó a estudiantes y maestros por el gran trabajo realizado durante el diplomado, resaltando en su discurso que la Maestría en Ciencias Sociales fue el primer posgrado con el que contó la Máxima Casa de Estudios. 
 
