@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/Y3ewwAum.jpg)■ 2 mil personas fueron trasladadas a refugios temporales
+![](http://i.imgur.com/yUJqWQ6m.jpg)■ 2 mil personas fueron trasladadas a refugios temporales
 
 Familias de los municipios de Río Grande y Fresnillo recibieron de Gobierno del Estado los primeros apoyos para mitigar la emergencia provocada por las lluvias de los últimos días.
 
