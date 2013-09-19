@@ -1,6 +1,6 @@
 ---
 published: true
-title: Llevan a cabo reunión de la Red de Vinculación de la Región Noreste de ANUIES en la UAZ
+title: Llevan a cabo reunión de la Red de Vinculación de la Región Noreste de Anuies en la UAZ
 author: REDACCION
 location: Local
 category: Destacadas
