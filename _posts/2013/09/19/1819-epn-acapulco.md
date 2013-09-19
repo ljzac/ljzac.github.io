@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Arriba Peña Nieto a Acapulco para evaluar tareas de atención
 twitt: "A las 16:40 horas inició la reunión en la que participan también los secretarios de Gobernación, Defensa Nacional, Marina, Comunicaciontes y Transportes, así como el gobernador Ángel Aguirre."
 author: La Jornada
