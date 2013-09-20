@@ -3,7 +3,7 @@ published: true
 title: Desarrollan mecanismo que minimiza efectos de sismos en edificaciones
 author: Redacción
 location: Nacional
-category: Principales
+category: Ciencia y Tecnología
 layout: posts
 ---
 
