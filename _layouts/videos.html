@@ -18,7 +18,7 @@ function loadVideo(playerUrl, autoplay) {
 function showMyVideos2(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
-  var html = ['<div><p>'];
+  var html = ['<br><br><br><div><p>'];
   for (var i = 0; i < entries.length; i++) {
     var entry = entries[i];
     var title = entry.title.$t;
@@ -35,8 +35,8 @@ function showMyVideos2(data) {
 }
 </script>
 <div class="videoLaJornadaTV" id="playerContainer">
-    <div><object id="player"></object></div>
-</div>
+    <div class="flex-video widescreen"><object id="player"></object></div>
+</div><br><br>
 <div id="videos2"></div>
 <script 
     type="text/javascript" 
