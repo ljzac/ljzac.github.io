@@ -14,3 +14,7 @@ layout: posts
 Los policías impidieron que los estudiantes bajaran de los camiones, e incluso, amarraron las puertas con alambres.
 
 ![](http://i.imgur.com/G1cbZ88m.jpg)Los obligaron a retornar a Loreto, pero a la altura de Ciudad Cuauhtémoc algunos estudiantes quisieron bajar al baño y los agentes de Tránsito se los impidieron, lo que provocó empujones y golpes.
+
+Vecinos de Ciudad Cuauhtémoc se acercaron e intercedieron a favor de los jóvenes y exigieron que permitieran bajar mínimo a las mujeres.
+
+Al final, los estudiantes bajaron de los autobuses y después de 10 minutos siguieron con la caravana de regreso, escoltados por la Policía Estatal.
