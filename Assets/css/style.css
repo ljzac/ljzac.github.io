@@ -136,7 +136,6 @@ Header Section Css
 /* Dropdown Css */
 
 .dropdwon {
-	visibility: hidden;
 	position: absolute;
 	top: 40px;
 	left: -36px;
