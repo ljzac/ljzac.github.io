@@ -1,6 +1,6 @@
 ---
 published: true
-title: Capacitarán a alumnos y personal de museos para divulgación de la cultura
+title: Brindarán a alumnos y a personal de museos estrategias para la divulgación de la cultura
 author: REDACCION
 location: Local
 category: Destacadas
