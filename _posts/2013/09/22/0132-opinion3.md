@@ -1,0 +1,26 @@
+---
+published: true
+title: Notas sobre las nuevas administraciones municipales (II)
+author: Ricardo Bermeo
+location: Local
+category: Opinión
+layout: posts
+---
+
+Este breve texto está orientado a contribuir  a la reflexión sobre  el uso de los “modelos de desarrollo” en Zacatecas, procurando  explorar  especialmente la perspectiva del “desarrollo alternativo”, buscando, en textos subsecuentes- pensar algunos aspectos centrales vinculados  al ámbito municipal.
+
+ Las ideas bordadas aquí, forman parte de un mosaico de reflexiones compartidas a nivel local y en contextos más amplios, que he apuntado -aquí- en notas anteriores. En general, partiendo del reconocimiento de una “crisis de sentido global”  vertiginosamente acelerada en los tiempos que corren, debido al curso seguido  por la descomposición/recomposición  de la hegemonía planetaria, y la deriva “heterototalitaria” señalada. Sin olvidar nunca, el otro polo antinómico, el de la  germinación de un nuevo  imaginario político democrático. Se trata de una lucha que se proyecta sobre el entero  horizonte del convulsivo Siglo 21.  De manera más específica, vinculo estas ideas, a la crisis económica-financiera que inicio en 2009, y que citando a Yannis Varoufakis, considerábamos muy lejos aún de su final. Claramente se trata de una dinámica que tiene -y tendrá-  mayores   repercusiones  tanto en las proyecciones  a nivel internacional  ante el caos sistémico global. Así como, de lo global a lo local,  a nivel país, en las entidades federativas, y  municipios.  
+ 
+Un “modelo de desarrollo” supone un enfoque teórico y la generación de dispositivos -y prácticas-  dispuestas de manera organizada, para lograr una serie de objetivos y metas,  donde los procesos y resultados son medidos a partir de una serie de indicadores, que sirven como parámetros para implementar el “modelo ”  proyectado ,  incluyendo el seguimiento de las fases de aplicación  del mismo,  mediante  procesos evaluativos que permiten mejorar su  funcionamiento tanto en  su etapa de pilotaje, como durante los  procesos de ampliación de sus escalas –y/o, ante la posibilidad de replicarlo en otros contextos-.
+
+Ello implica que se asuma la necesidad de  imbricar  dos tipos de actividad, una de carácter teórico (que incluye el diseño del modelo -o del plan de desarrollo-) y la otra de carácter práctico, la de la serie de intervenciones programadas. Articuladas -las dos- en un “modelo” de desarrollo que llevaría al sujeto/objeto de la intervención,  por ejemplo, un sector social, mujeres, o bien,  pandillas juveniles de una colonia, etc.,  o, en su caso,  una comunidad, un municipio, una entidad federativa, una región, o un país. Aquí se abre la compleja cuestión de las escalas, así como el eterno y visiblemente insoluble acoplamiento “intersectorial” de las diversas políticas (social, ambiental, económica, etc.), en los distintos niveles de gobierno, y/o dentro de un mismo nivel. 
+
+En otras palabras,  se buscan los modos de pasar  de una situación X (aquella existente  en el momento del inicio), por ejemplo, la pobreza en Zacatecas, que afecta un porcentaje muy elevado de la población (60.2 por ciento del total vive en condiciones de pobreza)   para llevar esa realidad social seleccionada, a transformarse  gracias a la aplicación del modelo, y así  arribar a un estado y, en virtud  de los cambios operados, a través de la conjugación de la serie  de  acciones  articuladas  en la perspectiva estratégica elaborada.  
+
+En el transcurso, las nuevas  modificaciones surgidas  gracias a las propiedades emergentes (por lo general, no previstas) que se han ido creando,  pueden ser incorporadas al proceso de desarrollo alternativo  rediseñando  los “futuros instituibles” dibujados en las fases antecedentes, a través del (re)ajuste de las metas y objetivos,  mediante un ejercicio explícito  de autoinstitución permanente y lúcida por parte de los actores y agencias implicadas –o, comprometidas- en el proceso de innovación social. 
+
+Un papel central  en la elucidación  del modelo de desarrollo,  desde la perspectiva de la epistemología del modelaje & simulación,  se juega en los enfoques teóricos  que se emplean como referente para dar cuenta y razón de la sociedad, y del cambio social (incluye, las concepciones del sujeto social utilizadas, y/o las teorías de alcance medio, y/o micro,  relativas al  ámbito especifico de aplicación del modelo, ej.  Salud, etc.). Puede ser un “modelo de desarrollo” que incluye una familia de modelos, junto a la serie de elementos puestos en juego de manera específica con las intervenciones que se vayan realizando. Por ejemplo, nuevas tecnologías, etc. 
+
+Con estos apuntes, busco iniciar, sin afán de ser exhaustivo,  una serie de reflexiones sobre el conjunto de (pre)supuestos que son incorporados ya sea de modo implícito y/o explícito  en las tareas vinculadas al desarrollo alternativo municipal. Las preguntas que se derivan de las notas esbozadas son múltiples: ¿Qué tipo de “modelo de desarrollo” es el que se utiliza para elaborar los planes de desarrollo municipal? ¿Cuáles son las teorías de la sociedad, y del cambio social, que forman e informan el diseño y la aplicación del “modelo de desarrollo” utilizado? Junto a muchas otras, sobre las que volveremos en las siguientes participaciones.   ■
+
+*Archivo:PEIDA-UAZ.
