@@ -3,7 +3,7 @@ published: true
 title: "Por falta de resultados se reestructurará el Clustur: Inguanzo"
 author: Raquel Ollaquindia
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
