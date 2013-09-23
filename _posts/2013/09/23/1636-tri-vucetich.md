@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Pese a reveses, el 'Tri' 'no está golpeado': Vucetich"
+title: "Pese a reveses, el 'Tri' \"no está golpeado\": Vucetich"
 twitt: No convocaré a aquellos ‘europeos’ sin actividad ni siquiera en aras de intereses comerciales.
 author: La Jornada
 location: Nacional
