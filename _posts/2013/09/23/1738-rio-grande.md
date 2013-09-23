@@ -1,6 +1,6 @@
 ---
 published: true
-title: Entregan apoyos para damnificados Cruz Roja Mexicana y municipio de Río Grande
+title: Entregan apoyos para damnificados Cruz Roja Mexicana y Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
