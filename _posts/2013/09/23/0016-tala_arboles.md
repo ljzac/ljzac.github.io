@@ -3,7 +3,7 @@ published: true
 title: Complicidad de las autoridades en tala clandestina de árboles
 author: ALMA ALEJADRA TAPIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
