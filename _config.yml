@@ -101,7 +101,11 @@ prose:
             - name: "Editorial"
               value: "Editorial"
             - name: "Memoria"
-              value: "Memoria" 
+              value: "Memoria"
+            - name: "Martes"
+              value: "Martes"
+            - name: "Café"
+              value: "Café" 
           selected: "Portada" 
       - name: "layout"
         field:
