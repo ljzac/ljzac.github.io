@@ -1,6 +1,6 @@
 ---
 published: true
-title: Organiza Conafor Zacatecas el primer Foro de aprovechamiento del Orégano Silvestre
+title: Organiza Conafor Zacatecas el primer Foro de aprovechamiento del orégano silvestre
 author: REDACCION
 location: Local
 category: Destacadas
