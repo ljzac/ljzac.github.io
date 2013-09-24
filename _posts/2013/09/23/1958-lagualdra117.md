@@ -2,7 +2,7 @@
 published: true
 title: La Gualdra 117
 location: Local
-category: La Jiribilla
+category: La Gualdra
 layout: posts
 ---
 
