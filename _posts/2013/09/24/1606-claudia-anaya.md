@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Atenderá Claudia Anaya a un 'sector poblacional que vive rezago histórico, personas con capacidad'"
+title: "Atenderá Claudia Anaya a un 'sector poblacional que vive rezago histórico, personas con discapacidad'"
 author: Alma Ríos
 location: Local
 category: Destacadas
