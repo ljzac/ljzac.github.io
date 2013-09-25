@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-![Awaran. Habitantes de la provincia de Baluchistan buscan sus pertenencias entre los escombros de las casas destruidas por un terremoto. Un sismo de 7.7 en escala de Richter sacudió a Pakistan y dejó 271 muertos. Ap](http://i.imgur.com/YeKPFT5m.jpg)Pakistán. Socorristas y lugareños desesperados buscaban este miércoles supervivientes entre los escombros provocados por un terremoto que dejó al menos 328 muertos y afectó a decenas de miles de personas en una región recóndita de Pakistán.
+![Awaran. Habitantes de la provincia de Baluchistan buscan sus pertenencias entre los escombros de las casas destruidas por un terremoto. Un sismo de 7.7 en escala de Richter sacudió a Pakistan y dejó 328 muertos. Ap](http://i.imgur.com/YeKPFT5m.jpg)Pakistán. Socorristas y lugareños desesperados buscaban este miércoles supervivientes entre los escombros provocados por un terremoto que dejó al menos 328 muertos y afectó a decenas de miles de personas en una región recóndita de Pakistán.
 
 El sismo de magnitud 7.7, ocurrido el martes cerca de la ciudad de Awaran, en la provincia pobre de Baluchistán (sudoeste), se sintió en India y en Irán e incluso "creó" una isla de lodo y rocas en la costa paquistaní del mar Arábigo.
 
