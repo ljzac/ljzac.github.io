@@ -1,7 +1,9 @@
 ---
 published: true
+title: Apoyará DIF municipal a su unidad básica de rehabilitación
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
