@@ -1,0 +1,18 @@
+---
+published: true
+title: Corrupción y política en Zacatecas
+author: Redacción
+location: Local
+category: Editorial
+layout: posts
+---
+
+La corrupción es la infección que impide el avance en el desarrollo del país. Los legisladores zacatecanos (con sus honrosas excepciones) evidencian la venta de su voto de algo tan sustancial como el presupuesto, muestran una de las facetas de la corrupción que, sabemos, es una entre otras: diferentes dependencias aprobando proyectos a cambio de recompensas; agentes del Ministerio Público y jueces vendiendo sus averiguaciones y sentencias; direcciones de obras públicas pidiendo tajada a cambio de contratos de obra. Y la corrupción por omisión: dinero a cambio de quedarse callados o no hacer nada. 
+
+La clave está en este “a cambio”. Es decir, en todos los casos se trata de convertir recursos o asuntos públicos en ganancias privadas. Y sabemos que el impacto social de esa práctica es enorme: desde dramas contextuales (bosques que se destruyen, acuíferos que se tapan, atmósfera que se contamina), tragedias personales (penas carcelarias en la inocencia o pérdida de patrimonio); y males públicos (presupuestos de conveniencia, ausencia de obras de todo tipo y derechos sociales incumplidos). En suma, el desarrollo humano detenido. ¿Se imaginan el dinero que deben recibir los diputados federales para aprobar la reforma energética? Por ello, la pregunta que siempre nos debemos hacer es: ¿se pueden detener estas prácticas? ¿Cómo? Es una pregunta vital de cuya respuesta depende el florecimiento de las generaciones que vienen.
+
+Es una ingenuidad proponer la estrategia moralista: sermones de buena conducta o códigos de ética. Contra la corrupción no hay otra solución que la combinación de dos medidas: lograr que todas las decisiones y acciones públicas estén a la vista de todos; y el equilibrio de poderes. Es decir, la transparencia y el contrapeso en el ejercicio del poder. Esto así es, porque todo acto de corrupción, al ser una privatización de lo público, actúa siempre en la oscuridad; por ello, la manera de combatirlo es poner todos los actos públicos en una caja de cristal, a la vista de todos. Y además, como todo acto de corrupción es, finalmente, un ejercicio de poder, y la manera de contener al poder es con el propio poder, se requiere una estricta división y contrapeso en las instituciones que ejercen el poder público. Y la pregunta que salta aquí mismo es, ¿cómo estamos en México y en Zacatecas en cuanto a transparencia y equilibrio de poderes? Pues mal.
+
+Hay un problema estructural que hay que superar (de lo cual no hay propuesta de reforma al respecto): los órganos e instancias encargadas de fortalecer la rendición de cuentas no tienen suficiente autonomía. La Auditoría Superior de la Federación (y del estado) no tiene plena autonomía, sólo tiene autonomía técnica y de gestión. De la misma manera, todas las instancias encargadas de garantizar transparencia y rendición de cuentas: les falta autonomía.
+
+Y esto posibilita que estén al alcance del poder y de la oscuridad. Así es: la clave es la autonomía de los órganos y la obligación de publicidad absoluta de todos los asuntos. Si la sociedad consiguiera estos dos componentes, estaríamos en otra circunstancia. No sufriríamos la pena ajena de escuchar a los diputados debatir sus prebendas por la venta de su voto, y escuchar también cómo funcionarios corrompen a los legisladores para aprobar su proyecto de presupuesto; y con ello, a todos los ciudadanos sufriendo por políticas públicas no evaluadas. ¿Habrá consecuencias de los actos de corrupción evidenciados o reescribiremos la historia eterna de ‘no pasa nada’?
