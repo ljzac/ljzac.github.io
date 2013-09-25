@@ -9,7 +9,7 @@ layout: posts
 ---
 
 ![](http://i.imgur.com/4jdH9H6m.jpg)
-A través de un audio que comenzó a circular en la tarde de este martes por las redes sociales, se destapó un presunto caso de corrupción en la 60 Legislatura del estado. El hecho se relaciona con la votación del presupuesto de Gobierno estatal para el ejercicio 2013 y con un supuesto cobro de 100 mil pesos por parte de los diputados que votaron a favor de este documento.
+A través deun audio que comenzó a circular en la tarde de este martes por las redes sociales, se destapó un presunto caso de corrupción en la 60 Legislatura del estado. El hecho se relaciona con la votación del presupuesto de Gobierno estatal para el ejercicio 2013 y con un supuesto cobro de 100 mil pesos por parte de los diputados que votaron a favor de este documento.
 
 En el audio se escucha una conversación, presuntamente, entre los ex legisladores Gerardo Romo Fonseca (PRD), Jorge Luis García Vera (Panal), Felipe Ramírez (PRI), Alfredo Barajas (PRI), Noemí Berenice Luna Ayala (PAN), Xerardo Ramírez (PVEM), Saúl Monreal (PT) y Geovanna Bañuelos (PT). 
 
@@ -72,4 +72,4 @@ Rafael Flores agregó que un acuerdo más de la PPF fue que el presupuesto del P
 
 Además se acordó elaborar un reglamento para transparentar el gasto de gestión, incluso publicarlo en el Periódico Oficial de Gobierno del Estado para quitarle discrecionalidad y haya trasparencia sobre los apoyos que se dan a la gente.
 
-Finalmente los integrantes de la 61 Legislatura pactaron solidarizarse con los afectados por las contingencias climáticas de la semana pasada, de modo que cada diputado donará dos días de su salario, además habrá una cantidad adicional de parte del Congreso para alcanzar el medio millón de pesos y entregarlos a la gente de diversos municipios.  
+Finalmente los integrantes de la 61 Legislatura pactaron solidarizarse con los afectados por las contingencias climáticas de la semana pasada, de modo que cada diputado donará dos días de su salario, además habrá una cantidad adicional de parte del Congreso para alcanzar el medio millón de pesos y entregarlos a la gente de diversos municipios.
