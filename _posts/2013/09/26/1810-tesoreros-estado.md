@@ -1,6 +1,6 @@
 ---
 published: true
-title: Clausuran ciclo de conferencias para presidentes municipales y tesoresros del Estado
+title: Clausuran ciclo de conferencias para presidentes municipales y tesoreros del Estado
 author: REDACCION
 location: Local
 category: Destacadas
