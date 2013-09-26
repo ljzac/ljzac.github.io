@@ -23,9 +23,7 @@ El concepto de Eiliff va más bien por lo intelectual y en aras de mostrar el vi
 Los integrantes son Bill Brown, en el bajo; Rainer Brüninghaus, en el sintetizador; Herbert J. Kalveram, en el saxofón; Detlev Landmann, en la batería, y Houschäng Nejadepour, en la guitarra y la cítara.
 
 
-_**Submission for liberty**_ (2012), 4Arm
-
-![4Arm](http://i.imgur.com/ra3bkL0m.jpg)
+![4Arm](http://i.imgur.com/ra3bkL0m.jpg)_**Submission for liberty**_ (2012), 4Arm
 
 http://www.youtube.com/watch?v=K_B9Vr2_HaQ
 
@@ -38,9 +36,7 @@ Lo anterior da como resultado una propuesta amena, enérgica, con temas que habl
 La banda está conformada por Andy Hinterreiter, en el bajo; Michael Vafiotis, en la batería; Johnny Glovasa, en la guitarra principal, y Danny Tomb, vocalista y guitarra rítmica.
 
 
-_**The fall of math**_ (2004), 65daysofstatic
-
-![65daysofstatic](http://i.imgur.com/J7Cy2ZEm.jpg)
+![65daysofstatic](http://i.imgur.com/J7Cy2ZEm.jpg)_**The fall of math**_ (2004), 65daysofstatic
 
 http://www.youtube.com/watch?v=WneDU-K3Sww
 
