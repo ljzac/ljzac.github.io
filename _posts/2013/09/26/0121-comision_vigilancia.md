@@ -4,7 +4,7 @@ title: Comisión de Vigilancia investigará la  presunta corrupción de la 60 Le
 twitt: "■ Es necesario auditar cada año y no cada tres al Congreso del estado: Luis Acosta Jaime"
 author: "ALMA ALEJANDRA TAPIA "
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
@@ -24,4 +24,4 @@ Dijo que los audios no son prueba de delito, por ende el Congreso debe actuar co
 Si bien aseguró que hay confianza en el trabajo de la ASE, “no choca con la ley” mandar a hacer una auditoría externa, “podría ser parte de la solución de este caso, pero esperaremos a ver qué mencionan los órganos de gobierno”.
 
 El presidente de la Comisión de Vigilancia finalmente dijo que no todas las sesiones de comisiones se pueden hacer públicas, porque hay temas “que son de carácter privado”, como la revisión de las cuentas públicas. De modo que la manera de evitar prácticas corruptas, es más un asunto de ética de cada uno de los legisladores.
-Luis Acosta hizo las declaraciones después de la instalación formal de la Comisión de Vigilancia del Congreso local. Ayer también se instalaron algunas otras como la de Hacienda y Fortalecimiento Municipal. 
+Luis Acosta hizo las declaraciones después de la instalación formal de la Comisión de Vigilancia del Congreso local. Ayer también se instalaron algunas otras como la de Hacienda y Fortalecimiento Municipal.
