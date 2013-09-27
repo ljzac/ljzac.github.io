@@ -1,0 +1,19 @@
+---
+published: false
+title: Epica Nacional
+author: Julio Yrízar
+location: Local
+category: Opinión
+layout: posts
+---
+
+Es común entre las naciones incipientes que aspiran vivir hasta la conclusión del funeral de las estrellas, la misión de crear un motivo que justifique todas las acciones realizadas y por realizar en la búsqueda de los ideales que por principio, las han conformado como un conglomerado de voluntades. Dicho motivo es la argamasa con la que se construye el muro de las aspiraciones nacionales, y resulta indispensable hacerlo asequible al grueso de los individuos a través de un lenguaje común que sea motor de complicidades y fomente la identidad del grupo: el poema épico. Toda nación necesita símbolos; la raíz de los símbolos abreva de mitologías prósperas; toda mitología ha requerido de la gramática para prosperar; las gramáticas se han definido y difundido en los poemas épicos de las naciones. Allá están Aquiles, Eneas, Roldan y Sigfrido caminando junto a Moisés y Mohammed; acá llegan cantantes el cuento del águila devorando al crótalo y todos los favorables émulos de la Eneida.
+
+El poema épico es fundamental para las sociedades con ambición, pues insufla vigor al espíritu humano, y con ese polvo se forma el sólido y bello mármol de la voluntad nacional, la cual debiera ir plena de autenticidad y valores para que no trastabillen sus pasos con baches de ausencia de contenido moral en la carretera del progreso material. Pero las sociedades son dinámicas, porque en el corazón de los individuos que las conforman reina la volubilidad del momento, y puede que los ideales originales se vean amenazados por contingencias inexorables, de ahí la necesidad de revitalizar los ideales colectivos –o de modificarlos-, construyendo monumentos novedosos que hagan homenaje a los nuevos héroes del grupo, a las nuevas formas de entender el mundo y de afrontar la realidad. De aquí que las versiones oficiales de las historias nacionales de nuestro mundo se encuentren plagadas de pretensiones, adecuaciones y omisiones que no buscan sino justificar, disminuir o desacreditar, en no pocos casos, hechos que observados bajo el reflector de la objetividad resultarían degradantes para nuestra especie, malvada o estúpida, pero nunca inocente.
+
+Así pues, cada capítulo en la historia de una nación debiera estar escrito con la congruencia del argumento inicial, y en la nuestra particular, los hombres y mujeres que la conformamos debemos -en la sana medida de lo que es viable sin desperdicio-, buscar mantenernos al trote del porvenir en la montura de los fundamentos filosóficos que nos originaron como grupo, teniendo bien sujeta -con la mano izquierda como indica el canon-, la brida que indica el rumbo de nuestro cabalgar.
+
+Tomando en cuenta todo lo anterior -y no sin zozobra-, echemos una ojeada en lo inmediato y continuemos divagando: frente a todo el descontento popular que generan –y generarán- las llamadas reformas estructurales en nuestro país, ¿cuál va a ser el novedoso poema heroico que nuestros líderes promoverán para justificar este nuevo capítulo de vilipendios en la historia nacional? Es difícil imaginarlo, aunque seguro es que estará construido con lo mejor de la gramática de Televisa y Televisión Azteca, la cual tristemente se ha convertido a fuerza de cucharadas ineludibles en la gramática nacional, y toda la literatura que de ahí ha emergido no ha sido capaz de sustentar la experiencia histórica, ni ha fortalecido la más remota idea de tradición, ni ha motivado el pensamiento crítico, motor fundamental de los cambios sociales inflamados por ideales de justicia. En cambio sí ha comprimido la lengua, y con ella la conciencia, los derechos y las esperanzas. Así es nuestra nueva épica nacional: la política, la cultura y los valores como subproductos de la mass media. ■
+
+
+yrizac@gmail.com
