@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Presidentes de órganos electores, en contra de la creación de un Instituto Nacional Electoral"
+title: "Presidentes de órganos electorales, en contra de la creación de un Instituto Nacional Electoral"
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
