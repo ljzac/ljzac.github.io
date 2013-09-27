@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/pqTQbsNm.jpg)
+![](http://i.imgur.com/bNZjxkRm.jpg)
 En una videoconferencia desde Londres, el fundador de Wikileaks, Julian Assange, expresó su solidaridad con la causa de Los cinco cubanos detenidos en Estados Unidos en 1998 acusados de espionaje, cuatro de los cuales permanecen presos.
 
 “Mi solidaridad con Los cinco”, dijo Assange, en un mensaje en el que refirió que Wikileaks, como Cuba desde hace más de 50 años, vive el bloqueo de los EU.
