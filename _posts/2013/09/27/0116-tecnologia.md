@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "La tecnología no podrá reemplazar las consultas frente a frente, señala especialista"
 author: RAFAEL DE SANTIAGO
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Teleconsultas, consideradas como segunda opción
+![](http://i.imgur.com/aSlT8Kkm.jpg)■ Teleconsultas, consideradas como segunda opción
 
 Enrique Argüelles Robles, presidente del Consejo Estatal de Bioética de los Servicios Coordinados de Salud de Zacatecas (SSZ), en su conferencia Dilemas Bioéticos en Tele-salud, dentro del Congreso Nacional de Telesalud; mencionó que ningún aparato tecnológico podrá sustituir la percepción que hacen los sentidos de un médico en una consulta frente a frente; y las tele-consultas a distancia pueden ser consideradas como una segunda opinión.
 
