@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/k3U5irdm.jpg)Elementos de corporaciones policiales estatales y municipales participarán en un operativo de vigilancia durante la "Corrida de Rejones" que se realizará el domingo próximo 29, como garantes de la tranquilidad del público asistente.
+![](http://i.imgur.com/k3U5irdm.jpg)Los Elementos de corporaciones policiales estatales y municipales participarán en un operativo de vigilancia durante la "Corrida de Rejones" que se realizará el domingo próximo 29, como garantes de la tranquilidad del público asistente.
  
 En la corrida que ofrece el gobernador Miguel Alonso Reyes, que será gratuita y se realizará en la Plaza Monumental Zacatecas, los policías auxiliarán en la seguridad y el orden, bajo la coordinación de la Secretaría de Seguridad Pública del estado.
  
