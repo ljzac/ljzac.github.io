@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Asegura BOM más de 2.2  toneladas  de mariguana
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ El hombre detenido, de 53 años y originario de Tamaulipas,  dijo desconocer lo que traía
+![](http://i.imgur.com/hNL1d0im.jpg)■ El hombre detenido, de 53 años y originario de Tamaulipas,  dijo desconocer lo que traía
 	
 TLALTENANGO. La madrugada de este jueves, elementos que conforman la Base de Operación Mixta (BOM) de Tlaltenango aseguraron más de 2.2 toneladas de mariguana.
 El hecho tuvo lugar en la comunidad de Cicacalco, municipio de Tlaltenango, cuando el conductor de una camioneta de cuatro toneladas intentó huir al detectar el puesto de control.
