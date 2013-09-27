@@ -9,11 +9,11 @@ layout: posts
 
 ![](http://i.imgur.com/uYMeY99m.jpg)Integrantes del Comité de Validación de Apoyo a Migrantes (COVAM) aprobaron 76 obras del Programa 3x1 de la Secretaría de Desarrollo Social (Sedesol), con un monto cercano a 57 millones pesos.
  
-Así se acordó durante la 5ª Sesión ordinaria del COVAM, en la que el titular de SEDESOL estatal, José Ma. González Nava, exhortó a los participantes a trabajar a favor de la cohesión social.
+Así se acordó durante la 5ª Sesión ordinaria del COVAM, en la que el titular de Sedesol estatal, José Ma. González Nava, exhortó a los participantes a trabajar a favor de la cohesión social.
  
 Se determinó el 21 de octubre será el plazo límite para que los municipios integren sus expedientes completos y el depósito financiero en tiempo y forma.
  
-Presidieron la reunión José Ma. González Nava,  titular de SEDESOL en el estado; el delegado de Sedesol federal, Jorge Luis Rincón Gómez, y el Secretario de Finanzas, Fernando Soto Acosta.
+Presidieron la reunión José Ma. González Nava,  titular de Sedesol en el estado; el delegado de Sedesol federal, Jorge Luis Rincón Gómez, y el Secretario de Finanzas, Fernando Soto Acosta.
  
 El secretario de Finanzas, Fernando Soto Acosta, informó que a la fecha fueron validado 176 millones, con depósitos de los municipios y clubes por 73 millones 943 mil pesos.
  
