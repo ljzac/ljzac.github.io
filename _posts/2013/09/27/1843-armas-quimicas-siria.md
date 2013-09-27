@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Aprueban destrucción de armas químicas en Siria
+twitt: "\"La OPAQ aprobó el plan por unanimidad. El Consejo de Seguridad de la ONU ya puede votar\", escribió en su cuenta de Twitter el embajador británico ante la Organización de las Naciones Unidas, Mark Lyall Grant."
+author: Dpa
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
