@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/YRbQ6Eym.jpg)El Gobierno del Estado tiene la disponibilidad de firmar un convenio de colaboración con el Instituto Politécnico Nacional (IPN), a fin de que éste participe en las actividades para la conmemoración del Centenario de la Batalla de Zacatecas.
+![](http://i.imgur.com/YRbQ6Eym.jpg)El Gobierno del Estado tiene la disponibilidad de firmar un convenio de colaboración con el Instituto Politécnico Nacional (IPN) a fin de que éste participe en las actividades para la conmemoración del Centenario de la Batalla de Zacatecas.
  
 Así lo dijo Gustavo Salinas Iñiguez, director del Instituto Zacatecano de Cultura "Ramón López Velarde", en la reunión de egresados del IPN en la que presentaron la Cruzada de Apoyo al Alma Máter.
  
