@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Continúa el ayuntamiento de Guadalupe con el acopio de víveres para damnificados
 author: REDACCION
 location: Local
@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Lo recaudado será distribuido en los municipios de mayor afectación, informan
+![](http://i.imgur.com/9BMjybim.jpg)■ Lo recaudado será distribuido en los municipios de mayor afectación, informan
 
 ■ Buscan coordinarse con instituciones como la Cruz Roja, para que la distribución sea efectiva
 
