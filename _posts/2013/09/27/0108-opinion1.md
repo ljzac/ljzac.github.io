@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A 60 años del derecho al voto de las mujeres
 author: "Julieta Contreras Hernández*"
 location: Local
@@ -7,7 +7,7 @@ category: Opinión
 layout: posts
 ---
 
-El siglo 21 es testigo de nuevos episodios protagonizados por las mujeres en torno a un derecho fundamental en toda sociedad. El 17 de octubre de 1953 se reconoció el derecho al sufragio de las mujeres quienes dejaron en claro que  el derecho al voto no fue una concesión gubernamental, sino una conquista duramente ganada por las propias mujeres  en una acción colectiva en la que participaron sucesivas generaciones de mujeres desde las postrimerías del siglo 19 hasta la mitad del siglo 20.
+![](http://i.imgur.com/xg5lx8wm.jpg)El siglo 21 es testigo de nuevos episodios protagonizados por las mujeres en torno a un derecho fundamental en toda sociedad. El 17 de octubre de 1953 se reconoció el derecho al sufragio de las mujeres quienes dejaron en claro que  el derecho al voto no fue una concesión gubernamental, sino una conquista duramente ganada por las propias mujeres  en una acción colectiva en la que participaron sucesivas generaciones de mujeres desde las postrimerías del siglo 19 hasta la mitad del siglo 20.
 
 A 60 años del reconocimiento del derecho de las mujeres a votar y ser electas, las nuevas generaciones gozamos de mayor socialización política, nuestra participación es más visible en espacios de representación y ejercicio de poder. Ahora las mujeres no sólo representamos un significativo porcentaje en la lista nominal de electores, también en organizaciones cívico-políticas, en procesos electorales y en los poderes del Estado.
 
