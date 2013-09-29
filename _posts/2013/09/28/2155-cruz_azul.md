@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Cruz Azul se concilia con el triunfo al vencer 1-0 a los Panzas Verdes del León"
 author: Redacción
 location: Nacional
