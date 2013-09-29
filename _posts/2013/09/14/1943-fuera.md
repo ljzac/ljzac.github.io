@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Algunos participantes de la tradicional Romería
 author: ANDRÉS SÁNCHEZ
 location: Local

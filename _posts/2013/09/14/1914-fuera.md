@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Aleks Syntek, durante su concierto de apertura de la Feria Nacional de Zacatecas (Fenaza) 2013, realizado en Plaza de Armas"
 author: ERNESTO MORENO
 location: Local

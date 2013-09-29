@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Comercio informal
 author: ERNESTO MORENO
 location: Local

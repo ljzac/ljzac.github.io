@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Durante la entrega de apoyos de Gobierno del Estado
 author: ERNESTO MORENO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Hombre trabaja en la limpieza de los cristales del Palacio de Convenciones
 twitt: Hombre trabaja en la limpieza de los cristales del Palacio de Convenciones
 author: Andrés Sánchez

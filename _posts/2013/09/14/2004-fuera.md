@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Vida cotidiana
 author: ERNESTO MORENO
 location: Local

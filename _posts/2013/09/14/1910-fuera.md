@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Minero, durante la colocación oficial de la primera piedra de la planta fundidora de mineral, en el municipio Vetagrande"
 author: ERNESTO MORENO
 location: Local

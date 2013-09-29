@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Un grupo de personas, en espera de recibir apoyos de parte de Gobierno del Estado"
 author: ERNESTO MORENO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Algunos maestros caminan acompañados de sus hijos durante marcha en contra de la reforma educativa
 author: ERNESTO MORENO
 location: Local

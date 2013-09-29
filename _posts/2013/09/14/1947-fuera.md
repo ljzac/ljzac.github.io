@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Maestros 'toman' la caseta de cobro de Calera, en rechazo a la reforma educativa"
 author: ANDRÉS SÁNCHEZ
 location: Local

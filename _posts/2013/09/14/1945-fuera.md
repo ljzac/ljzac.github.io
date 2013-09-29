@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Un espectador de la Romería realizada en la capital del estado
 author: ANDRÉS SÁNCHEZ
 location: Local

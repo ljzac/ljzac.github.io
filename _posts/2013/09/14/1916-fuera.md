@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "En asamblea del Sindicato de Trabajadores de la Universidad Autónoma de Zacatecas (STUAZ), su dirigente, Rafael Rodríguez"
 author: ERNESTO MORENO
 location: Local
