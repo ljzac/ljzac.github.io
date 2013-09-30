@@ -3,8 +3,8 @@ published: true
 title: Mueren 13 migrantes al intentar llegar nadando a las costas de Sicilia
 twitt: Se habían lanzado al agua tras el hundimiento de la barcaza en la que viajaban cerca a la costa de Ragusa
 author: Afp
-location: Local
-category: Destacadas
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
