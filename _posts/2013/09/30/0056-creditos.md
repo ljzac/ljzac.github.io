@@ -4,7 +4,7 @@ title: "Reformas estructurales de Gobierno federal flexibilizan el crédito a la
 twitt: "■ Impulsarán a la banca de desarrollo, en función de otorgar créditos con menos requisitos, afirma"
 author: MARTIN CATALAN LERMA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
