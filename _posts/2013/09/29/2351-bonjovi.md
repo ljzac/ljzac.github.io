@@ -2,8 +2,8 @@
 published: true
 title: Resuenan las power ballads y el glam de Bon Jovi en el Foro Sol
 author: Redacción
-location: Local
-category: Portada
+location: Internacional
+category: Cultura y Espectáculos
 layout: posts
 ---
 
