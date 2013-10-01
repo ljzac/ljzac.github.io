@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Se llevó a cabo capacitación para funcionarios municipales sobre la “planeación de trabajo y desarrollo de estrategias”, en Río Grande"
+title: Se llevó a cabo capacitación para funcionarios municipales sobre planeación de trabajo en Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
