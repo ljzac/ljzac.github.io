@@ -1,6 +1,6 @@
 ---
 published: true
-title: Planea Ingeniería Civil Tras tercera acreditación ante el CACEI
+title: Planea Ingeniería Civil tercera acreditación ante el CACEI
 author: REDACCION
 location: Local
 category: Destacadas
@@ -17,4 +17,4 @@ Mientras tanto, en calidad de Coordinador del Comité Evaluador, Sebastián Mart
 
 La primera actividad de la agenda consistió en una proyección en la que por parte de la Unidad de Construcción de la UAZ, se explicó de la infraestructura y de los espacios universitarios que posibilitan la enseñanza-aprendizaje de la ingeniería civil.
 
-En general durante estos tres días están programadas alrededor de 15 actividades para los evaluadores, como entrevistas con profesores, docentes, autoridades institucionales y personal administrativo, la revisión de las instalaciones como laboratorios, aulas y bibliotecas y, como punto final, el resumen de evaluación de los indicadores que incluye las observaciones y del cual se elaborará un predictamen que se entregará el próximo jueves. 
+En general durante estos tres días están programadas alrededor de 15 actividades para los evaluadores, como entrevistas con profesores, docentes, autoridades institucionales y personal administrativo, la revisión de las instalaciones como laboratorios, aulas y bibliotecas y, como punto final, el resumen de evaluación de los indicadores que incluye las observaciones y del cual se elaborará un predictamen que se entregará el próximo jueves.
