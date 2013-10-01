@@ -4,7 +4,7 @@ title: "A sus 40 años, Juan Manuel Márquez entrena como si tuviera 28"
 twitt: "Hoy reventó dos peras en el gimnasio y trabaja como un jovencito que busca su primer título, presume su preparador previo a la pelea contra Manny Pacquiao."
 author: La Jornada
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
