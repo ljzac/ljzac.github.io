@@ -1,0 +1,25 @@
+---
+published: true
+title: El necesario replanteamiento del Fondo de Infraestructura Social  (1ª parte)
+author: Marcos Salvador Ibarra Infante
+location: Local
+category: Opinión
+layout: posts
+---
+
+El paso de los huracanes Ingrid y Manuel por nuestro país dejó muerte y destrucción en gran parte del territorio nacional, por ello la protección y atención de los damnificados, así como la reconstrucción de sus viviendas, de la infraestructura social básica, de las vías de comunicación y de sus fuentes de empleo son la prioridad, sin embargo, también es necesario aprender de la tragedia, evaluar nuestros errores y actuar en consecuencia. Además de los temas de falta de prevención, de la reacción no oportuna y de la permisividad de asentamientos en zonas de riesgo, todos ellos importantes, me concentraré en esta ocasión en el tema de la infraestructura, y particularmente, en aquella que va dirigida a los que menos tienen, la social.
+
+Imaginen la afectación que puede tener un hogar al sufrir una inundación como las que en estos días vemos en la televisión, ahora imaginen esa misma afectación en un hogar que no tiene piso ni muro ni techo de materiales firmes o resistentes, y consideren cuánto tiempo tardará en recuperarse si además el hogar no tenía, desde antes de la afectación, agua potable, drenaje, luz, alcantarillado y, lo peor, ya se encontraba “aislada” por no contar con caminos, escuela o centro de salud, acceso a la alimentación. Pues sí, muchos hogares que en este momento están pasando por la pesadilla de la inundación tienen años viviendo ademáscon la pesadilla de no contar con una infraestructura social básica, a pesar de que los municipios y los estados cuentan con un fondo exclusivo para atender esta necesidad: El Fondo de Aportaciones para la Infraestructura Social (FAIS).
+
+El FAIS es un fondo que se integró desde hace ya 15 años con el 2.5% de la recaudación federal participable, cifra nada despreciable ya que el año pasado alcanzó los 53 mil millones de pesos, más del doble presupuestal de Zacatecas el mismo año, de los cuales 87.8% se distribuye entre los municipios y 12.12% a los estados y se distribuye de acuerdo a una fórmula que considera criterios de pobreza extrema. De acuerdo a la Ley de Coordinación Fiscal el fondo se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien a la población que se encuentra en condiciones de rezago social y  pobreza, en el caso del municipio pueden dirigir el fondo para acciones de agua potable, alcantarillado, drenaje y letrinas, urbanización, electrificación, mejoramiento de viviendas, caminos rurales e infraestructura productiva rural, en el caso de los estados pueden invertir en obras y acciones regionales e intermunicipales, hasta aquí todo pinta bien. El problema es cómo en campo, en la realidad, se ha venido aplicando el Fondo.
+
+De acuerdo con revisiones efectuadas por la Auditoría Superior de la Federación y estudios del Coneval, el FAIS presenta, sobre todo en su vertiente municipal, varias deficiencias: a) Subejercicios recurrentes, una apertura programática rebasada que no permite la atención de algunas demandas prioritarias de la población, b) Existe una concentración de las inversiones en obras y acciones de pavimentación (alrededor de una tercera parte se destina a estos conceptos), en detrimento de una mayor atención de los servicios más prioritarios, curiosamente otros estudios señalan que son este tipo de obras donde se presenta mayor discrecionalidad de asignación y gasto en los municipios, c) La fórmula de distribución para municipios no contiene elementos que los incentiven a ejercer los recursos con mejores resultados, ya que con más pobres tendrán más recursos, d) La mayoría de los municipios no tiene información actualizada sobre los déficits de servicios de infraestructura básica, ni disponen de estudios sobre las zonas y grupos de mayor rezago que les apoyen en la planeación, y eviten la discrecionalidad en las determinación de las obras a realizar, entre otros puntos.
+
+En suma, tenemos graves deficiencias y deudas en la infraestructura social básica de los que menos tienen y que además, con afectaciones como la que vivimos hoy, son los que más sufren, y por otro lado tenemos un Fondo que fue diseñado para atender dicha necesidad pero que no se ha aplicado correctamente. 
+
+Bajo este contexto es necesario replantear el FAIS bajo un visión distinta que tenga tres principios básicos: 1). Premiar con más recursos a los municipios que logren cumplir metas y revertir los indicadores de la pobreza extrema de sus habitantes, y no a aquellos que tienen más pobres; 2) Que los recursos se apliquen en obras y acciones específicas que muevan los indicadores de pobreza; y 3) Generar esquemas de concurrencia de recursos de manera obligatoria.
+
+En nuestra siguiente colaboración analizaremos cada uno de los puntos con el fin de ofrecer a nuestros amables lectores algunas reflexiones que les pueda ayudar en la evaluación de las acciones que promoverán nuestros flamantes nuevos presidentes municipales. ■
+
+
+ibarram77@gmail.com
