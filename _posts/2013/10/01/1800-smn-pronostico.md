@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Prevé SMN cielos parcialmente nublados, porteriormente despejados"
+title: "Prevé SMN cielos parcialmente nublados, posteriormente despejados"
 author: REDACCION
 location: Local
 category: Destacadas
@@ -18,4 +18,4 @@ En lo que respecta a la zona conurbada de Zacatecas-Guadalupe, para las próxima
 
 En general para esta entidad, cielos parcialmente nublados hoy noche y mañana miércoles: principalmente en el centro y sur del estado, con probabilidad de 60 por ciento de lluvias de ligeras a moderadas (5-10 mm); no se descartan chubascos aislado sobretodo en esas regiones.  Debido al paso de la masa asociada al frente frío tres, tendríamos ligero refrescamiento de temperaturas en las zonas serranas en los siguientes dos días. Temperaturas medias entre  13 y 27 grados Celsius (33 en los Cañones). A pesar del ingreso de humedad al interior del estado, en general se espera hasta el fin de semana condiciones más estables que en pasados días. 
 
-Índice UV es de 11 (extremo). 
+Índice UV es de 11 (extremo).
