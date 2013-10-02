@@ -1,0 +1,23 @@
+---
+published: true
+title: Contagiando emociones
+author: Julio César Nava De La Riva
+location: Local
+category: Opinión
+layout: posts
+---
+
+Los seres humanos difícilmente podríamos vivir aislados, necesitamos estar unos con los otros y conectados mediante la empatía, que es el hilo invisible que nos une emocionalmente. Cada vez que interactuamos entre nosotros, se produce un intercambio emocional, esto es, un cambio en nuestro estado emocional, como consecuencia de las emociones que otros transmiten mediante comportamientos verbales y no verbales. Muchos estudios han demostrado que quienes comparten espacios de relación, en cualquier área acaban compartiendo también los estados de ánimo y los sentimientos. Los cuales se contagian de una persona a otra, ya sea el humor, optimismo, entusiasmo enfado, frustración, etc. 
+
+Resulta sorprendente pensar en la gran capacidad que tenemos las personas para contagiar nuestras emociones a todos aquellos que nos rodean. Según algunos avances en Neurociencia, el contagio emocional o comunicación del estado de ánimo y las emociones de una persona a otra, se encuentra estrechamente ligado al descubrimiento de las neuronas espejo (un tipo de células cerebrales, dispersas, que actúan como redes inalámbricas, rastreando el flujo neuronal, el movimiento y las interacciones entre las personas). Todos tenemos a nuestro alrededor gente que al poco de estar con ellos nos transmiten su energía y con quienes sin saber muy bien por qué nos sentimos bien. Sin embargo, también hay gente que, al relacionarnos con ellos y aún sin querer nos deprimen, nos entristecen y nos consumen la energía que tenemos. Todo esto nos ocurre porque en nuestra relación con los demás, cada día y en cada ocasión, nos contagian sus emociones. El contagio emocional se produce constantemente en nuestra vida diaria, lo cual incluye todo tipo de emociones; positivas y negativas. 
+
+Según Daniel Goleman no todos somos igualmente vulnerables: “Las personas más sensibles se contagian con mayor facilidad, mientras que las menos sensibles pueden sobrevivir al más tóxico de los encuentros sin sufrir grandes daños emocionales.”
+
+En el ámbito empresarial, el líder es la persona que determina, de manera explícita o implícita, la norma emocional del grupo siendo el grado de satisfacción y, en consecuencia, la calidad de la vida laboral, dependiente fundamentalmente de las emociones que las personas experimentan en el puesto de trabajo. Las emociones son invisibles pero se contagian como un virus. Todos tenemos una tendencia innata a contagiarnos de las emociones de los demás, es un proceso primitivo automático e inconsciente. Del mismo modo que nos contagiamos de emociones también contagiamos a los demás con nuestros sentimientos, y corremos el peligro de convertirnos en portadores de virus emocionales al transmitir nuestras emociones negativas a la gente de nuestro entorno. El contagio emocional nos ayuda en la supervivencia, nos da seguridad el sentirnos parte de un grupo, por eso copiamos las modas, los gestos, las ideas, la forma de hablar de los demás. De hecho sabemos que la presión social por conformarnos al grupo es tan grande que nos angustiamos cuando pensamos de forma distinta a los demás. El celebro nos premia si nos conformamos a lo que dice y piensa la mayoría. Estamos programados para sobrevivir y por eso imitarnos podría salvarnos. Los grupos dan protección y multiplica nuestras posibilidades de supervivencia.
+
+Las emociones como la ira la tristeza o el miedo pueden ser útiles pero también  pueden ser perjudiciales si no las gestionamos adecuadamente. Algunos estudios ya han demostrado que los mensajes por chat o por  correo electrónico contagian emociones a pesar de la ausencia de comunicación no verbal. Del mismo modo las emociones de los trabajadores en una empresa también se contagian a sus clientes e influyen en las ventas de un producto o de un servicio. 
+
+Si en casa está predominantemente negativo, con ira, rabia y pesimismo, contagiará a sus familiares estas emociones. Contribuirá a que sus hijos aprendan que vivir así es normal y esa terminará siendo su forma normal de ser. Si en el trabajo está negativo, saboteará su potencial, sus capacidades intelectuales y, sobre todo, su salud. Un estudio realizado con 272 ejecutivos, reveló que quienes eran más positivos, se desempeñaban mejor y llegaban más alto en la empresa. Ser positivo no solo ayuda a desempeñarnos mejor, también contagia de optimismo a los demás, y ayuda a crear un ambiente laboral grato que beneficia a todos. Gracias, hasta el próximo miércoles. ■
+
+
+ jylnava@hotmail.com
