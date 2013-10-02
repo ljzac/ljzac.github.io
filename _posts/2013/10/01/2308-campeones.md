@@ -7,7 +7,7 @@ category: Deportes
 layout: posts
 ---
 
-![](http://i.imgur.com/qQkVKSXm.jpg)
+![](http://i.imgur.com/f6uwhEQm.jpg)
 Los ídolos populares eran eso antes que nada, del pueblo, nadie más decidía quién merecía ser elevado a esa categoría; por eso cada victoria y cada derrota eran celebradas y sufridas de forma colectiva. De esto no hay duda para dos ex campeones del mundo de una época que hoy parece irreconocible, Lupe Pintor y Rubén Púas Olivares, quienes buscaron en sus recuerdos y los echaron sobre la mesa como barajas para leer el escenario actual del boxeo, sintetizado en las recientes actuaciones de Saúl Canelo Álvarez y Julio César Chávez junior.
 
 Para ellos, estos combates son un testimonio pesimista de que no veremos más ídolos populares en México. No al menos surgidos desde las claves sinceras del esfuerzo individual.
