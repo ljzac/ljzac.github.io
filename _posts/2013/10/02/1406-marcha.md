@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Con marcha, conmemoran matanza de Tlatelolco "
-author: ALMA RIOS
+author: ALMA RIOS y MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
 layout: posts
