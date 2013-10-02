@@ -4,7 +4,7 @@ title: Busca Zacatecas en Unidad ayudar a damnificados por lluvias en la entidad
 twitt: "■ La asociación civil anunció la entrega de apoyos en una localidad de Fresnillo, este viernes"
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
