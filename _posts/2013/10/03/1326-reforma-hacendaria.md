@@ -1,0 +1,26 @@
+---
+published: true
+title: "Reforma fiscal recorta a investigación científica y tecnológica 3 mil mdp: consejero de Pemex"
+twitt: “Afectará directamente al fondo para desarrollo de hidrocarburos y al Instituto Mexicano del Petróleo”
+author: La Jornada
+location: Nacional
+category: Principales
+layout: posts
+---
+
+![](http://i.imgur.com/8GfNQEsm.jpg)México, DF. La Reforma Hacendaria presentada por el Ejecutivo Federal, recorta de nuevo los Fondo de Investigación Científica Tecnológica en 3 mil millones de pesos, afectando directamente al fondo de investigación en materia de hidrocarburos y al mismo tiempo al Instituto Mexicano del Petróleo, IMP.
+
+Fluvio Ruiz, consejero profesional de Pemex denunció que la Secretaría de Hacienda, ya hizo de la investigación y el desarrollo tecnológico en materia de hidrocarburos su caja chica al recortarle vía el Conacyt 3 mil millones de pesos. “Este sería el tercer año consecutivo que se sirve de la investigación para cuadrar las cuentas pendientes de las finanzas públicas, alterando con ello la ecuación fundamental de la autosuficiencia tecnológica en materia de petróleo. Todavía más, desde 2007 y hasta la fecha, Hacienda ha dejado de entregar a los fondos de investigación científica en materia de energía más de 6 mil 700 millones de pesos sin justificación alguna”.
+
+El párrafo octavo del artículo 1º de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2014 establece lo siguiente: “Durante el ejercicio fiscal de 2014, de los recursos que genere el derecho para la investigación científica y tecnológica en materia de energía a que se refiere el artículo 254 Bis de la Ley Federal de Derechos, 3mil millones de pesos se destinarán a financiar el presupuesto del Ramo 38 Consejo Nacional de Ciencia y Tecnología aprobado en el Presupuesto de Egresos de la Federación.”
+
+De esta manera, es que Hacienda ha venido endulzando el oído de los legisladores que de buena fe tienen una preocupación legítima sobre dar mayores recursos a la investigación científica y tecnológica, siendo este sólo un mecanismo para que la Secretaría cree una bolsa extraordinaria que finalmente ha sido destinada para gasto corriente en otros rubros, menos para la investigación y el desarrollo tecnológico en este país.
+
+El consejero Ruiz, añadió que apenas el 9 de septiembre pasado, el Presidente Enrique Peña Nieto, al encabezar la instalación del Consejo General de Investigación Científica, Desarrollo Tecnológico e Innovación, reafirmó el compromiso del Gobierno de la República de incrementar la inversión destinada a ciencia y tecnología hasta alcanzar el 1 por ciento del Producto Interno Bruto (actualmente se encuentra en 0.4 por ciento del PIB). A este respecto el consejero independiente afirmó que con esta medida los funcionarios de Hacienda van en contra del espíritu mismo del Ejecutivo Federal y es probable que ni siquiera el Secretario de Hacienda esté enterado de este recorte financierista y atentatorio de la investigación científica.
+
+Fluvio Ruiz pidió a los legisladores sensibilidad para revertir esta perversión hacendaria que va en contra de la autosuficiencia en materia de desarrollo tecnológico por que explicó: “no es posible hablar de Reforma Energética Integral cuando los recursos destinados a inversión de desarrollo tecnológico e investigación científica petrolera se destina para gasto corriente, dilapidando el desarrollo tecnológico que garantizaría la seguridad energética del país para las próximas generaciones.”
+
+El consejero independiente de Pemex sugirió sensibilidad a los legisladores de las Cámaras de Diputados y de Senadores para evitar esta propuesta: “Esto no es recomendable en virtud de que con ello se frenaría en definitiva la investigación en el sector, con el consecuente debilitamiento de las pocas capacidades en términos de recursos humanos y de infraestructura, que se han venido gestando en los cuatro últimos años a través de estos Fondos. De acuerdo con un estudio realizado a petición del fondo, se identificó que existen en el país del orden de 2 mil 418 instituciones dedicadas a la investigación científica y tecnológica; de éstas, tan sólo 122 se dedican a temas de la industria petrolera y en donde además, existen 2 mil 116 especialistas, cuando en el Sistema Nacional de Investigadores (SNI) existen del orden de 14 mil integrantes. Para un país eminentemente petrolero, estas cifras son bajísimas y es necesario revertir esta tendencia.”
+
+El Fondo sobre Hidrocarburos normado en la Ley Federal de Derechos financia actualmente 47 proyectos de investigación científica y tecnológica (más de 7 mil 680 millones de pesos destinado para este rubro). Destacan los proyectos de Shale Gas/Oil, desarrollo de catalizadores para la producción de combustibles de ultra bajo azufre, inyección de aire al yacimiento como sistema de recuperación mejorada, mejoramiento de las propiedades físicas de crudos pesados, sistema para la detección de fugas y tomas clandestinas en ductos de transporte de gas y líquidos, entre otros.
+Además, impulsa un programa de formación integral para 130 personas en programas de Maestrías y Doctorados alrededor del mundo en carreras como Geofísica, Geología, Petrofísica, Ciencia Energética, Análisis de Hidrocarburos no Convencionales, Recuperación y fraccionamiento de licuables, aguas profundas, entre otros.
