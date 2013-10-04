@@ -2,7 +2,7 @@
 published: true
 title: Presentan diputados priístas iniciativa para criminalizar la protesta social
 author: Redacción
-location: Local
+location: Nacional
 category: Principales
 layout: posts
 ---
