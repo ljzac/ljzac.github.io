@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Aplicarán en Río Grande el programa 'Reactivación económica de zonas afectadas'; beneficará a 60 comercios"
+title: "Aplicarán en Río Grande el programa 'Reactivación económica de zonas afectadas'; beneficiará a 60 comercios"
 author: REDACCION
 location: Local
 category: Destacadas
