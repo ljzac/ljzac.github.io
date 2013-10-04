@@ -2,7 +2,7 @@
 published: true
 title: PRD y PAN se confrontan en el Senado por marchas
 author: Redacción
-location: Local
+location: Nacional
 category: Principales
 layout: posts
 ---
