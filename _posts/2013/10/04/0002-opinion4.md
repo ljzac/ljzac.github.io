@@ -1,6 +1,6 @@
 ---
 published: true
-title: "1968"
+title: "1968."
 author: Socorro Martínez Ortiz
 location: Local
 category: Opinión
