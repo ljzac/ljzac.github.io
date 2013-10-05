@@ -4,7 +4,7 @@ title: "Espera DT de Pumas tener un 'cierre digno y bueno'"
 twitt: "Con cuatro jornadas al frente de un equipo que tiene ocho puntos y una sola victoria, el timonel reforzó lo dicho por el vicepresidente deportivo de la institución Mario Trejo sobre el fracaso vivido."
 author: La Jornada
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
