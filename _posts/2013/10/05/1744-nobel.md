@@ -3,7 +3,7 @@ published: true
 title: Científicos del Bosón Higgs y escritor Murakami entre favoritos al Nobel
 twitt: Los estudiosos predijeron la existencia de una partícula subatómica que explicaría el origen de la masa de todas las del Universo
 author: Dpa
-location: Local
+location: Nacional
 category: Ciencia y Tecnología
 layout: posts
 ---
