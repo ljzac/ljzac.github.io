@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Sin quejas, sector educativo en materia de derechos humanos: Correa Chacón"
 author: MARTIN CATALAN LERMA
 location: Local
