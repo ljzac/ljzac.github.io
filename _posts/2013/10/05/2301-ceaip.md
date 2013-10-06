@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Un retroceso, reformas al Ifai porque harían  a la transparencia lenta y burocrática: CEAIP"
 author: "ALMA ALEJANDRA TAPIA "
 location: Local
