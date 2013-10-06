@@ -2,7 +2,7 @@
 published: true
 title: Astronauta mexicano José Hernández visita la UNAM
 author: Redacción
-location: Local
+location: Nacional
 category: Ciencia y Tecnología
 layout: posts
 ---
