@@ -2,7 +2,7 @@
 published: true
 title: "Recordarán a 'Cri Cri' con homenajes en DF"
 author: Redacción
-location: Local
+location: Nacional
 category: Cultura y Espectáculos
 layout: posts
 ---
