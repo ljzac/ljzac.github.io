@@ -3,7 +3,7 @@ published: true
 title: "Los Tigres del Norte llegan a EU a 'levantar la voz' por una reforma migratoria"
 author: Redacción
 location: Internacional
-category: Mundo
+category: Cultura y Espectáculos
 layout: posts
 ---
 
