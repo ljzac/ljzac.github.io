@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/AkmMUBLm.jpg)
+![](http://i.imgur.com/OdcQifvm.jpg)
 Rio de Janeiro. Una marcha en apoyo a los maestros en huelga de Rio de Janeiro, que reunió a más de 10 mil personas, terminó este lunes con enfrentamientos entre la policía y anarquistas enmascarados, que depredaron edificios en el centro.
 
 La manifestación comenzó en la tarde y la presencia de la policía fue discreta. Pero entrada la noche, cuando los manifestantes llegaron al Concejo Municipal se registraron los primeros focos de violencia.
