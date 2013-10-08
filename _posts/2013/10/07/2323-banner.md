@@ -6,4 +6,4 @@ category: Publicidad
 layout: posts
 ---
 
-![](http://i.imgur.com/fpssNcPm.png)
+![](http://i.imgur.com/lQptt7Cm.png)
