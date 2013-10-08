@@ -2,7 +2,7 @@
 published: true
 title: El Nobel de Física 2013 para los descubridores del bosón de Higgs
 author: Redacción
-location: Local
+location: Internacional
 category: Principales
 layout: posts
 ---
