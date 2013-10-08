@@ -1,6 +1,6 @@
 ---
 published: true
-title: "He sido producto de la cultura el esfuerzo y sacrificio: Francisco Escobedo Villegas"
+title: "He sido producto de la cultura, el esfuerzo y sacrificio: Francisco Escobedo Villegas"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
