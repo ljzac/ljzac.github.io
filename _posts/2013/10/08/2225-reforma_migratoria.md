@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![](http://i.imgur.com/QRz7HQ2m.jpg)
+![](http://i.imgur.com/lQ6TRr0m.jpg)
 Washington. Al menos seis congresistas demócratas y decenas de activistas fueron arrestados este martes por detener el tránsito automotor mientras realizaban actos de desobediencia civil encabezaban una marcha hasta el Capitolio para solicitar a la cámara baja la aprobación de una reforma que permita la naturalización de los inmigrantes que ingresaron a Estados Unidos sin autorización.
 
 La marcha ocurrió justo después de que la banda mexicana Los Tigres del Norte ofreciera un concierto gratuito de casi dos horas en el National Mall, el complejo de monumentos en la capital, al que asistieron congresistas de ambos partidos.
