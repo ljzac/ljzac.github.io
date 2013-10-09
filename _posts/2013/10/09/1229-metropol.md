@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-Esta mañana, fue conmemorado el primer aniversario de la creación de la Policía Metropolitana, que está conformada por 120 elementos de la corporación estatal, de la de Guadalupe y la de Zacatecas.
+![](http://i.imgur.com/8MPhnqSm.jpg)Esta mañana, fue conmemorado el primer aniversario de la creación de la Policía Metropolitana, que está conformada por 120 elementos de la corporación estatal, de la de Guadalupe y la de Zacatecas.
 
 Durante el desayuno con el que fueron festejados estos elementos de seguridad, el gobernador Miguel Alonso Reyes dio las cifras que ha conseguido la Metropol en su primer año de trabajo.
 
