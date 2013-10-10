@@ -4,7 +4,7 @@ title: "La fiesta brava, sin posibilidades de ser patrimonio cultural inmaterial
 twitt: "■ La expresión ha pasado de ser un ritual a un espectáculo, asegura Antonio Machuca"
 author: ALMA RIOS
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
