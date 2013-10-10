@@ -3,7 +3,7 @@ published: true
 title: "Inauguran primer simposio de Ciencias  Químico Biológicas en la UAZ, informan"
 author: REDACCION
 location: Local
-category: Opinión
+category: Educación
 layout: posts
 ---
 
