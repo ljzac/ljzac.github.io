@@ -4,7 +4,7 @@ title: "Necesaria, una instancia autónoma que  certifique a los policías: Jes�
 twitt: "■ Godezac tiene especial cuidado en las agrupaciones de Zacatecas, Guadalupe y Fresnillo"
 author: "RAQUEL OLLAQUINDIA "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
@@ -31,4 +31,3 @@ Han sido útiles en 70 u 80 por ciento, comentó Pinto Ortiz, aunque expuso que 
 El secretario insistió, en entrevista, en que ha habido total transparencia por parte de Gobierno del Estado a la hora de reconocer la situación que guarda la entidad en materia de seguridad y, en este punto, añadió que “el señor gobernador exige mucho que la sociedad que se porta bien no sea perjudicada, que siga trabajando, que siga ejerciendo sus funciones”. 
 
 Concluyó afirmando que “si yo o algún funcionario se hubiera metido a tratar con algún cartel les aseguro que no estuviera aquí o a lo mejor estuviera hasta en la cárcel”.
-
