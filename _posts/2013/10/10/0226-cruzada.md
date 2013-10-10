@@ -4,7 +4,7 @@ title: Solicita Carlos Peña la inclusión de Zacatecas en la Cruzada Nacional c
 twitt: "■ La petición es viable; se debe formalizar mediante escrito, informó Pedro de León Mojarro"
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
