@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Arranca el pre-registro al programa 'Seguro de Vida a Jefas de Familia' en Río Grande"
+title: "Arranca el pre-registro al programa 'Seguro de vida a jefas de familia' en Río Grande"
 author: REDACCION
 location: Local
 category: Destacadas
