@@ -3,7 +3,7 @@ published: true
 title: "Imparte conferencia, director de Ciencias Nucleares de la UNAM en Rectoría"
 author: REDACCION
 location: Local
-category: Principales
+category: Destacadas
 layout: posts
 ---
 
