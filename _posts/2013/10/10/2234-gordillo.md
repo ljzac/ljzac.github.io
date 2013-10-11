@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gordillo se dice inocente en declaración preparatoria por defraudación fiscal
 author: Redacción
 location: Nacional
