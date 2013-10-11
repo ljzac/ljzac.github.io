@@ -2,8 +2,8 @@
 published: true
 title: Rusia prueba con éxito un nuevo misil intercontinental
 author: Redacción
-location: Nacional
-category: Principales
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
