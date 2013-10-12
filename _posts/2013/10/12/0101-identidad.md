@@ -4,7 +4,7 @@ title: "Mexicanos, sin símbolos  de identidad que aporten  cohesión social: do
 twitt: "■ Clase política usa distractores como el futbol para desviar la atención de las reformas: Correa"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
