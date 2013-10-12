@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Imparte conferencia ganador del Ig Nobel por crear diamantes a partir del tequila "
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
