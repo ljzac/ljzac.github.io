@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mantiene SSZ vigilancia epidemiológica en zonas afectadas por inundaciones
+title: Mantienen SSZ vigilancia epidemiológica en zonas afectadas por inundaciones
 author: REDACCION
 location: Local
 category: Destacadas
