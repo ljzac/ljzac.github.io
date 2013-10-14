@@ -3,7 +3,7 @@ published: true
 title: "Nuevos retos, nuevos compromisos"
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 
