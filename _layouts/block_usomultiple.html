@@ -1,11 +1,25 @@
+{{if .}}
+{{ $miseccion := index . 0}}
 <div class="news_section">
-    <div class="title">
-     <h4>TEATRO DE CALLE</h4>  
+  <div class="title">
+    <h4>FESTIVAL EN IMAGENES</h4>
+  </div>
+  <div class="news"> 
+    <div class="slider flexslider">
+      <ul class="slides">
+        {{ range . }}
+        <li>
+          <h3 style="margin: 0 auto;width: 95%;">{{.title}}</h3>
+          <a href='{{.MainImgSize "h"}}' rel="gallery1" class="fancybox" title="{{.title}}. <br /> {{.author}}"><img src='{{.MainImgSize "b"}}' alt="{{.title}}"></a>
+            <ul class="comment">
+              <li>por {{ .author }} </li>
+            </ul>
+        </li>
+        {{end}}
+      </ul>
     </div>
-    	<p>AQUI VA EN CONTENIDO </p>
-  	</div>
- 
- 
- 
+  </div>
+</div>
+{{end}}
  
 
