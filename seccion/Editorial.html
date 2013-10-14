@@ -2,12 +2,13 @@
 layout: defaultSimple
 ---
 
+
+<section class="container">
+<div class="grid_12 alpha">
 <div class="figure">
   <img src="/Assets/images/Banner2.png" />
 </div>
 {{ $miseccion := index .site.categories "Editorial" }}
-<section class="container">
-<div class="grid_12 alpha">
 {{if $miseccion}}
   {{ range $miseccion}}
       <article class="SubContent">
