@@ -105,7 +105,9 @@ prose:
             - name: "Martes"
               value: "Martes"
             - name: "Café"
-              value: "Café" 
+              value: "Café"
+            - name: "Festival en imágenes"
+              value: "Festival en imágenes" 
           selected: "Portada" 
       - name: "layout"
         field:
