@@ -1,0 +1,24 @@
+---
+published: true
+title: Lo que Inegi deja al descubierto en  materia de secuestros en México
+author: Mexico Evalua
+location: Local
+category: Opinión
+layout: posts
+---
+
+Por tercer año consecutivo, el Instituto Nacional de Estadística y Geografía (Inegi) presentó los resultados de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (Envipe) y lo que quedó claro es que estamos frente a una crisis de seguridad. En 2012 ocurrieron alrededor de 105 mil secuestros. Específicamente, entre 85 mil y 127 mil, debido al rango de precisión de la estimación utilizada. Esto, frente a los mil 317 secuestros para los que se inició una averiguación previa, lo cual refleja una cifra negra de 98.8 por ciento. 
+
+Tal como señaló Carlos Puig en su columna en Milenio, si este dato es correcto, sería necesario repensar todas las estrategias de justicia y lucha contra el crimen, pues una política de seguridad claramente no es exitosa si ocurre un secuestro cada cinco minutos. Por otro lado, Jaime López-Aranda escribió en Animal Político que se trata de una falsa alarma, puesto que la cifra considera datos de secuestro, así como de secuestro exprés. Cabe mencionar que la pregunta que se incluyó en el cuestionario fue: “Durante 2012 en este país (México), ¿algún integrante de este hogar sufrió un secuestro o secuestro exprés, para exigir dinero o bienes?” De acuerdo con el autor, esta clasificación representa un problema porque se trata de categorías que implican costos distintos para investigarlos y sancionarlos, así como para las víctimas.
+
+Las cifras de la Envipe sugieren que en materia de secuestros lo que ocurre en el país no se trata de una falsa alarma: si bien no todos los secuestros contabilizados son exactamente de la misma naturaleza, todos involucran la violación de los derechos más básicos de más de 94 mil víctimas (según la encuesta, cada víctima de secuestro sufrió en promedio 1.12 secuestros). Estos hechos representan la privación ilegal de la libertad de las víctimas, daños físicos y/o morales a las mismas o a terceros, así como la pérdida de bienes materiales o económicos en algunos casos.
+
+La Envipe deja al descubierto que la crisis de seguridad a la que nos enfrentamos es mayor de lo que creíamos y que, además, existe falta de claridad sobre lo que constituye un secuestro o un secuestro exprés. Los códigos penales estatales tienen ciertas variaciones al respecto y, de hecho, en la mayoría de los estados sólo existe el delito de secuestro y no el de secuestro exprés. 
+
+Según la legislación vigente en la mayoría de los estados, un secuestro puede definirse como una privación de la libertad con el propósito de: 1) obtener un beneficio económico o cualquier otra prestación; 2) que la autoridad, el secuestrado u otra persona realice o deje de realizar un acto; y 3) causar un daño o perjuicio a la víctima o a otra persona. Por otra parte, son pocos los estados que clasifican por separado el delito de secuestro exprés e incluso no existe consenso entre ellos sobre cuáles son las características que los diferencian. 
+
+Cabe destacar que generalmente el secuestro exprés se especifica como el delito de privación de la libertad por el tiempo estrictamente indispensable para ejecutar los delitos de robo o extorsión, pero hay diferencias a nivel estatal. Por ejemplo, Baja California lo define como la privación de la libertad con el fin de obligar a la víctima a realizar operaciones monetarias, en Zacatecas se trata de un secuestro que dura menos de 24 horas, mientras que en Guerrero cualquier secuestro se considera exprés si dura menos de 36 horas.
+
+A pesar de que no todos los secuestros representan los mismos costos ni tienen la misma duración ni se llevan a cabo de la misma manera, cualquier delito que resulte en la privación de la libertad de una persona debe considerarse grave. No obstante, al tener características diferentes, las autoridades policiales y de investigación deben ser capaces de identificar las distintas modalidades de comisión del mismo delito para poder desarrollar estrategias específicas que se adapten de forma adecuada al combate del delito en sus distintas modalidades. Por ejemplo, hay secuestros que más allá de la organización por parte de los delincuentes, involucran también la corrupción de ciertas autoridades lo cual debe tomarse en cuenta al momento de diseñar una estrategia. 
+
+En términos de política pública, hacer la distinción en el ámbito legal puede servir para guiar la actuación de las autoridades encargadas de investigar los delitos. Por ejemplo, priorizar las denuncias correspondientes a modalidades del delito que tengan mayor impacto para la víctima. También es fundamental que las instituciones policiales distingan las características de los hechos delictivos y actúen en consecuencia de la manera más eficiente. Sin embargo, no debe olvidarse que en cualquiera de sus modalidades, el secuestro sigue siendo un delito grave. n
