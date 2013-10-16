@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: "Se casó la actriz Rose McGowan, protagonista de 'Scream'"
+twitt: "Contrajo nupcias con el artista Davey Detail, informó la revista 'People'."
+author: Dpa
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
