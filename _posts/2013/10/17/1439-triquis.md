@@ -8,7 +8,7 @@ category: Deportes
 layout: posts
 ---
 
-![En la imagen, uno de los basquetbolistas triquis durante el campeonato YBOA realizado en Monterrey en marzo de este año.  La Jornada](http://i.imgur.com/EK1wJbjm.jpg)Santa Cruz Xoxocotlán, Oax. Como verdaderos héroes fueron recibidos en Oaxaca este medio día los niños triquis que participaron en días pasados en el Festival Internacional de Minibásquetbol de Argentina, en donde con base a esfuerzo y corazón ganaron todos sus partidos pese a estar descalzos o ser más pequeños que sus rivales.
+![Oaxaca, Oax. Los niños triquis, campeones del Torneo Internacional de Minibasquetbol realizado en Argentina, fueron recibidos como verdaderos héroes este medio día en Oaxaca. La Jornada](http://i.imgur.com/OF4xdpLm.jpg)Santa Cruz Xoxocotlán, Oax. Como verdaderos héroes fueron recibidos en Oaxaca este medio día los niños triquis que participaron en días pasados en el Festival Internacional de Minibásquetbol de Argentina, en donde con base a esfuerzo y corazón ganaron todos sus partidos pese a estar descalzos o ser más pequeños que sus rivales.
 
 Un centenar de indígenas triquis pertenecientes al Movimiento Unificador de Lucha Triqui (MULT) y a la Asamblea de los Pueblos Indígeas (API) se dieron cita en el Aeropuerto Internacional de la ciudad de Oaxaca, en el que luego de aterrizar tuvieron que esperar hasta 40 minutos para ver a los pequeños indígenas de la región de la Mixteca, esto ya que la presidenta del Sistema DIF Oaxaca, Mané Sánchez Cámara ingresó a la zona de descenso para poder tomarse la foto oficial y ser videograbada por un equipo de Televisa.
 
