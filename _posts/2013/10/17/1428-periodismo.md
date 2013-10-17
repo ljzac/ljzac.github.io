@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-![La Jornada](http://i.imgur.com/qmxbzhKm.jpg)México, DF. La periodista Blanche Petrich recibió esta tarde el Premio Nacional de Periodismo Carlos Septién, en su quinta edición, por su lucidez, compromiso ético y su permanente búsqueda de la verdad, de parte de la asociación cultural que lleva el mismo nombre del galardón.
+![México, DF. La egresada y profesora de la Escuela de Periodismo Carlos Septién García, Blanche Petrich, recibió este jueves el quinto premio anual de periodismo que otorga su alma mater, en reconocimiento a su profesionalismo periodístico. La Jornada](http://i.imgur.com/0sVzC6jm.jpg)México, DF. La periodista Blanche Petrich recibió esta tarde el Premio Nacional de Periodismo Carlos Septién, en su quinta edición, por su lucidez, compromiso ético y su permanente búsqueda de la verdad, de parte de la asociación cultural que lleva el mismo nombre del galardón.
 
 A la ceremonia realizada en el auditorio de la Cámara de Comercio de la ciudad de México, acudieron alumnos, maestros y directivos de la Escuela de Periodismo Carlos Septién, así como amigos y familiares de la periodista.
 
