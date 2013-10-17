@@ -3,7 +3,7 @@ published: true
 title: Conmemoran Día de la Mujer Rural en Villanueva
 author: REDACCION
 location: Local
-category: Destacadas
+category: Municipios
 layout: posts
 ---
 
