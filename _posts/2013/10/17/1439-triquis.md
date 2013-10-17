@@ -3,7 +3,7 @@ published: true
 title: Reciben como héroes a niños triquis que participaron en el Festival Internacional de Minibásquetbol
 twitt: "\"Dimos el corazón, cuando juegas así no puedes perder\", afirmó Fernando León Félix de 11 años"
 author: La Jornada
-location: Nacional
+location: Internacional
 category: Deportes
 layout: posts
 ---
