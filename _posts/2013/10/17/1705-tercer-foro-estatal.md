@@ -1,6 +1,6 @@
 ---
 published: true
-title: Celebran tercero Foro Estatal de Productores de Chile
+title: Celebran tercer Foro Estatal de Productores de Chile
 author: REDACCION
 location: Local
 category: Destacadas
@@ -11,7 +11,7 @@ layout: posts
  
 Para afinar el programa se reunieron el Secretario del Campo, Enrique Flores Mendoza, y el Presidente nacional de los productores de chile, Salvador López Rodríguez, evento que contará también con el respaldo de la Sagarpa.
  
-En este año, señaló el titular de la Secretaría del Campo (SECAMPO), a pesar de que las lluvias fueron benévolas los cultivos de chile fueron afectados; empero, aún así la cosecha alcanzará las 70 mil toneladas de chile seco.
+En este año, señaló el titular de la Secretaría del Campo (Secampo), a pesar de que las lluvias fueron benévolas los cultivos de chile fueron afectados; empero, aún así la cosecha alcanzará las 70 mil toneladas de chile seco.
  
 En el encuentro estatal participarán profesionistas de dependencias federales e iniciativa privada; además, se ofertará los servicios y programas gubernamentales para consolidar las metas de producción.
  
