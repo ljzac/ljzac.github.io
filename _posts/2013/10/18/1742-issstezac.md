@@ -1,7 +1,9 @@
 ---
 published: true
+title: Ofrecen descuentos restaurantes del Issstezac
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
