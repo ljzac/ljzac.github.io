@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Cumbre Iberoamericana inicia con marcada ausencia de líderes
 author: Redacción
 location: Internacional
