@@ -8,7 +8,7 @@ category: Destacadas
 layout: posts
 ---
 
-En el ámbito de la celebración del ‘Día Mundial de la Alimentación’, el gobernador Miguel Alonso Reyes afirmó que a pesar de los bajos niveles de crecimiento en la producción agrícola a escala nacional, su administración ha destinado recursos importantes en Zacatecas para disminuir la pobreza alimentaria que padecen 343 mil personas.
+![La Jornada](http://i.imgur.com/eEeZiBbm.jpg)En el ámbito de la celebración del ‘Día Mundial de la Alimentación’, el gobernador Miguel Alonso Reyes afirmó que a pesar de los bajos niveles de crecimiento en la producción agrícola a escala nacional, su administración ha destinado recursos importantes en Zacatecas para disminuir la pobreza alimentaria que padecen 343 mil personas.
 
 El mandatario estatal expuso que en todo el país, hay 22 millones de personas en pobreza alimentaria severa y 9 millones 700 mil padecen hambre. 
 
