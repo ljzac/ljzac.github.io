@@ -8,8 +8,7 @@ category: Portada
 layout: posts
 ---
 
-
-De forma espectacular, la compañía alemana Pan Optikum clausuró la doceava emisión del Festival Internacional de Teatro de Calle Zacatecas 2013 con su espectáculo TRANSItion.
+![](http://i.imgur.com/UaNlAxdm.jpg)De forma espectacular, la compañía alemana Pan Optikum clausuró la doceava emisión del Festival Internacional de Teatro de Calle Zacatecas 2013 con su espectáculo TRANSItion.
 
 Esta obra, relata la cuestión sobre la delimitación interna y externa de las sociedades civiles representada por personajes que viven inmersos en el trabajo, otros disfrutando la vida de fiesta en fiesta, pero siempre, el hombre buscando la felicidad, encontrando siempre la muerte.
 
