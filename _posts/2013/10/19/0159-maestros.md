@@ -10,7 +10,7 @@ layout: posts
 
 ■ Los docentes tomaron de nueva cuenta las instalaciones de Ciudad Administrativa
 
-Por quinto día consecutivo, maestros continuaron con manifestaciones contra la Reforma Educativa. Además de mantener tomados los inmuebles de Ciudad Administrativa (con apoyo de padres de familia) y de la Secretaría de Educación (Seduzac), acudieron al Congreso del estado para protestar durante la instalación de la Comisión de Educación de la 61 Legislatura y en Televisa para exigir derecho de réplica.
+![](http://i.imgur.com/pNXcEpOm.jpg)Por quinto día consecutivo, maestros continuaron con manifestaciones contra la Reforma Educativa. Además de mantener tomados los inmuebles de Ciudad Administrativa (con apoyo de padres de familia) y de la Secretaría de Educación (Seduzac), acudieron al Congreso del estado para protestar durante la instalación de la Comisión de Educación de la 61 Legislatura y en Televisa para exigir derecho de réplica.
 
 Sobre el acuerdo firmado entre Gobierno del Estado y las secciones 34 y 58 del Sindicato Nacional de Trabajadores de la Educación (SNTE), a fin de aplicar la Reforma Educativa sin dañar los derechos laborales, el dirigente de la disidencia magisterial, Ignacio Ortiz Sánchez, afirmó que ese documento no tiene valor alguno, puesto que ese gremio ya no tiene representatividad en Zacatecas.
 
