@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-Panamá. México propuso a los participantes en la 23 edición de la Cumbre Iberoamericana priorizar dos temas de alto impacto social y económico para los países de la región: elevar la calidad educativa y hacer de la innovación el eje de la productividad de sus economías.
+![Reuters](http://i.imgur.com/P5ZkRD4m.jpg)Panamá. México propuso a los participantes en la 23 edición de la Cumbre Iberoamericana priorizar dos temas de alto impacto social y económico para los países de la región: elevar la calidad educativa y hacer de la innovación el eje de la productividad de sus economías.
 
 El presidente Enrique Peña Nieto, quien asumió la presidencia pro témpore  de este mecanismo de integración, señaló en su mensaje que los lazos “que unen a nuestras naciones son indisolubles. Compartimos aspiraciones de paz, libertad, justicia, desarrollo, legalidad y democracia; y creemos en el poder transformador de la solidaridad y la integración regional”.
 
