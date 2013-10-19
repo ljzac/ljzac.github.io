@@ -10,7 +10,7 @@ layout: posts
 
 ■ Comisión de Derechos Humanos del Estado de Zacatecas abrió una queja de manera oficiosa
 
-Ubaldo Avila Avila, subsecretario de Educación Básica y Normal de la Secretaría de Educación de Zacatecas (Seduzac), informó que la maestra que supuestamente incurrió en actos de denigración contra sus alumnas en la Telesecundaria Ramón López Velarde, ubicada en El Saladillo, en el municipio de Pánfilo Natera, fue suspendida de sus actividades docentes mientras se realiza una investigación sobre el suceso.
+![](http://i.imgur.com/hvXlx9bm.jpg)Ubaldo Avila Avila, subsecretario de Educación Básica y Normal de la Secretaría de Educación de Zacatecas (Seduzac), informó que la maestra que supuestamente incurrió en actos de denigración contra sus alumnas en la Telesecundaria Ramón López Velarde, ubicada en El Saladillo, en el municipio de Pánfilo Natera, fue suspendida de sus actividades docentes mientras se realiza una investigación sobre el suceso.
 
 Comentó que la Seduzac se enteró de esa situación a través de los medios de comunicación, por lo cual este viernes en punto de las 8 horas personal de esta dependencia acudió al plantel “para retirar a la docente e iniciar el proceso de investigación”.
 
@@ -31,4 +31,4 @@ La Comisión de Derechos Humanos del Estado de Zacatecas (CDHEZ) abrió una quej
 
 El documento detalla que los hechos ocurrieron el viernes 11 de octubre del año en curso, donde las estudiantes cometieron una falta en la institución educativa, por lo cual las autoridades de esta escuela realizaron una revisión de la ropa interior de las alumnas. 
 
-Ante estos hechos, personal de la CDHEZ inició el proceso de investigación correspondiente, ante la presunta Violación del Derecho de las Menores a Proteger su Integridad. 
+Ante estos hechos, personal de la CDHEZ inició el proceso de investigación correspondiente, ante la presunta Violación del Derecho de las Menores a Proteger su Integridad.
