@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![Carrera AMANC de 2012](/_posts/2013/10/19/carreraamanc2012.JPG)El gobernador Miguel Alonso Reyes encabezó el banderazo de salida de la novena carrera de la Asociación Mexicana de Ayuda a Niños con Cáncer (AMANC) Zacatecas, realizada en la alameda Trinidad García de la Cadena y cuyo objetivo es recausar recursos para apoyar a infantes que tienen este padecimiento.
+![Carrera AMANC en 2012](http://i.imgur.com/aoxmP3am.jpg)El gobernador Miguel Alonso Reyes encabezó el banderazo de salida de la novena carrera de la Asociación Mexicana de Ayuda a Niños con Cáncer (AMANC) Zacatecas, realizada en la alameda Trinidad García de la Cadena y cuyo objetivo es recausar recursos para apoyar a infantes que tienen este padecimiento.
 
 En esta edición, se pretende recaudar 544 mil pesos, aunque el titular del Ejecutivo estatal se comprometió a duplicar la cantidad que se obtenga.
 
