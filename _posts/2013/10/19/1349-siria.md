@@ -8,7 +8,7 @@ category: Mundo
 layout: posts
 ---
 
-Beirut. Un grupo de rebeldes sirios hicieron volar un control militar a las afueras de Damasco este sábado y más de 30 combatientes de ambos bandos murieron a causa de la explosión y los enfrentamientos posteriores, informó un grupo opositor.
+![Ap](http://i.imgur.com/6EvoQumm.jpg)Beirut. Un grupo de rebeldes sirios hicieron volar un control militar a las afueras de Damasco este sábado y más de 30 combatientes de ambos bandos murieron a causa de la explosión y los enfrentamientos posteriores, informó un grupo opositor.
 
 El Observatorio Sirio para los Derechos Humanos, un organismo proopositor, dijo que 15 rebeldes y al menos 16 soldados murieron.
 
