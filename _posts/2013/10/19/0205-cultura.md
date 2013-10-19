@@ -10,7 +10,7 @@ layout: posts
 
 ■ La cultura tiene que aplicarse en tiempos como los que vivimos, asegura Aracely Guerrero
 
-Con un llamado a los legisladores federales para que lejos de disminuir los recursos destinados a gasto en materia de cultura se incremente su presupuesto en el 2014, en el que confluyeron la presidenta de la Comisión de Cultura, Editorial y Difusión de la 60 Legislatura del estado, Araceli Guerrero Esquivel, y Gustavo Salinas Iñiguez, titular de la cartera respectiva en Zacatecas, se inauguraron los trabajos del primer Encuentro Estatal de Cultura.
+![](http://i.imgur.com/Eu2JlGOm.jpg)Con un llamado a los legisladores federales para que lejos de disminuir los recursos destinados a gasto en materia de cultura se incremente su presupuesto en el 2014, en el que confluyeron la presidenta de la Comisión de Cultura, Editorial y Difusión de la 60 Legislatura del estado, Araceli Guerrero Esquivel, y Gustavo Salinas Iñiguez, titular de la cartera respectiva en Zacatecas, se inauguraron los trabajos del primer Encuentro Estatal de Cultura.
 
 Los objetivos de este evento se enmarcaron en el Programa de Desarrollo Cultural Municipal y fueron planteados, como el dar a conocer los mecanismos de coordinación y financiamiento mediante los cuales se accede a los programas estatales y federales disponibles para que los municipios a través de sus institutos y casas de cultura puedan realizar proyectos y se eficiente el gasto en este rubro.
 
