@@ -10,7 +10,7 @@ layout: posts
 
 ■ Se prevé construir en Guadalupe una unidad de detección de este tipo de enfermedad: SSZ
 
-A Evangelina, mujer de 60 años, la vida le dio un giro de 360 grados cuando el pasado 13 de febrero le diagnosticaron carcinoma lobulillar; un examen médico reveló que padecía cáncer de mama.
+![](http://i.imgur.com/CF6jbFcm.jpg)A Evangelina, mujer de 60 años, la vida le dio un giro de 360 grados cuando el pasado 13 de febrero le diagnosticaron carcinoma lobulillar; un examen médico reveló que padecía cáncer de mama.
 
 Al inicio, platica, se sintió sola, incomprendida por su familia, pero ahora siente que sus integrantes están más unidos que nunca y cuenta con el apoyo de los suyos.
 Sin embargo el proceso fue difícil y continúa, al inicio las quimioterapias la hacían caer en cama hasta por 12 días, el cansancio y el tratamiento la dejaba agotada.
