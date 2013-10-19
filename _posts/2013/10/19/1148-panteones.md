@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![RAQUEL OLLAQUINDIA](/_posts/2013/10/19/panteonesrehabilitacion.jpg)Rumbo a las celebraciones del ‘Día de Muertos’, este sábado iniciaron una serie de trabajos de limpieza y rehabilitación que se realizará de manera permanente en los panteones Herrera y La Purísima.
+![RAQUEL OLLAQUINDIA](http://i.imgur.com/KRhIH5Dm.jpg)Rumbo a las celebraciones del ‘Día de Muertos’, este sábado iniciaron una serie de trabajos de limpieza y rehabilitación que se realizará de manera permanente en los panteones Herrera y La Purísima.
 
 El presidente municipal de Zacatecas, Carlos Peña Badillo, informó que se invertirán 400 mil pesos en estas labores, que, de forma posterior, se ampliarán a otros espacios como el panteón Jardines del Recuerdo, en El Orito.
 
