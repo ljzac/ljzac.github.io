@@ -10,7 +10,7 @@ layout: posts
 
 ■ IVA en bebidas azucaradas impactará directamente a familias más desfavorecidas: Mendoza
 
-La reforma hacendaria es progresiva de manera parcial, aseguró el docente investigador de la Universidad Autónoma de Zacatecas (UAZ), Juan Francisco Valerio Quintero, debido a que sólo se aplica al Impuesto Sobre la Renta (ISR) y porque se limita a incrementar el porcentaje de carga tributaria únicamente hasta cierto nivel de ingresos anuales.
+![](http://i.imgur.com/08NPYrQm.jpg)La reforma hacendaria es progresiva de manera parcial, aseguró el docente investigador de la Universidad Autónoma de Zacatecas (UAZ), Juan Francisco Valerio Quintero, debido a que sólo se aplica al Impuesto Sobre la Renta (ISR) y porque se limita a incrementar el porcentaje de carga tributaria únicamente hasta cierto nivel de ingresos anuales.
 
 Durante el primer Foro de Libertad, organizado entre la Unidad Académica de Ciencias Sociales de la UAZ y La Jornada Zacatecas, en el que se abordó el tema de la reforma fiscal, el académico explicó que aquellas personas que ganan 10 millones de pesos al año van a pagar el mismo porcentaje de ISR que las personas que ganan 3 millones de pesos anuales; por lo que en este sector “no hay progresividad”, puntualizó.
 
