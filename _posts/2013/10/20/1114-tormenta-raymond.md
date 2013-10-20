@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. El Servicio Meteorológico Nacional (SMN) informó que la tormenta tropical Raymond del Pacífico en interacción con el frente frío número siete, ocasionará un temporal de lluvias muy fuertes a intensas en el sur, sureste, oriente y centro del país.
+![](http://i.imgur.com/ezGBs1Vm.jpg)México, DF. El Servicio Meteorológico Nacional (SMN) informó que la tormenta tropical Raymond del Pacífico en interacción con el frente frío número siete, ocasionará un temporal de lluvias muy fuertes a intensas en el sur, sureste, oriente y centro del país.
 
 En su aviso más reciente, detalló que Raymond provocará lluvias fuertes (20 a 50 milímetros) a intensas (70 a 150 milímetros) con actividad eléctrica en el centro y sur del litoral.
 
