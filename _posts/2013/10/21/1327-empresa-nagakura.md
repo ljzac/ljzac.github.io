@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-Con una inversión de 20 millones de dólares y la generación de cerca de 350 empleos, la empresa japonesa de autopartes Nagakura colocó la primera piedra de sus instalaciones este lunes en el Megaparque Industrial Aeropuerto Sumar I.
+![RAQUEL OLLAQUINDIA](http://i.imgur.com/mAebRvLm.jpg)Con una inversión de 20 millones de dólares y la generación de cerca de 350 empleos, la empresa japonesa de autopartes Nagakura colocó la primera piedra de sus instalaciones este lunes en el Megaparque Industrial Aeropuerto Sumar I.
 
 El gobernador Miguel Alonso Reyes destacó la rapidez con la que se logró la atracción de esta compañía a la entidad, ya que hace 15 días comenzaron las negociaciones y hoy ya comenzó la construcción de su nave industrial.
 
