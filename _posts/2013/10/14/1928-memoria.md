@@ -21,9 +21,27 @@ El 23 de Enero tuvieron lugar dos eventos paralelos: uno en la sede estatal del 
  
 -------------------------------------------------------------------------------------
 
-![](http://i.imgur.com/9z6WiBzm.png)
+De: Camerino Eleazar Márquez Madrid, Juan José Quirino Salas, José Narro Céspedes, Tomás Torres Mercado, Raymundo Cárdenas Hernández
 
-![](http://i.imgur.com/z8LTo8sm.png)
+Para: Jesús Ortega Martínez, Hortencia Aragón
+
+1.	Hace cuatro semanas inició un proceso político, fundado en la buena fe y en la voluntad de los participantes, con el objetivo de encontrar y aplicar un procedimiento que permitiera encontrar a la persona que, unificando a todos, garantice las mayores probabilidades de triunfo del PRD en las próximas elecciones de gobernador del Estado de Zacatecas.
+
+2.	Después de varias sesiones de intercambio de criterios se concluyó que era necesario utilizar el método de la encuesta para disminuir el número de aspirantes. El jueves 5 del mes que corre, acordamos que al día siguiente recibiríamos, por correo electrónico, el borrador del cuestionario que dos empresas encuestadoras aplicarían en Zacatecas con el objetivo señalado.
+
+3.	Desafortunadamente, el cuestionario fue enviado hasta el pasado jueves 12, acompañado de mensajes en los que se fijaban las 12:00 horas del día siguiente para recibir observaciones. Hasta el día de hoy no hemos recibido el cuestionario definitivo, ni respuesta a las observaciones hechas.
+
+4.	Y más desafortunado es el hecho de que durante el lapso de retraso se han estado expresando conductas que han dañado grave e  irreversiblemente el proceso , pues han violentado las condiciones mínimas requeridas de equidad en la competencia, con la compra de spots publicitarios en la televisión, con la publicación de una encuesta falsa en un periódico local y la posterior difusión masiva de la nota convertida en volante, con el uso de convenios institucionales para hacer presencia inequitativa en distintos medios, con la utilización de eventos oficiales para que un compañero haga presencia a la manera de los destapados en el viejo régimen, con la abierta participación de intereses económicos ajenos a los intereses que representa el PRD, y con una participación facciosa e intimidatoria de varios servidores públicos y titulares de dependencias del gobierno estatal.
+
+5.	Lo anterior ha puesto en duda la imparcialidad de la dirigencia nacional, pues al retrasar la aplicación de la encuesta dio pie a la multiplicación de los hechos referidos, pero lo más grave es que lo señalado ha socavado gravemente la buena fe con la que hemos participado y abierto un camino que sólo tiene una salida: la falta de unidad y la derrota de nuestro partido.
+
+6.	También es muy grave que estas expresiones de falta de ética se produzcan a tres semanas del Congreso de refundación del partido, pues reflejan la inexistencia de voluntad política para regenerarlo y para cumplir lo establecido en su declaración de principios.
+
+7.	También es motivo de preocupación la inexistencia de iniciativas políticas tendientes a la creación de condiciones para desplegar una amplia política de alianzas para el proceso electoral.
+
+8.	Por las razones anteriores, nos dirigimos a ustedes para solicitarles la convocatoria a una reunión a celebrarse lo más pronto posible para examinar la situación y tratar de encontrar las condiciones que permitan restablecer la confianza, reiniciar el proceso unitario y empezar a desplegar una política de alianzas que unifique a todas las izquierdas de Zacatecas.
+
+Zacatecas, Zac. a 16 de noviembre de 2009.
 
 -------------------------------------------------------------------------------------
 
@@ -77,20 +95,24 @@ Por otra parte, el día 19 de diciembre el Consejo Estatal aprobó una convocato
 Así pues, tanto la convocatoria formalmente emitida como la minuta firmada por los cuatro finalistas del proceso informal, obligan a la Comisión Política Nacional a intervenir decisivamente y lo más pronto posible para encausar el proceso y lograr que el candidato del PRD a gobernador sea competitivo, una al partido y a las izquierdas, y abra caminos para la regeneración del PRD y de la política en Zacatecas. Esa es una responsabilidad ineludible de los dirigentes nacionales que  deberán cumplir dialogando con la gobernadora Amalia García, por su presencia indudable y por su liderazgo en Zacatecas.	
 
 Esperamos que la dirección nacional valore la trayectoria, la formación cultural, política y académica, el compromiso con el proyecto perredista, la capacidad de articular alianzas amplias y la competitividad de los aspirantes mostrada por las encuestas.
+
 Por nuestra parte, debido a su historia como militante de la izquierda mexicana, a su capacidad demostrada en el desempeño de cargos públicos, universitarios y partidarios, y por su compromiso indeclinable con las causas del pueblo y de la izquierda, estamos convencidos de que el Ing. Raymundo Cárdenas Hernández reúne las características del gobernador que  Zacatecas necesita. Su experiencia y congruencia hacen la diferencia.
 
 Zacatecas Zac, 4 de enero de 2010
 
 FIRMAS DE ORGANIZACIONES Y PARTICIPANTES EN LA REUNIÓN DEL 3 DE ENERO
 -------------------------------------------------------------------------------------------------------
-México D.F. a 5 de Enero de 2010	
+México D.F. a 5 de Enero de 2010
+
 De: Raymundo Cárdenas Hernández
 
 Para: Integrantes de la Comisión Política Nacional
 
 
 Estimados compañeros:
+
 En los momentos en los que tendrán que participar en la decisión de la candidatura del PRD a gobernador de Zacatecas  me dirijo  a ustedes para solicitar su atención a los siguientes hechos, reflexiones y preguntas:
+
 1.	Desde que varios aspirantes fuimos invitados a participar en la serie de encuestas para definir la candidatura, señalamos que la información que estos instrumentos pueden aportar, si bien útil e indispensable, nunca podrá sustituir el análisis político riguroso. En el caso Zacatecas ninguna instancia lo ha realizado.
 
 
@@ -122,17 +144,13 @@ Informados extraoficialmente de la posibilidad de que se ordene la aplicación d
 
 1.	En los últimos tres meses se han aplicado cuatro encuestas que han arrojado resultados más o menos similares. De las primeras dos, una la ganó Mejía y otra su servidor aunque las diferencias son muy pequeñas. El siguiente par de encuestas las encabeza Mejía pero no con más de 5%,  porcentaje mínimo aprobado  para la pregunta clave acordada,  como consta en la minuta firmada por los cuatro finalistas: Narro, Calzada, Mejía y Cárdenas. En todas ellas he participado en condiciones adversas y no me ha ganado Mejía. ¿el ejercicio seguirá hasta que me gane con los recursos del estado?
 
-
 2.	La propuesta de realizar una nueva encuesta entre Mejía y yo la hizo Narro en diciembre, en la reunión en la que se dieron a conocer los resultados de las últimas encuestas. Tanto Ortega como la Gobernadora la descartaron. Yo mismo pedí que se leyera la minuta para recordar el acuerdo de que, en caso de empate técnico, resolvería la dirección nacional. Ortega la leyó señalando que teníamos prohibido declararnos ganadores y que la dirección nacional resolvería, dado el acuerdo firmado.
-
 
 3.	A partir de diciembre, el gobierno del estado aceleró su trabajo ilegal en favor de Mejía, y los últimos tres días se han celebrado reuniones de los equipos de gobierno para intensificar la promoción.  
 
 4.	Les recuerdo que ningún partido serio del mundo resuelve sus candidaturas solo con la información cuantitativa que arrojan las encuestas, pues nada sustituye al análisis político concreto que los dirigentes deben realizar. Yo los invito a no rehuir su responsabilidad y asumir plenamente la reserva de la candidatura para buscar las alianzas en el seno de DIA. La propia convocatoria señala que para resolver se debe tomar en cuenta las encuestas, pero también la formación política, la trayectoria y la capacidad para construir alianzas.
 
-
 5.	Todos hemos criticado el hecho de que al Presidente imperial le ha sucedido un régimen de gobernadores todopoderosos, incluso más autoritarios. Ello ya es claro en los otros partidos y parece que en el PRD la tendencia es la misma. ¿Todos debemos acatar, en los hechos, el poder de veto de los gobernadores?
-
 
 6.	Por mi parte me encuentro satisfecho por el apoyo de los zacatecanos que se expresaron por mí en las encuestas. Creo en el cumplimiento de los compromisos que firmo y por ello pido que ustedes hagan la valoración política de la situación en el estado y resuelvan lo necesario. Si toman decisiones para abrirle paso a la imposición y a la continuidad de los intereses creados en Zacatecas, esa será su responsabilidad.
 
@@ -140,11 +158,13 @@ Informados extraoficialmente de la posibilidad de que se ordene la aplicación d
  Por todo lo anterior les reitero que no cuentan con mi aval para que me incluyan en ninguna nueva encuesta. 
 
 ATENTAMENTE. 
+
 ZACATECAS, ZAC 8 DE ENERO DE 2010
 ---------------------------------------------------------------------------------------------------
 
 
 ZACATECAS, ZAC 12 DE ENERO DE 2010
+
 De: Raymundo Cárdenas Hernández
 
 Para: Integrantes de la Comisión Política Nacional
@@ -206,7 +226,7 @@ Mencionó que aún desconocen el mecanismo mediante el cual elegirán a los aspi
 
 Finalmente Monreal informó que a fin de que David Monreal formalice su candidatura a gobernador pedirá licencia en próximos días, en espera de los tiempos políticos, pues la fecha límite es el 8 de marzo.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -410,7 +430,9 @@ VOTO PARTICULAR DE GILBERTO DEL REÁL RUEDAS EN LA SESIÓN DEL CONSEJO ESTATAL D
 
 Cumpliendo con la obligación que asumí como integrante de la comisión especial para procesar la candidatura al gobierno del Estado, prevista en la convocatoria acordada por este Consejo Estatal en fecha 19 de diciembre y posteriormente publicada con algunas modificaciones no acordadas en aquélla sesión el día 26 del mismo mes, comisión que fue designada por el Comité Político Estatal en sesión del 4 de enero pasado y que se reunió para su instalación el 17 de enero del 2010 y por segunda ocasión para dictaminar, la noche del 22 de  enero; ante ustedes, consejeros y consejeras, me permito exponer el siguiente: 
 
+
 Voto Particular
+
 1.-La existencia fugaz de la comisión se redujo a dos reuniones, una para instalarse y la otra para dictaminar.
 
 2.- Los acuerdos alcanzados para cumplir nuestra encomienda, se redujeron a pedir información de lo actuado en el procedimiento informal que encabezó la dirección nacional y a emitir un comunicado en el que se llamó a la militancia interesada en que su aspiración fuera considerada por ésta comisión, a entregar documentación entre el domingo 17 y el martes 19 de enero. A tal acuerdo correspondió la entrega de documentos de los compañeros Samuel Herrera, José Narro Céspedes, Tomás Torres y Raymundo Cárdenas, de los que tuve personal conocimiento.
@@ -534,6 +556,8 @@ Las anteriores son las premisas básicas en la construcción de una coalición p
 
 Hemos encontrado suficientes coincidencias programáticas y políticas para justificar esa decisión ante nuestra propia conciencia y ante el pueblo de Zacatecas. Con Miguel compartimos la misma trinchera política desde 1998 hasta el año pasado, cuando también fue víctima de la imposición; y por ello sabemos que también compartimos la convicción de que urge la regeneración ética de la política, así como el compromiso de que el poder público debe servir al soberano, al pueblo de Zacatecas.
  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Zacatecas, Zac. a 21 de marzo de 2010
 
@@ -553,7 +577,4 @@ El 23 de Enero pasado, en la plaza de armas de la ciudad capital del estado, dur
 
 ATENTAMENTE
 
-RAYMUNDO CARDENAS HERNANDEZ 
-
-
-
+RAYMUNDO CARDENAS HERNANDEZ
