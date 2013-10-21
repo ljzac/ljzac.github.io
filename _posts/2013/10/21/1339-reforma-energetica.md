@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. Para continuar con el análisis de las propuestas de reforma energética, este miércoles próximo comparecerán ante Comisiones de Energía, Puntos Constitucionales y Estudios Legislativos el secretario de Energía, Pedro Joaquín Coldwell; el director de Pemex, Emilio Lozoya, y el director de la Comisión Federal de Electricidad, Francisco Rojas.
+![](http://i.imgur.com/IrfqBMxm.jpg)México, DF. Para continuar con el análisis de las propuestas de reforma energética, este miércoles próximo comparecerán ante Comisiones de Energía, Puntos Constitucionales y Estudios Legislativos el secretario de Energía, Pedro Joaquín Coldwell; el director de Pemex, Emilio Lozoya, y el director de la Comisión Federal de Electricidad, Francisco Rojas.
 
 Por la tarde de ese mismo miércoles, comparecerán ante las mismas comisiones el titular de la Comisión Nacional de Hidrocarburos, Juan Carlos Zepeda, y el presidente de la Comisión Reguladora de Energía, Francisco Javier Salazar. Además, anunció el senador David Penchyna, presidente de la comisión de Energía, se realizarán dos foros regionales; uno en Tamaulipas y otro en Campeche, “estados eminentemente petroleros”.
 
