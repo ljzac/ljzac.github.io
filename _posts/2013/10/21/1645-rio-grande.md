@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/ryRBblcm.jpg)La dirección de Seguridad Pública, reportará casos de violencia intrafamiliar en Río Grande al Instituto de la Mujer.
+![](http://i.imgur.com/T3sjknQm.jpg)La dirección de Seguridad Pública, reportará casos de violencia intrafamiliar en Río Grande al Instituto de la Mujer.
 
 Se detalló que a través de los llamados que la población hace a través del Sistema de Emergencias 066, es como la corporación se da cuenta de este tipo de situaciones que aquejan a la población riograndense.
 
