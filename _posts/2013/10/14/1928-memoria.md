@@ -21,6 +21,7 @@ El 23 de Enero tuvieron lugar dos eventos paralelos: uno en la sede estatal del 
  
 -------------------------------------------------------------------------------------
 
+
 De: Camerino Eleazar Márquez Madrid, Juan José Quirino Salas, José Narro Céspedes, Tomás Torres Mercado, Raymundo Cárdenas Hernández
 
 Para: Jesús Ortega Martínez, Hortencia Aragón
@@ -47,6 +48,7 @@ Zacatecas, Zac. a 16 de noviembre de 2009.
 
                                          Zacatecas Zac., 27 de noviembre de 2009     
 
+
 DECLARACION DEL ING. RAYMUNDO CARDENAS HERNANDEZ
 
 No obstante la denuncia que hicimos hace dos semanas, un buen número de servidores públicos de distintas dependencias del gobierno del estado, continúan atentando contra el proceso informal de búsqueda de acuerdos entre los aspirantes a la candidatura del PRD a la gubernatura de Zacatecas, en el que he participado junto con otros compañeros. Su conducta contraviene el compromiso de imparcialidad asumido, pública y privadamente, por la titular del Poder Ejecutivo, y rompe una de las condiciones establecidas para la siguiente etapa del proceso.
@@ -72,7 +74,8 @@ Por último, exhorto a todos los servidores públicos que deseen participar acti
 Atentamente
 
 NOTA: Las encuestas que se realizaron fueron cuatro. El primer par de ellas sirvió para reducir el número de aspirantes de 9 a 4 y con las otras dos  se esperaba generar un candidato de unidad. 
------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 AL PUEBLO DE ZACATECAS. 
 
@@ -101,7 +104,9 @@ Por nuestra parte, debido a su historia como militante de la izquierda mexicana,
 Zacatecas Zac, 4 de enero de 2010
 
 FIRMAS DE ORGANIZACIONES Y PARTICIPANTES EN LA REUNIÓN DEL 3 DE ENERO
+
 -------------------------------------------------------------------------------------------------------
+
 México D.F. a 5 de Enero de 2010
 
 De: Raymundo Cárdenas Hernández
@@ -160,6 +165,7 @@ Informados extraoficialmente de la posibilidad de que se ordene la aplicación d
 ATENTAMENTE. 
 
 ZACATECAS, ZAC 8 DE ENERO DE 2010
+
 ---------------------------------------------------------------------------------------------------
 
 
@@ -196,9 +202,11 @@ Informado oficialmente por el compañero Jesús Ortega Martínez, Presidente Nac
 ATENTAMENTE
 
 -------------------------------------------------------------------------------------------------------
+
 NOTA 2: Las empresas encuestadoras acostumbran presentar sus resultados sobre las preferencias electorales de dos maneras: la más común es informar sobre la votación bruta obtenida directamente y que incluye los porcentajes de quienes no se pronunciaron por ningún aspirante; la otra manera implica obtener la votación neta eliminando a quienes no se pronunciaron, reduciendo arbitrariamente el tamaño de la muestra y, como consecuencia, aumentando el tamaño del error probable. En este caso también aumentan artificialmente la diferencia entre los candidato. Esa pequeña trampa fue la que les permitió transformar un empate técnico en el triunfo de Antonio Mejía. 
 
 NOTA 3: El resultado de la elección constitucional no deja lugar a dudas; las cuatro encuestas fueron hechas a modo pues durante todo el proceso electoral, el candidato impuesto nunca se acercó a las cifras que presentaron como piso mínimo de arranque. Todo fue un engaño.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 La Jornada Zacatecas 15 de enero de 2010
@@ -477,6 +485,7 @@ Zacatecas Zac, a 23 de enero de 2010
 Democracia ya, Patria para todos.
 
 Gilberto del Real Ruedas
+
 ------------------------------------------------------------------------------------------------------
 
 Zacatecas Zac., 19 de Febrero de 2010
