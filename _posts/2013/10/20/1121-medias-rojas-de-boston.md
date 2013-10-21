@@ -4,7 +4,7 @@ title: Llega Boston a Serie Mundial 2013 tras eliminar a Tigres de Detroit
 twitt: "Medias Rojas recibirá a partir del próximo miércoles a Cardenales de San Luis, en lo que será el primer juego de la Serie Mundial 2013, que será a ganar cuatro de siete posibles encuentros."
 author: Notimex
 location: Internacional
-category: Mundo
+category: Deportes
 layout: posts
 ---
 
