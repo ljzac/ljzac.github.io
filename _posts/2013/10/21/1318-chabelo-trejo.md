@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-La reforma fiscal aprobada la semana pasada tendrá impactos altamente negativos para Zacatecas, aseveró el presidente de la comisión de Hacienda de la Cámara de Diputados, José Isabel Trejo Reyes, quien auguró que con el incremento de impuestos se detendrá la inversión extranjera y las mineras y maquiladoras podrían repensar su inversión en la entidad e irse, por lo que el gasoducto ya no será el detonante económico al que se le apostaba. 
+![ALMA ALEJANDRA TAPIA](http://i.imgur.com/NFdgMnGm.jpg)La reforma fiscal aprobada la semana pasada tendrá impactos altamente negativos para Zacatecas, aseveró el presidente de la comisión de Hacienda de la Cámara de Diputados, José Isabel Trejo Reyes, quien auguró que con el incremento de impuestos se detendrá la inversión extranjera y las mineras y maquiladoras podrían repensar su inversión en la entidad e irse, por lo que el gasoducto ya no será el detonante económico al que se le apostaba. 
 
 De igual manera, los pequeños mineros y productores serán gravemente lesionados y ello provocará desempleo.
 
