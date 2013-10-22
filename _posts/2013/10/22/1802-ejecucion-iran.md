@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Descartan \"nueva\" ejecución de preso en Irán"
-twitt: "\"No hay cneesidad de una nueva ejecución\" del hombre, condenado por narcotráfico, dijo Mustafá Pourmohammadi citado el martes por la agencia noticiosa semiestatal ISNA."
+twitt: "\"No hay necesidad de una nueva ejecución\" del hombre, condenado por narcotráfico, dijo Mustafá Pourmohammadi citado el martes por la agencia noticiosa semiestatal ISNA."
 author: Ap
 location: Internacional
 category: Mundo
