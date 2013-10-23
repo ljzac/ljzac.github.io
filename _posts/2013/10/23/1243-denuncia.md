@@ -1,7 +1,7 @@
 ---
 published: true
 title: Envían a Comisión Jurisdiccional denuncia interpuesta por PRD contra secretarios de Gobierno y de Finanzas
-author: MARTIN CATALAN LERMA
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
 layout: posts
