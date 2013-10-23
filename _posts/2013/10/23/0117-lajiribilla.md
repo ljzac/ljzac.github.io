@@ -8,7 +8,6 @@ category: La Jiribilla
 layout: posts
 ---
 
-![](http://i.imgur.com/wCQzjfHm.jpg)
 UNO: En Fresnillo, ¿liquidaciones privilegiadas?
 DOS: Reforma política
 TRES: Aunque suene a cliché
