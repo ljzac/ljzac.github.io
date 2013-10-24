@@ -4,6 +4,40 @@ layout: default
 
 
 
+
+
+<div class="title">
+  <h4>Foro de Análisis</h4>
+</div>
+{{ $miseccion := index .site.categories "Foro de Análisis" }}
+
+{{if $miseccion}}
+  {{ range $miseccion}}
+      <article class="SubContent">
+        <a href="/{{ .url }}"><h3> {{ .title }}</h3></a>
+      {{if .MainImgSize "m"}}
+      <div class="grid_9 omega">
+      <div class="grid_image"><img src="{{ .MainImgSize "m" }}" class="pic" alt="pic" /> </div>
+      </div>
+      <div class="grid_7 alpha">
+          {{else}}
+            <div>
+          {{end}}
+          <ul class="comment">
+          <li class="comment_icon"><a href="/{{ .url }}#disqus_thread"># </a></li>
+          </ul>
+        <article class="article"><p>{{ .GetIntrotext }} <a href="/{{ .url }}">Leer más...</a> </p></article>
+    </div> <!-- cierra el grid_7 si hay imagen, sino el div simple -->      
+      </article>
+      <br><br><br>
+      <hr>
+  {{end}}
+{{else}}
+  <div>
+    <p> </p>
+  </div>
+{{end}}
+
 <div class="title">
   <h4>Martes de Documental</h4>
 </div>
