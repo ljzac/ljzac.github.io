@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ De igual manera se abre la convocatoria 2013 al Premio Estatal de Periodismo Cultural
+![](http://i.imgur.com/BdQcE6Ym.jpg)■ De igual manera se abre la convocatoria 2013 al Premio Estatal de Periodismo Cultural
 
 ■ Se realizará del 25 de octubre al 2 de noviembre; se dedica a Fray Joaquín Bolaños
 
