@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Necesario, revertir cifras en violación de derechos humanos de parte de policías municipales: Correa Chacón"
-twitt: "•\tCapacita CDHEZ  a nuevas administraciones de municipios"
+twitt: Capacita CDHEZ  a nuevas administraciones de municipios
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
