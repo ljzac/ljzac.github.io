@@ -8,6 +8,7 @@ category: La Jiribilla
 layout: posts
 ---
 
+<img src="http://infodem.com.mx/images/jiribilla.jpg" />
 
 UNO: Muñoz Ledo y el olvido oficial hacia el salario
 DOS: Liberación de Ciudad Administrativa… con su buen alcohol
