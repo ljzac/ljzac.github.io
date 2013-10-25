@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/V2Kl6bSm.jpg)FRESNILLO, ZAC.- El Instituto de Cultura Municipal (ICM) Manuel M. Ponce presentó las actividades que integrarán el programa general del segundo Festival de Arte y Cultura Fresnillo 2013 y el tercer Festival de la Muerte, que por primera vez se fusionan en uno sólo evento, del 29 de octubre al 3 de noviembre.
+![](http://i.imgur.com/qrlJMUJm.jpg)FRESNILLO, ZAC.- El Instituto de Cultura Municipal (ICM) Manuel M. Ponce presentó las actividades que integrarán el programa general del segundo Festival de Arte y Cultura Fresnillo 2013 y el tercer Festival de la Muerte, que por primera vez se fusionan en uno sólo evento, del 29 de octubre al 3 de noviembre.
 
 Leopoldo Elías Smith McDonald, titular del ICM, informó que en esta edición se rendirá un homenaje especial a José Arturo Burciaga Campos, historiador y promotor de la cultura en el municipio y se contará con una participación muy nutrida de artistas fresnillenses, del estado, de varias entidades de la República Mexicana y la presencia como invitado especial del continente africano.
 
