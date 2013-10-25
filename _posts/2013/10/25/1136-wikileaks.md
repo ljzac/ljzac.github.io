@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-El gobierno de Estados Unidos no encuentra salida del lío en el que se encuentra debido a la cosecha de secretos que ha revelado al mundo el ex analista informático de la CIA Edward Snowden, actualmente asilado en Moscú. Se trata, según Le Monde, de “un sismo planetario”. Y en medio del remolino, “el presidente Barack Obama se está viendo realmente mal”, asegura el vocero de Wikileaks, el periodista islandés Kristinn Hrafsson, en entrevista con La Jornada.
+![La Jornada](http://i.imgur.com/mnaWksxm.jpg)El gobierno de Estados Unidos no encuentra salida del lío en el que se encuentra debido a la cosecha de secretos que ha revelado al mundo el ex analista informático de la CIA Edward Snowden, actualmente asilado en Moscú. Se trata, según Le Monde, de “un sismo planetario”. Y en medio del remolino, “el presidente Barack Obama se está viendo realmente mal”, asegura el vocero de Wikileaks, el periodista islandés Kristinn Hrafsson, en entrevista con La Jornada.
 
 “No ha logrado ofrecer una sola explicación mínimamente creíble, ni para sus propios ciudadanos ni para los gobiernos aliados que han sido sujetos a estas operaciones de monitoreo. Y cuando ofrece alguna justificación mediante su jefe de Inteligencia James Clapper –a quien yo lo llamo el jefe del espionaje-- a los pocos días se producen nuevas revelaciones que lo desmienten”.
 
