@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-<img src="http://infodem.com.mx/congreso.png" />
+<img src="http://infodem.com.mx/images/congreso.jpg" />
 
 ■ Posible, que funcionarios se presenten ante las comisiones y no en el Pleno: Calderón
 
