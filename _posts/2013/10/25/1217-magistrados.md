@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Causa molestia en 61 Legislatura decisión tomada por la CRICP de ratificar a magistrados "
+title: Divide a diputados terna para magistrados del TJEEZ
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
