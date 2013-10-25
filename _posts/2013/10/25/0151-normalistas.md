@@ -8,6 +8,7 @@ category: Educación
 layout: posts
 ---
 
+<img src="http://infodem.com.mx/images/normalistas.jpg" />
 
 Estudiantes de la Normal Rural de San Marcos General Matías Ramos Santos, de la Escuela Normal Experimental Salvador Varela Reséndiz, de Juchipila y de la Escuela Normal Mtro. Rafael Ramírez Castañeda, ubicada en el municipio de Francisco R. Munguía, tomaron las instalaciones de la Normal Manuel Avila Camacho para motivar a sus alumnos a sumarse a la movilización contra la Reforma Educativa.
 
