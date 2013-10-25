@@ -7,6 +7,7 @@ category: Portada
 layout: posts
 ---
 
+<img src="http://infodem.com.mx/congreso.png" />
 
 ■ Posible, que funcionarios se presenten ante las comisiones y no en el Pleno: Calderón
 
@@ -32,4 +33,4 @@ Debido a los contratiempos y que los diputados tienen rezagados algunos temas qu
 
 Esto porque se debe hacer a la brevedad el nombramiento de tres magistrados del Poder Judicial y seis consejeros electorales. Para lo cual se requiere tiempo y realizar varias sesiones, comentó Calderón Galván.
 
-Refirió que el artículo 59 de la Constitución establece que los funcionarios deben comparecer ante la Legislatura, por lo que los diputados pueden decidir si es ante el pleno o en comisiones. Aunque  no hay definiciones ni fecha, lo harían así los secretarios de Educación, Salud, Medio ambiente y Agua, y Función Pública.     
+Refirió que el artículo 59 de la Constitución establece que los funcionarios deben comparecer ante la Legislatura, por lo que los diputados pueden decidir si es ante el pleno o en comisiones. Aunque  no hay definiciones ni fecha, lo harían así los secretarios de Educación, Salud, Medio ambiente y Agua, y Función Pública.
