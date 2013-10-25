@@ -8,6 +8,7 @@ category: Portada
 layout: posts
 ---
 
+<img src="http://infodem.com.mx/paro.jpg" />
 
 ■ Sin acuerdos, tras reunión de representantes de la disidencia y autoridades: Montoya
 
