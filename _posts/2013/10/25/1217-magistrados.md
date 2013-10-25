@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Causa molestia entre diputados decisión tomada por la CRICP de ratificar a magistrados "
+title: "Causa molestia en 61 Legislatura decisión tomada por la CRICP de ratificar a magistrados "
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
