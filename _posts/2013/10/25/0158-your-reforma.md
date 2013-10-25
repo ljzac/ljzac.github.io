@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<img src="http://i.imgur.com/lQptt7C.png" />
+<img src="http://infodem.com.mx/images/reforma.jpg" />
 ■ Urge modernizar Pemex para extraer el petróleo en aguas profundas: Benito Venegas
 
 Si se aprueba la Reforma Energética sin consultar al pueblo de México, ésta tendrá que ser desobedecida por la sociedad, aseguró el docente investigador de la Universidad Nacional Autónoma de México (UNAM), Jaime Cárdenas Gracia, debido a que no tendrá una base democrática ni será jurídicamente válida.
