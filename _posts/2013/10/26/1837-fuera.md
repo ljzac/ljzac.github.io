@@ -1,10 +1,10 @@
 ---
 published: true
-title: "Ante el frío, sentarse bajo el sol"
-author: ERNESTO MORENO
+title: Con ritmo hasta la muerte
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts
 ---
 
-![](http://i.imgur.com/RI0rMspm.jpg)
+![](http://i.imgur.com/tOKyipRm.jpg)
