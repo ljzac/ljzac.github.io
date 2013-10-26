@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/CDZnnQWm.jpg)En el ámbito de la conmemoración de los 60 años del voto de las mujeres en México, el Instituto Electoral del Estado de Zacatecas (IEEZ) exhibe en el Centro Cultural Ciudadela del Arte la exposición titulada ‘Trayectoria de la dra. María Esther Talamantes y su aporte al sufragismo Mexicano.
+![ERNESTO MORENO](http://i.imgur.com/CDZnnQWm.jpg)En el ámbito de la conmemoración de los 60 años del voto de las mujeres en México, el Instituto Electoral del Estado de Zacatecas (IEEZ) exhibe en el Centro Cultural Ciudadela del Arte la exposición titulada ‘Trayectoria de la dra. María Esther Talamantes y su aporte al sufragismo Mexicano.
 
 Las imágenes muestran la trayectoria de una zacatecana ejemplar y su aporte al sufragismo en este país. Esther Talamantes Perales, sufragista zacatecana nacida en Valparaíso en 1920, fue pionera de los derechos políticos de las mujeres mexicanas. 
 
@@ -19,4 +19,4 @@ En la sala Juan Manuel de la Rosa, este artista expone varias técnicas como pin
 
 En el vestíbulo de Cineteca Zacatecas se exhibe la exposición titulada ‘Y nada más…’, pintura y arte-objeto del Grupo Negro.
 
-Por otra parte, el altar de ‘Día de Muertos’ montado en esta ocasión, en el primer patio de la Ciudadela del Arte, está dedicado a Mireya Cueto, titiritera, escritora y dramaturga mexicana; licenciada en historia moderna y contemporánea por la Universidad Nacional Autónoma de México (UNAM); fundadora del teatro de títeres y actores Tinglado, e investigadora, productora y directora de teatro de títeres y guiñol.  
+Por otra parte, el altar de ‘Día de Muertos’ montado en esta ocasión, en el primer patio de la Ciudadela del Arte, está dedicado a Mireya Cueto, titiritera, escritora y dramaturga mexicana; licenciada en historia moderna y contemporánea por la Universidad Nacional Autónoma de México (UNAM); fundadora del teatro de títeres y actores Tinglado, e investigadora, productora y directora de teatro de títeres y guiñol.
