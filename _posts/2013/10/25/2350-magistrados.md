@@ -4,7 +4,7 @@ title: "Ratifican a los magistrados del TJEEZ, ante cuestionamientos del PRD y P
 twitt: ■ De manera informal convocaron a disputados para sesionar; hubo quorum mínimo
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
