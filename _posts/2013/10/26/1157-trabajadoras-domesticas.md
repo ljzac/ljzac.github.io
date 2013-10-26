@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sindicato de trabajadoras domésticas llaman a aprobar leyes que defiendan sus derechos
+title: Sindicatos de trabajadoras domésticas llaman a aprobar leyes que defiendan sus derechos
 twitt: "Lanzada en 2009 en Ginebra, la red reúne 47 organizaciones que representan a unas 300 mil trabajadoras domésticas de todo el mundo"
 author: Afp
 location: Internacional
