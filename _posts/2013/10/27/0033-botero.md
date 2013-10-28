@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/PrzljkXm.jpg)
+![](http://i.imgur.com/WkET8oYm.jpg)
 ■ Botero 80 años; Testimonios de la Barbarie estará en exhibición hasta el primero de octubre
 
 “Colombia y México es igual. Actualmente es lo que estamos viviendo (…) los secuestros, masacres, desplazados, los inocentes de la violencia que tienen que dejar sus lugares de origen en Sinaloa, Sonora, Michoacán. Es una desgracia que eso pase. Y sí, está muy bien representado en su arte”, comentó un visitante a la ciudad de Zacatecas procedente de Sonora, sobre Botero 80 años; Testimonios de la Barbarie, la exposición de Fernando Botero que se exhibe actualmente en el Museo de Arte Abstracto Manuel Felguérez (MAAMF), en la que el artista colombiano Fernando Botero hace un recuento iconográfico de la tragedia humana que ha significado para su país la violencia derivada del tráfico ilegal de drogas.
@@ -27,4 +27,4 @@ En su opinión al artista plástico colombiano le faltó recuperar “los proble
 
 Desde otro punto de vista, Oscar Edgar López añadió que “el tema que maneja (Fernando Botero) es un tema en el que todos los que trabajamos las artes visuales y las artes en general tenemos que estar atentos como hijos de nuestro tiempo”.
 
-Botero 80 años; Testimonios de la barbarie permanecerá en exhibición en Zacatecas hasta el primero de diciembre. 
+Botero 80 años; Testimonios de la barbarie permanecerá en exhibición en Zacatecas hasta el primero de diciembre.
