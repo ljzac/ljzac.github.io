@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/h8KID35m.jpg)
+![](http://i.imgur.com/uyEHxGMm.jpg)
 ■ Su llegada se dio en el marco de las actividades del 68 aniversario de las Naciones Unidas
 
 Zacatecas está listo para la inversión productiva, aseguró el gobernador Miguel Alonso Reyes, al reunirse con los integrantes del cuerpo diplomático en México y el secretario de Relaciones Exteriores, José Antonio Meade Kuribreña.
