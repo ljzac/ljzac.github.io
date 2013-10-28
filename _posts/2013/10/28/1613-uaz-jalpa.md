@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Estudiantes de nivel ingeniería ganan Concurso de Programación en Jalpa
 author: REDACCION
 location: Local
