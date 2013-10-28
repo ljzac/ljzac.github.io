@@ -1,6 +1,6 @@
 ---
 published: true
-title: Reconoce CPB labor de los docentes y personal de apoyo en el Jardín de Niños “María Guadalupe Vega de Luévano”
+title: Reconoce CPB labor de los docentes y personal de apoyo del jardín de niños “María Guadalupe Vega de Luévano”
 author: REDACCION
 location: Local
 category: Destacadas
