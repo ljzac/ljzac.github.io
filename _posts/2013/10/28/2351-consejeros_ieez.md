@@ -4,7 +4,7 @@ title: "Exhorta PRD a renovar completamente el IEEZ, desde consejeros a presiden
 twitt: "■ No dan certeza de las acciones que desempeñan en el Consejo General: Espinoza"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
