@@ -1,6 +1,6 @@
 ---
 published: true
-title: Anuncia CPB rehabilitación del puente vehícular La Escondida
+title: Anuncia CPB rehabilitación del puente vehicular La Escondida
 author: REDACCION
 location: Local
 category: Destacadas
