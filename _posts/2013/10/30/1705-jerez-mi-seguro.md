@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/0MUxKGqm.jpg)JEREZ, ZAC. El presidente municipal José Manuel de Jesús Viramontes Rodarte puso en marcha “Mi Seguro” para alumnos del nivel básico, tanto de la cabecera como de las comunidades, siendo el primero en el Estado y el cual representará un beneficio sin precedentes para la niñez jerezana.
+![](http://i.imgur.com/0MUxKGqm.jpg)JEREZ, ZAC. El presidente municipal José Manuel de Jesús Viramontes Rodarte puso en marcha “Mi Seguro” para alumnos del nivel básico, tanto de la cabecera como de las comunidades, siendo el primero en el estado y el cual representará un beneficio sin precedentes para la niñez jerezana.
 
 Ante un auditorio Genaro Borrego lleno por la presencia de estudiantes que con característica euforia dieron la bienvenida a las autoridades, el edil manifestó que por primera vez en la historia del municipio y del Estado, cada alumno de preescolar, primaria y secundaria, podrá contar con un seguro médico contra accidentes cuya póliza será de hasta 40 mil pesos. 
 
