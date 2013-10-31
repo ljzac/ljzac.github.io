@@ -1,0 +1,14 @@
+---
+layout: defaultSimple
+---
+<section class="container">
+<div class="grid_12 alpha">
+{{ template "seccion_listado.html" .s.PagesForCategory "Marcelito" 20}}
+</div>
+
+{{template "gualdra.html" }}
+{{template "boletin.html" }}
+<!-- {{template "gsb.html" .}}-->
+{{template "barraDerecha.html" .}}
+</div>
+</section>
