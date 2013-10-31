@@ -4,7 +4,7 @@ title: "Desempleo y falta de oportunidades,  principales problemáticas entre j�
 twitt: "■ Se trabaja en una Ley de la Juventud que busque mitigar sus necesidades: Haro de la Torre"
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
@@ -31,4 +31,4 @@ Mientras que quienes se vienen a la capital a estudiar, lo hacen con muchas care
 
 En Valparaíso también está el problema de que los jóvenes son atractivos para los grupos delictivos, “sobre todo en las comunidades”, agregó el funcionario.
 
-Actualmente sólo hay 31 de 58 institutos municipales de la juventud,  por lo que el presidente de la comisión legislativa presentará la próxima semana un punto de acuerdo para exhortar a los municipios que carecen de la instancia a que la instauren. 
+Actualmente sólo hay 31 de 58 institutos municipales de la juventud,  por lo que el presidente de la comisión legislativa presentará la próxima semana un punto de acuerdo para exhortar a los municipios que carecen de la instancia a que la instauren.
