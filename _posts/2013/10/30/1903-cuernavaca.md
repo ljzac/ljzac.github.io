@@ -1,7 +1,10 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Adeuda Cuernavaca 12 millones de pesos por laudos de ex trabajadores
+twitt: "El ayuntamiento negocia con querellantes, a quienes estaría obligado a reinstalar."
+author: La Jornada
+location: Nacional
+category: Principales
 layout: posts
 ---
 
