@@ -1,6 +1,6 @@
 ---
 published: true
-title: Eleva Nueva York a 12 años la edad mínima para comprar cigarros
+title: Eleva Nueva York a 21 años la edad mínima para comprar cigarros
 twitt: La proporción de fumadores jóvenes en la ciudad ha bajado de 17.6 a 8.5 por ciento entre 2001 y 2007.
 author: Dpa
 location: Internacional
