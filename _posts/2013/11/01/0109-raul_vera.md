@@ -4,7 +4,7 @@ title: "El derecho humano a la salud debe ser  garantizado por los gobiernos: Ra
 twitt: ■ Dicho punto está consagrado en el Pacto Internacional de los Derechos Económicos y Sociales
 author: "RAFAEL DE SANTIAGO "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
