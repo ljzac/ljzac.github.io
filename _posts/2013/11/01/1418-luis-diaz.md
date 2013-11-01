@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-El docente de la Unidad Académica de Artes de la Universidad Autónoma de Zacatecas (UAZ), Luis Díaz Santana Garza, obtuvo el segundo lugar y mención honorífica dentro de la primera edición del Premio Museo de Historia Mexicana 2013, Estudios sobre el Noreste de México, con su trabajo de investigación titulado ‘Entre el conjunto norteño y el conjunto tejano-mexicano: música e identidad en la frontera (del siglo 19 a 1970)’.
+![Foto tomada de la página de Luis Díaz Santana](/_posts/2013/11/01/luisdiazsantana.jpg)El docente de la Unidad Académica de Artes de la Universidad Autónoma de Zacatecas (UAZ), Luis Díaz Santana Garza, obtuvo el segundo lugar y mención honorífica dentro de la primera edición del Premio Museo de Historia Mexicana 2013, Estudios sobre el Noreste de México, con su trabajo de investigación titulado ‘Entre el conjunto norteño y el conjunto tejano-mexicano: música e identidad en la frontera (del siglo 19 a 1970)’.
 
 Este certamen, convocado por el Patronato Consultivo del Museo de Historia Mexicana, se dividió en dos categorías, tales como Trabajos de investigación y Tesis de posgrado.
 
