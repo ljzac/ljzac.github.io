@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: MAR anuncia autorización de bono para  policías que laboraron durante la Fenaza
 twitt: ■ El titular del Ejecutivo realizó una visita de cortesía a la presidencia de la capital
 author: "RAFAEL DE SANTIAGO "
