@@ -8,6 +8,7 @@ category: Ciencia y Tecnología
 layout: posts
 ---
 
+![](http://i.imgur.com/AHyDqJJm.jpg)
 Washington. Científicos estadunidenses que buscan desentrañar los misterios del VIH, causante del sida, lograron capturar la imagen más clara hasta ahora de una proteína que permite que este mortal virus ataque a las células inmunes humanas, reveló un estudio.
 
 Los científicos del Instituto de Investigación Scripps (TSRI, por sus siglas en inglés) y la universidad Weill Cornell Medical College han logrado obtener una vista detallada de la estructura atómica de la proteína que envuelve el VIH, el virus de inmunodeficiencia humana.
