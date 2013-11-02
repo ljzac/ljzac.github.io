@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recorre MAR tianguis de Tres Cruces
+title: "Recorre MAR tianguis de 'Día de Muertos'"
 author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
@@ -12,4 +12,3 @@ layout: posts
 A su llegada a dicho lugar, un grupo de trabajadoras de limpieza, conocidas como hormiguitas, recibieron al gobernador para saludarlo. Momentos antes, una de ellas expresó a sus compañeras: “vamos a verlo, si no cuando lo vamos a agarrar”.
 
 Después de avanzar algunos metros, Alonso Reyes y funcionarios de su administración  se detuvieron en un puesto de comida ubicado fuera de la escuela Salvador Varela, en cuya barda exterior resaltaba la publicidad de Soriana, empresa que aportó la pintura de ese plantel a cambio de publicitarse.
-
