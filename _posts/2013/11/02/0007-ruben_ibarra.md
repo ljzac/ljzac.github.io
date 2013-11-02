@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/fgAqSL1m.jpg)
+![](http://i.imgur.com/QdtFEsGm.jpg)
 A decir del director de la Unidad Académica de Ciencias Sociales de la UAZ, Rubén Ibarra Reyes, el Instituto Electoral del Estado de Zacatecas (IEEZ) se aleja cada vez más de la posibilidad de ser un organismo electoral autónomo, ajeno a los intereses de los partidos políticos y del Estado, y la designación de los seis nuevos consejeros electorales es la cara más cruda y real de la democracia mexicana.
 
 Esto a propósito de que el pasado jueves, los diputados nombraron consejeros electorales a José Manuel Carlos, Brenda Mora, Felipe Andrade, Joel Arce, Otilio Rivera y Rocío Posadas, todos con militancia partidista y, por ende, encarnarán al PRI, PRD, PAN, PT y PVEM en el Consejo General, sin contar que todos los institutos políticos ya tienen a sus representantes con derecho a voz, pero no voto. 
