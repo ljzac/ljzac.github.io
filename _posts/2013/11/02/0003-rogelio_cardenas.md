@@ -4,7 +4,7 @@ title: "Evidente, retroceso por ciudadanizar al  Instituto Electoral: Rogelio C�
 twitt: "ALMA ALEJANDRA TAPIA "
 author: "■ Elección de consejeros evidencia que los partidos políticos cada vez son más cínicos, afirma"
 location: Local
-category: Portada
+category: Política
 layout: posts
 ---
 
