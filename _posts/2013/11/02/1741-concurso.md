@@ -36,7 +36,7 @@ por las calles los voceros.
 
 Ejemplares no contados
 
-de La Jornada vendieron.
+de 'La Jornada' vendieron.
 
 
 
@@ -113,7 +113,7 @@ celebran los embusteros.
 
 Esto se va a poner bueno,
 
-en La Jornada dijeron.
+en 'La Jornada' dijeron.
 
 AMLO preparó el terreno,
 
@@ -134,7 +134,7 @@ Convocaron en La Bufa
 
 a concurrida reunión,
 
-por ser la Noche de Brujas;
+por ser la 'Noche de Brujas';
 
 la gente hasta se apretuja
 
@@ -204,7 +204,7 @@ Murió Ramón Montejano,
 
 no acabó de gobernar;
 
-la gente en Concha del Oro
+la gente en 'Concha' del Oro
 
 lo espera pa’ sepultar
 
@@ -228,4 +228,3 @@ a ninguno ha respetado.
 Los demonios con danzones,
 
 en festín han celebrado.
-
