@@ -1,6 +1,6 @@
 ---
 published: true
-title: Muerte a la mexicana (Segundo lugar)
+title: "'Muerte a la mexicana' (Segundo lugar)"
 author: Ana Lilia Félix Pichardo
 location: Local
 category: Destacadas
@@ -61,4 +61,3 @@ La huesuda, satisfecha,
 de México no se marcha,
 pues en la guerra contra el narco
 parece que la veta va ancha.
-
