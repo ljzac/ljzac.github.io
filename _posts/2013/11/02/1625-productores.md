@@ -1,6 +1,7 @@
 ---
 published: true
 title: Realizarán productores de frijol una caravana el próximo martes en la Ciudad de México
+twitt: Demandan que el estado llegue primero que los ‘coyotes’
 author: REDACCION
 location: Local
 category: Destacadas
