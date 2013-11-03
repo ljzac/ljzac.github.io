@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/qhXFYiam.png Estaban los diputados
+![](http://i.imgur.com/qhXFYiam.png)Estaban los diputados
 
 Gerardo Romo y Xerardo,
 
@@ -48,4 +48,3 @@ de su escondite ni salían.
 Se los cargó la calaca,
 
 quitándolos de la 'polaca'.
-
