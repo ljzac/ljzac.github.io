@@ -1,6 +1,6 @@
 ---
 published: true
-title: Visitan jubiladdos de Issstezac exposición de Botero
+title: Visitan jubilados de Issstezac exposición de Botero
 author: REDACCION
 location: Local
 category: Destacadas
