@@ -8,8 +8,7 @@ category: Principales
 layout: posts
 ---
 
-
-Morelia, Mich. Elementos del Ejército Mexicano tomaron las oficinas de Seguridad Pública y desarmaron a los policías municipales de Ciudad Lázaro Cárdenas, informó la Procuraduría General de Justicia del Estado, tras señalar que los uniformados fueron retenidos en las oficinas del ayuntamiento costero.
+![](/_posts/2013/11/04/militar.jpg)Morelia, Mich. Elementos del Ejército Mexicano tomaron las oficinas de Seguridad Pública y desarmaron a los policías municipales de Ciudad Lázaro Cárdenas, informó la Procuraduría General de Justicia del Estado, tras señalar que los uniformados fueron retenidos en las oficinas del ayuntamiento costero.
 
 Los hechos ocurrieron después de las 8:30 horas. Los militares tomaron el control de la seguridad del puerto.
 
