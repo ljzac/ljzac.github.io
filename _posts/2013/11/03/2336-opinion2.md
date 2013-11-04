@@ -7,7 +7,7 @@ category: Opinión
 layout: posts
 ---
 
-n el historial de Enrique Peña Nieto abundan las ocasiones en las que ha utilizado cortinas de humo, al más puro estilo fascista de Goebbels, y el caso del profesor Alberto Patishtán Gómez, no por ello menos lamentable, es un buen ejemplo de ello.
+En el historial de Enrique Peña Nieto abundan las ocasiones en las que ha utilizado cortinas de humo, al más puro estilo fascista de Goebbels, y el caso del profesor Alberto Patishtán Gómez, no por ello menos lamentable, es un buen ejemplo de ello.
 
 Preso desde el año 2000, acusado de la muerte de 7 policías en el municipio de Simojovel en su natal Chiapas, capturado a pesar de que en las declaraciones sus testigos admitían que Alberto había estado en el pueblo dando clases, el aparato de justicia de nuestro país le dictó una insólita condena de 60 años de prisión, pasa 13 años de su vida encarcelado en medio de una odisea. Una lucha incansable contra el aparato de justicia, hasta el día 29 de octubre de este 2013, en el que Enrique Peña Nieto estrena sus recién concedidas facultades de indultar presos con el maestro bilingüe de la noble etnia Tzotzil.  
 
