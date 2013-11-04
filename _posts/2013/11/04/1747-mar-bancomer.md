@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/JvYQOugm.jpg)En reunión privada con los directivos de BBVA Bancomer, el Gobernador Miguel Alonso Reyes reafirmó las relaciones que tiene con esta institución financiera, misma que puso a disposición de la administración estatal sus diversos productos y servicios.
+![](http://i.imgur.com/JvYQOugm.jpg)En reunión privada con los directivos de BBVA Bancomer, el gobernador Miguel Alonso Reyes reafirmó las relaciones que tiene con esta institución financiera, misma que puso a disposición de la administración estatal sus diversos productos y servicios.
  
 El Jefe del Ejecutivo y el Grupo Financiero analizaron la posibilidad de trabajar de manera conjunta, a través de la Fundación BBVA Bancomer, en diversos programas de beneficio social, además del de becas que ya opera en la entidad.
   
