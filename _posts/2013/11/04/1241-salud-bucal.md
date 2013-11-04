@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-Este lunes, inició la segunda Semana Nacional de Salud Bucal, que se desarrollará del 4 al 8 de noviembre, con un evento oficial celebrado en el jardín de niños Cipactli, en el municipio de Guadalupe.
+![RAQUEL OLLAQUINDIA](http://i.imgur.com/JyeUU9Sm.jpg)Este lunes, inició la segunda Semana Nacional de Salud Bucal, que se desarrollará del 4 al 8 de noviembre, con un evento oficial celebrado en el jardín de niños Cipactli, en el municipio de Guadalupe.
 
 Este tipo de estrategias, expuso la subdirectora de Epidemiología de los Servicios de Salud de Zacatecas (SSZ), Aspacia Kusula, comenzó a realizarse por la falta de cultura que existe en torno a la higiene bucal en México.
 
