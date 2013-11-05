@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Continúan las irregularidades en el manejo de los recursos públicos de los municipios de la entidad: Luis Acosta Jaime"
+title: Finca 61 Legislatura sanciones resarcitorias de 10 mdp para 8 municipios
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
