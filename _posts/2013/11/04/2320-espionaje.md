@@ -7,8 +7,8 @@ category: Mundo
 layout: posts
 ---
 
-
-![](http://i.imgur.com/ZSBwoomm.jpg)Washington. La mayoría de los ciudadanos estadunidenses considera "inaceptable" que su gobierno espíe los teléfonos de los líderes de países aliados, según una encuesta del centro Pew publicada este lunes.
+![](http://i.imgur.com/VuJFnh5m.jpg)
+Washington. La mayoría de los ciudadanos estadunidenses considera "inaceptable" que su gobierno espíe los teléfonos de los líderes de países aliados, según una encuesta del centro Pew publicada este lunes.
 
 De acuerdo con el sondeo, 56 por ciento de los consultados se pronunció contra este tipo de espionaje, frente a 36 por ciento que lo consideró aceptable, en una encuesta realizada después que se conoció la Agencia Nacional de Seguridad (NSA) accedió a los teléfonos de la canciller federal alemana, Angela Merkel, y otros gobernantes.
 
