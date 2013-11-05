@@ -1,4 +1,3 @@
-
 function buildShareThis(url,title){
      var customShareThis  = "<div class='share'>";
      customShareThis += "<span class='st_facebook_hcount' displayText='Facebook' st_url='"+url+"'></span> ";
@@ -75,9 +74,3 @@ var disqus_shortname = 'ljzbot2'; // required: replace example with your forum s
     (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
 
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-44184930-1', 'ljz.mx');
-ga('send', 'pageview');
