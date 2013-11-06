@@ -8,7 +8,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) marcha hacia la Secretaría de Gobernación (SG) para obtener una respuesta de esa dependencia sobre sus demandas de respetar los derechos laborales, en el contexto de la reforma educativa.
+![](http://i.imgur.com/pBlyCFsm.jpg)México, DF. Maestros de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) marcha hacia la Secretaría de Gobernación (SG) para obtener una respuesta de esa dependencia sobre sus demandas de respetar los derechos laborales, en el contexto de la reforma educativa.
 
 El contingente se forma por docentes de Oaxaca -que encabezan la movilización- seguidos de los mentores de Chiapas, Michoacán, Veracruz y San Luis Potosí.
 
