@@ -1,7 +1,7 @@
 ---
 published: true
-title: Inicia mañana programación con motivo de ‘Día Internacional de las Personas con Discapacidad’
-twitt: Capacitarán a funcionarios en la implementación de políticas públicas que beneficien a este sector en los municipios
+title: Capacitarán a funcionarios en la implementación de políticas públicas que beneficien a discapacitados en municipios
+twitt: "•\tMañana inicia la programación con motivo del ‘Día Internacional de las Personas con Discapacidad’"
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
