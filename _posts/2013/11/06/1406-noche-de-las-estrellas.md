@@ -1,6 +1,6 @@
 ---
 published: true
-title: Realizarán este sábado la quinta emisión de la Noche de las Estrellas; será en el IPN
+title: Realizarán este sábado la quinta Noche de las Estrellas; será en el IPN
 author: ALMA RIOS
 location: Local
 category: Destacadas
