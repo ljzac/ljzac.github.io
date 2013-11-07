@@ -4,7 +4,7 @@ title: Presentan instituciones el programa  de La Noche de las Estrellas 2013
 twitt: "■ Desde hace cinco años, han participado alrededor de 3 mil 500 personas por cada emisión, informan"
 author: ALMA RIOS
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
