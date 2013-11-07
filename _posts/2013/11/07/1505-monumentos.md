@@ -1,6 +1,6 @@
 ---
 published: true
-title: Dan lectura a iniciativa de ley que endurezca multas a quienes delincan contra monumentos y zonas típicas
+title: Dan lectura a iniciativa de ley que endurecería multas a quienes delincan contra monumentos y zonas típicas
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
