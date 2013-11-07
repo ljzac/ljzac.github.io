@@ -27,7 +27,7 @@ Sus opiniones se discutían en corrillos informales a la hora de comer o de la s
 
 En esas charlas intensas yo escuchaba y preguntaba, tratando de entender la polémica sobre las vías para el cambio en México, consciente de que no contaba con la formación política suficiente para sustentar alguna tesis. Durante esa estancia en el DF empecé a leer con mayor atención la prensa diaria, especialmente El Excélsior, que conocía desde la casa familiar porque era el periódico de Don Cruz, mi padre, que pasaba largas horas leyendo de cabo a rabo la primera sección. El ambiente que reinaba en la UNAM también me condujo a leer algunos libros de marxismo, el primero de los cuales fue el de Federico Engels titulado “La familia, la propiedad privada y el Estado” y textos sobre la educación superior de diferentes autores.   
 
-# Primeros pasos en la política universitaria
+#Primeros pasos en la política universitaria
 
 Casi al año de haber llegado al Instituto, el Dr. Cortés me dio la noticia de que nuestro trabajo había sido aceptado en una de las publicaciones especializadas en el tema y que podía utilizarlo como tesis profesional, agregando una larga introducción sobre la teoría y el funcionamiento del espectrómetro de masas. Presenté y aprobé el examen profesional y el de admisión al posgrado en la UNAM, pero el maestro Escobar me pidió que me quedara en Zacatecas porque había necesidad de hacerse cargo de algunas materias que  había cursado en el Instituto. No necesitó insistir mucho para que yo decidiera quedarme, y así fue como ingresé a la planta de profesores de la Escuela de C.Q. de la UAZ.
 
