@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Movimiento de regeneración. Ayuda para la memoria.
 author: Raymundo Cárdenas Hernández
 location: Local
