@@ -7,7 +7,7 @@ category: Memoria
 layout: posts
 ---
 
-DIP. RAYMUNDO CÁRDENAS H. 
+RAYMUNDO CÁRDENAS H. 
 
 A.- PROCESOS QUE DEFINEN LA COYUNTURA 
 
@@ -166,4 +166,4 @@ Quienes crean que es poco probable la aparición de las masas en el escenario me
 
 En conclusión, las izquierdas que actúan en el PRD, y también en el FAP, estamos obligados a propiciar un nuevo y superior dialogo entre las partes que constituyen el movimiento en su conjunto, y a poner a la disposición del mismo nuestra voluntad de construir un nuevo instrumento político a partir de los principios del socialismo y del liberalismo, que pueda derrotar la acción de quienes detentan el poder del Estado capturado por los intereses particulares, y crear las condiciones para la regeneración de la república, construyendo los acuerdos suficientes para encontrar una vía para el desarrollo equitativo y sustentable, y para conquistar un nuevo y digno espacio en el mundo globalizado. 
 
-Zacatecas Zac. 11 de julio de 2009 
+Zacatecas Zac. 11 de julio de 2009
