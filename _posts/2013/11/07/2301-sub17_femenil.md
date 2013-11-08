@@ -7,7 +7,7 @@ category: Deportes
 layout: posts
 ---
 
-![](http://i.imgur.com/KoKwo7lm.jpg)
+![](http://i.imgur.com/mdHKhabm.jpg)
 Montego Bay. La selección femenil mexicana Sub 17 de futbol logró la hazaña al derrotar en tanda de tiros penales 4-2 (global 5-3) a Estados Unidos, para calificar a la Copa del Mundo de Costa Rica 2014 y eliminó a la potencia del orbe.
 
 La portera Emily Alvarado se convirtió en la figura del Tricolor al detener un par de disparos a las estadunidenses Taylor Racioppi, en el primero de la tanda, y a Zoe Morse, en la cuarta ejecución.
