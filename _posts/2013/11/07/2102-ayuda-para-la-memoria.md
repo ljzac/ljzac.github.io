@@ -7,7 +7,7 @@ category: Memoria
 layout: posts
 ---
 
-DIP. RAYMUNDO CÁRDENAS H. 
+RAYMUNDO CÁRDENAS H. 
  
 MOVIMIENTO REGENERACIÓN. AYUDA PARA LA MEMORIA.
 
