@@ -1,7 +1,9 @@
 ---
 published: true
+title: Cierra 69 Nombres octavo Festival Cultural de la Diversidad Sexual
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
