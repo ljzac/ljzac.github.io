@@ -4,7 +4,7 @@ title: Celebra 15 años de divertir y enseñar a los niños el programa Chinchil
 twitt: "■ Los menores tienen ya muchas opciones para entretenerse: Alvarado"
 author: MARTIN CATALAN LERMA
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
