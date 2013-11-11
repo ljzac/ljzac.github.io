@@ -4,11 +4,11 @@ title: "Prepara PC municipal su albergue ante la llegada de época invernal: Her
 twitt: ■ Personas indigentes y quienes van de paso encuentran alimento y atención médica
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/ysWAwztm.jpg)
+![](http://i.imgur.com/fkf9DcCm.png)
 ■ Imparten capacitación en varias comunidades y colonias para evitar enfermedades
 
 Habilita la Dirección Municipal de Protección Civil el albergue en sus instalaciones para la temporada invernal, el cual atiende a personas indigentes y a quienes van de paso por la ciudad, siendo el único municipio en prestar este tipo de servicio.
