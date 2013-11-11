@@ -6,4 +6,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-![](http://i.imgur.com/XfxxhHnm.jpg)
+![Dia de Muertos en el panteón](http://i.imgur.com/XfxxhHnm.jpg)
