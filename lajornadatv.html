@@ -68,7 +68,7 @@ function showMyVideos2(data) {
     //var reproduc = entry.yt$statistics.viewCount;
 	var reproduc='No diponible'; 
 	
-	if(!!entry.yt$statistics.viewCount){
+	if(entry.yt$statistics.viewCount != 'undefined'){
 		//var reproduc = entry.yt$statistics.viewCount;
 		console.log('Existe');
 	}else{
