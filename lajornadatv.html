@@ -104,32 +104,29 @@ function showMyVideos3(data) {
 function showMyVideos4(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
-  	console.log("SYNERGIA");
-  console.log("Data:");
-  console.log(data);
- 
-  console.log("Feed:");
-  console.log(feed);
-   
-  console.log("Entries:");
-  console.log(entries);
-  
+  	
   
   var html = ['<span class="videos">'];
   for (var i = 0; i < entries.length; i++) {
 	  
     var entry = entries[i];
-
-	console.log("Entry:");
-	console.log(entry);
     var title = entry.title.$t;
     var thumbnailUrl = entries[i].media$group.media$thumbnail[0].url;
     var playerUrl = entries[i].media$group.media$content[0].url;
     var author = entry.author[0].name.$t;
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
-    var reproduc = entry.yt$statistics.viewCount;
-      html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+    
+
+	if(!!entry.yt$statistics.viewCount){
+		var reproduc = entry.yt$statistics.viewCount;
+		console.log('Existe');
+	}else{
+		console.log('No Existe');
+		var reproduc = 'No Disponible';
+		} 
+		 
+	  html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
@@ -169,15 +166,7 @@ function showMyVideos6(data) {
   var entries = feed.entry || [];
   var html = ['<span class="videos">'];
   
-  console.log("Editorial");
-  console.log("Data:");
-  console.log(data);
-  
-  console.log("Feed:");
-  console.log(feed);
-  
-  console.log("Entries:");
-  console.log(entries);
+
   
   for (var i = 0; i < entries.length; i++) {
     var entry = entries[i];
@@ -187,7 +176,9 @@ function showMyVideos6(data) {
     var author = entry.author[0].name.$t;
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
-    var reproduc = entry.yt$statistics.viewCount;
+    
+	var reproduc = entry.yt$statistics.viewCount;
+	
       html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
