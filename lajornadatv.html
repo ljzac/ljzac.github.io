@@ -66,15 +66,29 @@ function showMyVideos2(data) {
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
     //var reproduc = entry.yt$statistics.viewCount;
-	var reproduc='No diponible';    
+	var reproduc='No diponible'; 
+	
+	if(!!entry.yt$statistics.viewCount){
+		//var reproduc = entry.yt$statistics.viewCount;
+		console.log('Existe');
+	}else{
+		console.log('No Existe');
+		//var reproduc = 'No Disponible';
+		} 
+		
+		   
 		html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
 	              '<span><h5>', title, '</h5></span><img src="', 
 	              thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
   html.push('</span><br style="clear: left;"/>');
-  document.getElementById('videos2').innerHTML = html.join('');
+  
+  var div_for_videos= document.getElementById('videos2');
+	  div_for_videos.innerHTML = html.join('');
+	  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
+	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
 } //function showMyVideos2 end
 
@@ -183,8 +197,6 @@ function showMyVideos6(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
   var html = ['<span class="videos">'];
-  
-
   
   for (var i = 0; i < entries.length; i++) {
     var entry = entries[i];
