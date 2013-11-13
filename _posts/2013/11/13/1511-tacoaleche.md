@@ -1,7 +1,8 @@
 ---
 published: true
 title: "Asevera Francisco Collazo que votaciones a su favor, como delegado de Tacoaleche, fueron legítimas"
-author: "Dice estar trabajando desde el 1 de noviembre, así como desconocer anomalías a que se refiere el grupo de inconformes"
+twitt: "Dice estar trabajando desde el 1 de noviembre, así como desconocer anomalías a que se refiere el grupo de inconformes"
+author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
 layout: posts
