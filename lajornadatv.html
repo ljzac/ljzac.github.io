@@ -112,7 +112,7 @@ function showMyVideos4(data) {
 	
     var entry = entries[i];
 	console.log(entry);
-    var title = entry.title.$t;
+   /* var title = entry.title.$t;
     var thumbnailUrl = entry.media$group.media$thumbnail[0].url;
     var playerUrl = entry.media$group.media$content[0].url;
     var author = entry.author[0].name.$t;
@@ -126,7 +126,7 @@ function showMyVideos4(data) {
 		console.log('No Existe');
 		var reproduc = 'No Disponible';
 		} 
-		 
+		*/ 
 	/*  html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');*/
@@ -208,6 +208,7 @@ function showMyVideos6(data) {
     type="text/javascript" 
     src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?q=Synergia&alt=json-in-script&callback=showMyVideos4&max-results=10">
 </script>
+<!-->
 <script 
     type="text/javascript" 
     src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?q=Especial&alt=json-in-script&callback=showMyVideos3&max-results=10">
@@ -216,6 +217,6 @@ function showMyVideos6(data) {
     type="text/javascript" 
     src="http://gdata.youtube.com/feeds/users/LaJornadaZacatecas/uploads?q=Boletín&alt=json-in-script&callback=showMyVideos2&max-results=10">
 </script>
-
+-->
 
 </article>
