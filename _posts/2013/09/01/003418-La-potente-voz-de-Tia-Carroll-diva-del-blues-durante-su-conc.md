@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "La potente voz de Tia Carroll, diva del blues, durante su concierto en el Festival Internacional de Jazz y Blues Zacatecas"
 twitt: "La potente voz de Tia Carroll, diva del blues, durante su concierto en el Festival Internacional de Jazz y Blues Zacatecas"
 author: "Alejandro Ortega Neri"

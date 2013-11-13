@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Integrante del colectivo Oniria, de Guadalajara, uno de los grupos participantes en el 12 Festival Internacional de Teatro de Calle"
 author: ERNESTO MORENO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Imagen captada a propósito del ‘Día Internacional contra la Homofobia y la Transfobia’"
 twitt: "Imagen captada a propósito del ‘Día Internacional contra la Homofobia y la Transfobia’"
 author: "MIGUEL ÁNGEL NÚÑEZ"

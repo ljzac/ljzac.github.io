@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: Aspecto de la saturación de propaganda política
 twitt: Aspecto de la saturación de propaganda política
 author: ALEJANDRO ORTEGA NERI

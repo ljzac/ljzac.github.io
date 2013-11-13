@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Diva del blues, Tia Carroll, cantó para los zacatecanos en la sexta edición del Festival Internacional de Jazz y Blues Zacatecas"
 twitt: "Diva del blues, Tia Carroll, cantó para los zacatecanos en la sexta edición del Festival Internacional de Jazz y Blues Zacatecas"
 author: "Alejandro Ortega Neri"

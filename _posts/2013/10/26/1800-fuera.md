@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Transeúnte
 author: ANDRÉS SÁNCHEZ
 location: Local

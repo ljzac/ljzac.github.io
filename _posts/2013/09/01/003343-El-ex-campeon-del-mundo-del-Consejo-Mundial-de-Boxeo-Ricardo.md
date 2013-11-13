@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "El ex campeón del mundo del Consejo Mundial de Boxeo, Ricardo 'El Finito' López, funge como conferencista dentro de la tercera Expo Negocios Zacatecas"
 twitt: "El ex campeón del mundo del Consejo Mundial de Boxeo, Ricardo 'El Finito' López, funge como conferencista dentro de la tercera Expo Negocios Zacatecas"
 author: "Alejandro Ortega Neri"

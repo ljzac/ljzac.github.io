@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Hogar que da una muestra de la pobreza en varias zonas de la capital zacatecana"
 twitt: "Hogar que da una muestra de la pobreza en varias zonas de la capital zacatecana"
 author: "MIGUEL ÁNGEL NÚÑEZ"

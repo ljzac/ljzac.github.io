@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Diego Enrique Osorno, periodista y cineasta, estuvo en esta capital, invitado por 'La Jornada Zacatecas' y Trenza Films, para presentar su documental 'El Alcalde', en la Cineteca estatal"
 twitt: "Diego Enrique Osorno, periodista y cineasta, estuvo en esta capital, invitado por 'La Jornada Zacatecas' y Trenza Films, para presentar su documental 'El Alcalde', en la Cineteca estatal"
 author: "Alejandro Ortega Neri"

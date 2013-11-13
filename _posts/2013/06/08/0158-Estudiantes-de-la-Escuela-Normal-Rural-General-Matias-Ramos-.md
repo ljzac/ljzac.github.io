@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Estudiantes de la Escuela Normal Rural General Matías Ramos Santos, de San Marcos, Loreto, son retirados por fuerzas estatales de un bloqueo afuera de la Seduzac"
 twitt: "Estudiantes de la Escuela Normal Rural General Matías Ramos Santos, de San Marcos, Loreto, son retirados por fuerzas estatales de un bloqueo afuera de la Seduzac"
 author: "ANDRÉS SÁNCHEZ"

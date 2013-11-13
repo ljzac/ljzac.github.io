@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Dalai Lama, en su visita a Zacatecas"
 author: ERNESTO MORENO
 location: Local

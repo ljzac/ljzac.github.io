@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: "false"
 title: "El ex candidato presidencial Andrés Manuel López Obrador en su última visita a Zacatecas, donde tomó protesta a los Comités Municipales de Morena"
 twitt: "El ex candidato presidencial Andrés Manuel López Obrador en su última visita a Zacatecas, donde tomó protesta a los Comités Municipales de Morena"
 author: "ALEJANDRO ORTEGA NERI"

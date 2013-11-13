@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Una pequeña capilla situada a los pies del cerro de La Virgen"
 twitt: "Una pequeña capilla situada a los pies del cerro de La Virgen"
 author: "Andrés Sánchez"

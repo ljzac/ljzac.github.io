@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Cartel de candidato del actual proceso electoral con agregado de la opinión pública"
 twitt: "Cartel de candidato del actual proceso electoral con agregado de la opinión pública"
 author: "ANDRÉS SÁNCHEZ"

@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Aspecto de la mina unidad El Coronel, del grupo Frisco, propiedad de Carlos Slim, donde desde hace varios días hay paro de labores por parte de los mineros"
 twitt: "Aspecto de la mina unidad El Coronel, del grupo Frisco, propiedad de Carlos Slim, donde desde hace varios días hay paro de labores por parte de los mineros"
 author: "ALEJANDRO ORTEGA NERI"

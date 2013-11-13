@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Integrantes del Sindicato de Trabajadores de la Universidad Autónoma de Zacatecas exigieron, mediante una marcha, se audite a la UAZ y se informe acerca de su situación financiera"
 twitt: "Integrantes del Sindicato de Trabajadores de la Universidad Autónoma de Zacatecas exigieron, mediante una marcha, se audite a la UAZ y se informe acerca de su situación financiera"
 author: "Alejandro Ortega Neri"

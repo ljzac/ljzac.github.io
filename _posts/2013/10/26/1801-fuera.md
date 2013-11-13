@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mano trabajadora
 author: ANDRÉS SÁNCHEZ
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Lluvia cancela apertura del 12 Festival Internacional de Teatro de Calle
 author: ERNESTO MORENO
 location: Local

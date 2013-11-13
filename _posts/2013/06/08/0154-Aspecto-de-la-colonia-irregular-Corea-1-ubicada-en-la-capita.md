@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Aspecto de la colonia irregular Corea 1, ubicada en la capital del estado"
 twitt: "Aspecto de la colonia irregular Corea 1, ubicada en la capital del estado"
 author: "MIGUEL ÁNGEL NÚÑEZ"

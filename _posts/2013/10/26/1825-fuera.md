@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Campaña de concienciación en torno al cáncer de mama, así como de enseñanza para su detección"
 author: ERNESTO MORENO
 location: Local

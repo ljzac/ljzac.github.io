@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Asistentes a la asamblea del Movimiento de Regeneración Nacional (Morena) en esta capital
 author: ERNESTO MORENO
 location: Local

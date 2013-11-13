@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Peregrinación al templo de La Santa Cruz"
 twitt: "Peregrinación al templo de La Santa Cruz"
 author: "Rafael de Santiago"

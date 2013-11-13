@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Un hombre camina sobre la explanada de la Plaza de Armas de la capital del estado"
 twitt: "Un hombre camina sobre la explanada de la Plaza de Armas de la capital del estado"
 author: "Andrés Sánchez"

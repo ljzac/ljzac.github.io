@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Domingo de misa en el municipio Guadalupe"
 twitt: "Domingo de misa en el municipio Guadalupe"
 author: "Rafael de Santiago"

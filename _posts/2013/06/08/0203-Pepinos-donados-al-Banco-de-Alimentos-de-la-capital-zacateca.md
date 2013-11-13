@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Pepinos donados al Banco de Alimentos de la capital zacatecana"
 twitt: "Pepinos donados al Banco de Alimentos de la capital zacatecana"
 author: "MIGUEL ÁNGEL NÚÑEZ"

@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "AMLO, durante su discurso en la toma de protesta a los Comités Municipales de Morena, en Zacatecas"
 twitt: "AMLO, durante su discurso en la toma de protesta a los Comités Municipales de Morena, en Zacatecas"
 author: "MIGUEL ÁNGEL NÚÑEZ"

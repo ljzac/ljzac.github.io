@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Niños de la comunidad La Tesorera, en Pánfilo Natera, en el interior de un tractocamión, desde donde escuchan una ceremonia religiosa"
 twitt: "Niños de la comunidad La Tesorera, en Pánfilo Natera, en el interior de un tractocamión, desde donde escuchan una ceremonia religiosa"
 author: "MIGUEL ÁNGEL NÚÑEZ"

@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Ropa y tenis se secan dentro una de las viviendas afectadas por la tromba ocurrida a mediados de mayo pasado en La Tesorera, localidad de Pánfilo Natera"
 twitt: "Ropa y tenis se secan dentro una de las viviendas afectadas por la tromba ocurrida a mediados de mayo pasado en La Tesorera, localidad de Pánfilo Natera"
 author: "MIGUEL ÁNGEL NÚÑEZ"

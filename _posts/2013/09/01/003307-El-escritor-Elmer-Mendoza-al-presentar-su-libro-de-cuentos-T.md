@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "El escritor Élmer Mendoza, al presentar su libro de cuentos 'Trancapalanca', como parte de la 13 Feria Nacional del Libro Zacatecas"
 twitt: "El escritor Élmer Mendoza, al presentar su libro de cuentos 'Trancapalanca', como parte de la 13 Feria Nacional del Libro Zacatecas"
 author: "Alejandro Ortega Neri"

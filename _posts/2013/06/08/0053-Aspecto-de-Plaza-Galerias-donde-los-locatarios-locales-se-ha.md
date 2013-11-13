@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Aspecto de Plaza Galerías, donde los locatarios locales se han quejado por los elevados cobros en renta, en comparación con los propietarios foráneos"
 twitt: "Aspecto de Plaza Galerías, donde los locatarios locales se han quejado por los elevados cobros en renta, en comparación con los propietarios foráneos"
 author: "ALEJANDRO ORTEGA NERI"

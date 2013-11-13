@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Exposición fotográfica sobre el 'Día Mundial del Medio Ambiente', en el vestíbulo del teatro Fernando Calderón"
 twitt: "Exposición fotográfica sobre el 'Día Mundial del Medio Ambiente', en el vestíbulo del teatro Fernando Calderón"
 author: "ANDRÉS SÁNCHEZ"

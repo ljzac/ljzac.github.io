@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Mineros de unidad El Coronel, del grupo Frisco, mantienen paro de labores desde hace varios días"
 twitt: "Mineros de unidad El Coronel, del grupo Frisco, mantienen paro de labores desde hace varios días"
 author: "ALEJANDRO ORTEGA NERI"

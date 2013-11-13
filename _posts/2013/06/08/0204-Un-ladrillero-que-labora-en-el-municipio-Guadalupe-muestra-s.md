@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Un ladrillero que labora en el municipio Guadalupe muestra sus manos, sus principales herramientas de trabajo"
 twitt: "Un ladrillero que labora en el municipio Guadalupe muestra sus manos, sus principales herramientas de trabajo"
 author: "MIGUEL ÁNGEL NÚÑEZ"

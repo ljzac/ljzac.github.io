@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Ante el frío, sentarse bajo el sol"
 author: ERNESTO MORENO
 location: Local

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Pidiendo el 'muerto'
-twitt: "Pidiendo el 'muerto'"
+twitt: "Fuera de Foco - Pidiendo el 'muerto'"
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco

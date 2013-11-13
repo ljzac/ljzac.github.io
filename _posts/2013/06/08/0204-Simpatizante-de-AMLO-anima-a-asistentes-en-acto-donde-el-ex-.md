@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Simpatizante de AMLO anima a asistentes en acto donde el ex candidato a presidente de México tomó protesta a los Comités Municipales de Morena"
 twitt: "Simpatizante de AMLO anima a asistentes en acto donde el ex candidato a presidente de México tomó protesta a los Comités Municipales de Morena"
 author: "MIGUEL ÁNGEL NÚÑEZ"

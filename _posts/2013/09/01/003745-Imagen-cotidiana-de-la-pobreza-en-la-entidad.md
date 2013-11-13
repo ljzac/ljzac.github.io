@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Imagen cotidiana de la pobreza en la entidad"
 twitt: "Imagen cotidiana de la pobreza en la entidad"
 author: "Andrés Sánchez"

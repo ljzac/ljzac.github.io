@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Aspecto de manifestación en Plaza de Armas para pedir justicia por el asesinato de ‘Freda’"
 twitt: "Aspecto de manifestación en Plaza de Armas para pedir justicia por el asesinato de ‘Freda’"
 author: "ALEJANDRO ORTEGA NERI"

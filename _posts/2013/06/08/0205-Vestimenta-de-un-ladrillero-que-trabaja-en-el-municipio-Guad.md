@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Vestimenta de un ladrillero que trabaja en el municipio Guadalupe"
 twitt: "Vestimenta de un ladrillero que trabaja en el municipio Guadalupe"
 author: "MIGUEL ÁNGEL NÚÑEZ"

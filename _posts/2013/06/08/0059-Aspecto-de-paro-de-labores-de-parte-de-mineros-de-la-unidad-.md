@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "Aspecto de paro de labores de parte de mineros de la unidad El Coronel, quienes fueron agredidos por integrantes de la CROC y otro sindicato minero"
 twitt: "Aspecto de paro de labores de parte de mineros de la unidad El Coronel, quienes fueron agredidos por integrantes de la CROC y otro sindicato minero"
 author: "ALEJANDRO ORTEGA NERI"

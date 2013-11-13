@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "AMLO escucha el discurso ofrecido durante el acto donde tomó protesta a los Comités Municipales de Morena, en Zacatecas"
 twitt: "AMLO escucha el discurso ofrecido durante el acto donde tomó protesta a los Comités Municipales de Morena, en Zacatecas"
 author: "MIGUEL ÁNGEL NÚÑEZ"

@@ -1,5 +1,5 @@
 ---
-published: "true"
+published: false
 title: "El escritor sinaloense Élmer Mendoza, en la presentación de su libro de cuentos 'Trancapalanca', dentro de la 13 Feria Nacional del Libro Zacatecas"
 twitt: "El escritor sinaloense Élmer Mendoza, en la presentación de su libro de cuentos 'Trancapalanca', dentro de la 13 Feria Nacional del Libro Zacatecas"
 author: "Alejandro Ortega Neri"
