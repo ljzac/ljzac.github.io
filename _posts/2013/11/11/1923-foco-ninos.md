@@ -2,7 +2,7 @@
 published: true
 title: Nuestros Niños
 twitt: "Fuera de Foco - Nuestros Niños"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

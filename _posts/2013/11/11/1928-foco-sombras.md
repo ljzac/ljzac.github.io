@@ -2,7 +2,7 @@
 published: true
 title: Sombras
 twitt: "Fuera de Foco - Sombras"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: La relación viveros-agricultores
 twitt: "Fuera de Foco - La relación viveros-agricultores"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

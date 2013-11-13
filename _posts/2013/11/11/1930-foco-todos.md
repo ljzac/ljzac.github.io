@@ -1,8 +1,8 @@
 ---
 published: true
-title: Teleférico
-twitt: "Fuera de Foco - Teleférico"
-author: ERNESTO MORENO
+title: Pidiendo el 'muerto'
+twitt: "Pidiendo el 'muerto'"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts
@@ -10,7 +10,7 @@ layout: posts
 
 
 
-![Teleférico](http://i.imgur.com/ERTgSTpm.jpg)
+![Teleférico](http://i.imgur.com/THlP94Sm.jpg)
 
 
 

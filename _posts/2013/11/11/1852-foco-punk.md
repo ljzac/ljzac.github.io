@@ -2,7 +2,7 @@
 published: true
 title: El punk no ha muerto
 twitt: "Fuera de Foco - El punk no ha muerto"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

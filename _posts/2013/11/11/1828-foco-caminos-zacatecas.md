@@ -2,7 +2,7 @@
 published: true
 title: Caminos de Zacatecas
 twitt: "Fuera de Foco - Caminos de Zacatecas"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

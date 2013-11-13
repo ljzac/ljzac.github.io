@@ -2,7 +2,7 @@
 published: true
 title: El Panteón
 twitt: "Fuera de Foco - El Panteón"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

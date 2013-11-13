@@ -2,7 +2,7 @@
 published: true
 title: Todos queremos tocar el cielo
 twitt: "Todos queremos tocar el cielo"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

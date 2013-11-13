@@ -2,7 +2,7 @@
 published: true
 title: Colosos
 twitt: "Fuera de Foco - Colosos"
-author: ERNESTO MORENO
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts

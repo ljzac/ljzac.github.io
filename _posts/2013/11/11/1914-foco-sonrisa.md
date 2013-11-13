@@ -2,7 +2,7 @@
 published: true
 title: La sonrisa de un niño
 twitt: "Fuera de Foco - La sonrisa de un niño"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

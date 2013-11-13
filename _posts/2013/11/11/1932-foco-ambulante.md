@@ -2,7 +2,7 @@
 published: true
 title: Viveros
 twitt: "Fuera de Foco - Viveros"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

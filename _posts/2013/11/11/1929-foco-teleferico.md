@@ -2,7 +2,7 @@
 published: true
 title: Teleférico
 twitt: "Fuera de Foco - Teleférico"
-author: ERNESTO MORENO
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts

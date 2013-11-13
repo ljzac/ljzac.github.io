@@ -2,7 +2,7 @@
 published: true
 title: Matando el tiempo
 twitt: "Fuera de Foco - Matando el tiempo"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

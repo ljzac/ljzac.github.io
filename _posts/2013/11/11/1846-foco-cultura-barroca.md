@@ -2,7 +2,7 @@
 published: true
 title: Cultura Barroca
 twitt: "Fuera de Foco - Cultura Barroca"
-author: ERNESTO MORENO
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts

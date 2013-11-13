@@ -2,7 +2,7 @@
 published: true
 title: La venta ambulante
 twitt: "Fuera de Foco - La venta ambulante"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

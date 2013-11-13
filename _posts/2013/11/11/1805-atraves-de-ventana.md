@@ -2,7 +2,7 @@
 published: true
 title: A través de la ventana
 twitt: "A través de la ventana"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

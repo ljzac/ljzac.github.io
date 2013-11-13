@@ -2,7 +2,7 @@
 published: true
 title: Perfiles
 twitt: "Fuera de Foco - Perfiles"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

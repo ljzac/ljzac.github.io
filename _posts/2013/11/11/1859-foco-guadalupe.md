@@ -2,7 +2,7 @@
 published: true
 title: Guadalupe 1878
 twitt: "Fuera de Foco - Guadalupe 1878"
-author: ERNESTO MORENO
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts

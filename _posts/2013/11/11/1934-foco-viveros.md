@@ -2,7 +2,7 @@
 published: true
 title: Una vendedora ambulante, acompañada de sus dos pequeños
 twitt: "Fuera de Foco - Una vendedora ambulante, acompañada de sus dos pequeños"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

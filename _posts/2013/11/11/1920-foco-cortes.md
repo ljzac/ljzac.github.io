@@ -2,7 +2,7 @@
 published: true
 title: Los Cortes
 twitt: "Fuera de Foco - Los Cortes"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: Cotidiano
 twitt: "Fuera de Foco - Cotidiano"
-author: ERNESTO MORENO
+author: ODÍN SALINAS
 location: Local
 category: Fuera de Foco
 layout: posts

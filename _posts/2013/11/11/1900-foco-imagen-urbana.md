@@ -2,7 +2,7 @@
 published: true
 title: Imágen Urbana
 twitt: "Fuera de Foco - Imágen Urbana"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

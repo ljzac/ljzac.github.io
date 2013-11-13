@@ -2,7 +2,7 @@
 published: true
 title: Solitario
 twitt: "Fuera de Foco - Solitario"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts

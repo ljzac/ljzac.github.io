@@ -2,7 +2,7 @@
 published: true
 title: Las características del punk
 twitt: "Fuera de Foco - Las características del punk"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

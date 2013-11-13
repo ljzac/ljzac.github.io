@@ -2,7 +2,7 @@
 published: true
 title: Juego de círculos
 twitt: "Fuera de Foco - Juego de círculos"
-author: ERNESTO MORENO
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
 layout: posts

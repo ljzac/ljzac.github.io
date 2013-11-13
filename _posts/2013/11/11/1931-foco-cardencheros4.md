@@ -2,7 +2,7 @@
 published: true
 title: Tres cardencheros posan en la escalinata principal del Museo Zacatecano
 twitt: "Fuera de Foco - Tres cardencheros posan en la escalinata principal del Museo Zacatecano"
-author: ERNESTO MORENO
+author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts
