@@ -90,3 +90,7 @@
 	background: #FFFFFF; /* old browsers */
 	margin:0;
 }
+
+#tabscontent img{
+	cursor:pointer;
+}
