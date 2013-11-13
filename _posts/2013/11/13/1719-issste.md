@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "20% de la población que se atiende en el Issste en Guadalupe tiene diabetes: Gabriela Vela Ledezma"
 author: REDACCION
 location: Local
