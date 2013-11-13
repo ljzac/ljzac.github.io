@@ -104,11 +104,23 @@ function showMyVideos3(data) {
 function showMyVideos4(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
+  	console.log("SYNERGIA");
+  console.log("Data:");
   console.log(data);
+ 
+  console.log("Feed:");
+  console.log(feed);
+   
+  console.log("Entries:");
+  console.log(entries);
+  
+  
   var html = ['<span class="videos">'];
   for (var i = 0; i < entries.length; i++) {
 	  
     var entry = entries[i];
+
+	console.log("Entry:");
 	console.log(entry);
     var title = entry.title.$t;
     var thumbnailUrl = entries[i].media$group.media$thumbnail[0].url;
@@ -156,6 +168,17 @@ function showMyVideos6(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
   var html = ['<span class="videos">'];
+  
+  console.log("Editorial");
+  console.log("Data:");
+  console.log(data);
+  
+  console.log("Feed:");
+  console.log(feed);
+  
+  console.log("Entries:");
+  console.log(entries);
+  
   for (var i = 0; i < entries.length; i++) {
     var entry = entries[i];
     var title = entry.title.$t;
