@@ -104,9 +104,12 @@ function showMyVideos3(data) {
 function showMyVideos4(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
+  console.log(data);
   var html = ['<span class="videos">'];
   for (var i = 0; i < entries.length; i++) {
+	  
     var entry = entries[i];
+	console.log(entry);
     var title = entry.title.$t;
     var thumbnailUrl = entries[i].media$group.media$thumbnail[0].url;
     var playerUrl = entries[i].media$group.media$content[0].url;
