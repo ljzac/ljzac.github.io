@@ -107,17 +107,19 @@ function showMyVideos4(data) {
   	console.log('Función 4 entries:');
 	console.log(entries.length);
   var html = ['<span class="videos">'];
+    console.log('for');
   for (var i = 0; i < entries.length; i++) {
-	  console.log('for');
+	
     var entry = entries[i];
 	console.log(entry);
     var title = entry.title.$t;
-    var thumbnailUrl = entries[i].media$group.media$thumbnail[0].url;
-    var playerUrl = entries[i].media$group.media$content[0].url;
+    var thumbnailUrl = entry.media$group.media$thumbnail[0].url;
+    var playerUrl = entry.media$group.media$content[0].url;
     var author = entry.author[0].name.$t;
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
-    if(!!entry.yt$statistics.viewCount){
+    
+	if(!!entry.yt$statistics.viewCount){
 		var reproduc = entry.yt$statistics.viewCount;
 		console.log('Existe');
 	}else{
@@ -125,15 +127,20 @@ function showMyVideos4(data) {
 		var reproduc = 'No Disponible';
 		} 
 		 
-	  html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+	/*  html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
-                thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
+                thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');*/
+  
   } //for end
+  
+  /*
   html.push('</span><br style="clear: left;"/>');
   document.getElementById('videos4').innerHTML = html.join('');
+  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
   } // if end
+  */
 } //function showMyVideos4 end
 
 function showMyVideos5(data) {
