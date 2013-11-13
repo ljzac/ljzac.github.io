@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Prevén temperaturas mínimas de -5 °C a 0°C con potencial de heladas"
+title: "Anuncia SMN temperaturas mínimas de -5 a 0 grados Celsius para Zacatecas"
 author: REDACCION
 location: Local
 category: Destacadas
