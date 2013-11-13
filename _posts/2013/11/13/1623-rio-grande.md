@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Participará Imjuve de Río Grande reunión anual 'Municipio Joven 2013”'"
+title: "Participará Imjuve de Río Grande reunión anual 'Municipio Joven 2013'"
 author: REDACCION
 location: Local
 category: Destacadas
