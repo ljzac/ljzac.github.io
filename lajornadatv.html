@@ -47,6 +47,9 @@ layout: default
 <script type="text/javascript" src="http://swfobject.googlecode.com/svn/trunk/swfobject/swfobject.js"></script>
 <script type="text/javascript">
 function loadVideo(playerUrl, autoplay) {
+	console.log("Me iré a un marcador");
+	location.hash = 'playerContainer';
+	
       swfobject.embedSWF(
       playerUrl + '&rel=1&border=0&fs=1&autoplay=' + 
       (autoplay?1:0), 'player', '670', '350', '9.0.0', false, 
