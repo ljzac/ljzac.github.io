@@ -8,14 +8,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![Nuestros Niños](http://i.imgur.com/IBSupYLm.jpg)
-
-
-
-
-
-
-
-
+![Nuestros niños](http://i.imgur.com/IBSupYLm.jpg)
