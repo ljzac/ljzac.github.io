@@ -113,10 +113,16 @@ function showMyVideos3(data) {
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
   html.push('</span><br style="clear: left;"/>');
-  document.getElementById('videos3').innerHTML = html.join('');
+  
+  var div_for_videos= document.getElementById('videos3');
+	  div_for_videos.innerHTML = html.join('');
+	  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
+	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
+  
+
 } //function showMyVideos3 end
 
 function showMyVideos4(data) {
@@ -150,11 +156,15 @@ function showMyVideos4(data) {
   
   
   html.push('</span><br style="clear: left;"/>');
-  document.getElementById('videos4').innerHTML = html.join('');
   
+  var div_for_videos= document.getElementById('videos4');
+	  div_for_videos.innerHTML = html.join('');
+	  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
+	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
+  
   
 } //function showMyVideos4 end
 
@@ -176,11 +186,17 @@ function showMyVideos5(data) {
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
   html.push('</span><br style="clear: left;"/>');
-  document.getElementById('videos5').innerHTML = html.join('');
+  
+  var div_for_videos= document.getElementById('videos5');
+	  div_for_videos.innerHTML = html.join('');
+	  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
+	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
-} //function showMyVideos5 end
+ 
+ 
+ } //function showMyVideos5 end
 
 function showMyVideos6(data) {
   var feed = data.feed;
@@ -203,10 +219,16 @@ function showMyVideos6(data) {
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
   html.push('</span><br style="clear: left;"/>');
-  document.getElementById('videos6').innerHTML = html.join('');
+
+  var div_for_videos= document.getElementById('videos6');
+	  div_for_videos.innerHTML = html.join('');
+	  
   if (entries.length > 0) {
     loadVideo(entries[0].media$group.media$content[0].url, false);
+	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
+ 
+
 } //function showMyVideos6 end
 </script>
 <script 

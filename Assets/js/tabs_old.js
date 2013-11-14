@@ -30,13 +30,17 @@ window.onload=function() {
 // on click of one of tabs
 function displayPage() {
   var current = this.parentNode.getAttribute("data-current");
+  var current_tab_element = document.getElementById("tabpage_" + current);
   //remove class of activetabheader and hide old contents
   document.getElementById("tabHeader_" + current).removeAttribute("class");
-  document.getElementById("tabpage_" + current).style.display="none";
-
+  current_tab_element.style.display="none";
+  
   var ident = this.id.split("_")[1];
+  var selected_tab = document.getElementById("tabpage_" + ident);
   //add class of activetabheader to new active tab and show contents
   this.setAttribute("class","tabActiveHeader");
-  document.getElementById("tabpage_" + ident).style.display="block";
+	 selected_tab.style.display="block";
+	 console.log(selected_tab.getAttribute('featured_video'));
+	 
   this.parentNode.setAttribute("data-current",ident);
 }
