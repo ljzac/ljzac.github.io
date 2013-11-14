@@ -78,7 +78,7 @@ function showMyVideos2(data) {
 		//var reproduc = 'No Disponible';
 		} */
 		   
-		html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+		html.push('<span onclick="location.hash = \'.\'; location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
 	              '<span><h5>', title, '</h5></span><img src="', 
 	              thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
@@ -109,7 +109,7 @@ function showMyVideos3(data) {
 	//var reproduc = entry.yt$statistics.viewCount;
 	var reproduc='No diponible';
     
-	  html.push('<span onclick=" location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+	  html.push('<span onclick=" location.hash = \'.\'; location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
@@ -149,7 +149,7 @@ function showMyVideos4(data) {
 		//var reproduc = 'No Disponible';
 		} 
 		*/
-	  html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+	  html.push('<span onclick="location.hash = \'.\'; location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   
@@ -182,7 +182,7 @@ function showMyVideos5(data) {
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
     var reproduc = entry.yt$statistics.viewCount;
-      html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+      html.push('<span onclick="location.hash = \'.\'; location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
@@ -215,7 +215,7 @@ function showMyVideos6(data) {
     
 	var reproduc = entry.yt$statistics.viewCount;
 	
-      html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
+      html.push('<span onclick="location.hash = \'.\'; location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
                 '<span><h5>', title, '</h5></span><img src="', 
                 thumbnailUrl, '" width="180" height="110"/><br><p>Titulo: ',title,'<br>Autor: ',author,'<br>Subido: ',uploaded,'<br>Duración: ',duration,'<br>Reproducciones: ',reproduc,'</p></ span></span><br /><br />');
   } //for end
