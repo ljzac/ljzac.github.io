@@ -1,7 +1,7 @@
 ---
 published: true
-title: "El gobernador Miguel Alonso, durante la inauguración de un vivero de alta productividad, instalado en la Unidad Académica de Agronomía de la UAZ"
-twitt: "Fuera de Foco - El gobernador Miguel Alonso, durante la inauguración de un vivero de alta productividad"
+title: "El gobernador Miguel Alonso, durante la inauguración de un vivero de alta productividad, instalado en la Unidad Académica de Agronomía de la UAZ"
+twitt: "Fuera de Foco - El gobernador Miguel Alonso, durante la inauguración de un vivero de alta productividad, instalado en la Unidad Académica de Agronomía de la UAZ"
 author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
