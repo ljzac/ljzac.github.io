@@ -8,14 +8,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![El Panteón](http://i.imgur.com/EGJnqo2m.jpg)
-
-
-
-
-
-
-
-
+![El panteón](http://i.imgur.com/EGJnqo2m.jpg)
