@@ -1,7 +1,7 @@
 ---
 published: true
-title: Choque de Culturas
-twitt: "Fuera de Foco - Choque de Culturas"
+title: Choque de culturas
+twitt: "Fuera de Foco - Choque de culturas"
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
