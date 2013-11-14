@@ -8,12 +8,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![Cultura Barroca](http://i.imgur.com/um6vKV5m.jpg)
-
-
-
-
-
-
+![Cultura barroca](http://i.imgur.com/um6vKV5m.jpg)
