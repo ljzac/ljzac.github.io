@@ -4,7 +4,7 @@ title: "Diabetes está cerca de convertirse en un problema de seguridad nacional
 twitt: "Sus implicaciones en la vidad de las personas y en el sistema de salud así lo advierten, consideró Alberto Lifshitz, académico de la UNAM."
 author: La Jornada
 location: Nacional
-category: Ciencia y Tecnología
+category: Principales
 layout: posts
 ---
 
