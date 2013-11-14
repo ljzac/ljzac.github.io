@@ -13,7 +13,7 @@ UNO: Pereza “corta” presupuesto a cultura en el país
 DOS: Gobierno de Cañitas, sin acta de entrega-recepción
 TRES: ¿Disturbios en Tacoaleche?
 
-**UNO: “Bueno es fregar con jabón, pero no con estropajo”**
+**UNO: “Bueno es fregar con jabón, pero no con estropajo” **
 Nuevamente desde San Lázaro apuñalan a la cultura.
 
 Ahora resulta que para 2014 se reduce el presupuesto para cultura en una cuarta parte.
