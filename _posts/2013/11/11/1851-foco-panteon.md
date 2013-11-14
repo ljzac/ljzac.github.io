@@ -1,7 +1,7 @@
 ---
 published: true
-title: El Panteón
-twitt: "Fuera de Foco - El Panteón"
+title: El panteón
+twitt: "Fuera de Foco - El panteón"
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Fuera de Foco
