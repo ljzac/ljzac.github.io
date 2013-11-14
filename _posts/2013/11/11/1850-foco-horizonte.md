@@ -8,12 +8,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![El Horizonte](http://i.imgur.com/sG2HD1dm.jpg)
-
-
-
-
-
-
+![El horizonte](http://i.imgur.com/sG2HD1dm.jpg)
