@@ -2,6 +2,7 @@
 published: true
 title: Conforman diputados de distintas fracciones grupo para impulsar una agenda común
 twitt: Aseguran que no es una manera de blindar al Congreso
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
 layout: posts
