@@ -8,9 +8,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![Choque de Culturas](http://i.imgur.com/yEh5QRJm.jpg)
-
-
-
+![Choque de culturas](http://i.imgur.com/yEh5QRJm.jpg)
