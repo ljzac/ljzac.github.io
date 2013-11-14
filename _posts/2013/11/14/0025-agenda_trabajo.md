@@ -3,7 +3,7 @@ published: true
 title: Carlos Peña  presenta Agenda  de Trabajo 2013
 author: "RAFAEL DE SANTIAGO "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
