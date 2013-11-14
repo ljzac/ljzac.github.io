@@ -68,13 +68,14 @@ function showMyVideos2(data) {
     //var reproduc = entry.yt$statistics.viewCount;
 	var reproduc='No diponible'; 
 	
-	if(entry.yt$statistics.viewCount != 'undefined'){
+	console.log(entry);
+	/*if(entry.yt$statistics.viewCount != 'undefined'){
 		//var reproduc = entry.yt$statistics.viewCount;
 		console.log('Existe');
 	}else{
 		console.log('No Existe');
 		//var reproduc = 'No Disponible';
-		} 
+		} */
 		   
 		html.push('<span onclick="location.hash = \'wrapper\'; loadVideo(\'', playerUrl, '\', true)">',
 	              '<span><h5>', title, '</h5></span><img src="', 
@@ -121,27 +122,16 @@ function showMyVideos3(data) {
 function showMyVideos4(data) {
   var feed = data.feed;
   var entries = feed.entry || [];
-  	console.log('Función 4 entries:');
-	console.log(entries.length);
   var html = ['<span class="videos">'];
-    console.log('for');
   for (var i = 0; i < entries.length; i++) {
 	
     var entry = entries[i];
-	console.log(entry);
     var title = entry.title.$t;
     var thumbnailUrl = entry.media$group.media$thumbnail[0].url;
     var playerUrl = entry.media$group.media$content[0].url;
     var author = entry.author[0].name.$t;
     var uploaded = new Date(entry.published.$t.substr(0,4), entry.published.$t.substr(5,2) - 1, entry.published.$t.substr(8,2)).toLocaleDateString( );
     var duration = Math.floor(entries[i].media$group.yt$duration.seconds/60) +':'+ (entries[i].media$group.yt$duration.seconds % 60);
-    
-	console.log(title);
-	console.log(thumbnailUrl);
-	console.log(playerUrl);
-	console.log(author);
-	console.log(uploaded);
-	console.log(duration);
 	var reproduc = 'No Disponible';
 	
 	/*if(!!entry.yt$statistics.viewCount){
