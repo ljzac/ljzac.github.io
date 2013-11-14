@@ -40,7 +40,9 @@ function displayPage() {
   //add class of activetabheader to new active tab and show contents
   this.setAttribute("class","tabActiveHeader");
 	 selected_tab.style.display="block";
-	 console.log(selected_tab.getAttribute('featured_video'));
-	 
+
+	 if(selected_tab.getAttribute('featured_video'))
+	     loadVideo(selected_tab.getAttribute('featured_video'), false);
+
   this.parentNode.setAttribute("data-current",ident);
 }

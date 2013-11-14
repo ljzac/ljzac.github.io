@@ -55,6 +55,7 @@ function loadVideo(playerUrl, autoplay) {
 
 function showMyVideos2(data) {
   var feed = data.feed;
+  	console.log(data);
   var entries = feed.entry || [];
   var html = ['<span class="videos">'];
   for (var i = 0; i < entries.length; i++) {
@@ -68,7 +69,7 @@ function showMyVideos2(data) {
     //var reproduc = entry.yt$statistics.viewCount;
 	var reproduc='No diponible'; 
 	
-	console.log(entry);
+
 	/*if(entry.yt$statistics.viewCount != 'undefined'){
 		//var reproduc = entry.yt$statistics.viewCount;
 		console.log('Existe');
@@ -118,7 +119,7 @@ function showMyVideos3(data) {
 	  div_for_videos.innerHTML = html.join('');
 	  
   if (entries.length > 0) {
-    loadVideo(entries[0].media$group.media$content[0].url, false);
+    //loadVideo(entries[0].media$group.media$content[0].url, false);
 	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
   
@@ -161,7 +162,7 @@ function showMyVideos4(data) {
 	  div_for_videos.innerHTML = html.join('');
 	  
   if (entries.length > 0) {
-    loadVideo(entries[0].media$group.media$content[0].url, false);
+   // loadVideo(entries[0].media$group.media$content[0].url, false);
 	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
   
@@ -191,7 +192,7 @@ function showMyVideos5(data) {
 	  div_for_videos.innerHTML = html.join('');
 	  
   if (entries.length > 0) {
-    loadVideo(entries[0].media$group.media$content[0].url, false);
+    //loadVideo(entries[0].media$group.media$content[0].url, false);
 	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
  
@@ -224,7 +225,7 @@ function showMyVideos6(data) {
 	  div_for_videos.innerHTML = html.join('');
 	  
   if (entries.length > 0) {
-    loadVideo(entries[0].media$group.media$content[0].url, false);
+    //loadVideo(entries[0].media$group.media$content[0].url, false);
 	div_for_videos.parentNode.setAttribute('featured_video', entries[0].media$group.media$content[0].url);
   } // if end
  
