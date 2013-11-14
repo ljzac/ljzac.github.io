@@ -1,7 +1,7 @@
 ---
 published: true
-title: El Horizonte
-twitt: "Fuera de Foco - El Horizonte"
+title: El horizonte
+twitt: "Fuera de Foco - El horizonte"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
