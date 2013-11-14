@@ -1,6 +1,6 @@
 ---
 published: true
-title: Nuestros Niños
+title: Nuestros niños
 twitt: "Fuera de Foco - Nuestros Niños"
 author: RAFAEL DE SANTIAGO
 location: Local
