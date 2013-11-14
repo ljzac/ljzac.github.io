@@ -1,21 +1,11 @@
 ---
 published: true
-title: La senctud
-twitt: "Fuera de Foco - La senctud"
+title: La senectud
+twitt: "Fuera de Foco - La senectud"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
 layout: posts
 ---
 
-
-
-![La senctud](http://i.imgur.com/ADNGqFqm.jpg)
-
-
-
-
-
-
-
-
+![La senectud](http://i.imgur.com/ADNGqFqm.jpg)
