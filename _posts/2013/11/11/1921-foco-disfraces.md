@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Los nuevos disfraces de 'Día de Muertos'"
+title: "Los nuevos disfraces de 'Día de Muertos'"
 twitt: "Fuera de Foco - Los nuevos disfraces de 'Día de Muertos'"
 author: RAFAEL DE SANTIAGO
 location: Local
