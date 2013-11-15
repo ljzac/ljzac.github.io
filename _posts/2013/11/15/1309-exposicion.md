@@ -1,7 +1,9 @@
 ---
 published: true
+title: Inauguran exposición fotográfica autoría de Beatriz Carrera
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
