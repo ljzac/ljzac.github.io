@@ -4,7 +4,7 @@ title: Seguirán manifestaciones de maestros para exigir el Congreso de Educaci�
 twitt: "■ Iniciará proceso para recabar firmas y desconocer al SNTE: Arenas"
 author: MARTIN CATALAN LERMA
 location: Local
-category: Educación
+category: Portada
 layout: posts
 ---
 
