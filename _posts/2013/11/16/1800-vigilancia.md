@@ -1,6 +1,6 @@
 ---
 published: true
-title: Efectúa municipio ‘operativo’ de seguridad en coordinación con corporaciones estatales
+title: Efectúa municipio de Guadalupe  ‘operativo’ de seguridad en coordinación con corporaciones estatales
 author: REDACCION
 location: Local
 category: Destacadas
@@ -18,4 +18,3 @@ Aseguró que tras la implementación de estos operativos de seguridad y
 vigilancia, se generarán mayores condiciones de seguridad y orden público
 en colonias y comunidades, poniendo especial énfasis en la zona conurbada
 de los municipios Guadalupe y Zacatecas.
-
