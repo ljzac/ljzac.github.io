@@ -1,7 +1,9 @@
 ---
 published: true
+title: Buscan sensibilizar en el cuidado de la ecología por medio de la mujer
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
