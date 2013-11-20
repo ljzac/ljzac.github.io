@@ -106,6 +106,8 @@ prose:
               value: "Martes"
             - name: "Café"
               value: "Café"
+            - name: "Foro de Análisis"
+              value: "Foro de Análisis"
             - name: "Festival en imágenes"
               value: "Festival en imágenes" 
             - name: "Marcelito"
