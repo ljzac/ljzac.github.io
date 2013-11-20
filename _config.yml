@@ -110,6 +110,8 @@ prose:
               value: "Festival en imágenes" 
             - name: "Marcelito"
               value: "Marcelito" 
+              - name: "Aprende"
+              value "Aprender"
           selected: "Portada" 
       - name: "layout"
         field:
