@@ -4,7 +4,7 @@ title: Da continuidad ayuntamiento de Zacatecas en regularizar colonias
 twitt: "■ Situación de predios debe consultarse antes de ocuparlos: García"
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Sociedad y Justicia
+category: Municipios
 layout: posts
 ---
 
