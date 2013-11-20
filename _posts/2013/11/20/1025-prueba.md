@@ -1,9 +1,8 @@
 ---
 published: true
-title: prueba
 location: Local
 category: Aprender
 layout: posts
 ---
 
-prueba
+http://issuu.com/lajornadazacatecas.com.mx/docs/aprenderokbnop
