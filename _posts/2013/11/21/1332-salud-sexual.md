@@ -1,13 +1,13 @@
 ---
 published: true
-title: Piden jóvenes ante el Congreso local que castidad y abstención se incluyan en campañas de reproducción
+title: Piden jóvenes ante el Congreso local que castidad y abstención se incluyan en campañas de reproducción sexual
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![ALMA ALEJANDRA TAPIA](http://i.imgur.com/6NddSi8m.jpg)Un grupo de jóvenes cristianos denominado Dilo bien, invitado por la diputada panista Guadalupe Medina, acudió al Congreso local para reprobar que los Servicios de Salud de Zacatecas (SSZ) estén capacitando a médicos para realizar legrados, y que si bien es para casos de emergencias porque las leyes estatales no permiten el aborto, consideran que es la puerta para que los médicos lo puedan hacer de modo clandestino o institucional. 
+![ALMA ALEJANDRA TAPIA](http://i.imgur.com/6NddSi8m.jpg)Un grupo de jóvenes denominado ¡Dilo Bien! Zacatecas acudió al Congreso local para reprobar que los Servicios de Salud de Zacatecas (SSZ) estén capacitando a médicos en el Método de Aspiración Manual Endouterina (conocido como AMEU), y que si bien es para casos de emergencias porque las leyes estatales no permiten el aborto, consideran que es la puerta para que los médicos lo puedan hacer de modo clandestino o institucional. 
 
 Erik González dijo que la asociación compuesta por jóvenes rechaza que gobierno promueva campañas de reproducción y salud sexual sin incluir los temas como la castidad y la abstinencia, incluso dijeron no coincidir con el uso de algunos métodos anticonceptivos.
 
