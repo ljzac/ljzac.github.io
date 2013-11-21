@@ -1,6 +1,6 @@
 ---
 published: true
-title: Acuden jóvenes al Congreso local para rechazar las campañas de salud sexual
+title: Piden jóvenes ante el Congreso local que castidad y abstención se incluyan en campañas de reproducción
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
