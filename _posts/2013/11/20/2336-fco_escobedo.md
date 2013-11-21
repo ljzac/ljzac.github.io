@@ -4,7 +4,7 @@ title: Se entregará en tiempo y forma la propuesta de paquete económico
 twitt: ■ Minimiza Escobedo Villegas críticas que consideran presupuesto inferior a compromisos de EPN
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
@@ -21,4 +21,4 @@ En tribuna del Congreso los diputados se han pronunciado por reunirse con el gob
 
 Sin embargo, el Ejecutivo cumplirá con lo que la ley marca, agregó que aún se revisan cuáles serán las prioridades que se plantearán en el documento, debido a que recién se aprobó a nivel federal. “En función de eso revisamos algunas bolsas de sectores y posibilidades”.
 
-Aunque la intención será ayudar a la gente con mayor vulnerabilidad y necesidad, insistió en que buena parte del recurso ya está etiquetado y por ende es poco el margen de maniobra que tendrán los diputados locales.  
+Aunque la intención será ayudar a la gente con mayor vulnerabilidad y necesidad, insistió en que buena parte del recurso ya está etiquetado y por ende es poco el margen de maniobra que tendrán los diputados locales.
