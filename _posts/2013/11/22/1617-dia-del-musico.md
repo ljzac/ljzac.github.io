@@ -12,7 +12,7 @@ layout: posts
 •	También informó que el próximo año se pondrá en marcha el Circuito de Formación Operística y el Programa Nacional de Escuelas de Iniciación Artística Asociada
 
 
-![RAFAEL DE SANTIAGO](http://i.imgur.com/KIQEIV0m.jpg)El Gobierno del Estado celebró, con un desayuno y entrega de reconocimientos, a destacados músicos zacatecanos con motivo del ‘Día del Músico’, evento durante el cual el gobernador Miguel Alonso Reyes anunció que en junio del próximo año se establecerá el Festival del Corrido Revolucionario, esto dentro de la conmemoración del aniversario de la Toma de Zacatecas. 
+![RAFAEL DE SANTIAGO](http://i.imgur.com/KIQEIV0m.jpg)El Gobierno del Estado celebró, con un desayuno y entrega de reconocimientos, a destacados músicos zacatecanos con motivo del 'Día del Músico', evento durante el cual el gobernador Miguel Alonso Reyes anunció que en junio del próximo año se establecerá el Festival del Corrido Revolucionario, esto dentro de la conmemoración del aniversario de la Toma de Zacatecas. 
 
 Destacó que este año se han destinado alrededor de 15 millones de pesos en la formación artística de creadores zacatecanos, y se ha impulsado la actividad musical por medio de 492 conciertos musicales, así como la instalación de 62 talleres de formación musical en la cual se involucraron 65 agrupaciones zacatecanas  de diferentes municipios del estado. 
 
