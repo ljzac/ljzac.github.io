@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Diserta Guadalupe Villa Guerrero en torno a la Batalla de Zacatecas, desde el ámbito informativo"
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
