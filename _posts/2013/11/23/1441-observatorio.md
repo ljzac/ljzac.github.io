@@ -1,7 +1,9 @@
 ---
 published: true
+title: Proyecta Roberto Luévano creación de Observatorio Ciudadano para 2014
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
