@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/aIPBjwJm.jpg)
+![](http://i.imgur.com/i4jAwHdm.jpg)
 ■ Una de las causas de la descapitalización está en el incremento de la esperanza de vida, expuso
 
 Francisco Miguel Aguirre Farías, director general de Valuaciones Actuariales, informó que el sistema de pensiones en México tiende a la construcción de un país envejecido y empobrecido, debido a que la mayoría de los mexicanos están inmersos en las Administradoras de Fondos para el Retiro (Afores), mediante las cuales los pensionados sólo reciben 30 por ciento de su salario.
