@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Decomisan autoridades, en ‘operativo’ sorpresa en Cerereso Varonil de Cieneguillas, droga y puntas ‘hechizas’"
+title: Decomisan droga y puntas ‘hechizas’ en ‘operativo’ sorpresa en Cerereso Varonil de Cieneguillas
 author: REDACCION
 location: Local
 category: Destacadas
