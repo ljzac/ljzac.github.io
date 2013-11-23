@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/ZAwr0dEm.jpg)Una bolsa económica de 72 mil pesos en premios repartió la Secretaría de Economía (SEZAC) entre los 26 artesanos ganadores del octavo Concurso Regional de Deshilado, Bordado y Tejido 2013.
+![](http://i.imgur.com/q2JWgacm.jpg)Una bolsa económica de 72 mil pesos en premios repartió la Secretaría de Economía (SEZAC) entre los 26 artesanos ganadores del octavo Concurso Regional de Deshilado, Bordado y Tejido 2013.
  
 En total se registraron 77 participantes de los municipios Huanusco, Jalpa, Juchipila y Tabasco, quienes recibieron estímulos económicos del Gobierno del Estado y del Fondo Nacional para el Fomento de las Artesanías (Fonart).
  
@@ -16,4 +16,3 @@ Al entregar los premios, Milagros Hernández Muñoz, subsecretaria de Desarrollo
 Los trabajos concursantes fueron de las ramas de blancos, prendas de vestir, innovación de diseños y puntadas de rescate.
  
 Tabasco estuvo representado con 49 piezas, Huanusco con 35, Juchipila con 16 y Jalpa con nueve.
-
