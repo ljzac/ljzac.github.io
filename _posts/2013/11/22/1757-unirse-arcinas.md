@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recuperan en la Unirse de las Arcinas vehículo robado; detienen al conductorRecuperan en la Unirse de las Arcinas vehículo robado; detienen al conductor
+title: Recuperan en la Unirse de las Arcinas vehículo robado; detienen al conductor
 author: REDACCION
 location: Local
 category: Destacadas
