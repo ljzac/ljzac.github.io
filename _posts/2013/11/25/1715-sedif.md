@@ -28,4 +28,5 @@ Y destacó que "hemos hecho todo el esfuerzo por apoyar a quienes más lo necesi
 Manifestó que "gracias a que el dinero que hay en el DIF se ha usado bien, es que se ha podido favorecer a un mayor número de personas".
  
 El edil Miguel Coronado Gámez agradeció a la presidenta del SEDIF su visita a El Salvador y los apoyos entregados, que "demuestran su buena voluntad hacia los más desprotegidos".
- 
+
+Por otro lado, n total de 45 trabajadoras y trabajadores sindicalizados recibieron reconocimiento por ser empleados del mes. Se les otorgó un diploma y un estímulo económico por la responsabilidad y eficiencia con la que proporcionan atención y servicio a la ciudadanía.
