@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/4HUs4rqm.jpg)Con el objetivo de bajar recursos para las mujeres de Río Grande, se impartió la “Campaña de Difusión de los Programas Gubernamentales Federales y Estatales” para las féminas empresarias de del municipio, a través del Instituto de la Mujer, en el marco de la “Capacitación en Género, Marco Normativo e Igualdad para las Instancias Municipales de las Mujeres”.
+![](http://i.imgur.com/4HUs4rqm.jpg)Con el objetivo de bajar recursos para las mujeres de Río Grande, se impartió la Campaña de Difusión de los Programas Gubernamentales Federales y Estatales para las féminas empresarias de del municipio, a través del Instituto de la Mujer, en el marco de la “Capacitación en Género, Marco Normativo e Igualdad para las Instancias Municipales de las Mujeres”.
 
 El Instituto a cargo de Anahí Cerrillo Aguilar, presentó en las instalaciones del Auditorio de la alcaldía, la capacitación para el personal de los municipios de la región como Juan Aldama, Miguel Auza, General Francisco R. Murguía (Nieves) Cañitas de Felipe Pescador y por supuesto Río Grande, para presentar e informar sobre las reglas de operación, apertura de ventanillas y los requisitos necesarios para acceder a los financiamientos y apoyos enfocados a proyectos productivos o negocios para mujeres. 
 
