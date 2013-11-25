@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Con la exposición de ilustraciones de cuentos de Amparo Dávila, inician Coordinación Estatal de Bibliotecas sus Jornadas Culturales"
+title: "Con la exposición de ilustraciones de cuentos de Amparo Dávila, inicia Coordinación Estatal de Bibliotecas sus Jornadas Culturales"
 author: ALMA RIOS
 location: Local
 category: Destacadas
