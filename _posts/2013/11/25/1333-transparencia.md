@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/rT4pZJTm.jpg)Los municipios del estado siguen siendo los menos cumplidos en materia de transparencia, seguidos de los partidos políticos, arrojó la octava Evaluación de Sujetos Obligados, realizada por la Comisión Estatal de Acceso a la Información (CEAIP) a las instituciones que manejan recursos públicos durante el primer semestre del año.
+![ALMA ALEJANDRA TAPIA](http://i.imgur.com/57bjEvwm.jpg)Los municipios del estado siguen siendo los menos cumplidos en materia de transparencia, seguidos de los partidos políticos, arrojó la octava Evaluación de Sujetos Obligados, realizada por la Comisión Estatal de Acceso a la Información (CEAIP) a las instituciones que manejan recursos públicos durante el primer semestre del año.
 
 De los 58 ayuntamientos, 21 no tuvieron portal de transparencia (de enero a julio de 2013), entre los que destaca Zacatecas, al igual que el partido político Movimiento Ciudadano. 
 
