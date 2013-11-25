@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Imagen urbana
 twitt: "Fuera de Foco - Imagen urbana"
 author: RAFAEL DE SANTIAGO

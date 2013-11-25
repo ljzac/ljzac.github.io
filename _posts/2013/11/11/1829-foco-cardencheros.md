@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Cardencheros participantes en el octavo Festival Cultural de la Diversidad Sexual
 twitt: "Fuera de Foco - Cardencheros participantes en el octavo Festival Cultural de la Diversidad Sexual"
 author: ANDRÉS SÁNCHEZ

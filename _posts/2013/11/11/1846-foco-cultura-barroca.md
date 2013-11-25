@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Cultura barroca
 twitt: "Fuera de Foco - Cultura barroca"
 author: ODÍN SALINAS

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Cotidiano
 twitt: "Fuera de Foco - Cotidiano"
 author: ODÍN SALINAS

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Juego de círculos
 twitt: "Fuera de Foco - Juego de círculos"
 author: RAFAEL DE SANTIAGO

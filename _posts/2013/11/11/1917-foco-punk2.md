@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Las características del punk
 twitt: "Fuera de Foco - Las características del punk"
 author: RAFAEL DE SANTIAGO

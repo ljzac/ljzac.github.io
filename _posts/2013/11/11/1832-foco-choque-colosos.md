@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Colosos
 twitt: "Fuera de Foco - Colosos"
 author: ODÍN SALINAS

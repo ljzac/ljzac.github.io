@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Solitario
 twitt: "Fuera de Foco - Solitario"
 author: ANDRÉS SÁNCHEZ

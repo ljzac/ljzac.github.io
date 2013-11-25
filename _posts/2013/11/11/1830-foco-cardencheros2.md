@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Cardencheros, en el segundo piso del Museo Zacatecano"
 twitt: "Fuera de Foco - Cardencheros participantes en el octavo Festival Cultural de la Diversidad Sexual"
 author: ANDRÉS SÁNCHEZ

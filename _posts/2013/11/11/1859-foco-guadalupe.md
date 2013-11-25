@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Guadalupe 1878
 twitt: "Fuera de Foco - Guadalupe 1878"
 author: ODÍN SALINAS

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "La simbología en el 'Día de Muertos'"
 twitt: "Fuera de Foco - La simbología en el 'Día de Muertos'"
 author: ERNESTO MORENO
