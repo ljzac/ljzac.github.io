@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Toma de Rectoría de la Universidad Autónoma de Zacatecas (UAZ)
 twitt: "Fuera de Foco - 'Toma' de Rectoría de la Universidad Autónoma de Zacatecas (UAZ)"
 author: ERNESTO MORENO

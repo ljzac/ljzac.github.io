@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "'Día de Muertos'"
 twitt: "Fuera de Foco - 'Día de Muertos'"
 author: ERNESTO MORENO

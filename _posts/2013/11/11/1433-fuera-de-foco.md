@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "'Día de Muertos' en el panteón"
 twitt: "Fuera de Foco - 'Día de Muertos' en el panteón"
 author: ERNESTO MORENO
