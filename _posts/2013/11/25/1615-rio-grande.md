@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Imparten 'Campaña de Difusión de los Programas Gubernamentales Federales y Estatales' a mujeres empresarias en Río Grande"
+title: Imparten Campaña de Difusión de los Programas Gubernamentales Federales y Estatales a mujeres empresarias en Río Grande
 author: REDACCION
 location: Local
 category: Destacadas
