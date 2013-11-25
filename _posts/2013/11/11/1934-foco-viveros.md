@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Una vendedora ambulante, acompañada de sus dos pequeños, espera obtener ingresos de sus esculturas, en el centro de la capital"
 twitt: "Fuera de Foco - Una vendedora ambulante, acompañada de sus dos pequeños"
 author: ANDRÉS SÁNCHEZ
