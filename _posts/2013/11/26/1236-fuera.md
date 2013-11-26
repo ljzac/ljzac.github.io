@@ -1,7 +1,7 @@
 ---
 published: true
 title: Calle en desechos
-author: RAFAEL DE SANTIAGO
+author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
 layout: posts
