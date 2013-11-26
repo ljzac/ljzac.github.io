@@ -1,6 +1,6 @@
 ---
 published: true
-title: Juego de niños ante la tecnología
+title: Juego de niños ante la  tecnología
 author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
