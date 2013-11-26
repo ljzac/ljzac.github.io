@@ -1,7 +1,7 @@
 ---
 published: true
 title: El beso en el atardecer
-author: RAFAEL DE SANTIAGO
+author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
 layout: posts
