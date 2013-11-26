@@ -1,6 +1,6 @@
 ---
 published: true
-title: "\tAnuncia SMN refuerzo del Frente Frío 14; esta noche y madrugada del miércoles se esperan temperaturas cercanas a cero grados."
+title: Anuncia SMN refuerzo del Frente Frío 14; esta noche y madrugada del miércoles se esperan temperaturas cercanas a cero grados.
 author: REDACCION
 location: Local
 category: Destacadas
