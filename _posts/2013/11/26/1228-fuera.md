@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La niñez, la educación y el trabajo"
-author: RAFAEL DE SANTIAGO
+author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
 layout: posts
