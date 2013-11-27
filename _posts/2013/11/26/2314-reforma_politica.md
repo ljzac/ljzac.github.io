@@ -2,8 +2,8 @@
 published: true
 title: "Llegan al Senado miembros del gabinete para concretar Reforma Político-electoral"
 author: Redacción
-location: Internacional
-category: Mundo
+location: Nacional
+category: Principales
 layout: posts
 ---
 
