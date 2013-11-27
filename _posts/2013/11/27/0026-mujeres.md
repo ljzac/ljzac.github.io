@@ -7,7 +7,7 @@ category: Educación
 layout: posts
 ---
 
-■ Se contemplan varias acciones para presentarlas ante el Rector y tratar la problemática, comenta
+![](http://i.imgur.com/0vnpyUbm.jpg)■ Se contemplan varias acciones para presentarlas ante el Rector y tratar la problemática, comenta
 
 En torno al Día Internacional de la Eliminación de la Violencia Contra la Mujer conmemorado el pasado 25 de noviembre, Enna Maldonado Longoria, titular de la Coordinación de Equidad y Género de la Universidad Autónoma de Zacatecas (UAZ), comentó que la Máxima Casa de Estudios en el estado es un microcosmos de lo que ocurre socialmente, pues al interior de la misma todavía no se entiende a la equidad como éticamente necesaria. 
 
@@ -29,4 +29,4 @@ Informó que en ese mismo semestre se iniciará una campaña permanente de la Un
 
 Entre las directrices de la misma se encuentran justamente la incorporación de la perspectiva de género en la legislación universitaria, la institucionalización de políticas que garanticen la igualdad de oportunidades y la participación equitativa de hombres y mujeres, la conciliación de la vida profesional y familiar, y el combate de la violencia de género en el ámbito laboral y escolar, entre otras definiciones que suman siete propuestas. 
 
-También se promoverá el denominado Código Universitario para la Equidad que involucra nueve puntos entre los que se expresa la admisión, selección y promociones equitativas; el apoyo para el ejercicio de la maternidad y paternidad, y el combate al acoso sexual y al abuso de poder. 
+También se promoverá el denominado Código Universitario para la Equidad que involucra nueve puntos entre los que se expresa la admisión, selección y promociones equitativas; el apoyo para el ejercicio de la maternidad y paternidad, y el combate al acoso sexual y al abuso de poder.
