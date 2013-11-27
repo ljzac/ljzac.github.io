@@ -7,7 +7,7 @@ category: Educación
 layout: posts
 ---
 
-■ Las mesas de trabajo se llevarán a cabo entre los días 2 y 11 de diciembre de 2013
+![](http://i.imgur.com/vGMd6Iim.jpg)■ Las mesas de trabajo se llevarán a cabo entre los días 2 y 11 de diciembre de 2013
 
 ■ Tlaltenango, Jerez, Jalpa, Fresnillo, Río Grande, entre otros, serán sedes regionales
 
