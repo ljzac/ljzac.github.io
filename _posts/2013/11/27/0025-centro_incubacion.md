@@ -7,7 +7,7 @@ category: Educación
 layout: posts
 ---
 
-■ Los ahora empresarios cumplieron con los requisitos, señala Rector
+![](http://i.imgur.com/NSeOEvrm.jpg)■ Los ahora empresarios cumplieron con los requisitos, señala Rector
 
 Este martes, 23 empresas se graduaron del Centro de Incubación y Desarrollo Empresarial de la Universidad Autónoma de Zacatecas (CIDE-UAZ), luego de superar los procesos de acercamiento, implantación, gestación y aceleración de sus respectivos proyectos productivos.
 
