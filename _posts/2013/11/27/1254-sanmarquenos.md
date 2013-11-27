@@ -1,7 +1,9 @@
 ---
 published: true
+title: " Asevera Figueroa Rangel que detención de jóvenes normalistas es una trampa; advierte sobre posible movilización nacional"
+author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
