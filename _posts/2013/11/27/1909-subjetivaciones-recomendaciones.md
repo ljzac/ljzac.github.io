@@ -22,7 +22,7 @@ Para esta ocasión me permitiré hablar de un icono considerado por algunos como
 El disco al que hoy me refiero es el titulado _'Young lions'_, quinto en su haber como solista, conformado por 10 _'tracks'_ de excelente factura, y en el que contó con la dirección musical de David Bowie, quien a su vez participa en dos de los temas: _'Pretty Pink Rose'_ y _'Gunman'_. No esperemos escuchar aquí los sonidos complejos a los que nos tenía acostumbrados. El disco es fresco y rítmico, pero intenso y propositivo; uno no se cansa de escucharlo. También llama la atención la portada, en la que aparece Belew, pero a la edad de 5 años. Indiscutiblemente, una obra bastante recomendable.
 
 
-_**'The sentinel'**_ **(2007), Aerial**
+## _**'The sentinel'**_ **(2007), Aerial**
 
 http://www.youtube.com/watch?v=gK01UjPbdQI
 
@@ -35,7 +35,7 @@ La banda pretende echar mano de todos los elementos al alcance, ya sean electró
 Hablamos, sin duda, de una producción discográfica de gran calidad que sugiere ser escuchada en tiempos nublados, o ya entrada la noche, cuando lo que uno quiere es relajarse y hacer un recuento de lo acontecido, independientemente de la importancia que haya tenido. Es un disco agradable que dura menos de lo que esperamos.
 
 
-_**'Harmagedon'**_ **(2012), Affector**
+## _**'Harmagedon'**_ **(2012), Affector**
 
 http://www.youtube.com/watch?v=8Uflk3LAeZ4
 
