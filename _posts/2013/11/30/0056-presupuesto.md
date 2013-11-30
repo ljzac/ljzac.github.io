@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/1t0JkyWm.png)
+![](http://i.imgur.com/p0vS5fJm.jpg)
 ■ Hoy, límite para que Ejecutivo envíe al Congreso estatal la propuesta de paquete económico
 
 En los últimos tres años, el presupuesto Zacatecas ha crecido 3 mil 246 millones de pesos, sin alcanzar aún los más de 25 mil millones de pesos que se ejercieron en 2011 durante el todavía sexenio federal panista de Felipe Calderón. 
@@ -36,3 +36,4 @@ También hay etiquetados proyectos de desarrollo regional con 650.7 millones de 
 Para la infraestructura social, en 2014 habrá 476.9 millones de pesos, en las que se incluye la construcción de algunas bibliotecas, aulas autodidácticas, domos de escuela, pavimentación de calles. En el rubro de medio ambiente se tendrán 65 millones de pesos.
 
 De las bolsas de recursos federales, ahora faltará conocer el reparto que los diputados locales harán de cierto porcentaje del total global del paquete económico del año entrante.
+![](http://i.imgur.com/1t0JkyWm.png)
