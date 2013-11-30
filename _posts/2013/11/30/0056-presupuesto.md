@@ -36,4 +36,4 @@ También hay etiquetados proyectos de desarrollo regional con 650.7 millones de 
 Para la infraestructura social, en 2014 habrá 476.9 millones de pesos, en las que se incluye la construcción de algunas bibliotecas, aulas autodidácticas, domos de escuela, pavimentación de calles. En el rubro de medio ambiente se tendrán 65 millones de pesos.
 
 De las bolsas de recursos federales, ahora faltará conocer el reparto que los diputados locales harán de cierto porcentaje del total global del paquete económico del año entrante.
-![](http://i.imgur.com/1t0JkyWm.png)
+![](http://i.imgur.com/1t0JkyW.png)
