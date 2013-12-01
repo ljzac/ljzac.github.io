@@ -1,6 +1,6 @@
 ---
 published: true
-title: Proyectarán cultura guadalupense en Hora Nacional
+title: Proyectarán cultura guadalupense en La Hora Nacional
 author: REDACCION
 location: Local
 category: Destacadas
