@@ -1,6 +1,6 @@
 ---
 published: true
-title: Acude Carlos Peña al IEEZ a pagar deuda administrativa
+title: Acude Carlos Peña al IEEZ para pagar deuda administrativa
 author: REDACCION
 location: Local
 category: Destacadas
