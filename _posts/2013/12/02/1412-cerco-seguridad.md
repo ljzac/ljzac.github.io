@@ -16,4 +16,4 @@ Este lunes, decenas de trabajadores de la Cámara debieron dar un rodeo para pod
 
 Además, fue cancelada parcialmente la estación del metrobús en la estación del Metro San Lázaro, y cientos de policías resguardan Congreso de la Unión, donde se mantiene cerrada la circulación vehicular, así como la calle Sidar y Rovirosa, en la parte posterior del Palacio de Justicia.
 
-Se prevé que la Policía Federal –que cuenta con un destacamento en el sótano de la Cámara de Diputados- endurezca las medidas de seguridad en torno al Palacio Legislativo, así como en el interior de éste.
+Se prevé que la Policía Federal –que cuenta con un destacamento en el sótano de la Cámara de Diputados- endurezca las medidas de seguridad en torno al Palacio Legislativo, así como en el interior de éste..
