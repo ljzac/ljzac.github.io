@@ -17,4 +17,6 @@ Los alumnos han advertido que no liberarán las instituciones en tanto no se lib
 
 Los jóvenes se han instalado con casas de campaña y están preparados para permanecer el tiempo necesario.
 
+Anunciaron, además, que vendrán estudiantes de otras escuelas normales del país, con la finalidad de apoyar esta protesta. El secretario de Educación, Marco Vinicio Flores, lo confirmó en un noticiero radiofónico, y dijo que llegan en modo “hormiga”.
+
 ![](http://i.imgur.com/0Qt1aSBm.jpg)Cabe mencionar que en el Congreso del estado también están productores y campesinos afectados por los cobros de la Comisión Federal de Electricidad (CFE), los cuales, dijeron, ascienden a alrededor de 350 millones de pesos, en su conjunto. Piden apoyo a los diputados para que incluyan en el presupuesto una partida.
