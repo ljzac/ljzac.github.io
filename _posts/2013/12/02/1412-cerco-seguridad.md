@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Refuerzan cerco de seguridad en San Lázaro previo a discusión de reformas
 author: La Jornada
 location: Nacional
