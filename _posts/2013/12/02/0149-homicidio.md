@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-Cerca de la 1 de la mañana de este este domingo fue encontrado el cadáver de un elemento de la Policía Estatal Preventiva (PEP), en el municipio de Guadalupe.
+![](http://i.imgur.com/DcbrmP4m.jpg)Cerca de la 1 de la mañana de este este domingo fue encontrado el cadáver de un elemento de la Policía Estatal Preventiva (PEP), en el municipio de Guadalupe.
 
 Elementos de la Policía Municipal de Guadalupe acudieron a un reporte al Sistema de Emergencias 066, en el que refirieron detonaciones de arma de fuego en la colonia La Esperanza.
 
