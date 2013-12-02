@@ -1,6 +1,6 @@
 ---
 published: true
-title: NUEVO LLAMADO A DEFENDER EL PETROLEO
+title: Nuevo llamado a defender el petróleo
 author: Redacción
 location: Local
 category: Portada
