@@ -11,9 +11,9 @@ layout: posts
 
 •	En la 61 Legislatura están también productores y campesinos afectados por cobros de la CFE
 
-![](http://i.imgur.com/lXG1BCgm.jpg)El total de los estudiantes de la Escuela Normal Rural General Matías Ramos Santos, en San Marcos, comunidad de Loreto, que suman 570, ‘tomaron’, desde las primeras horas de hoy, el Congreso local, Ciudad Administrativa, Palacio de Gobierno y la Secretaría de Educación (Seduzac), para exigir la libertad de sus cinco compañeros encarcelados en el penal de Cieneguillas, acusados de secuestro exprés. 
+![FOTOS: ALMA ALEJANDRA TAPIA](http://i.imgur.com/mnNn2Izm.jpg)El total de los estudiantes de la Escuela Normal Rural General Matías Ramos Santos, en San Marcos, comunidad de Loreto, que suman 570, ‘tomaron’, desde las primeras horas de hoy, el Congreso local, Ciudad Administrativa, Palacio de Gobierno y la Secretaría de Educación (Seduzac), para exigir la libertad de sus cinco compañeros encarcelados en el penal de Cieneguillas, acusados de secuestro exprés. 
 
-![](http://i.imgur.com/mnNn2Izm.jpg)Los alumnos han advertido que no liberarán las instituciones en tanto no se libere a quienes consideraron son presos políticos. Juan Sandoval, unos de los voceros, dijo que no se habían movilizado ante las amenazas del Gobierno de trasladar a los estudiantes al penal, sin embargo, éste incumplió.
+Los alumnos han advertido que no liberarán las instituciones en tanto no se libere a quienes consideraron son presos políticos. Juan Sandoval, unos de los voceros, dijo que no se habían movilizado ante las amenazas del Gobierno de trasladar a los estudiantes al penal, sin embargo, éste incumplió.
 
 Los jóvenes se han instalado con casas de campaña y están preparados para permanecer el tiempo necesario.
 
