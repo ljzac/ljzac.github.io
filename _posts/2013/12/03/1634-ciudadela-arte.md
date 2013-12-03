@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ofrece concierto Gabino Palomares en la Ciudadela del Arte
+title: Ofrecerá concierto Gabino Palomares en la Ciudadela del Arte
 author: REDACCION
 location: Local
 category: Destacadas
