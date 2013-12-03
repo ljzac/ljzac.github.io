@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-•	Capacitarán a productores de oliva en Simposio Internacional, los días 6 y 7 de este mes
+•	Capacitarán a productores de oliva en simposio internacional, los días 6 y 7 de este mes
 
 •	Zacatecas, puerta norte de este cultivo en México: investigador del Inifap
 
