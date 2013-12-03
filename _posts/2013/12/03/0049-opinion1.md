@@ -3,7 +3,7 @@ published: true
 title: Los zacatecanos unidos contra la reforma energética
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 
