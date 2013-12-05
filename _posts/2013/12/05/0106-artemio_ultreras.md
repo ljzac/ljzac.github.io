@@ -4,7 +4,7 @@ title: Deja su cargo Jacobo de Luna; Artemio Ultreras hace el relevo
 twitt: "■ Entrega-recepción de la subsecretaría de Planeación y Apoyo a la Educación, en unos días"
 author: MARTIN CATALAN LERMA
 location: Local
-category: Portada
+category: Educación
 layout: posts
 ---
 
