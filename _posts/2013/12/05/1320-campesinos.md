@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Valoran campesinos conformarse como grupo de autodefensa, ante falta de respuesta de autoridades"
+title: "Analizan campesinos conformarse como grupo de autodefensa, ante falta de respuesta de autoridades"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
