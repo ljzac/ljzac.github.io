@@ -4,7 +4,7 @@ title: "Necesarios, medios públicos para ofrecer alternativas de contenidos: To
 twitt: ■ La periodista y colaboradora de Proceso dicta una conferencia en el Museo Zacatecano
 author: ALMA RIOS
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
