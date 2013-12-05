@@ -1,9 +1,13 @@
 ---
 published: true
+title: "Del 13 de diciembre al 15 de enero, 4 Festival Estatal de Navidad"
+author: ALMA RIOS
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
+
+•	Se ofrecerá en 28 municipios y participarán en él mil 400 artistas, todos zacatecanos
 
 ![ALMA RIOS](http://i.imgur.com/EFrKpyam.jpg)El cuarto Festival Estatal de Navidad ofrecerá, del 13 del presente mes al 15 de enero, alrededor de 125 actividades artísticas y recreativas, e involucrará a 28 municipios. Los eventos tendrán verificativo en calles, plazuelas y callejones. 
 
