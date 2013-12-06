@@ -11,7 +11,7 @@ layout: posts
  
 Como resultado de los cursos de capacitación que reciben de manera cotidiana, principalmente mujeres, en los Centros Sociales de las colonias, Lázaro Cárdenas, CTM, Alma Obrera, Parque Centenario, y Estrellas de Oro, se realizó esta feria, ante la presencia de líderes de colonos y funcionarios del ayuntamiento, y ciudadanía en general.
  
-En su mensaje, el Presidente Municipal, Carlos Peña Badillo, destacó el trabajo que realizan los Centros Sociales mediante el programa Hábitat, con el que se invirtieron alrededor de 195 mil pesos para otorgarles material a las asistentes a los cursos, así como la capacitación.
+En su mensaje, el presidente municipal, Carlos Peña Badillo, destacó el trabajo que realizan los Centros Sociales mediante el programa Hábitat, con el que se invirtieron alrededor de 195 mil pesos para otorgarles material a las asistentes a los cursos, así como la capacitación.
  
 El alcalde Peña destacó que “algo muy importante que tenemos que atender es la política social del municipio, trabajando de la mano con ustedes, jefas de familia, que tienen que sacar adelante a sus hijos, sus hogares, que tienen que ser el apoyo para llevar el sustento a sus familias”.
  
