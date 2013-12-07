@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-Toluca, Mex. El ex gobernador de Guanajuato, Juan Manuel Oliva, presentó aquí su movimiento “Por 1 de los nuestros” con el que aspira ganar la contienda por la presidencia nacional del PAN, para sacar al partido de la improvisación y regresarlo a sus origines, retomando los principios y valores que en la actualidad se han olvidado.
+![](http://i.imgur.com/sHwOgoxm.jpg)Toluca, Mex. El ex gobernador de Guanajuato, Juan Manuel Oliva, presentó aquí su movimiento “Por 1 de los nuestros” con el que aspira ganar la contienda por la presidencia nacional del PAN, para sacar al partido de la improvisación y regresarlo a sus origines, retomando los principios y valores que en la actualidad se han olvidado.
 
 Panistas de todo el país se movilizaron hasta esta ciudad para acompañar al ex mandatario quien públicamente reconoció este acto como el inicio de su campaña para la presidencia del Comité Ejecutivo Nacional.
 
