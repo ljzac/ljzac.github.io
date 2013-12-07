@@ -1,5 +1,6 @@
 ---
 published: true
+title: Un golpe al gusto de leer
 author: Eduardo Francisco Ríos Martínez
 location: Local
 category: Opinión
