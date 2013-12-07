@@ -1,0 +1,26 @@
+---
+published: true
+title: El alma rusa
+author: Juan José Romero
+location: Local
+category: Opinión
+layout: posts
+---
+
+Existe una escena descrita por Tolstói, en Guerra y paz, que sirvió de inspiración para el ensayo de Orlando Figes, El baile de Natacha, donde la princesa Natacha Rostova se encuentra en el centro de una reunión en una casa de campo, bajo el acompañamiento de una balalaica. Natacha, siendo una jovencita de la corte que ha sido educada en la tradición occidental, tiene un completo desconocimiento de las costumbres rurales de la Rusia zarina. Sin embargo, sin que nadie lo esperara, la joven noble se involucra sobremanera en el canto y el baile tradicionales. Entonces surge de manera inesperada, desde lo más profundo de su ser, el alma rusa a través de sus movimientos acompasados por el ritmo de la música. De esta manera, Orlando Figes encuentra el detonante en una descripción de un novelista ruso para emprender una búsqueda de dimensiones épicas, a través de las manifestaciones artísticas, sobre un especial sentimiento que ha pervivido durante siglos en el seno de un pueblo entero.
+
+El siglo 19 es para los rusos la época de máxima expresión literaria, que se denomina edad de oro de las letras rusas. El periodo abarca casi la totalidad de la centuria.
+Pushkin es un escritor que llega a identificar y plasmar el espíritu del pueblo ruso, instaurado en el folklore, en su más grande y significativa expresión: la religiosidad, un germen que nunca fenece. Tal vez la razón sea —como lo dijo Gógol, íntimo amigo de Pushkin— que aquellas tierras son las más fértiles del mundo, las tierras negras del orbe. Sin duda, junto a la estatua de este escritor debe reposar la figura de Arina Rodiónovna, a quien inmortalizó en sus versos por ser el cordón umbilical entre la lengua popular, las canciones y los cuentos rusos. A través de sus relatos descubrió ese mundo místico que se conformó a través de los siglos por múltiples etnias e ideologías y que, indudablemente, están unidas a Bizancio.
+
+El espíritu ruso, durante la etapa decimonónica, pulula por toda la atmósfera e inspira a todas las artes. Glinka es otro que caerá seducido ante el folklore ruso.
+Inspirado en la musicalidad y esencia de los versos de Pushkin, recrea la leyenda popular de Ruslán y Ludmila al componer la melodía. Sus óperas son consideradas, por los mismos rusos, como «la luz de las tradiciones espirituales de la cultura rusa». Lo anterior no carece de sustento, pues el mismo compositor expresaba que «el pueblo es el que crea la música, nosotros, los artistas, sólo la arreglamos». 
+
+Así comienza una tradición de lo ruso en el arte. Dostoievski y Gógol tampoco se sentirán alejados del folklore. El primero, al igual que Pushkin, creía que la historia podría orientar el futuro del pueblo. Al ser la historia uno de sus temas preferidos, las cuestiones polémicas que le suscitaba el destino de Rusia estarán expresadas en el Diario de un escritor. La importancia de éste estriba en la diversidad de criterios filosóficos, históricos y políticos de Dostoievski. La firmeza eslavófila y la fidelidad que guarda a tal corriente son el eje conductor de esta crucial obra del autor al que, por encima de todo, le preocupaba su pueblo. El inagotable sufrimiento de Dostoievski y su ingenuidad eslava le obligaron a plantear las vitales cuestiones que afectaban a las raíces de su país. 
+
+Gógol, profundamente religioso, deja plasmado en caracteres sólo el comienzo de lo que él mismo definió como «la tarea más grande de su vida». Almas muertas es el primer tomo de un proyecto colosal a través del cual intentaba hacer pasar al hombre ruso por el infierno, el purgatorio y el paraíso. Cuando comienza el segundo tomo, aquél que se refería al purgatorio, Gógol experimenta un cambio en el que se incrementa la orientación religiosa y precisa conveniente evitar la vida social; decide ayunar y prepararse para una subsistencia monacal, al considerar que «no hay nada más alto en el mundo que la condición de un monje». Lo anterior gira en torno a la regeneración del alma. Tal como Dostoievski, Gógol consideraba que sólo zambulléndose en la historia el pueblo conservaría su identidad: el espíritu ruso.
+Gógol intenta vivir en carne propia el proceso de regeneración para después ofrecerle al pueblo su experiencia, aunque antes de lograrlo se le fuera la vida.
+
+Estos escritores no carecían de razón al temer por el destino de Rusia. Cuando el siglo 20 contaba con pocos años, una serie de sucesos catastróficos ocurren en la existencia de este país. Una vez instaurado el comunismo, la producción artística se ve amenazada: toda la creación girará en torno al realismo socialista. Pareciera como si el alma rusa fuera un perseguido de guerra y tuviera que asistir a su fusilamiento. Aquéllos que no están dispuestos a presenciar el aterrador espectáculo, son acosados y condenados a trabajos forzados en Siberia, torturados y vetados, internados en clínicas psiquiátricas o ejecutados. Ya fuese desde el exilio o por medio de publicaciones hechas en mimeógrafo (samizdat), se levantará la voz para proclamar que el legado de Glinka y Pushkin no ha desaparecido. Y así será hasta que Rusia retoma, sin temores y en todas las artes, su componente esencial: el alma rusa. ■
+
+
+Correo electrónico: juanjo@poetica.mx
