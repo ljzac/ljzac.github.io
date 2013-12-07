@@ -1,6 +1,6 @@
 ---
 published: true
-title: Celebrará CAFC Día Internacional de los Derechos Animales
+title: Celebrará CAFC Día Internacional de los Derechos Animales en Zacatecas
 author: REDACCION
 location: Local
 category: Destacadas
