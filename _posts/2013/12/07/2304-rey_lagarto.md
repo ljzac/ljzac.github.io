@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: El Rey Lagarto cumpliría 70 años de edad este domingo
 author: Redacción
 location: Internacional
