@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Durante la ópera 'Così fan tutte' ('Así son todas'), de Mozart, montada por la UAZ, Arte Lírico A.C. y Colectivo Diáfano S.C."
 author: ERNESTO MORENO
 location: Local

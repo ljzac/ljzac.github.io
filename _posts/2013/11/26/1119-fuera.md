@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Familia de viajeros
 author: RAFAEL DE SANTIAGO
 location: Local

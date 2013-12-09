@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Peregrinación de La Preladita y sus símbolos
 author: RAFAEL DE SANTIAGO
 location: Local

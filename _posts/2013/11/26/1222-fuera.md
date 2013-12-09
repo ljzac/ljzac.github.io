@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Soleada peregrinación de La Preladita
 author: RAFAEL DE SANTIAGO
 location: Local

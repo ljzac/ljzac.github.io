@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "La niñez, la educación y el trabajo"
 author: ERNESTO MORENO
 location: Local

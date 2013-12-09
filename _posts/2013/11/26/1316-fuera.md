@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Resplandor en el Festival Internacional del Globo-León 2013"
 author: ODÍN SALINAS
 location: Local

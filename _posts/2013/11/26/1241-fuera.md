@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: La luz del Centro Histórico zacatecano
 author: ERNESTO MORENO
 location: Local
