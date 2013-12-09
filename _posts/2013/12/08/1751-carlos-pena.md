@@ -1,7 +1,9 @@
 ---
 published: true
+title: Acuerda Carlos Peña mejor calidad de vida para los zacatecanos
+author: REDACCION
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
