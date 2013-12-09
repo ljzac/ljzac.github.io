@@ -19,4 +19,4 @@ Finalmente, Marco Antonio Salas Luévano, coordinador de Investigación y Posgra
 
 Por su parte Jezabel Hernández Leyva, responsable del Programa de Maestría, se refirió al trabajo que realizan como terapeutas -por lo que dijo- "trabajamos disociados” haciendo alusión a la terapia que brindan a un paciente. Por una parte el psicoanalista escucha al paciente abordando los conceptos y teorías que conforman un marco teórico, además de la sensibilidad y la ética, "que se aprenden en el aula”, concluyó.
 
-Finalmente, Laura Hernández Martínez, Directora de la UAP exhortó a los egresados a continuar preparándose y no claudicar hasta concluir esta etapa de su vida profesional; invitó a los egresados a titularse a la brevedad ya que de esa manera concluirán esta etapa académica. 
+Finalmente, Laura Hernández Martínez, Directora de la UAP exhortó a los egresados a continuar preparándose y no claudicar hasta concluir esta etapa de su vida profesional; invitó a los egresados a titularse a la brevedad ya que de esa manera concluirán esta etapa académica.
