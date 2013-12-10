@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/pal9hCmm.jpg)
+![](http://i.imgur.com/EZ9dzzPm.jpg)
 ■ A nombre del tricolor se solidariza con reportera desaparecida; pide atender el caso
 
 El dirigente estatal del Partido Revolucionario Institucional (PRI), Juan Carlos Lozano Martínez, justificó el empréstito de más de mil 700 millones de pesos que pretende solicitar Gobierno del Estado en 2014; dijo que es una previsión ante una contingencia que pudiera suceder en la entidad.
