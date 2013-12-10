@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/GhQH9k3m.jpg)
+![](http://i.imgur.com/s5207IAm.jpg)
 ■ Distribución de Dicosa es “ridícula”; debe establecerse un mecanismo de competencia, dice
 
 Este martes se esperan movilizaciones en la capital zacatecana de organizaciones de productores frijoleros locales debido al incumplimiento por parte de las autoridades federales y estatales de los acuerdos alcanzados hace varias semanas para comercializar este producto en el país, expuso Alfonso Ramírez Cuéllar, líder nacional del movimiento de El Barzón.
