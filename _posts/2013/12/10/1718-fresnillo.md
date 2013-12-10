@@ -1,6 +1,6 @@
 ---
 published: true
-title: Firman convenio de colaboración Infonavit y ayuntamiento
+title: Firman convenio de colaboración Infonavit y ayuntamiento de Fresnillo
 author: REDACCION
 location: Local
 category: Destacadas
