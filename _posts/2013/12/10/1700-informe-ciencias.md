@@ -1,6 +1,6 @@
 ---
 published: true
-title: "La estructura organizativa apoyada por el Consejo de Unidad de la UACQ-UAZ, logro más destacado por Edmundo Zúñiga durante Informe de Labores"
+title: "La estructura organizativa apoyada por el Consejo de Unidad de la UACQ, logro más destacado por Edmundo Zúñiga durante Informe de Labores"
 author: REDACCION
 location: Local
 category: Destacadas
