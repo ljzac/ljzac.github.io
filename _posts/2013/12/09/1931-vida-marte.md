@@ -7,6 +7,7 @@ category: Ciencia y Tecnología
 layout: posts
 ---
 
+![](http://i.imgur.com/XDoIEpqm.jpg)
 México, DF. Marte tuvo condiciones para la vida y aunque no se ha encontrado evidencia directa, sí la hay de todos los ingredientes que se requieren para que florezca: hidrógeno, carbono, nitrógeno, oxígeno, fósforo y azufre, además de compuestos como agua y sulfatos, que estuvieron presentes en ese ambiente, reveló Rafael Navarro González, investigador del Instituto de Ciencias Nucleares (ICN) de la UNAM y colaborador de la NASA en la misión Curiosity, que desde agosto de 2012 explora el suelo marciano.
 
 Los nuevos resultados se lograron luego de que el robot explorador Curiosity perforó, por primera vez, rocas marcianas para pulverizar las muestras y estudiarlas en equipos de análisis químico que lleva consigo.
