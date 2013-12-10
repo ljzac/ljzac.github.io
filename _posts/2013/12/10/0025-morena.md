@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/XeiBCt0m.jpg)
+![](http://i.imgur.com/Oufnn3Hm.jpg)
 ■ Ambición de legisladores está en un plan de deslealtad a los intereses del pueblo mexicano, señala
 
 Ante la inminente aprobación en el Senado de la República de la reforma energética, el Movimiento de Regeneración Nacional (Morena) se ha declarado en “actitud de alerta” para evitarlo, dijo el líder estatal, Luis Medina Lizalde al referir que se realiza un censo de voluntarios zacatecanos y en todo el país para enviar refuerzos a la Ciudad de México.
