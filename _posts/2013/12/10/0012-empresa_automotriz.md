@@ -4,7 +4,7 @@ title: Firma Godezac acuerdo con empresa automotriz de origen canadiense
 twitt: ■ Planean que la nueva instalación tenga en principio 600 empleados
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
