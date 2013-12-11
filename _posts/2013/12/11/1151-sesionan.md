@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-Sin previo aviso, los diputados locales se trasladaron a sesionar al auditorio del Poder Judicial, para evitar que manifestantes acudan a interrumpir el trabajo legislativo. 
+![](http://i.imgur.com/K8vGMpfm.jpg)Sin previo aviso, los diputados locales se trasladaron a sesionar al auditorio del Poder Judicial, para evitar que manifestantes acudan a interrumpir el trabajo legislativo. 
 
 El inmueble está resguardado por decenas de granaderos, quienes impiden la entrada a cualquier persona que no sea de medios de comunicación, los diputados y el personal de apoyo.
 
