@@ -1,10 +1,10 @@
 ---
 published: true
-title: Robótica estatal
+title: Limpieza en Portal de Rosales
 author: ANDRÉS SÁNCHEZ
 location: Local
 category: Fuera de Foco
 layout: posts
 ---
 
-![](http://i.imgur.com/KYEBZnhm.jpg)
+![](http://i.imgur.com/CMsEZmim.jpg)
