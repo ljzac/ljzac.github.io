@@ -1,6 +1,6 @@
 ---
 published: true
-title: Calculan la llegada de 200 mil migrantes en la próxima temporada navideña
+title: Calculan la llegada de 200 mil migrantes durante la próxima temporada navideña
 author: ALMA ALEJANDA TAPIA
 location: Local
 category: Destacadas
