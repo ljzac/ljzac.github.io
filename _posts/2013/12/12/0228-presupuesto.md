@@ -67,4 +67,6 @@ Para la Secretaría de Finanzas se asignaron 364 millones 953 mil pesos; 181 mil
 
 Respecto del gasto total del Ejecutivo; el programable será de 16 mil 908 millones 311 mil 403 y del no programable, 5 mil 63 millones 478 mil 995.	
 
-Los diputados se citaron para este jueves a las 11 horas para continuar con la aprobación de las leyes de ingresos de varios municipios del estado. 
+Los diputados se citaron para este jueves a las 11 horas para continuar con la aprobación de las leyes de ingresos de varios municipios del estado.
+
+![](http://i.imgur.com/m8WIlcv.png)
