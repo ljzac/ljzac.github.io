@@ -1,22 +1,37 @@
 ---
 published: true
-title: Presenta el IFE su nuevo modelo de la identificación para votar
-twitt: "■ Tiene mayores medidas de seguridad para evitar la falsificación, asegura Castro Ramírez"
+title: "Modificaciones constitucionales, sólo con el argumento de la fuerza numérica: Monreal"
+twitt: "■ Mayoría de senadores transgrede voluntad de la ciudadanía, que rechaza reforma, afirma"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Política
 layout: posts
 ---
 
-![](http://i.imgur.com/X5r9l1Mm.jpg)
-El IFE presentó el nuevo modelo de credencial para votar, la cual tendrá mayores medidas de seguridad y mecanismos que eviten su falsificación. En Zacatecas son poco más de 100 mil micas las que deberán cambiarse por una nueva, ya que algunas están por vencer su vigencia, lo cual no significa que la de todos los ciudadanos deberán renovarse, detalló la vocal ejecutiva del IFE, Olga Alicia Castro Ramírez durante la presentación hecha ante varios sectores de la sociedad.
+![](http://i.imgur.com/piS4JqHm.jpg)
+■ Seguridad energética debería ser el bien público más importante de naciones desarrolladas
 
-Aunque con la reciente nueva reforma política, el nombre del IFE cambiará al del Instituto Nacional de Elecciones (INE) y por ende los documentos oficiales tendrán un nuevo nombre, Castro se pronunció porque no haya necesidad de renovar el total de las credenciales, ni siquiera las nuevas, las cuales ya se pueden tramitar desde este momento. 
+Tras la aprobación en la Cámara Alta de la reforma energética, el senador petista, David Monreal Ávila que votó en contra de la disposición, calificó la modificación de tres artículos de la Constitución, como una de las más “obscenas” ya que se dio sin más argumento que el de la fuerza numérica y mediante un trámite rápido de ventanilla que no beneficiará al país y mucho menos a Zacatecas.
 
-Durante la presentación hecha ayer, se detalló que el instrumento electoral considera nuevos elementos como estar elaborados con material de seguridad verificable mediante tintas, fotografía y microtextos. Se moderniza también el diseño general al tener un fondo de alta resolución que permite la generación de imágenes mediante finas líneas y patrones repetitivos como los que se usan en los billetes. 
+Sin contar que la decisión de la mayoría de los senadores ha transgredido la voluntad de una mayoría ciudadana que rechaza la reforma, la cual no pasó por alguna de las pruebas que la democracia participativa directa ha diseñado para modificar aspectos fundamentales de una Constitución, tales como la consulta popular, el plebiscito o el referéndum.
 
-Además se fortalece con elementos tecnológicos que permiten verificarla a simple vista, lo que la hace más resistente a posibles falsificaciones y alteraciones. Así como diseños de seguridad basados en los colores de tintas ultravioleta que son perceptibles con la luz negra. 
+Por contrario, lamentó, que una mayoría calificada en el Congreso Federal y la mayoría simple de al menos 17 congresos estatales quieren ser suficientes para reformar aspectos esenciales y fundamentales de la Carta Magna.
 
-También se le ha agregado a la credencial un código de lectura rápida con lo que se facilitará el acceso a servicios registrales y electorales, tales como la información sobre la ubicación de la casilla, módulo de atención ciudadana y verificar la vigencia de la credencial. Se le agregó una zona de lectura mecánica que permitirá promover en un futuro el uso de la credencial para votar como documento de viaje. Los ciudadanos podrán decidir si su domicilio será visible o no. 
+A decir de Monreal la reforma constitucional no tiene siquiera la más elemental de las pruebas de técnica jurídica, ya que modificó tres artículos constitucionales, pero introdujo 21 transitorios que en sí mismos son otra Constitución, de modo que nulifican o contradicen disposiciones de orden superior.
 
-El contrato de prestación de servicios para la elaboración de las micas se hizo con la empresa alemana G&D, la cual considera la producción de 68.2 millones de credenciales en el periodo 25 de noviembre de 2013 al 31 de diciembre de 2018, mismas que tendrán un costo de producción de poco menos de 10 pesos cada una. 
+Explicó que la más evidente se sostiene en el 27 constitucional con la prohibición de otorgar concesiones, pero en el cuarto transitorio se admite como modalidad de contrato la figura de “licencias”, que según dijo, el diccionario de la Real Academia es sinónimo de concesión, adjudicación, asignación, otorgamiento, permiso, privilegio, donación y entrega. 
+
+Otro ejemplo de imprecisión y vaguedad es la introducción de la figura jurídica de “asignaciones”, que es como un cajón de sastre donde caben 13 sinónimos y 16 antónimos, con lo que se abre la puerta a todo tipo de interpretaciones y controversias, atentando así contra la principal cualidad de una buena reforma, que es la certidumbre jurídica.
+
+Comentó que entre las más de 500 reformas constitucionales que ha tenido la Constitución a lo largo de 96 años de vida, ninguna había presentado este “desaseo, manoseo y desprecio” por la técnica jurídica que trae consigo la iniciativa de reforma energética constitucional.
+
+Para el senador, la  reforma tampoco pasó la prueba de la validación histórica, ya que la iniciativa original del Ejecutivo federal, decía estar inspirada en los contratos de utilidad compartida de la época de Lázaro Cárdenas, sin embargo, al incluir los contratos de producción compartida y las licencias de explotación petrolera, las cuales podrán ser contabilizadas como parte de los activos de las empresas petroleras, y al abrir indiscriminadamente el sector energético al capital privado, nacional y extranjero, el PRI y el PAN se fueron hasta toparse con Porfirio Díaz.
+Calificó a la reforma por tanto, como una especie de matrimonio de bienes mancomunados en los que prostituye la letra y el espíritu original del artículo 27 constitucional, y por contrario resucita la aventura privatizadora de las dos leyes petroleras del porfiriato.
+
+Es decir, la Ley del Petróleo del 24 de diciembre de 1901, donde se facultó al presidente a otorgar concesiones petroleras a particulares en terrenos nacionales y en zonas federales como ríos, playas, costas y lagunas, y  la Ley Minera de 1909, la cual quitó a la nación el dominio sobre los yacimientos.
+
+Agregó que incluso, en el inicio de la revolución energética que vive el mundo, por la transición de hidrocarburos caros y sucios al uso intensivo del gas shale y otras energías alternativas menos caras y más limpias, la seguridad energética nacional debería ser el bien público más importante de las naciones desarrolladas.   
+
+Es así que seguridad energética nacional es el criterio con el que Estados Unidos y Canadá reconfiguran sus economías domésticas a fin de conservar una posición hegemónica, y también es el detonador con el que China e India crecen a tasas superiores al seis por ciento anual.
+
+“Seguridad energética nacional es lo primero que apuntalan las potencias petroleras en sus estrategias de apertura, asociación y expansión, desde Arabia Saudita hasta Brasil, pero por desgracia es lo menos que trae esta reforma privatizadora del petróleo y la energía eléctrica”.
