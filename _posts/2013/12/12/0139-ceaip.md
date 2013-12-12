@@ -1,5 +1,8 @@
 ---
 published: true
+title: "Multa la CEAIP a Rafael Flores y ex alcalde de Susticacán; deberán pagar 18 mil 414 pesos y 30 mil 690, respectivamente"
+twitt: "■ Aperciben a edil de Jerez por falta de información en el portal  del ayuntamiento "
+author: Redacción
 location: Local
 category: Portada
 layout: posts
