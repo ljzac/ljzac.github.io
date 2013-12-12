@@ -2,7 +2,7 @@
 published: true
 title: "Aumentaron 8.4% nuevos casos de cáncer en el mundo desde 2008: OMS"
 author: Afp
-location: Nacional
+location: Internacional
 category: Ciencia y Tecnología
 layout: posts
 ---
