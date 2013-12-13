@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Obtiene Gobierno estatal empréstito de mil 700 mdp; asegura será destinado a educación http://ow.ly/rKqN0 "
+title: Aprueba Senado en comisiones creación de órgano nacional anticorrupción
 author: La Jornada
 location: Nacional
 category: Principales
