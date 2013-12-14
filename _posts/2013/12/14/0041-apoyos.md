@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Autoridades estatales realizan la entrega  de apoyos para fomentar el autoempleo
 author: "RAQUEL OLLAQUINDIA "
 location: Local
