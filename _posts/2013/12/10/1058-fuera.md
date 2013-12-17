@@ -3,7 +3,7 @@ published: true
 title: Y queda la devoción
 author: ERNESTO MORENO
 location: Local
-category: Destacadas
+category: Fuera de Foco
 layout: posts
 ---
 
