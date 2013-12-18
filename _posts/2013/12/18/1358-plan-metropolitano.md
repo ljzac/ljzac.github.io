@@ -1,6 +1,6 @@
 ---
 published: true
-title: Buscan crear agenda común entre Zacatecas y Guadalupe para gestión de recursos presupuestales
+title: "Buscan crear agenda común entre Zacatecas y Guadalupe para gestión de recursos "
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
