@@ -1,9 +1,9 @@
 ---
 published: true
 title: Constatan violación de eólicas a derechos de pueblos indígenas en Juchitán
-author: REDACCION
-location: Local
-category: Destacadas
+author: La Jornada
+location: Nacional
+category: Principales
 layout: posts
 ---
 
