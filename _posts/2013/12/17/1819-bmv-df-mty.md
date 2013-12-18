@@ -1,7 +1,7 @@
 ---
 published: true
 title: Anuncia BMV inversión de fideicomisos por mil 361 millones de pesos en DF y Monterrey
-author: REDACCION
+author: La Jornada
 location: Nacional
 category: Principales
 layout: posts
