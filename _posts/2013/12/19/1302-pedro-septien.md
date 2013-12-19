@@ -7,7 +7,7 @@ category: Deportes
 layout: posts
 ---
 
-México, DF. El periodista Pedro Septién Orozco, considerado uno de los más importante cronistas deportivos en México especializado en beisbol, falleció la noche del miércoles a la edad de 97 años a consecuencia de un paro cardiorespiratorio.
+![Fallece Pedro Septién Orozco, cronista deportivo. Foto Cuartoscuro.com](http://i.imgur.com/4PKCUoTm.jpg)México, DF. El periodista Pedro Septién Orozco, considerado uno de los más importante cronistas deportivos en México especializado en beisbol, falleció la noche del miércoles a la edad de 97 años a consecuencia de un paro cardiorespiratorio.
 
 En la red social Twitter, la Liga Mexicana de Béisbol escribió: "La #LMB lamenta el fallecimiento de don Pedro 'Mago' Septién, extraordinario cronista e inmortal del beisbol mexicano".
 
