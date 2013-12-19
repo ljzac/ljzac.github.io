@@ -8,7 +8,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-![](http://i.imgur.com/dEewJj5m.jpg)
+![](http://i.imgur.com/e7AWUzzm.jpg)
 Al realizar la cuarta entrega de apoyos de Mi Tiendita Sumar en lo que va de 2013, el gobernador Miguel Alonso Reyes celebró el primer año de existencia del programa, en un evento que benefició a los dueños de 100 comercios de abarrotes establecidos en 16 municipios del estado.
 
 Durante el presente año, dijo Alonso Reyes, se apoyaron 270 establecimientos con una inversión superior a los 2.5 millones de pesos, cifra que se destinó a surtir mercancías y remodelar los comercios.
