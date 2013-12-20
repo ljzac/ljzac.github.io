@@ -3,7 +3,7 @@ published: true
 title: Implantan en Francia corazón artificial autónomo
 author: Afp
 location: Internacional
-category: Mundo
+category: Ciencia y Tecnología
 layout: posts
 ---
 
