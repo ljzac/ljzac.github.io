@@ -4,7 +4,7 @@ title: "Realizan cuarta Feria de Diseño, en la Casa Municipal de Cultura"
 twitt: "■ El evento, una iniciativa independiente, se exhibe por primera vez en un espacio público"
 author: "ALMA\_RÍOS"
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
