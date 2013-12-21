@@ -4,7 +4,7 @@ title: "Reforma Hacendaria obligará al pequeño  comercio a desaparecer: líder
 twitt: "■ A partir de enero se espera que los cierres de negocios familiares se produzcan en cadena: Saucedo"
 author: "RAQUEL OLLAQUINDIA "
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
