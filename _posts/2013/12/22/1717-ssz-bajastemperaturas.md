@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Recomiendan SSZ extremar precauciones ante bajas temperaturas
 author: REDACCIÓN
 location: Local
