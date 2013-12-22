@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Cuenta Secturz con inventario de patrimonio turístico de la entidad en plataforma web
 author: REDACCION
 location: Local
