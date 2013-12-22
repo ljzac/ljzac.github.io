@@ -8,11 +8,16 @@ layout: posts
 ---
 
 ![Foto: Sitio oficial de Conaculta](http://i.imgur.com/ekVVX7Um.png)La muestra  colectiva  ´Arte Urbano, warning-laboratorio grafiti, intervención plástica sobre muro´  se alberga en la Sala de Exposiciones Temporales Anexa Hermanos de Santiago  del Centro Cultural Ciudadela del Arte. El creativo Francisco Javier Almaraz, coordinador de este proyecto, indicó que el objetivo “es generar nuevos espacios de cultura plástica con la finalidad también de que el grafiti se vea no como una agresión, sino como parte de un contexto plástico social”.
+
 La apertura de esta muestra contó con la presencia de los expositores Francisco Javier Almaraz y David Israel Espinoza, de los funcionarios del Instituto Zacatecano de Cultura (IZC), Dulce Muñoz, subdirectora de Difusión y Animación, J. Jesús Manuel Meza del director de la Ciudadela del Arte, y el titular de Cultura del ayuntamiento del municipio de Fresnillo, Leopoldo Smith MacDonald, invitados, familiares y público.  
+
 Durante el acto inaugural, Almaraz expresó que a nivel nacional, entidades como El Consejo Nacional para la Cultura y las Artes (Conaculta) cobija este proyecto, puesto que el grafiti como expresión artística tiene repercusión a escala mundial.
 En entrevista, David Israel Espinoza dio su opinión acerca de la legalización del grafiti, en la cual manifestó que todos van a salir beneficiados, tanto grafiteros, autoridades y la sociedad en general, puesto que esta ley puede proteger a quien cuente con un permiso sea del propietario o del ayuntamiento.
+
 En relación a las multas, los jóvenes ya no tendrán miedo, ya que se va a cuidar y respetar las áreas que no se deben de pintar.
+
 Explicaron que este propósito, en su segunda etapa, pretende documentar histórica y visualmente lo que en nuestra localidad sucede, bajo las siguientes tres asignaciones: el concepto del fresnillense sobre la relación y el sentido de pertenencia, el derecho a la identidad y el sentido de la territorialidad.
+
 Detallaron que hasta el siglo 14 la pared o el muro ha sido uno de los principales soportes para la creación, difusión y promoción de los productos plásticos (recuérdese la pintura mural). Sin embargo, en la actualidad, éste no representa un espacio creativo y libre, sino un espacio clausurado por el poder que históricamente se ha reservado a su utilidad.
  
 Tanto es así que este fenómeno espontáneo ha llegado a interpretarse como una amenaza y una transgresión. Podría decirse que la ley ha prohibido el libre acceso al mayor lienzo del mundo; es por eso que éste se ha llenado de trazos incontrolables e inentendibles.
