@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Ciudadela del Arte, sede de diversas actividades en esta temporada"
+author: REDACCIÓN
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
