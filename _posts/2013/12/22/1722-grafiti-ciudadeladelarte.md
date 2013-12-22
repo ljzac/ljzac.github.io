@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Plantea exposición visión artística del grafiti
 author: REDACCIÓN
 location: Local
