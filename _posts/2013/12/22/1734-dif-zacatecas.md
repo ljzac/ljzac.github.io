@@ -1,7 +1,9 @@
 ---
 published: true
+title: Atiende DIF municipal de Zacatecas demandas de grupos vulnerables
+author: REDACCIÓN
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
