@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Aprobó programa 3x1 obras por 154 mdp en 2013
 author: REDACCIÓN
 location: Local
@@ -20,4 +20,3 @@ Informó que las infraestructuras que aún están en construcción son el asilo 
 En las obras que se iniciarán estan el equipamiento del laboratorio de la escuela preparatoria José G. Montes, en Tlaltenango, y la pavimentación con concreto hidráulico en la calle Hy Line, en la comunidad Toyahua de Abajo en municipio de Nochistlán.
  
 El secretario señaló que los principales problemas detectados en el programa 3X1 son los procesos de contratación de obra pública inadecuados y la contratación de obras con empresas que no cuentan con capacidad técnica y financiera.
- 
