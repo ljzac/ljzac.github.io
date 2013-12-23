@@ -3,7 +3,7 @@ published: true
 title: Extradita Nicaragua a México a los 18 falsos periodistas de Televisa
 author: Afp
 location: Internacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
