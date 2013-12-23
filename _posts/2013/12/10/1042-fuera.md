@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Adulto toma un descanso en la vía pública
 author: ERNESTO MORENO
 location: Local

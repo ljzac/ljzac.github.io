@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Soldado observa una exposición fotográfica
 author: RAFAEL DE SANTIAGO
 location: Local

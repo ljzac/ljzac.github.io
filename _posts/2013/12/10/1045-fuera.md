@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Los Niños Triquis, durante una competencia contra la selección municipal de Guadalupe"
 author: ERNESTO MORENO
 location: Local

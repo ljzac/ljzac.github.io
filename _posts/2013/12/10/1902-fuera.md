@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Los Niños Triquis, durante su entrenamiento en el municipio Guadalupe"
 author: RAFAEL DE SANTIAGO
 location: Local

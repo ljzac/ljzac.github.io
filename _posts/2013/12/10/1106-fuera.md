@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Los Niños Triquis, en su visita al municipio de Guadalupe"
 author: ERNESTO MORENO
 location: Local

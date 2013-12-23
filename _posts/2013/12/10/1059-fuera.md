@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Reina y princesas de la Feria de la Virgen, en Guadalupe"
 author: ERNESTO MORENO
 location: Local

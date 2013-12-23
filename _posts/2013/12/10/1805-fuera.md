@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Protesta de docentes contra reforma educativa
 author: ANDRÉS SÁNCHEZ
 location: Local
