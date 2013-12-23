@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Arriban\_a Zacatecas 50 mil personas en la caravana migrante"
+title: Arriban a Zacatecas 50 mil personas en la caravana migrante
 twitt: Denuncian malos tratos y cobros excesivos del personal del Ciitev
 author: MARTÍN CATALÁN LERMA
 location: Local
