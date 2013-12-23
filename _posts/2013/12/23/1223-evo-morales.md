@@ -1,6 +1,6 @@
 ---
 published: true
-title: "No debe prohibirse el trabajo infantil; tampoco explotarlos: Evo Morales"
+title: "No debe prohibirse el trabajo infantil; el Estado debe cuidar de ellos: Evo Morales"
 author: Afp
 location: Internacional
 category: Mundo
