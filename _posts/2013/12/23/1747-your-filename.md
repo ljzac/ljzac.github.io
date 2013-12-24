@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Reconocen labor del instituto de formación profesional en materia de capacitación en derechos humanos "
 author: REDACCIÓN
 location: Local
