@@ -20,4 +20,3 @@ Además de formación en alta dirección para mandos policiales, programa de cap
 Uno de los acuerdos fue estrechar los canales de comunicación con autoridades federales y del resto del país para la elaboración de proyecto del programa rector de profesionalización.
 
 Asimismo, coincidieron en la necesidad de fortalecer los institutos y academias en materia de recursos humanos e infraestructura, así como la certificación de docentes e instructores evaluadores.
- 
