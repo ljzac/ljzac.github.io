@@ -7,4 +7,4 @@ category: Fuera de Foco
 layout: posts
 ---
 
-![](http://i.imgur.com/6C4QRSdm.jpg)
+![](http://i.imgur.com/JEWCw36m.jpg)
