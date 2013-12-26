@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Busca historiadora recuperar y difundir el acervo musical de los zacatecanos
 author: "ALMA\_RÍOS"
 location: Local
