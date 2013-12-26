@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Confía 'Flaco' Tena en que Marco Fabián se alejará de escándalos"
 author: Redacción
 location: Nacional
