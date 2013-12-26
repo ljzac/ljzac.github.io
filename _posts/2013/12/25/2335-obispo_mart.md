@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Coinciden MAR y obispo en unir esfuerzos  para dar atención integral al sector juvenil
 author: "REDACCIÓN "
 location: Local
