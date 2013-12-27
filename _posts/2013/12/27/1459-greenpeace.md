@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![El integrante de Greenpeace Dima Litvinov es recibido en el aeropuerto de Estocolmo, luego de 100 días preso en Rusia por una protesta contra la explotación de petróleo en el Ártico, cautiverio que padecieron 30 activistas. Reuters](/_posts/2013/12/27/dimalitvinov_Reuters.jpeg)Londres. Los activistas de Greenpeace dejados en libertad después de que los amnistiaran por una protesta en el Ártico ruso que atrajo la atención global dijeron que no cederán en su lucha a favor del ambiente en la región.
+![El integrante de Greenpeace Dima Litvinov es recibido en el aeropuerto de Estocolmo, luego de 100 días preso en Rusia por una protesta contra la explotación de petróleo en el Ártico, cautiverio que padecieron 30 activistas. Reuters](http://i.imgur.com/zgMHkkOm.jpg)Londres. Los activistas de Greenpeace dejados en libertad después de que los amnistiaran por una protesta en el Ártico ruso que atrajo la atención global dijeron que no cederán en su lucha a favor del ambiente en la región.
 
 En momentos en que llegaban a sus países desde Rusia los 30 integrantes de la tripulación de un barco de Greenpeace arrestados por protestar frente a una plataforma petrolera, los mensajes de desafío prevalecían en las entrevistas así como en los comunicados que emitían las representaciones locales del grupo ambientalista.
 
