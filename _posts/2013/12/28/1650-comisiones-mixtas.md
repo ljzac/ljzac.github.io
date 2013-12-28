@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Convoca DTyPS a empresarios a conformar comisiones mixtas de adiestramiento
 author: REDACCIÓN
 location: Local
@@ -19,4 +19,4 @@ Los comités deberán estar integrados por igual número de representantes de lo
  
 Los integrantes tendrán como principal función, vigilar, instrumentar, operar y mejorar los sistemas y programas de capacitación y adiestramiento.
  
-Podrán proponer cambios en maquinaria, equipo, organización de trabajo y relaciones laborales, de conformidad  y enfocadas a mejores prácticas tecnológicas y organizativas  que incrementen la productividad. 
+Podrán proponer cambios en maquinaria, equipo, organización de trabajo y relaciones laborales, de conformidad  y enfocadas a mejores prácticas tecnológicas y organizativas  que incrementen la productividad.
