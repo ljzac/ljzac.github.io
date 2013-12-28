@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Reporta gobierno federal 16 mil 736 homicidios dolosos en primer año de EPN
 author: Redacción
 location: Nacional
@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. Durante el primer año del sexenio actual se reportan en todo el país 16 mil 736 homicidios dolosos, ocho mil 17 extorsiones y mil 704 secuestros.
+![](http://i.imgur.com/CLBw48Zm.jpg)México, DF. Durante el primer año del sexenio actual se reportan en todo el país 16 mil 736 homicidios dolosos, ocho mil 17 extorsiones y mil 704 secuestros.
 
 En el último corte informativo mensual, correspondiente a noviembre pasado, hay una ligera baja en casi todos los delitos clasificados en las procuradurías estatales, incluidos los de extorsión y secuestro que habían mantenido una tendencia alcista desde el inicio de esta administración.
 
