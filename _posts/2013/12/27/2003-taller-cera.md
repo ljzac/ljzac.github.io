@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Laborioso  el taller de figuras  de cera en Centro Cultural Ciudadela del  Arte
 author: REDACCIÓN
 location: Local
