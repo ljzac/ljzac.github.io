@@ -1,0 +1,28 @@
+---
+published: true
+title: Descubren gen que contribuye a incrementar riesgo de desarrollar diabetes
+author: Redacción
+location: Nacional
+category: Ciencia y Tecnología
+layout: posts
+---
+
+![](http://i.imgur.com/f2l2aYfm.jpg)México, DF. Como parte de la Iniciativa Slim en Medicina Genómica, un grupo internacional de investigadores del Instituto Broad del MIT y Harvard, el Massachusetts General Hospital, la Escuela de Medicina de Harvard, la Keck School of Medicine de la Universidad del Sur de California, el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, el Instituto de Investigaciones Biomédicas de la UNAM, el Instituto Nacional de Medicina Genómica (INMEGEN) y el Estudio de Diabetes de la Ciudad de México, dirigido por Clicerio González-Villalpando, descubrieron una nueva clave genética que contribuye a incrementar el riesgo de desarrollar diabetes tipo 2 en los mexicanos y otras poblaciones de América Latina.
+
+El equipo, conocido como el Consorcio SIGMA de Diabetes Tipo 2, identificó un nuevo gen de riesgo para la diabetes tipo 2. Las personas portadoras de este gen tienen un 25 por ciento más de probabilidades de padecer diabetes que aquellas que no la tienen, y el riesgo es hasta del 50 por ciento en quienes lo han heredado de ambos padres. La variante se encuentra únicamente en alrededor del 20 por ciento de los asiáticos del Este y es rara en las poblaciones de Europa y África. La presencia de este gen pudiera ser parte de la explicación del por qué la diabetes es más frecuente en América Latina que en otras partes del mundo.
+
+“A la fecha, los estudios genéticos han utilizado principalmente muestras de personas de ascendencia europea o asiática, lo que impide que se puedan encontrar genes afectados en otras poblaciones,” dijo Jose Florez, co-coordinador del estudio e investigador del Broad Institute y el Massachussetts General Hospital. “Al incluir muestras de México y América Latina, hemos encontrado uno de los más fuertes factores genéticos descubiertos hasta la fecha, el cual podría dar lugar al desarrollo de nuevos tratamientos para atacar la enfermedad.”
+
+Con la finalidad de aprovechar éstos y otros descubrimientos para el desarrollo de nuevas herramientas de diagnóstico y tratamiento de la diabetes y el cáncer, la Fundación Carlos Slim y el Broad Institute anunciaron recientemente el arranque de la segunda fase de la Iniciativa en Medicina Genómica, con una contribución adicional de 74 millones de dólares por parte de la Fundación, para llegar a los 139 millones de dólares en total, con lo que continuará el trabajo científico de investigadores en México y Estados Unidos.
+
+La revista Nature publicó el artículo denominado SLC16A11 en el que describe el trabajo del Consorcio SIGMA. Nature es una de las más importantes revistas científicas del mundo en donde han sido publicados trabajos tan relevantes como el descubrimiento de la estructura del ADN en 1953 y la secuencia del genoma humano en 2001.
+
+“Hemos conducido el estudio genómico más grande y exhaustivo sobre diabetes tipo 2 en poblaciones mexicanas hasta la fecha. Además de validar la relevancia para México de factores genéticos de riesgo ya conocidos, descubrimos un nuevo e importante factor de riesgo que es mucho más común en poblaciones latinoamericanas que en otras poblaciones alrededor del mundo. Ya estamos utilizando esta información para diseñar nuevos estudios, con el propósito de entender cómo esta variante influye en el metabolismo y la enfermedad, con la esperanza de eventualmente desarrollar una mayor evaluación del riesgo y, posiblemente, tratamiento” dijo Teresa Tusie Luna, co-coordinadora del proyecto e investigadora del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán y del Instituto de Investigaciones Biomédicas de la UNAM.
+
+Aunque ya se conocía la existencia del gen SLC16A11, es la primera vez que se identifica su rol en la diabetes. Los investigadores han demostrado que alteraciones en este gen pueden afectar el metabolismo de la grasa, lo cual está asociado con el riesgo de padecer diabetes. Estos hallazgos han conducido al equipo a suponer que SLC16A11 puede estar involucrado en el transporte de un metabolito desconocido que afecta los niveles de grasa en las células y, por lo tanto, incrementa el riesgo de diabetes tipo 2.
+
+“Uno de los aspectos más emocionantes de este trabajo es que hemos descubierto una nueva pista acerca de la biología de la diabetes,” dijo David Altshuler, Subdirector y Director Académico en el Broad Institute. “Ahora nos estamos esforzando en tratar de descubrir cómo funciona el gen y qué pasos llevan al desarrollo de la diabetes tipo 2.”
+
+Esta colaboración internacional de científicos de los institutos de investigación más importantes en México y Estados Unidos fue hecha posible gracias a la Iniciativa Slim en Medicina Genómica, que promueve la investigación genómica para ponerla al servicio de la salud global. El estudio también contó con apoyo financiero del CONACyT, los Institutos Nacionales de Salud de Estados Unidos, el Consejo Nacional de Investigación Médica de Singapur, y la Veterans Administration de EU.
+
+“Para la Fundación Carlos Slim la Iniciativa ha sido una historia de éxito total. Nuestros extraordinarios aliados, tanto en México como en Estados Unidos, han hecho posible alcanzar avances históricos en la comprensión de las causas básicas de la diabetes mellitus tipo 2. Con nuestras contribuciones buscamos mejorar la manera en la cual la enfermedad es prevenida, detectada y tratada”, señaló el Dr. Roberto Tapia Conyer, Director General de la Fundación Carlos Slim.
