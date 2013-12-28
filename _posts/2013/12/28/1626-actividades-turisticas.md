@@ -1,6 +1,6 @@
 ---
 published: true
-title: Intensificaron su desarrollo diversos segmentos turísticos en municipios durante 2014
+title: "Intensificaron su desarrollo diversas actividades turísticas en municipios durante 2013 "
 author: REDACCIÓN
 location: Local
 category: Destacadas
