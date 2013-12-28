@@ -1,0 +1,33 @@
+---
+published: true
+title: Deseos de Año Nuevo
+author: "Eduardo Francisco Ríos Martínez*"
+location: Local
+category: Opinión
+layout: posts
+---
+
+Como siempre sucede la mayoría de la gente hace su lista de buenos deseos, ya sea para practicarlos o para que acontezcan, acepto que yo soy uno de ellos, creo en la posibilidad de que se realicen si no todos los deseos que pido por lo menos la parte que corresponde a los deseos que tienen un carácter  incluyente y no sólo me satisfaga en mi ego, desde luego que me decía mi abuela pide por los demás que ya te llegará lo tuyo, y por esta ocasión le hago caso, nada pierdo y en cambio todos ganamos si los deseos que a continuación enumere se materializan:
+
+1. Que en México se practique la democracia en todos los ámbitos, desde el sistema de gobierno, de partidos, las organizaciones sindicales y patronales, las asociaciones civiles y todos los conglomerados de ciudadanos que requieren tomar acuerdos y decisiones que los trasciendan. Es decir, que México viva realmente una nueva era aún a costa de la herencia autoritaria y excluyente que con gran maestría han actualizado y pulido los gobiernos del PAN y del PRI a nivel nacional y en los estados los distintos partidos políticos que han querido ser diferentes a los arriba señalados y terminan siendo peor.
+
+2. Para que nuestra economía tenga un dinamismo se requiere de un mercado interno con una característica muy peculiar,  incentivar el consumo de la gran mayoría de los asalariados, ya sean estos trabajadores de la industria manufacturera, de los servicios, agrícolas, profesionistas, intelectuales y aquellos que se les denomina auto empleados. Lo anterior no funciona sino se les otorga un salario remunerador  y por encima tres veces más del índice de inflación definido por el Banco de México.
+
+3. El gran capital tenga una gran iniciativa sin olvidar su interés de crear una serie de conjuntos de ciudades del trabajo que operen como polos de desarrollo del país, aprovechando las oportunidades de orden geopolíticas y económicas, coadyuvando al fortalecimiento económico y social de México, y garantizar con ello en un horizonte de 30 años el paso de nuestro país al nivel de nación emergente con capacidad de liderazgo tanto con Centroamérica como con los países más cercanos del cono sur.
+
+4. Asombrarse de la manera en como irrumpe el Estado Mexicano en la política internacional, salvaguardando los intereses y riqueza del país, aún a costa de entrar en conflicto diplomático con los países que han venido usufructuando la riqueza nacional y cuya rapiña a dejado solamente hoyos y desiertos en donde hubo vida y ecosistemas con desgraciadamente es irreversible su pérdida. Y no sólo lo que hemos mencionado sino de iniciar un encuentro de alto nivel con Barack Obama y su equipo para garantizar la protección de nuestros connacionales y se les de certeza de un trato digno en una Reforma Migratoria que no debe esperar para después dirá EPN.
+
+5. Para no dejar fuera a los fanáticos del denominado deporte nacional, la selección de futbol que va a intervenir en La Copa Mundial FIFA Brasil 2014 logrará un tercer lugar con un juego jamás visto en dónde los mexicanos y los naturalizados mostraran que si saben jugar al futbol y saben llevar adelante un  juego táctico que dejará sorprendido al Piojo Herrera a tal grado que se sentirá con la capacidad de probar suerte como técnico en el futbol inglés, lo que causará igual actitud en los jugadores de la verde que empezaran a buscar contratos en Europa, de tal suerte que al momento de ser felicitados por el Presidente de la República mostraran su gran corazón por la niñez de México y lo recibido lo donaran a la niñez de escasos recursos.
+
+6. De la noche a la mañana, casi como un sueño, el narco volverá a sus prácticas de antaño y dejara de incidir en la sociedad civil, utilizando otros espacios y tácticas para decidir sus diferencias con el Estado Mexicano y este último iniciará una estrategia de gran envergadura en la que el núcleo de esta será la educación con grandes inversiones de capital social que permita volver  digna y de calidad a la educación mexicana, y otorgarle su naturaleza pública y laica, y en aquellos niveles que constitucionalmente sean obligatorios serán gratuitos, sin que ello implique el no pagar salarios que le den capacidad de una vida digna y de calidad para quienes ejerzan la docencia.
+
+7. México es un país de gente saludable, por varias razones entre las que se cuentan los programas de alimentación y de cultura física que se articulan con la eficacia, eficiencia y calidad de primer mundo, de los diversos sistemas de salud del Estado, los cuales han recibido reconocimiento por países: como Suiza, Dinamarca, Francia. Cuba y Estados Unidos de Norte América. Aunado a lo anterior, existe un plan maestro para enviar a médicos a diferentes países a recibir instrucción en aquellos campos de la ciencia médica que requiere nuestra población, desde la niñez hasta los adultos mayores, a la vez se  recibirá la visita generosa de eminencias médicas y de la salud pública, para trabajar en la creación del Centro de Medicina Interdisciplinaria y de Salud Social y de Investigación Aplicada.
+
+8. Zacatecas dejará de ser  terreno fértil para mineras y empresas que no crean empleos bien remunerados y con estancias que se los garantizan contratos leoninos. El turismo podrá admirar el verdadero Zacatecas, no sólo la ciudad y su Centro Histórico sino la magia que existe en todo su territorio y para ello se creará una Coordinación de Expertos en Turismo nacional, internacional y Gestión de Calidad de los entornos turísticos, en los que no estén integrados amigos o colados, esta Coordinación al final de un período de trabajo presentara un Atlas de Turismo y Desarrollo sostenible de los entornos productivos, garantizando con ello la vida de la diversidad de ecosistemas del Estado.
+
+9. Finalmente no destruyeron la alameda J. Trinidad García de la Cadena, y con los recursos que se tienen se remodele ese espacio público, impidiendo así  la privatización de ese espacio urbano  a través de bares y antros de junior de hijos de funcionarios públicos, la socialización de los habitantes de la Ciudad de Zacatecas tendrán un lugar en el que sus vidas transcurran sin violencia. La remodelación que se realizó fue una demostración de la capacidad creativa de los zacatecanos y otros estados y países reconocen por medio de fotografías o solicitando a quien realizó el trabajo, lo haga en los espacios urbanos que han elegido para ese fin. ■
+
+Al fin deseos….
+
+
+*Docente investigador de la Universidad Autónoma de Zacatecas
