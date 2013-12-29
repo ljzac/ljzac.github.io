@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "En México, 30 por ciento de los diabéticos no responde a la metformina"
 author: Agencia ID
 location: Nacional
