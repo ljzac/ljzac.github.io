@@ -35,4 +35,4 @@ Entre los 11 diputados que asistieron a todas las sesiones de diciembre están l
 
 Del PT, Alfredo Femat Bañuelos también asistió a las 18 sesiones, al igual que los dos integrantes de la bancada del PVEM, Cuauhtémoc Calderón Galván y Susana Rodríguez Márquez. Nadie del PRD, MC y Panal tuvo el total de las 18.
 
-![](http://i.imgur.com/YX4zeNwm.jpg)
+![](http://i.imgur.com/YX4zeNw.jpg)
