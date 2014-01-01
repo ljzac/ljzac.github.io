@@ -1,13 +1,13 @@
 ---
 published: true
-title: Implementa SMDIF Guadalupe programa “En grande contra las adicciones”
+title: Implementa SMDIF Guadalupe programa En grande contra las adicciones
 author: REDACCIÓN
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/xtHerJYm.jpg)GUADALUPE, ZAC.- Atendiendo a las indicaciones de la presidenta del Sistema Municipal para el Desarrollo Integral de la Familia (SMDIF) Guadalupe, Ana Elena Rosas de Luévano, la institución emprendió taras de prevención entre jóvenes guadalupenses, mediante el programa “En grande contra las adicciones”.
+![](http://i.imgur.com/xtHerJYm.jpg)GUADALUPE, ZAC.- Atendiendo a las indicaciones de la presidenta del Sistema Municipal para el Desarrollo Integral de la Familia (SMDIF) Guadalupe, Ana Elena Rosas de Luévano, la institución emprendió taras de prevención entre jóvenes guadalupenses, mediante el programa En grande contra las adicciones.
 
 Al cierre de este 2013, el programa social de prevención, fue de vital
 importancia para 164 jóvenes de entre 12 y 16 años que recibieron las
