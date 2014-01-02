@@ -3,7 +3,7 @@ published: true
 title: Relacionan investigadores enfermedades bucales con hipertensión y diabetes
 author: " Agencia ID"
 location: Nacional
-category: Principales
+category: Ciencia y Tecnología
 layout: posts
 ---
 
