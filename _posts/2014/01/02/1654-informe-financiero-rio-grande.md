@@ -1,6 +1,6 @@
 ---
 published: true
-title: Río grande presenta informe financiero correspondiente al mes de noviembre 2013
+title: Río Grande presenta informe financiero correspondiente a noviembre 2013
 author: REDACCIÓN
 location: Local
 category: Destacadas
@@ -48,4 +48,3 @@ Por otro lado, después de que en la sesión ordinaria pasada de cabildo presidi
 En este sentido, los integrantes de las comisiones señalaron que la primer solicitud turnada, consistió en permitir la vialidad en un solo carril y permitir el estacionamiento en la calle Corregidora de la cabecera municipal en el tramo ubicado a la altura de la calle Allende y hasta la calle Constitución.
 
 El cabildo en pleno, con la presencia de la síndico Ana Marianela Hernández Peña y del secretario del ayuntamiento, Felipe de Jesús Badillo Ramírez aprobaron por unanimidad el dictamen presentado durante la última sesión ordinaria del año.
-
