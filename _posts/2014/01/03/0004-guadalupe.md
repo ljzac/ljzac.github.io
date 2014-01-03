@@ -4,7 +4,7 @@ title: "Hasta mediados del año se espera comenzar  la aplicación del emprésti
 twitt: ■ Carlos Peña Badillo señala que el recurso para la capital se ejercerá a partir de marzo
 author: RAQUEL OLLAQUINDIA y RAFAEL DE SANTIAGO
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
@@ -45,5 +45,3 @@ Así como para el pago de obras de infraestructura, entre ellos hacer obras a la
 En otro tema, dentro del marco del festejo del Día del Policía, anunció que se buscará la creación de un mando único, iniciando el proyecto con los municipios de Fresnillo y Guadalupe, lo cual se espera consolidar este año.
 
 Actualmente están certificados cerca de 170 elementos de la Dirección de Seguridad Pública Municipal de un total de casi 270, además se revisará el número de policías que no aprobaron los exámenes de confianza en este mes para buscar el recurso para las liquidaciones correspondientes o su reubicación, dependiendo del caso.
- 
- 
