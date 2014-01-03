@@ -3,7 +3,7 @@ published: true
 title: Con llantas en desuso fabricarían neumáticos nuevos y otros productos
 author: Agencia ID
 location: Nacional
-category: Principales
+category: Ciencia y Tecnología
 layout: posts
 ---
 
