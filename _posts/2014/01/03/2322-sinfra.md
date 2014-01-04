@@ -4,7 +4,7 @@ title: Supervisa Sinfra avance en rehabilitación de fachadas en el Bulevar Metr
 twitt: "■ Mejorar la imagen urbana y dignificar esta vía, los objetivos generales de la obra"
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
