@@ -11,7 +11,7 @@ layout: posts
  
 Ante la alerta de la privación ilegal de la libertad de Luis Trujillo, de 83 años de edad, se instrumentó un ‘operativo’ de elementos estatales y militares, con el apoyo del helicóptero de la Secretaría de Seguridad Pública (SSP), que concluyó con el rescate de la víctima.
  
-Jesús Pinto Ortiz, titular de la SSP, y Filemón Carlos Robles, presidente municipal de Tepetongo, mantuvieron comunicación permanente durante la búsqueda del empresario agrícola, lo que derivó en su localización.
+Jesús Pinto Ortiz, titular de la SSP, y Sinforiano Armenta García, presidente municipal de Tepetongo, mantuvieron comunicación permanente durante la búsqueda del empresario agrícola, lo que derivó en su localización.
  
 Las autoridades municipales solicitaron el apoyo de la PEP, tras saber de la privación de la libertad de Luis Trujillo, conocido en la localidad como "El Veterano".
  
