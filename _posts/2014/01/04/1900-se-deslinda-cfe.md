@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-![Rescatistas ayudan a un trabajador que quedó atrapado tras el derrumbe en el segundo piso de una obra en construcción de la CFE. Foto ](http://i.imgur.com/2y2FhP2m.jpg)México, DF. A través de un comunicado, la Comisión Federal de Electricidad (CFE) se deslindó del derrumbe ocurrido en obras de construcción en la Subestación Narvarte, mismas que, dijo, son realizadas por parte de la empresa contratista Consorcio CYMI-Cobra.
+![Rescatistas ayudan a un trabajador que quedó atrapado tras el derrumbe en el segundo piso de una obra en construcción de la CFE. Foto La Jornada](http://i.imgur.com/2y2FhP2m.jpg)México, DF. A través de un comunicado, la Comisión Federal de Electricidad (CFE) se deslindó del derrumbe ocurrido en obras de construcción en la Subestación Narvarte, mismas que, dijo, son realizadas por parte de la empresa contratista Consorcio CYMI-Cobra.
 
 Tras precisar que un trabajador perdió la vida y 24 resultaron lesionados, la empresa lamentó "profundamente este infortunado accidente" y expresó "sus más sentidas condolencias a la familia y a los compañeros del trabajador fallecido".
 
