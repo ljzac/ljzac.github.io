@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/s4GbN52m.jpg)El gobernador Miguel Alonso Reyes festejó el ‘Día de la Enfermera’, partiendo la tradicional rosca de Reyes en el Hospital General de Zacatecas. 
+![Foto RAFAEL DE SANTIAGO](http://i.imgur.com/HPJ9aEnm.jpg)El gobernador Miguel Alonso Reyes festejó el ‘Día de la Enfermera’, partiendo la tradicional rosca de Reyes en el Hospital General de Zacatecas. 
 
 En su mensaje, exhortó a los más de 400 enfermeros que trabajan en el nosocomio a seguir brindando una atención profesional y un trato humano. 
 
