@@ -1,6 +1,6 @@
 ---
 published: true
-title: Realiza IZC proyectos de cultura para 2014
+title: Realiza IZC proyectos para 2014
 author: REDACCIÓN
 location: Local
 category: Destacadas
