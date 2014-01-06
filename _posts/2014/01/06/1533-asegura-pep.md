@@ -1,6 +1,6 @@
 ---
 published: true
-title: Asegura PEP en UNIRSE de Malpaso vehículo con reporte de robo; un detenido
+title: Asegura PEP en Unirse de Malpaso vehículo con reporte de robo; un detenido
 author: REDACCIÓN
 location: Local
 category: Destacadas
