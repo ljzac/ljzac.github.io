@@ -4,7 +4,7 @@ title: Registra Dirección de Seguridad Pública cinco robos a comercios en la z
 twitt: "■ En la colonia La Herradura se reportó atraco a tienda, hay 2 heridos: Juan José Ríos"
 author: RAFAEL DE SANTIAGO
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
