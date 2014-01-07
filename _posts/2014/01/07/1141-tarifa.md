@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![Foto: ERNESTO MORENO](http://i.imgur.com/qYyXI05m.jpg)Integrantes de la Asociación de Concesionarios de Microbuses de Zacatecas (Acomiz) ofrecieron una conferencia de prensa para corroborar la versión de Gobierno del Estado en relación a los hechos asociados al incremento, este 2014, del costo del pasaje en los camiones urbanos y suburbanos en el estado. 
+![Foto: ERNESTO MORENO](http://i.imgur.com/qYyXI05m.jpg)Integrantes de la Asociación de Concesionarios de Microbuses de Zacatecas (Acomiz) ofrecieron una conferencia de prensa, coincidente con las expresiones de Gobierno del Estado  acerca de las razones detrás del incremento al costo del traslado en los camiones urbanos y suburbanos en el estado, implementado desde el primero de enero de 2014.
 
 Jesús Reyes Meléndrez, presidente de Acomiz, pidió la comprensión de los usuarios del servicio ante esta medida, agregando que "ya nos veíamos ahogados", pues desde el 29 de mayo de 2011, cuando se realizó la última alza al transporte, ha incrementado mes con mes el combustible, y durante estos años otros insumos se han elevado desfasando sus costos de operación entre 40 y 50 por ciento, expuso. 
 
