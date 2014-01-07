@@ -1,7 +1,9 @@
 ---
 published: true
+title: Solicitan diputados al Gobierno estatal elaborar un plan de rescate de la economía familiar
+author: RAQUEL OLLAQUINDIA
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
