@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Ofrece IZC talleres de escultura a la comunidad artística y sociedad Zacatecana  "
+title: "Ofrece IZC talleres de escultura a la comunidad artística y sociedad zacatecana  "
 author: REDACCIÓN
 location: Local
 category: Destacadas
