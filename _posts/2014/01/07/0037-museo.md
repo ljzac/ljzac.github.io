@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Productiva, la colaboración entre El Pasillo y el Museo\_Comunitario\_de Zóquite"
 twitt: "■ En exposición dan cuenta de la identidad de la comunidad, sus campesinos y paisajes"
 author: "Alma\_Ríos"
