@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Cabalgata en Guadalupe
 author: RAFAEL DE SANTIAGO
 location: Local

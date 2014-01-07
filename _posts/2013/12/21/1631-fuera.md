@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Manifestación contra sesión legislativa donde fueron abordados la reforma energética y el presupuesto estatal 2014
 author: ERNESTO MORENO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Nevada Zacatecas 2010
 author: ODÍN SALINAS
 location: Local

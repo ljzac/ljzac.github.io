@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Artesanos trabajando
 author: RAFAEL DE SANTIAGO
 location: Local

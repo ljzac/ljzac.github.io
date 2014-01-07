@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: La Bufa cubierta
 author: ODÍN SALINAS
 location: Local

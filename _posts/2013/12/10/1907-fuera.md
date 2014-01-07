@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Vida cotidiana en el municipio Francisco R. Murguía
 author: RAFAEL DE SANTIAGO
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Panorámica de bulevar
 author: ODÍN SALINAS
 location: Local
