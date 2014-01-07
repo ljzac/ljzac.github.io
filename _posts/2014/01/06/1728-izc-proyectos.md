@@ -28,3 +28,5 @@ Además de la reapertura de este espacio, Gustavo Salinas dijo que el año entra
 A la mitad del sexenio del gobierno que encabeza Miguel Alonso Reyes, el director del IZC admitió que aún se sigue trabajando para concretar varios proyectos, como es el caso de la conformación del Centro Estatal de las Artes.
  
 Afirmó que dicho proyecto sería, sin duda, un apoyo importante para los artistas zacatecanos y creadores, pues tendrían la oportunidad de aprovechar la gran riqueza cultural de la entidad para intercambiar puntos de vista y formar nuevos talentos.
+
+Otro proyecto importante para la segunda mitad del sexenio consiste en consolidar la creación del canal de televisión, el cual complementaría el trabajo que realiza radio Zacatecas para impulsar y difundir la cultura.
