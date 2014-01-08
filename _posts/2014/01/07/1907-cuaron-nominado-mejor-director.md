@@ -3,7 +3,7 @@ published: true
 title: "Alfonso Cuarón, nominado a Mejor Director 2013 por los DGA"
 author: Notimex
 location: Internacional
-category: Mundo
+category: Cultura y Espectáculos
 layout: posts
 ---
 
