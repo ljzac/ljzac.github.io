@@ -15,6 +15,8 @@ DOS: ¿Pinos, en “lista negra” de Sedesol?
 TRES: Rosca en Zacatecas: la tercera es la vencida.
 
 COLOFÓN: Sobre Elba Esther y las defraudaciones fiscales.
+
+
  
 **UNO: “El amor hace pasar el tiempo… y el tiempo hace pasar el amor”**
 
@@ -29,6 +31,8 @@ No molesta la obra en sí, comentan los propietarios de negocios en esta avenida
 
 Se sienten, dicen, frente a un gobierno municipal que no ve como responsabilidad suya informar a la ciudadanía sobre medidas que la afectarán.
 Otro.
+
+
  
 **DOS: “Ya estarás, linterna sorda: deja prender mi velita”**
 
@@ -49,6 +53,8 @@ Y mientras eso sucede… nanay con la dotación de nuevos apoyos.
 Será melón, será sandía, cuentan que Uribe sí anda preocupado, pero no por eso sino porque sigue en su afán de poder algún día encabezar el Comité Directivo Estatal del PRI.
 
 Así se las gastan, y en todos los partidos.
+
+
  
 **TRES: Rosca para repartir**
 
@@ -64,6 +70,8 @@ Trascendió que los organizadores de este evento tuvieron este año la magnífic
 La “irregular” la pusieron previendo los lances que se han dado en al menos tres ediciones anteriores.
 
 Y la “bien formada” quedó para un reparto ordenado, a cargo de personal asignado a ello.
+
+
  
 **COLOFÓN: “Algo más malo que la carne de puerco”**
 
