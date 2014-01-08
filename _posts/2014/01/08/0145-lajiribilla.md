@@ -9,11 +9,16 @@ layout: posts
 ---
 
 UNO: Se rebelan comerciantes de Fresnillo ante obras mal planeadas.
+
 DOS: ¿Pinos, en “lista negra” de Sedesol?
+
 TRES: Rosca en Zacatecas: la tercera es la vencida.
+
 COLOFÓN: Sobre Elba Esther y las defraudaciones fiscales.
  
 **UNO: “El amor hace pasar el tiempo… y el tiempo hace pasar el amor”**
+
+
 Desde la primera quincena de diciembre se anunció: los comerciantes fresnillenses de la avenida García Salinas comenzaron a inconformarse ante el rumor de una posible obra “de remodelación” de esa vía principal en ese municipio.
 
 La empezarían días antes de las ferias de Navidad, y posiblemente continúen el Día del Amor y la Amistad.
@@ -26,6 +31,8 @@ Se sienten, dicen, frente a un gobierno municipal que no ve como responsabilidad
 Otro.
  
 **DOS: “Ya estarás, linterna sorda: deja prender mi velita”**
+
+
 Allá en Pinos crece el rumor de que Gustavo Uribe, ex alcalde, dejó al gobierno municipal mal parado.
 
 Y otros son los que están pagando el pato.
@@ -44,6 +51,8 @@ Será melón, será sandía, cuentan que Uribe sí anda preocupado, pero no por 
 Así se las gastan, y en todos los partidos.
  
 **TRES: Rosca para repartir**
+
+
 Si no puedes con el enemigo, únete a él... o por lo menos despístala.
 
 En la tarde de este martes, el Centro Histórico de la capital zacatecana fue cerrado a la circulación de automóviles para departir, o más bien “repartir”, en torno a una rosca de reyes de 2 kilómetros y 200 metros de longitud.
@@ -57,6 +66,8 @@ La “irregular” la pusieron previendo los lances que se han dado en al menos 
 Y la “bien formada” quedó para un reparto ordenado, a cargo de personal asignado a ello.
  
 **COLOFÓN: “Algo más malo que la carne de puerco”**
+
+
 A propósito de que este martes han ratificado formal prisión a Elba Esther Gordillo, en la serie televisiva norteamericana Breaking Bad, un abogado explica a un joven fabricante de drogas que debe “lavar” su dinero a través de la posesión de un negocio.
 
 “¿Sabes lo que sucede si el ISR (en México sería Hacienda) se da cuenta de que gastas tanto dinero sin tener negocios?”, pregunta el abogado.
