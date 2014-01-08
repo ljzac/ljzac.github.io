@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![Foto: RAFAEL DE SANTIAGO](/http://i.imgur.com/LLrv36Zm.jpg)Hace unos minutos, fue compartida entre cientos de zacatecanos la monumental rosca de Reyes, tradición que desde hace 13 años inició el gobernador Miguel Alonso durante su administración en el ayuntamiento de la capital en 2001.
+![Foto: RAFAEL DE SANTIAGO](http://i.imgur.com/2yOEV2Bm.jpg)Hace unos minutos, fue compartida entre cientos de zacatecanos la monumental rosca de Reyes, tradición que desde hace 13 años inició el gobernador Miguel Alonso durante su administración en el ayuntamiento de la capital en 2001.
 
 Alonso Reyes agradeció la participación de 50 panaderías que integran el gremio de panaderos en la entidad, quienes elaboraron una rosca gigante de dos mil 200 metros de longitud.
 
