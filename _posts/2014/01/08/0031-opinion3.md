@@ -3,7 +3,7 @@ published: true
 title: "Año nuevo: retomar el paradigma del desarrollo humano"
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 
