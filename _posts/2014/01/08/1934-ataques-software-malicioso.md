@@ -3,7 +3,7 @@ published: true
 title: "Aumentan ataques con software malicioso en dispositivos móviles : McCafee"
 author: La Jornada
 location: Nacional
-category: Principales
+category: Ciencia y Tecnología
 layout: posts
 ---
 
