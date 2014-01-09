@@ -2,8 +2,8 @@
 published: true
 title: Osorio Chong se reúne con gobernadores para abordar estrategia contra secuestro
 author: Redacción
-location: Internacional
-category: Mundo
+location: Nacional
+category: Principales
 layout: posts
 ---
 
