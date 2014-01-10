@@ -2,7 +2,7 @@
 published: true
 title: Lanza empresa de EU cápsula no tripulada para abastecer a la EEI
 location: Internacional
-category: Mundo
+category: Ciencia y Tecnología
 layout: posts
 ---
 
