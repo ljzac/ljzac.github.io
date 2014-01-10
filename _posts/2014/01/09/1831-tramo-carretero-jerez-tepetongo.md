@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Registra avance de 70% modernización de tramo carretero Jerez-Tepetongo"
 author: REDACCIÓN
 location: Local
