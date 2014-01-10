@@ -3,7 +3,7 @@ published: true
 title: "Abrir más espacios a extranjeros cerrará posibilidades a jóvenes en futbol mexicano: Trejo"
 author: La Jornada
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
