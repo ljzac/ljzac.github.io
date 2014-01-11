@@ -1,6 +1,6 @@
 ---
 published: true
-title: Clausura Carlos Peña talleres y ofrece hacer mejoras al parque
+title: Clausura Carlos Peña talleres de fabricación de títeres
 author: REDACCIÓN
 location: Local
 category: Destacadas
