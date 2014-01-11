@@ -4,7 +4,7 @@ title: "Zacatecas, entre las entidades en riesgo de acrecentar su clima de viole
 twitt: "■ En el estado hay “una mala intención de ocultar movimientos en manejo del recurso”, dijo"
 author: ALMA RÍOS
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
