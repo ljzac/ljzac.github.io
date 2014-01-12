@@ -2,8 +2,8 @@
 published: true
 title: Primer ministro de Italia inicia visita oficial a México
 author: La Jornada
-location: Internacional
-category: Mundo
+location: Nacional
+category: Principales
 layout: posts
 ---
 
