@@ -1,6 +1,6 @@
 ---
 published: true
-title: Afirma Carlos Peña que presupuesto municipal para el ejercicio 2014 es austero
+title: "Austero, presupuesto municipal de Zacatecas para el ejercicio 2014: alcalde "
 author: REDACCIÓN
 location: Local
 category: Destacadas
