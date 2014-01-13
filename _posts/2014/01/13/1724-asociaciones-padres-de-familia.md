@@ -1,6 +1,6 @@
 ---
 published: true
-title: Registra Seduzac más de 4 mil asociaciones de padres de familia
+title: Registra Seduzac más de 4 mil Asociaciones de Padres de Familia
 author: REDACCIÓN
 location: Local
 category: Destacadas
