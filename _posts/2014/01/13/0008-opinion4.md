@@ -1,0 +1,30 @@
+---
+published: true
+title: "Autodefensas, la desesperación de un pueblo"
+author: Saúl Monreal Ávila
+location: Local
+category: Opinión
+layout: posts
+---
+
+Hace unos días, el Consejo Ciudadano para la Seguridad Pública y la Justicia Penal alertó en su página de Internet sobre la  situación en 207 municipios del país, de los 2 mil 440 municipios, casi un 10% del total, donde el Estado mexicano está ausente o ha sido rebasado por poderes paralelos como el crimen organizado y existe una elevada incidencia de asesinatos o impunidad en las averiguaciones previas u operan grupos fuera de la ley, o en su caso, también ocurren desapariciones forzadas de personas, entre otras situaciones que implican fallas o pérdida de control o soberanía del gobierno. 
+
+Es decir, somos testigos de la historia, presenciando los primeros brotes concretos y reales de un verdadero estado fallido como Liberia o Haití, en lo que se está convirtiendo México, como así lo están ya manejando algunos organismos y críticos del sistema y hacia donde nos están llevando alegremente los últimos regímenes panistas y priístas, en medio de la euforia reformista.
+
+Es interesante notar que de los 207 municipios que se encuentran en la condición de Estado fallido en México, 82 corresponden a Michoacán y de facto, toda esta entidad federativa se encuentra en similar situación, así como regiones en los estados de Guerrero, Tamaulipas, Chihuahua, Sinaloa, Durango, Coahuila, Nuevo León, Veracruz, Tabasco, Chiapas, estado de México y Tlaxcala. En nuestra entidad, según el citado organismo, también incluye al municipio de Fresnillo, entre otros, en riesgo de llegar a esta condición.
+
+Con todo ello, podemos señalar que no se trata de un “problema de percepción”, como lo viene diciendo Miguel Alonso Reyes y sus medios rémoras del gobierno en nuestro estado, sino de reconocer y aceptar la realidad de indicadores objetivos, como son –básicamente- que el Estado ha perdido los monopolios de la fuerza y de gobierno, pues los diferentes grupos criminales operan a su antojo, cobran “derecho de piso”, secuestran, trafican drogas y matan, entre otras actividades en todas estas entidades de nuestro país, ante la mirada de desesperación e impotencia de la gente.
+
+De esta manera, precisamente iniciando en Michoacán, y extendiéndose a diversas regiones del país está surgiendo el fenómeno de las autodefensas, grupos civiles que están sustituyendo a las fuerzas policiales y estableciendo su protección en estos lugares, y que en Michoacán, a relativamente corta distancia de nuestra entidad, está tomando los niveles de una verdadera insurrección armada, cada día llegan noticias de que están tomando el control de municipios y ciudades cada vez más grandes e importantes, ante la incapacidad del estado de proporcionar seguridad a la ciudadanía.
+
+Es lamentable que los medios de comunicación nacionales no están difundiendo en su justa dimensión la gravedad e implicaciones de esta situación, y más bien trivializando el hecho, que estos grupos son producto de la desesperación social, ya que como característica asumen importantes causas regionales, como la defensa de los recursos naturales comunales, como bosques en Michoacán y Edomex, o como la pesca ilegal de camarón en Sonora, o de recursos hidráulicos en la misma entidad, es decir, la autodefensa tiene uncarácter comunal y localista, los detenidos son vecinos de ejidos cercanos o de plano extraños en la región, nunca locales, mostrando además en la mayoría de los grupos, una evidente precariedad de armamento, que evidencia una falta de patrocinio caciquil.
+
+Sin embargo, esta misma precariedad, tanto en su constitución, como en las maneras que opera, implica la falla del estado en otorgar la protección a la ciudadanía, el mantener la paz social, en base a un marco de derecho, y poniendo de manifiesto la falla del régimen, más ocupado en defender, modificando leyes e incluso la constitución (las denominadas reformas estructurales), intereses en su mayoría ajenos a la inmensa mayoría de la población, o incluso extranjeros, esa es la falla de fondo de estas reformas, abandonando de hecho a la población y solo ocupándose en los asuntos que representan dinero.
+
+Según la Comisión Nacional de los Derechos Humanos (CNDH) el clima de violencia en Michoacán es producto del abandono en el ejercicio de las funciones de gobiernos municipales y el estatal para proteger a los ciudadanos, señaló su titular, y debemos de añadir, el federal, ya que las autodefensas se multiplican, en estados como Michoacán que viven bajo la presencia continua del Ejército y las fuerzas armadas, considerando el ombudsman nacional, que estos grupos que se hacen llamar autodefensas “están tratando de cumplir una función que no les corresponde y que es el Estado quien debería ejercerla”.
+
+Según manifestó, esos grupos violan la Constitución, ordenamiento que también les da la posibilidad de que coadyuven en las tareas de seguridad, pero en forma legal, no en la informalidad, comentando que “lo más peligroso es la invitación, ante la falta de actuación que implica el hecho de que no se haga nada en contra de las autodefensas, para que otros grupos de personas de todo el país quieran hacer lo mismo”. Sin embargo, también reveló que según testimonios presenciales, los pobladores se sienten protegidos con esos grupos, lo que es más que revelador.
+
+Es claro que este régimen priísta, de la manos de sus hermanos del PAN, está llevando al país a un abismo, a un despeñadero, como ya lo veníamos denunciando, el que la sociedad civil este tomando por sus manos la seguridad y en muchos casos la justicia  es clara muestra de la incapacidad, la ineptitud y el desinterés de quienes se asumen como gobernantes, la formación de los grupos de autodefensa ya operando en muchos estados del país, revela que estamos llegando a un punto peligroso, al de Estado fallido, ojalá y la sociedad reaccione en las urnas antes que veamos a los soldadosde la ONU, a bordo de tanques Abrams patrullando las calles y depredando nuestros recursos, ante la imposibilidad de gobernarnos a nosotros mismos. n
+
+saulmonrealavila@hotmail.com
