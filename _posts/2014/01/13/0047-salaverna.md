@@ -15,17 +15,17 @@ Su rostro se enrojece con el atardecer, mientras el sol se oculta tras el cerro 
 
 Esta estampa que tantas veces han admirado los ojos de Roberto de la Rosa Dávila, delegado de la comunidad de Salaverna, es la que da la bienvenida a quienes llegan al imponente valle de Mazapil, una vez que termina la sierra.
 
-Un espacio lleno de recuerdos para los habitantes del lugar. Siendo niño, Roberto jugaba en estas laderas y disfrutaba de la naturaleza que rodeaba la casa de su bisabuelo, construida entre 1850 y 1860 en un pequeño claro del cerro, también conocido como El Bosque, a pocos metros del venero de agua que abastece a la región.
+![](http://i.imgur.com/uwynKJsm.jpg)Un espacio lleno de recuerdos para los habitantes del lugar. Siendo niño, Roberto jugaba en estas laderas y disfrutaba de la naturaleza que rodeaba la casa de su bisabuelo, construida entre 1850 y 1860 en un pequeño claro del cerro, también conocido como El Bosque, a pocos metros del venero de agua que abastece a la región.
 
 Roberto y otras 20 familias de la comunidad de Salaverna decidieron hacer frente hace varios años a la minera Tayahua, de Grupo Frisco, al rechazar su traslado a la colonia residencial construida por la empresa a unos 5 kilómetros de su población original, teniendo que abandonar así sus hogares.
 
 No obstante, ya no pueden permanecer en sus casas; no después de los daños que estas han sufrido por las detonaciones de la actividad que se realiza en el subsuelo de la población, las cuales hacen vibrar la tierra y los cimientos de los edificios, retumbando entre los cerros.
-![](http://i.imgur.com/fv1gaUcm.jpg)
+![En Nuevo Salaverna](http://i.imgur.com/FSJi90vm.jpg)
 El delegado comunitario reconoce que “el cambio sí se necesita por las condiciones de riesgo en que ellos (la compañía Tayahua) nos pusieron y ellos deben de resarcirlo de manera que nosotros nos vayamos a un lugar donde nos convenga, no que nos perjudique. Nosotros nada más queremos una cosa similar, vivir en el ambiente que tenemos, con la tranquilidad que tenemos y en una zona rural; no en una colonia que dicen que es tipo residencial”.
 
 El terreno de El Bosque, en el que Roberto contempla la puesta de sol, es la opción perfecta para quienes permanecen en pie de lucha. 
 
-Ya han expuesto ante la empresa el deseo de construir sus nuevas viviendas en este terreno e, incluso desde el año 2005, hicieron la solicitud a la Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu), antes Registro Agrario Nacional (RAN), para fungir como pequeños propietarios de varias parcelas en esta locación.
+![](http://i.imgur.com/b787EcGm.jpg)Ya han expuesto ante la empresa el deseo de construir sus nuevas viviendas en este terreno e, incluso desde el año 2005, hicieron la solicitud a la Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu), antes Registro Agrario Nacional (RAN), para fungir como pequeños propietarios de varias parcelas en esta locación.
 
 No obstante, después de ocho años “siguen pendientes los trámites”, comenta el hijo de Roberto, Roberto Cuauhtémoc de la Rosa Castillo, y se frenaron a raíz de que en 2007, dos años después de que ellos iniciaran el proceso, la minera Tayahua también ingresó una solicitud para quedarse con parte de estas tierras.
 
@@ -51,7 +51,7 @@ De igual forma, los hermanos José Inés Solís Cárdenas y Jorge Solís Cárden
 
 Ahora tienen que hacer un trayecto diario, hasta en dos ocasiones, de una media hora para que sus hijos puedan estudiar en la cabecera municipal de Mazapil. 
 
-La falta de servicio educativo también orilló a Francisco Javier Contreras Martínez a salir de su vivienda para trasladarse a las casas, semejantes a las de interés social, que construyó la empresa. 
+![](http://i.imgur.com/NNYnbKVm.jpg)La falta de servicio educativo también orilló a Francisco Javier Contreras Martínez a salir de su vivienda para trasladarse a las casas, semejantes a las de interés social, que construyó la empresa. 
 
 Reconoce que esta mudanza fue “por presión” porque “por supuesto quisiéramos haber estado allá todavía luchando como los que están haciendo un esfuerzo grande, defendiendo la tierra, y es algo que tienen un derecho ellos”. 
 
@@ -89,7 +89,7 @@ El hijo de Roberto de la Rosa explica que este señalamiento lo pusieron despué
 
 Todavía guardan una muestra del líquido que salió de las llaves de sus casas, ya mezclada con la sustancia nociva. En una pequeña botella de plástico aún conservan el agua de color rojizo y llena de tierra. 
 
-Pero no sólo este recurso vital está contaminado, sino que a través del aire también se inhalan sustancias dañinas, por el humo que sale sin cesar de los ocho respiraderos que rodean las viviendas de Salaverna desde hace unos 5 años.
+![](http://i.imgur.com/W5svqFdm.jpg)Pero no sólo este recurso vital está contaminado, sino que a través del aire también se inhalan sustancias dañinas, por el humo que sale sin cesar de los ocho respiraderos que rodean las viviendas de Salaverna desde hace unos 5 años.
 
 De estas perforaciones, hasta de 800 metros de profundidad, se escapa un humo blanco que es producto de los gases de la pólvora, los contaminantes de los minerales, de los fierros oxidados y del diésel que utilizan en los túneles de la mina.
 
