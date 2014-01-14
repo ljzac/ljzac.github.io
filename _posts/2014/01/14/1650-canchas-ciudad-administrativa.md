@@ -17,8 +17,8 @@ Barragán Ocampo explicó que, por instrucción del Ejecutivo, la SAD acondicion
  
 El área deportiva albergará canchas de fútbol rápido, basquetbol y voleibol, que brindarán servicio a los trabajadores de las más de 30 dependencias del gobierno del estado y de manera directa a las que se encuentra en Ciudad Administrativa.
  
-Serán beneficiados los servidores públicos de las secretarías de Administración, Finanzas, Economía, Infraestructura, Agua y Medio Ambiente, de las Mujeres, General de Gobierno y Desarrollo Social.
+Serán beneficiados los servidores públicos de las secretarías de Administración, Finanzas, Economía, Infraestructura, Agua y Medio Ambiente, General de Gobierno y Desarrollo Social.
  
-También las y los trabajadores de la Oficina del Gobernador, Servicios de Salud de Zacatecas, Instituto Estatal de Migración y Coordinación General Jurídica.
+También las y los trabajadores de la Oficina del gobernador, Servicios de Salud de Zacatecas, Instituto Estatal de Migración y Coordinación General Jurídica.
  
 Todas ellas son instancias que se ubican en Ciudad Administrativa.
