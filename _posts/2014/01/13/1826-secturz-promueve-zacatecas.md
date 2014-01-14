@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/6OrTnaEm.jpg)Como primera actividad del año en materia de promoción, integrantes de la Secretaría de Turismo (Secturz) difundieron a Zacatecas en Estados Unidos, al participar en el International Travel Show de McAllen, que tiene lugar en Texas.
+![Foto: ERNESTO MORENO](/)![](http://i.imgur.com/6OrTnaEm.jpg)Como primera actividad del año en materia de promoción, integrantes de la Secretaría de Turismo (Secturz) difundieron a Zacatecas en Estados Unidos, al participar en el International Travel Show de McAllen, que tiene lugar en Texas.
  
 El encuentro turístico está dirigido a los jubilados norteamericanos y es considerado uno de los eventos más importantes en su género.
  
