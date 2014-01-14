@@ -4,7 +4,7 @@ title: Realizan marcha normalistas de San Marcos;  recuerdan represión por part
 twitt: "■ En el 2000 una movilización fue reprimida, durante visita de Ernesto Zedillo al estado"
 author: "RAFAEL DE SANTIAGO "
 location: Local
-category: Educación
+category: Portada
 layout: posts
 ---
 
