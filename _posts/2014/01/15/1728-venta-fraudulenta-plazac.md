@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Alerta Seduzac sobre venta fraudulenta de plazas  "
 author: REDACCIÓN
 location: Local
