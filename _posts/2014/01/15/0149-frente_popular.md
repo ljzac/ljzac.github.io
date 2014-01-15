@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<div align="center"><object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> </div>
+<div align="center"><object width="400" height="225"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> </div>
 
 ■ El estudio del marxismo en la escuela de Economía le aclaró cómo funcionaba el sistema
 
@@ -69,7 +69,3 @@ Ante ello subraya, es necesario unificarse desde la pluralidad “de las izquier
 <TD align = LEFT>![](http://i.imgur.com/huoMoCzm.jpg)
 
 </TABLE>
-
-
-
-
