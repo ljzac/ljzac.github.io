@@ -1,6 +1,6 @@
 ---
 published: true
-title: Expone BMQ Plan de Desarrollo Municipal a regidores
+title: Expone Medrano Quezada Plan de Desarrollo Municipal a regidores
 author: REDACCIÓN
 location: Local
 category: Destacadas
