@@ -9,6 +9,8 @@ layout: posts
 ---
 
 <div align="center"><object width="400" height="225"><param name="movie" value="//www.youtube.com/v/X-DIAegdA2E?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/X-DIAegdA2E?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="400" height="225" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+
+
 ■ En la década de los 70 participó en varias películas nacionales y en Gringo Viejo
 
 Rafael Vera Gaitán, mejor conocido como Don Rafa, quien tiene 72 años, se dedica desde hace 20 años a la venta de galletas de horno en el Portal de Rosales.
@@ -52,7 +54,7 @@ Su aptitud de montar a caballo le hizo fama, y era invitado a películas en las 
 Se le dio la oportunidad en Televicentro de cantar en el programa Club del Hogar con Madaleno. “Ahí me dieron cinco programas seguidos, ese programa lo transmitían los viernes”.
 
 También participó en un concierto en la Delegación Cuauhtémoc y compartió el escenario con artistas de la talla de Rigo Tovar.
-![](http://i.imgur.com/8yKXJ56m.jpg)
+
 A los 37 años, después de su paso por los estudios de cine, regresó a Zacatecas, donde ofrecía conciertos en el Teatro del Pueblo de la Feria. También amenizaba los cómputos para elegir a la reina de la fiesta de los zacatecanos.
 
 “Me regresé porque la vida ya estaba difícil allá, y aquí estaba mi madre, ella vivía con una hermana, y empecé a trabajar en la panadería de Tacuba, quebró y empecé a hacer pan para vender, y así tengo 24 años haciendo pan. De la cantada no vivo aquí, pero éste es mi fuerte para vivir, seguir con mi familia y mi esposa; tengo hijos en Estados Unidos y uno aquí”, menciona Don Rafa.
