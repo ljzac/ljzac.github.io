@@ -8,7 +8,9 @@ category: Portada
 layout: posts
 ---
 
-<object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> ■ El estudio del marxismo en la escuela de Economía le aclaró cómo funcionaba el sistema
+<div align="left"><object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> </div>
+
+■ El estudio del marxismo en la escuela de Economía le aclaró cómo funcionaba el sistema
 
 En el periodo de 1970 a 1976, durante el sexenio de Luis Echeverría Álvarez, se ocuparon en 28 entidades del país, mil 200 predios, afectándose 17 millones de hectáreas cuyo reparto benefició a 285 mil campesinos.
 
