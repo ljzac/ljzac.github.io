@@ -61,6 +61,6 @@ Laura Rodríguez como otros, no encontró en la vía electoral la solución últ
 Ante ello subraya, es necesario unificarse desde la pluralidad “de las izquierdas” para enfrentar a este último, al ver entre otras cosas que el campo sufre otra vez un proceso de concentración en pocas manos.
 
 
-![](http://i.imgur.com/OnkWisIm.jpg) ![](http://i.imgur.com/LCb7p5cm.jpg)
+![](http://i.imgur.com/OnkWisIm.jpg)![](http://i.imgur.com/LCb7p5cm.jpg)
 
-![](http://i.imgur.com/KLL1NS1m.jpg) ![](http://i.imgur.com/Afrtrva.jpg)
+![](http://i.imgur.com/KLL1NS1m.jpg)![](http://i.imgur.com/Afrtrva.jpg)
