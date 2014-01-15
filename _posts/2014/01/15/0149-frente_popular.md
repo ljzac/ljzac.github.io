@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<div align="left"><object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> </div>
+<div align="center"><object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object> </div>
 
 ■ El estudio del marxismo en la escuela de Economía le aclaró cómo funcionaba el sistema
 
@@ -54,7 +54,7 @@ En 1988, dice, el FPZ estaba ya debilitado, en parte por el golpeteo que había 
 De manera interna, por la división que se había generado entre quienes ya poseían tierra y quienes no y que había desmovilizado a los primeros, la multiplicación de la orientación de las luchas ahora no sólo por la tierra sino para la consecución de créditos para la producción y compra de implementos agrícolas y las múltiples movilizaciones, así como los cambios en los intereses de los integrantes de “El Frente”.
 
 Se introdujo también un elemento, la apertura a la vía electoral para la izquierda, el  FPZ terminó escindido, parte de sus integrantes apoyaron la candidatura de Cuauhtémoc Cárdenas en búsqueda de la Presidencia de la República, luego en la fundación del partido del Sol Azteca;  otros se integraron al Partido del Trabajo, fundamentalmente.
-![](http://i.imgur.com/huoMoCzm.jpg)
+![](http://i.imgur.com/Afrtrva.jpg)
 
 Laura Rodríguez como otros, no encontró en la vía electoral la solución última a los problemas sociales aunque sí participó en la fundación del Partido de la Revolución Democrática. De alguna u otra forma ha seguido integrada a vida política del estado, la no partidaria, actualmente involucrada en un grupo de corriente de opinión denominado M-29, que fundó conjuntamente con  otros activistas en el año 2012.
 
@@ -66,7 +66,8 @@ Ante ello subraya, es necesario unificarse desde la pluralidad “de las izquier
 <TD align = LEFT>![](http://i.imgur.com/LCb7p5cm.jpg)
 <TR>
 <TD align = LEFT>![](http://i.imgur.com/KLL1NS1m.jpg)
-<TD align = LEFT>![](http://i.imgur.com/Afrtrva.jpg)
+<TD align = LEFT>![](http://i.imgur.com/huoMoCzm.jpg)
+
 </TABLE>
 
 
