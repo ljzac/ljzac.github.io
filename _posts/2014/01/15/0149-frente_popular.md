@@ -10,12 +10,12 @@ layout: posts
 
 <object width="350" height="197"><param name="movie" value="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TaUQK2UZRH0?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="350" height="197" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-![](http://i.imgur.com/4KvslxQm.jpg)
 ■ El estudio del marxismo en la escuela de Economía le aclaró cómo funcionaba el sistema
 
 En el periodo de 1970 a 1976, durante el sexenio de Luis Echeverría Álvarez, se ocuparon en 28 entidades del país, mil 200 predios, afectándose 17 millones de hectáreas cuyo reparto benefició a 285 mil campesinos.
 
 En Zacatecas, una de esas entidades, es el 5 de junio de 1975 cuando se ejecuta la primera acción importante en este sentido, organizada por el Frente Popular de Zacatecas (FPZ),  que derivó en la afectación de 29 mil hectáreas  que hasta ese momento habían estado en posesión de los que se señala eran latifundistas: Jesús Sánchez, Jesús y Rubén López,  la familia Sescosse Lejeune, Sergio Cueto Cirión y otro propietario o propietarios de Trancoso.  Gobernaba entonces Fernando Pámanes Escobedo, ofrece los datos, Laura Rodríguez Cervantes.
+![Laura Rodríguez Cervantes ■ FOTO: MIGUEL ÁNGEL NÚÑEZ](http://i.imgur.com/4KvslxQm.jpg)
 
 La activista se integró al FPZ a la edad de 19 años de edad cuando cursaba la licenciatura en la entonces Escuela de Economía de la Universidad Autónoma de Zacatecas y fue la única mujer, -destaca-, integrada al  Movimiento Obrero Campesino Estudiantil Revolucionario  (MOCER), considerado la vanguardia de la organización, misma que sesionaba muchas veces en forma semi clandestina a fin de discutir sus estrategias.
 
