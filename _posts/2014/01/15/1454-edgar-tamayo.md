@@ -2,8 +2,8 @@
 published: true
 title: Denuncia México ante OEA caso del mexicano Edgar Tamayo
 author: Dpa
-location: Nacional
-category: Principales
+location: Internacional
+category: Mundo
 layout: posts
 ---
 
