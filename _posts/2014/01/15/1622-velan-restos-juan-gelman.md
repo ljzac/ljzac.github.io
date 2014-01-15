@@ -3,7 +3,7 @@ published: true
 title: "De manera íntima y familiar, velan restos de Juan Gelman"
 author: Notimex
 location: Nacional
-category: Principales
+category: Cultura y Espectáculos
 layout: posts
 ---
 
