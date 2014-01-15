@@ -51,14 +51,15 @@ Como otros miembros de la generación de universitarios que se involucraron en l
 En 1988, dice, el FPZ estaba ya debilitado, en parte por el golpeteo que había sufrido desde “el aparato de Estado” que se expresó entre otras formas con la tardanza en la resolución de los expedientes agrarios y “la compra de conciencias”, otro factor fundamental fue el recrudecimiento de la represión tras el agotamiento del modelo económico del Milagro Mexicano y la conclusión del reparto agrario que vino al finalizar el sexenio de José López Portillo.
 
 De manera interna, por la división que se había generado entre quienes ya poseían tierra y quienes no y que había desmovilizado a los primeros, la multiplicación de la orientación de las luchas ahora no sólo por la tierra sino para la consecución de créditos para la producción y compra de implementos agrícolas y las múltiples movilizaciones, así como los cambios en los intereses de los integrantes de “El Frente”.
-![](http://i.imgur.com/huoMoCzm.jpg)
+
 Se introdujo también un elemento, la apertura a la vía electoral para la izquierda, el  FPZ terminó escindido, parte de sus integrantes apoyaron la candidatura de Cuauhtémoc Cárdenas en búsqueda de la Presidencia de la República, luego en la fundación del partido del Sol Azteca;  otros se integraron al Partido del Trabajo, fundamentalmente.
+![](http://i.imgur.com/huoMoCzm.jpg)
 
 Laura Rodríguez como otros, no encontró en la vía electoral la solución última a los problemas sociales aunque sí participó en la fundación del Partido de la Revolución Democrática. De alguna u otra forma ha seguido integrada a vida política del estado, la no partidaria, actualmente involucrada en un grupo de corriente de opinión denominado M-29, que fundó conjuntamente con  otros activistas en el año 2012.
 
 “Esto aún no termina”, actualiza su postura cuando refiere que lo aprendido en los años 70 acerca del sistema capitalista, -cuya claridad entonces más llana era que “había muchos pobres y muy pocos ricos” y que se pertenecía a una clase social u otra-, sólo ha cambiado de nombre, antes era imperialismo ahora es neoliberalismo.
 Ante ello subraya, es necesario unificarse desde la pluralidad “de las izquierdas” para enfrentar a este último, al ver entre otras cosas que el campo sufre otra vez un proceso de concentración en pocas manos.
-![](http://i.imgur.com/OnkWisIm.jpg)
-![](http://i.imgur.com/LCb7p5cm.jpg)
-![](http://i.imgur.com/KLL1NS1m.jpg)
-![](http://i.imgur.com/Afrtrva.jpg)
+![](http://i.imgur.com/OnkWisIm.jpg) ![](http://i.imgur.com/LCb7p5cm.jpg)
+
+![](http://i.imgur.com/KLL1NS1m.jpg) ![](http://i.imgur.com/Afrtrva.jpg)
+
