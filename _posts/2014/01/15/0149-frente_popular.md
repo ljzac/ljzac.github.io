@@ -59,7 +59,8 @@ Laura Rodríguez como otros, no encontró en la vía electoral la solución últ
 
 “Esto aún no termina”, actualiza su postura cuando refiere que lo aprendido en los años 70 acerca del sistema capitalista, -cuya claridad entonces más llana era que “había muchos pobres y muy pocos ricos” y que se pertenecía a una clase social u otra-, sólo ha cambiado de nombre, antes era imperialismo ahora es neoliberalismo.
 Ante ello subraya, es necesario unificarse desde la pluralidad “de las izquierdas” para enfrentar a este último, al ver entre otras cosas que el campo sufre otra vez un proceso de concentración en pocas manos.
+
+
 ![](http://i.imgur.com/OnkWisIm.jpg) ![](http://i.imgur.com/LCb7p5cm.jpg)
 
 ![](http://i.imgur.com/KLL1NS1m.jpg) ![](http://i.imgur.com/Afrtrva.jpg)
-
