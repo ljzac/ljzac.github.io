@@ -1,7 +1,7 @@
 ---
 published: true
 title: Forman organizaciones  y partidos bloque en  defensa del petróleo
-author: "ALMA TAPIA, ARAZU TINAJERO Y RAFAEL DE SANTIAGO "
+author: "ALMA ALEJANDRA TAPIA, ARAZU TINAJERO Y RAFAEL DE SANTIAGO "
 location: Local
 category: Portada
 layout: posts

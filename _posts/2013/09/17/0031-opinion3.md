@@ -1,7 +1,7 @@
 ---
 published: true
 title: Saldo de la reforma educativa
-author: Marco Antonio Fernández
+author: Marco Antonio Fernández Martínez
 location: Local
 category: Opinión
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Claroscuros de la centralización  de la nómina magisterial
-author: "Marco Antonio Fernández*"
+author: "Marco Antonio Fernández Martínez"
 location: Local
 category: Opinión
 layout: posts

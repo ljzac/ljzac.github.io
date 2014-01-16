@@ -1,7 +1,7 @@
 ---
 published: true
 title: Niega Miguel Alonso Reyes que durante el fin de semana haya habido 46 muertos
-author: Redaccion
+author: Redacción
 location: Local
 category: Portada
 layout: posts

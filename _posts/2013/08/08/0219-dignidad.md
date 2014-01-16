@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dignidad humana para Julia Pastrana
-author: "Álvaro García*"
+author: Álvaro García Hernández
 location: Local
 category: Opinión
 layout: posts

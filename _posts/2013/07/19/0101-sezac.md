@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Urbanización del Parque Industrial Aeropuerto presenta 40% de avance: Salinas Alatorre"
-author: Redaccción
+author: Redacción
 location: Local
 category: Sociedad y Justicia
 layout: posts

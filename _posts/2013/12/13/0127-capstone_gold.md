@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dona Capstone Gold 160 cajas  de pañales desechables al SEDIF
-author: REDACCIóN
+author: REDACCION
 location: Local
 category: Sociedad y Justicia
 layout: posts

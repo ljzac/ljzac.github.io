@@ -1,7 +1,7 @@
 ---
 published: true
 title: Subsecretaría de la Juventud y Sedeso otorgan estímulos económicos a jóvenes
-author: REDACCIóN
+author: REDACCION
 location: Local
 category: Sociedad y Justicia
 layout: posts

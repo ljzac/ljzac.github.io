@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Mahi va Gorbeh (Fish and cat), de Shahram Mokri"
-author: CARLOS BELMONTE GREY /LA GUALDRA
+author: CARLOS BELMONTE GREY / LA GUALDRA
 location: Internacional
 category: Cultura y Espectáculos
 layout: posts

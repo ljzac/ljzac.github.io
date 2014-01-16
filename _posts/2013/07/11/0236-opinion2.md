@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hoy es el Día Mundial de la Población
-author: "*ÁLVARO GARCÍA HERNÁNDEZ"
+author: "ÁLVARO GARCÍA HERNÁNDEZ"
 location: Local
 category: Opinión
 layout: posts

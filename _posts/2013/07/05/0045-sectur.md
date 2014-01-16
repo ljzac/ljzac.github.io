@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Promueve la Secturz al estado entre  500 representantes de seis países "
-author: "REDACCION\_"
+author: "REDACCION"
 location: Local
 category: Sociedad y Justicia
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: PC municipal de Gudalupe no decomisó artículos de pirotecnia en establecimientos
 twitt: ■ Se llegó a un acuerdo para que se vendan en lugares estratégicos
-author: "RAFAEL\_DE\_SANTIAGO"
+author: "RAFAEL DE SANTIAGO"
 location: Local
 category: Municipios
 layout: posts

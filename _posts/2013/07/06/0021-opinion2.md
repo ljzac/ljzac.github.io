@@ -1,7 +1,7 @@
 ---
 published: true
 title: Arte popular e investigación
-author: "José Arturo Burciaga C.*"
+author: "José Arturo Burciaga Campos"
 location: Local
 category: Opinión
 layout: posts

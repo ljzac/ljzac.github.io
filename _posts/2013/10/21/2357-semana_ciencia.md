@@ -2,7 +2,7 @@
 published: true
 title: Inuaguran segunda parte de la vigésima Semana Nacional de Ciencia y Tecnología
 twitt: "■ Se realizarán conferencias, demostraciones científicas, coloquios, conciertos, entre otras actividades"
-author: "Rafael de Santiago\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Sociedad y Justicia
 layout: posts

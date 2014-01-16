@@ -1,7 +1,7 @@
 ---
 published: true
 title: Violencia en México
-author: "Alfredo \_Sandoval Romero"
+author: "Alfredo Sandoval Romero"
 location: Local
 category: Opinión
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: Las apps
 twitt: Shortcuts
-author: Redaccion
+author: Redacción
 location: Local
 category: Portada
 layout: posts

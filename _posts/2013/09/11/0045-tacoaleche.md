@@ -1,7 +1,7 @@
 ---
 published: true
 title: Proyecto de municipalización para Tacoaleche busca desarrollo local
-author: RAQUEL OLLQUINDIA
+author: RAQUEL Ollaquindia
 location: Local
 category: Portada
 layout: posts

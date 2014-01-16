@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dicta conferencia ganador del Ig Nobel  por crear diamantes a partir del tequila
-author: "REDACCCION "
+author: "REDACCION "
 location: Local
 category: Sociedad y Justicia
 layout: posts

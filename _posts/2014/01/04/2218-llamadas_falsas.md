@@ -1,7 +1,7 @@
 ---
 published: true
 title: Incrementan llamadas falsas en temporada Vacacional en Protección Civil de Guadalupe
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Portada
 layout: posts

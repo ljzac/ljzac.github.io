@@ -1,7 +1,7 @@
 ---
 published: true
 title: "“Usamos la música para todo”, resaltan los integrantes de los Solistas alfonsinos"
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

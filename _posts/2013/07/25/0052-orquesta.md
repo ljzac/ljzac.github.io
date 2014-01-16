@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Tras “un proceso estresante”,\_la OSJ\_obtuvo la Banda de Oro en Eslovaquia: Cristina Pestana"
-author: "ALMA\_RIOS \_"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

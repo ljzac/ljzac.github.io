@@ -2,7 +2,7 @@
 published: true
 title: Develan leyenda en Legislatura por el centenario del Ejército Mexicano
 twitt: "■ Salvador Cienfuegos Zepeda, titular de la Sedena, estuvo presente durante la sesión solemne "
-author: Alma Tapia
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Portada
 layout: posts

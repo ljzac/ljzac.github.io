@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presentan programa del segundo  Festival de Día de Muertos
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

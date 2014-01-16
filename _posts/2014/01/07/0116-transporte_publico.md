@@ -2,7 +2,7 @@
 published: true
 title: "Sí se anunció el incremento de la tarifa del transporte público, asegura MAR"
 twitt: "■ La solicitud del aumento se hizo desde hace más de un año; se realizaron análisis y estudios, señala"
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Portada
 layout: posts

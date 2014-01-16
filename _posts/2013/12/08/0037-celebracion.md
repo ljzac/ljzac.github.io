@@ -1,7 +1,7 @@
 ---
 published: true
 title: Celebran en la cabecera de Río Grande  sexta Sesión del Subcomité Regional
-author: "REDACCCION "
+author: "REDACCION "
 location: Local
 category: Sociedad y Justicia
 layout: posts

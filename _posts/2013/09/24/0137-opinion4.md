@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Tiempos convulsos: ¿Por qué marchamos los maestros?"
-author: "Héctor Arteaga Soto (y Colectivo de base, magisterio fresnillense)"
+author: Héctor Arteaga Soto
 location: Local
 category: Opinión
 layout: posts

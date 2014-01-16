@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Un placer, poder compartir lo que hago;  es una parte de mí: Humberto Ramos"
-author: "ALMA\_RIOS \_"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

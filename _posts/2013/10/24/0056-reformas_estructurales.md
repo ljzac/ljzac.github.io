@@ -2,7 +2,7 @@
 published: true
 title: Someten a debate y análisis reformas estructurales en Jueves Universitarios
 twitt: "■ Nueva visión de propuestas Energética, Hacendaria y Laboral"
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

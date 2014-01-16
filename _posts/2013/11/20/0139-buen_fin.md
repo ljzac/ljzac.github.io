@@ -2,7 +2,7 @@
 published: true
 title: “Saldo blanco” de El Buen Fin en la delegación de Profeco en Zacatecas
 twitt: ■ Durante 4 días en que mil 500 comercios ofertaron productos no hubo denuncias de consumidores
-author: RAQUEL OLLAQUINIA
+author: RAQUEL Ollaquindia
 location: Local
 category: Sociedad y Justicia
 layout: posts

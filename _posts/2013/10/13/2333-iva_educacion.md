@@ -2,7 +2,7 @@
 published: true
 title: Imponer el IVA a las colegiaturas afectaría a instituciones públicas
 twitt: "■ Podría resentirse en la economía de escuelas privadas y de los padres de familia: Chávez"
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Sociedad y Justicia
 layout: posts

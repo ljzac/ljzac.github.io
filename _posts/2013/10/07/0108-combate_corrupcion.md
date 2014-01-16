@@ -2,7 +2,7 @@
 published: true
 title: "Sin resultados, combate a corrupción de servidores públicos de primer nivel"
 twitt: "■ Presunta corrupción en 60 Legislatura se suma a una larga lista de averiguaciones, sin castigos"
-author: RAQUEL OLLAQUINDA
+author: RAQUEL Ollaquindia
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sin fecha para regresar Plácido Domingo a los escenarios
-author: Redaccción
+author: Redacción
 location: Internacional
 category: Cultura y Espectáculos
 layout: posts

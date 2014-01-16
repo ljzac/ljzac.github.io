@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Milano Film Network "
-author: CARLOS BELMONTE GREY/ LA GUALDRA
+author: CARLOS BELMONTE GREY / LA GUALDRA
 location: Local
 category: Cultura y Espectáculos
 layout: posts

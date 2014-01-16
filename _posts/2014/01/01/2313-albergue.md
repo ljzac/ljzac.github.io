@@ -2,7 +2,7 @@
 published: true
 title: Albergue recibe viajeros y comerciantes que pasan lejos de su familia la Navidad
 twitt: ■ Algunos buscan regresar a sus lugares de origen para pasar las fiestas de año nuevo
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Sociedad y Justicia
 layout: posts

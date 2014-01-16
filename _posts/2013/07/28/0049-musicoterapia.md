@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Decidí ser mejor un buen hombre que  un mal ángel: Dharmapa Rimpoche"
-author: "ALMA\_RIOS"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

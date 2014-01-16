@@ -1,7 +1,7 @@
 ---
 published: true
 title: DIF de Guadalupe ofrece asesoría  jurídica gratuita a los ciudadanos
-author: "REDACCIóN "
+author: REDACCION
 location: Local
 category: Sociedad y Justicia
 layout: posts

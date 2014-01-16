@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Conmemoran el 99 aniversario de la Batalla de\_Zacatecas con una serie de actividades"
-author: "REDACCION \_"
+author: "REDACCION"
 location: Local
 category: Cultura y Espectáculos
 layout: posts

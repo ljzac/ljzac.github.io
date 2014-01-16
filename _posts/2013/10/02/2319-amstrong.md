@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lance Armstrong regresa medalla de bronce ganada en Sidney 2000
-author: Redaccción
+author: Redacción
 location: Internacional
 category: Deportes
 layout: posts

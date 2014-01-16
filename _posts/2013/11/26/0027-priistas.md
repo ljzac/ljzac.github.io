@@ -2,7 +2,7 @@
 published: true
 title: "Intensifican trabajo legislativo en Congreso de la Unión para cumplir con tiempos: Bonilla"
 twitt: ■ Legisladores federales del PRI esperan aprobar reforma energética y “cerrar con broche de oro”
-author: RAQUEL OLLAQUINDA
+author: RAQUEL Ollaquindia
 location: Local
 category: Política
 layout: posts

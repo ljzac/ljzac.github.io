@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Visita diplomática: oportunidad perdida"
-author: Raymundo Cárdena Vargas
+author: Raymundo Cárdenas Vargas
 location: Local
 category: Editorial
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: Califican de discriminatorio comentario de Claudia Anaya sobre los ex braceros
 twitt: "■ Hay ex trabajadores migrantes que son “piratas”: diputada"
-author: RAFAEL DE SATIAGO
+author: RAFAEL DE Santiago
 location: Local
 category: Política
 layout: posts

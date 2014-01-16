@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Indagaciones sobre arte popular: lo real, lo posible, lo necesario"
-author: "José Arturo Burciaga C.*"
+author: "José Arturo Burciaga Campos"
 location: Local
 category: Opinión
 layout: posts

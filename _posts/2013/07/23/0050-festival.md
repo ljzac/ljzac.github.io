@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Foreigner re-encanta a sus fans francosuizos  en el tercer día del Festival Guitare-en-Scène"
-author: CARLOS BELMONTE GREY
+author: CARLOS BELMONTE GREY / LA GUALDRA
 location: Local
 category: Cultura y Espectáculos
 layout: posts

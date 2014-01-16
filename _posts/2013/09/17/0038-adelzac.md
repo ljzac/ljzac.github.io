@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Necesario, educar a la población rural en habilidades para la vida, señala Adelzac"
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

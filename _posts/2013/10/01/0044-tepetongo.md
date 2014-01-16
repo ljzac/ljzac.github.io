@@ -2,7 +2,7 @@
 published: true
 title: "Fallece Filimón Carlos Robles,  presidente municipal de Tepetongo"
 twitt: "■ Según autoridades de la PGJE, el edil se disparó con el arma de cargo de un agente"
-author: Raul Bañuelos
+author: RAUL BAÑUELOS
 location: Local
 category: Portada
 layout: posts

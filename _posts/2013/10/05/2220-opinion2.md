@@ -1,7 +1,7 @@
 ---
 published: true
 title: "En Zacatecas se pueden saquear con toda impunidad las arcas del Congreso del Estado por parte de sus diputados; ¡y no pasa nada!"
-author: osé Huerta Mendoza
+author: José Huerta Mendoza
 location: Local
 category: Opinión
 layout: posts

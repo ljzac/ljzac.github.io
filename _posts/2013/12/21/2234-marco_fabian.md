@@ -1,7 +1,7 @@
 ---
 published: true
 title: "\"Sé que he cometido errores, pero he madurado\": Marco Fabián"
-author: Redaccióm
+author: Redacción
 location: Nacional
 category: Deportes
 layout: posts

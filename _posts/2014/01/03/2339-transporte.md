@@ -2,7 +2,7 @@
 published: true
 title: "No era necesario informar del incremento al transporte; la gente sabe que ha subido el combustible: Escobedo"
 twitt: ■ Llama el secretario general de Gobierno “a la prudencia y la comprensión” de la ciudadanía
-author: "ALMA\_RÍOS"
+author: "ALMA RÍOS"
 location: Local
 category: Portada
 layout: posts

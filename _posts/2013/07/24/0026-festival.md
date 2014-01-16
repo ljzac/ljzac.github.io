@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Mark Knopfleres, aún el Romeo de su guitarra, se presenta en la escena Chapiteau en Francia"
-author: CARLOS BELMONTE GREY
+author: CARLOS BELMONTE GREY / LA GUALDRA
 location: Internacional
 category: Cultura y Espectáculos
 layout: posts

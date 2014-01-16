@@ -1,7 +1,7 @@
 ---
 published: true
 title: Se eleva a 20 la cifra de muertos tras accidente de tren en Canadá
-author: Redaacción
+author: Redacción
 location: Internacional
 category: Mundo
 layout: posts

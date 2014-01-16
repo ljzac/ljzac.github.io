@@ -2,7 +2,7 @@
 published: true
 title: "Anuncian la Feria de la Música y el  Mezcal, en Teúl de González Ortega"
 twitt: "■ Del 16 al 24 de noviembre se realizarán excursiones, exposiciones, entre otras actividades"
-author: "RAFAEL\_DE\_SANTIAGO"
+author: "RAFAEL DE SANTIAGO"
 location: Local
 category: Municipios
 layout: posts

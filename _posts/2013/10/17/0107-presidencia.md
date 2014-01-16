@@ -2,7 +2,7 @@
 published: true
 title: "No se ha despedido a trabajadores en el ayuntamiento de Zacatecas: García"
 twitt: "■ Se dio de baja a 48 trabajadores por haber terminado su contrato, asegura oficial mayor"
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Portada
 layout: posts

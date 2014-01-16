@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Esta fue una de las mejores ferias del  libro de verano, asevera Ester Cárdenas"
-author: "ALMA\_RIOS"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

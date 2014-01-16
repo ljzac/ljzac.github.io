@@ -1,7 +1,7 @@
 ---
 published: true
 title: Entablan diálogo legisladores federales con los empresarios
-author: ALMA ALEJADRA TAPIA
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Portada
 layout: posts

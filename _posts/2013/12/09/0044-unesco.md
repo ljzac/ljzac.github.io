@@ -2,7 +2,7 @@
 published: true
 title: Tramitan enmiendas para creación del Instituto Regional de Patrimonio Mundial en Zacatecas
 twitt: "■ Sería posible la autogestión de opciones de financiamiento para esta representación: Yáñez"
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

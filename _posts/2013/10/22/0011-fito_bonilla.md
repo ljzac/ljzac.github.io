@@ -2,7 +2,7 @@
 published: true
 title: Destaca Adolfo Bonilla elementos de la Reforma Hacendaria aprobada
 twitt: "■ En estados mineros como Zacatecas, el pago de derechos resultará beneficioso"
-author: "ALMA RIOS\_"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

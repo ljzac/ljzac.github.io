@@ -1,7 +1,7 @@
 ---
 published: true
 title: "“Soy una mujer ordinaria haciendo  cosas extraordinarias”: Cristina Robles"
-author: "ALMA\_RIOS"
+author: "ALMA RIOS"
 location: Local
 category: Portada
 layout: posts

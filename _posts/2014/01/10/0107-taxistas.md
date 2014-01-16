@@ -2,7 +2,7 @@
 published: true
 title: "Choferes deberán aplicar siempre el uso del taxímetro, explica titular de Tránsito"
 twitt: ■ Reforzarán operativos en unidades de transporte público
-author: "RAFAEL\_DE\_SANTIAGO"
+author: "RAFAEL DE SANTIAGO"
 location: Local
 category: Sociedad y Justicia
 layout: posts

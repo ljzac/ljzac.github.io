@@ -1,7 +1,7 @@
 ---
 published: true
 title: Punto y Aparte
-author: Fernando Santacruz M.
+author: Fernando Santacruz Moreno
 location: Local
 category: Opinión
 layout: posts

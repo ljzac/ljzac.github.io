@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presenta SNTE pliego petitorio a Seduzac; exige plazas y apoyos económicos
-author: MARTIN CATALAN
+author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
 layout: posts

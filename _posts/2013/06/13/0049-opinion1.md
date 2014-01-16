@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: Hay líderes que le hacen al tío Lolo
-author: Fernando Santacruz M.
+author: Fernando Santacruz Moreno
 category: Opinión
 layout: posts
 

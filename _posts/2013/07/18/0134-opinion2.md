@@ -1,7 +1,7 @@
 ---
 published: true
 title: Cría cuervos y te sacarán los ojos
-author: Fernando santacruz m.
+author: Fernando Santacruz Moreno
 location: Local
 category: Opinión
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Familiares de víctimas del bar Heaven acudirán a PGR a identificar cuerpos
-author: Redación
+author: Redacción
 location: Nacional
 category: Principales
 layout: posts

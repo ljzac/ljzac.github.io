@@ -2,7 +2,7 @@
 published: true
 title: "Barzonistas negociarán un nuevo precio para el frijol, maíz y sorgo"
 twitt: "■ Participaron 5 mil productores en marcha a las oficinas de la Segob, asegura Ramírez Cuéllar"
-author: RAQUEL OLLAQUINDA
+author: RAQUEL Ollaquindia
 location: Local
 category: Portada
 layout: posts

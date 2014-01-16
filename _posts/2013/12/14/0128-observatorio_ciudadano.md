@@ -2,7 +2,7 @@
 published: true
 title: "Existe el compromiso de ayudar al Observatorio Ciudadano con recursos, afirma Escobedo Villegas"
 twitt: "■ No sé de dónde, pero apoyaremos para que hagan su trabajo, dijo"
-author: RAQUEL OLLAQUINIA
+author: RAQUEL Ollaquindia
 location: Local
 category: Portada
 layout: posts

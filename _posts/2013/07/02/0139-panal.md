@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Salida de candidato a diputado no afecta a Nueva Alianza, asegura dirigente estatal"
-author: "ALMA TAPIA Y CARLOS NAVARRETE "
+author: "ALMA ALEJANDRA TAPIA Y CARLOS NAVARRETE "
 location: Local
 category: Política
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Triunfos dignificantes, serios compromisos"
-author: Fernando Santacruz
+author: Fernando Santacruz Moreno
 location: Local
 category: Opinión
 layout: posts

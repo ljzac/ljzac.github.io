@@ -2,7 +2,7 @@
 published: true
 title: "Empobrecen su futuro niños trabajadores; por cada peso que ganan pierden 6: STPS"
 twitt: "■ Godezac colaborará con la Federación en la prevención del uso de mano de obra infantil  "
-author: RAQUEL OLLAQUINDA
+author: RAQUEL Ollaquindia
 location: Local
 category: Portada
 layout: posts

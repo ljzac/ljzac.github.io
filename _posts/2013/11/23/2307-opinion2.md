@@ -1,7 +1,7 @@
 ---
 published: true
 title: Niños dedican al año mil 569 horas a la televisión y 562 a la escuela
-author: "Juan Antonio Valtierra Ruvalcaba *\_"
+author: "Juan Antonio Valtierra Ruvalcaba *"
 location: Local
 category: Opinión
 layout: posts

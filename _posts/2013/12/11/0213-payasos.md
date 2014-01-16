@@ -2,7 +2,7 @@
 published: true
 title: "Ser payaso es sacar el niño que llevamos dentro y que la sociedad te acepte, comparte Frijolito"
 twitt: "■ Raúl Moreno Ponce relata su trayectoria dentro del oficio, en el que ha estado por 45 años"
-author: "RAFAEL DE SANTIAGO\_"
+author: RAFAEL DE SANTIAGO
 location: Local
 category: Portada
 layout: posts

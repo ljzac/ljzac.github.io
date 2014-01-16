@@ -1,7 +1,7 @@
 ---
 published: true
 title: El taller en arte popular y cinco ideas (falsas) sobre la cultura
-author: "José Arturo Burciaga C.*"
+author: "José Arturo Burciaga Campos"
 location: Local
 category: Opinión
 layout: posts
