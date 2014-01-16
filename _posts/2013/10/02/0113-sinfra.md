@@ -2,7 +2,7 @@
 published: true
 title: Trabaja Sinfra en zonas de riesgo por el deterioro de la bóveda subterránea
 twitt: ■ Por ahora se elabora un registro de viviendas para notificar a propietarios
-author: RAFAEL DE SANTIAGIO
+author: Rafael De Santiago
 location: Local
 category: Sociedad y Justicia
 layout: posts

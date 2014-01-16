@@ -1,7 +1,7 @@
 ---
 published: true
 title: Inicia Secturz trabajos para conformar  Subsecretaría de Turismo en la capital
-author: Inicia Secturz trabajos para conformar  Subsecretaría de Turismo en la capital
+author: ""
 location: Local
 category: Sociedad y Justicia
 layout: posts

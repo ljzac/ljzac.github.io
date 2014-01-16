@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Inicia el taller 'Entre filosofía y pintura de Gilles Deleuze y María Zambrano'"
-author: REDAIONCC
+author: Redacción
 location: Local
 category: Destacadas
 layout: posts

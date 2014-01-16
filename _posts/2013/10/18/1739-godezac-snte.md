@@ -1,7 +1,7 @@
 ---
 published: true
 title: Firman Godezac y SNTE acuerdo para que reforma educativa no afecte derechos laborales
-author: MARTIN CATALAN
+author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
 layout: posts

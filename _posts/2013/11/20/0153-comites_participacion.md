@@ -2,7 +2,7 @@
 published: true
 title: Denuncian irregularidades en elección de comités de participación ciudadana
 twitt: "■ Funcionarios no respetan la decisión de los colonos: Velázquez "
-author: RAFAEL DESANTIAGO
+author: Rafael De Santiago
 location: Local
 category: Portada
 layout: posts

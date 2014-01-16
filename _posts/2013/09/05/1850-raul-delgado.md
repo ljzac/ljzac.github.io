@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Migrantes mexicanos en EU aportan 60 mmdd al fisco de ese país: Raúl Delgado Wise "
-author: Martín Catalana
+author: MARTIN CATALAN
 location: Local
 category: Destacadas
 layout: posts

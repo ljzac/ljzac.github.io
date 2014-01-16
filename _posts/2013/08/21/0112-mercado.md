@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Buscan reubicar a comerciantes del Mercado  de Carnes antes del 8 de septiembre: alcalde"
-author: RAFEL DE SANTIAGO
+author: Rafael De Santiago
 location: Local
 category: Sociedad y Justicia
 layout: posts

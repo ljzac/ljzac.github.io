@@ -2,7 +2,7 @@
 published: true
 title: Falta información para detectar oportunamente el cáncer infantil
 twitt: "■ Acuden a solicitar ayuda cuando su enfermedad ya está muy avanzada: Susan Cabral"
-author: RAFAEL DE ANTIAGO
+author: Rafael De Santiago
 location: Local
 category: Portada
 layout: posts

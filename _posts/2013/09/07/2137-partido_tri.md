@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Reporta selección de EU baja de cuatro jugadores para partido ante el 'Tri'"
-author: Redcción
+author: Redacción
 location: Internacional
 category: Deportes
 layout: posts

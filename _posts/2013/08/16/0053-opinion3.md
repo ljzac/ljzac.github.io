@@ -1,7 +1,7 @@
 ---
 published: true
 title: La resistencia de la rondana
-author: "\_Julio Yrízar"
+author: "Julio Yrízar"
 location: Local
 category: Opinión
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Participan 17 servidores públicos en la colecta para la organización Amanc
-author: Participan 17 servidores públicos en la colecta para la organización Amanc
+author: ""
 location: Local
 category: Sociedad y Justicia
 layout: posts

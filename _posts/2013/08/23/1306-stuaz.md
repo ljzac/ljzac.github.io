@@ -2,7 +2,7 @@
 published: true
 title: Detiene labores STUAZ
 twitt: "A las 12 horas, comenzó una reunión entre el rector y el sindicato"
-author: MARTIN CAATALAN LERMA
+author: MARTIN CATALAN LERMA
 location: Local
 category: Destacadas
 layout: posts

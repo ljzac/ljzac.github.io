@@ -1,7 +1,7 @@
 ---
 published: true
 title: Esperan locatarios volver al mercado El Laberinto dentro de dos semanas
-author: "RAFAEL DE SATIAGO  "
+author: Rafael De Santiago
 location: Local
 category: Sociedad y Justicia
 layout: posts

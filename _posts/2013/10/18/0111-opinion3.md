@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sufragio  femenino
-author: Socorro Martínez
+author: Socorro Martínez Ortiz
 location: Local
 category: Opinión
 layout: posts

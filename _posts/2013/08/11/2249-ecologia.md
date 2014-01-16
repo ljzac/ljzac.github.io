@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Continúa programa de salud y cuidado del medio ambiente en escuelas: Trejo"
-author: Rafael de Santiago.
+author: Rafael De Santiago
 location: Local
 category: Sociedad y Justicia
 layout: posts

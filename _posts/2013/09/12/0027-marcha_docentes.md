@@ -1,7 +1,7 @@
 ---
 published: true
 title: Marchan en la capital zacatecana cientos de  docentes en rechazo a la reforma educativa
-author: MARTIN CATALA LERMA
+author: MARTIN CATALAN LERMA
 location: Local
 category: Portada
 layout: posts

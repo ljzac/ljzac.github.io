@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Lleva 75% construcción del gasoducto; se concluirá en tiempo y forma: Sezac"
-author: "Lleva 75% construcción del gasoducto; se concluirá en tiempo y forma: Sezac"
+author: ""
 location: Local
 category: Portada
 layout: posts
