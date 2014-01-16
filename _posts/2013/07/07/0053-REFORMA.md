@@ -1,7 +1,6 @@
 ---
 published: true
 title: "La Reforma Educativa da cabida “entre  líneas” a sectores sociales: Hernández"
-author: ""
 location: Local
 category: Educación
 layout: posts

@@ -1,7 +1,6 @@
 ---
 published: true
 title: Esperan vecinos que autoridades den a conocer  el proyecto de remodelación de la Alameda
-author: ""
 location: Local
 category: Portada
 layout: posts

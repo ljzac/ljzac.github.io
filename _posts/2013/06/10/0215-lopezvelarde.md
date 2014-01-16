@@ -1,7 +1,6 @@
 ---
 published: "true"
 title: Rinden homenaje al poeta Ramón  López Velarde en el Distrito Federal
-author: ""
 category: Portada
 layout: posts
 

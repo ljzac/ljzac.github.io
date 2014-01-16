@@ -2,7 +2,7 @@
 published: "true"
 title: "Termina la edición 13 de la Concentración Internacional de Motociclistas en el estado"
 twitt: "Termina la edición 13 de la Concentración Internacional de Motociclistas en el estado"
-author: ""RAFAEL DE SANTIAGO"
+author: RAFAEL DE SANTIAGO
 authorlink: "https://ljz.mx/autores/RAFAEL DE SANTIAGO"
 category: "Portada"
 layout: "posts"

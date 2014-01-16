@@ -1,7 +1,6 @@
 ---
 published: true
 title: Subprograma de Fomento al Autoempleo otorga 11 mdp para empresas zacatecanas
-author: ""
 location: Local
 category: Sociedad y Justicia
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La ordenación urbana ¿un lujo para Durango?"
-author: Sandra Mendoza
+author: Sandra Mendoza Barrera
 location: Local
 category: Opinión
 layout: posts

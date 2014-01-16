@@ -1,7 +1,6 @@
 ---
 published: true
 title: Dedican edición de la revista Barca de  palabras a la escritora Amparo Dávila
-author: ""
 location: Local
 category: Educación
 layout: posts

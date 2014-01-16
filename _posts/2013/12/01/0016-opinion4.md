@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reusar
-author: "Sandra Mendoza Barrera "
+author: Sandra Mendoza Barrera
 location: Local
 category: Opinión
 layout: posts

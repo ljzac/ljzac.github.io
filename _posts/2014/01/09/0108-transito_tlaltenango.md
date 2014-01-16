@@ -1,7 +1,6 @@
 ---
 published: true
 title: "Municipalización de Tránsito que se hizo en Tlaltenango, “un gasto innecesario”: alcalde"
-author: ""
 location: Local
 category: Portada
 layout: posts

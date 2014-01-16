@@ -2,7 +2,6 @@
 published: true
 title: "Ha mejorado estado de salud de Mandela, indica su esposa Graca Machel"
 twitt: "\"Sigue reaccionando de forma positiva al tratamiento\", dijo su esposa en entrevista"
-author: ""
 location: Internacional
 category: Mundo
 layout: posts

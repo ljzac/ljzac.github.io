@@ -1,7 +1,6 @@
 ---
 published: true
 title: "Aumentaron 9.7 por ciento las remesas a Zacatecas  durante el primer trimestre del año, respecto a 2012"
-author: ""
 location: Local
 category: Portada
 layout: posts
