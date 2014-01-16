@@ -2,7 +2,7 @@
 published: "true"
 title: "Entre lluvia y colorido da inicio el 18 Festival Internacional del Folclor"
 twitt: "Entre lluvia y colorido da inicio el 18 Festival Internacional del Folclor"
-author: "ALMA RIOS"
+author: ALMA RIOS
 authorlink: "https://ljz.mx/autores/ALMA RIOS"
 category: "Portada"
 layout: "posts"

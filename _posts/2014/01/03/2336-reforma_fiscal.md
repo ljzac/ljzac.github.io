@@ -2,7 +2,7 @@
 published: true
 title: Prevén pequeños comerciantes cerrar sus negocios por la Reforma Fiscal
 twitt: ■ Temen erogar más de lo que reciben y gastar demasiado en contadores
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

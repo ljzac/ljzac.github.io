@@ -1,7 +1,7 @@
 ---
 published: true
 title: No permitirá Pro Alameda intervención en este espacio si Sinfra no muestra proyecto definitivo
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

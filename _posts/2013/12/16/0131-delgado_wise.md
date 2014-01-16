@@ -2,7 +2,7 @@
 published: true
 title: "Reforma Energética, culminación de un proceso  que ha desmantelado el aparato productivo del país"
 twitt: "■ Los mexicanos no somos un pueblo de agachados, menciona el investigador Delgado Wise"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

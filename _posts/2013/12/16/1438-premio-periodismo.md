@@ -1,7 +1,7 @@
 ---
 published: true
 title: Califican de competitivos a trabajos participantes en 11 Premio Estatal de Periodismo Cultural
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

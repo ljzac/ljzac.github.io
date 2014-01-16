@@ -2,7 +2,7 @@
 published: true
 title: "Diputados faltistas obtendrán descuento en su dieta tras “investigación objetiva”: Ramos"
 twitt: "■ A 18 sesiones realizadas sólo asistieron, sin faltar una sola vez, 11 de los 30 representantes"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

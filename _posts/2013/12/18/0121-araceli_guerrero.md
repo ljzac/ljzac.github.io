@@ -2,7 +2,7 @@
 published: true
 title: "Sacamos Reforma Energética porque  teníamos que hacerlo: Araceli Guerreo"
 twitt: ■ Oscila en su opinión entre la necesidad de votar a favor y el que era algo ya consumado
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

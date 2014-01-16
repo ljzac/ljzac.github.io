@@ -2,7 +2,7 @@
 published: true
 title: "La Quemada, probablemente el asentamiento  prehispánico más importante del norte de México"
 twitt: "■ El sitio, ubicado en Villanueva, presenta similitudes con las usanzas en Teotihuacán: Santos"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

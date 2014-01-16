@@ -1,7 +1,7 @@
 ---
 published: true
 title: Reinician actividades de la subsecretaría de Desarrollo Artesanal tras la veda electoral
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

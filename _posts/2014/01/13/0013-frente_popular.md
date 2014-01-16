@@ -2,7 +2,7 @@
 published: true
 title: Abel García Guízar a 40 años de la fundación del Frente Popular de Zacatecas
 twitt: "■ Al igual que otros, también sufrió la persecución, los desalojos y la cárcel, explica"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

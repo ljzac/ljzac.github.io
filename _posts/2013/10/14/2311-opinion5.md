@@ -1,7 +1,6 @@
 ---
 published: true
 title: Lo que Inegi deja al descubierto en  materia de secuestros en México
-author: Mexico Evalua
 location: Local
 category: Opinión
 layout: posts
@@ -21,4 +20,4 @@ Cabe destacar que generalmente el secuestro exprés se especifica como el delito
 
 A pesar de que no todos los secuestros representan los mismos costos ni tienen la misma duración ni se llevan a cabo de la misma manera, cualquier delito que resulte en la privación de la libertad de una persona debe considerarse grave. No obstante, al tener características diferentes, las autoridades policiales y de investigación deben ser capaces de identificar las distintas modalidades de comisión del mismo delito para poder desarrollar estrategias específicas que se adapten de forma adecuada al combate del delito en sus distintas modalidades. Por ejemplo, hay secuestros que más allá de la organización por parte de los delincuentes, involucran también la corrupción de ciertas autoridades lo cual debe tomarse en cuenta al momento de diseñar una estrategia. 
 
-En términos de política pública, hacer la distinción en el ámbito legal puede servir para guiar la actuación de las autoridades encargadas de investigar los delitos. Por ejemplo, priorizar las denuncias correspondientes a modalidades del delito que tengan mayor impacto para la víctima. También es fundamental que las instituciones policiales distingan las características de los hechos delictivos y actúen en consecuencia de la manera más eficiente. Sin embargo, no debe olvidarse que en cualquiera de sus modalidades, el secuestro sigue siendo un delito grave. n
+En términos de política pública, hacer la distinción en el ámbito legal puede servir para guiar la actuación de las autoridades encargadas de investigar los delitos. Por ejemplo, priorizar las denuncias correspondientes a modalidades del delito que tengan mayor impacto para la víctima. También es fundamental que las instituciones policiales distingan las características de los hechos delictivos y actúen en consecuencia de la manera más eficiente. Sin embargo, no debe olvidarse que en cualquiera de sus modalidades, el secuestro sigue siendo un delito grave.

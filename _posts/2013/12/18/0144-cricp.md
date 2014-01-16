@@ -2,7 +2,7 @@
 published: true
 title: Interpondrán diputados de bloque de oposición queja ante la CRICP
 twitt: "■ Cambio de cita para votación de Reforma Energética, el motivo"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

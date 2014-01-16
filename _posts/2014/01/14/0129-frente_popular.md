@@ -2,7 +2,7 @@
 published: true
 title: "Fue el Frente Popular de Zacatecas uno de los medios que los estudiantes encontraron para incidir en su entorno: René Lara"
 twitt: "■ Universitarios encontraron su expresión en la realidad del estado, comenta docente"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

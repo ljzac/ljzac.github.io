@@ -2,7 +2,7 @@
 published: true
 title: Asistentes a exposición de Botero la consideran  un reflejo de la realidad a nivel mundial
 twitt: 
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: "Clandestinaje, salida de los pequeños comercios ante Reforma Hacendaria"
 twitt: "■ De 2000 a 2013 ha decrecido 10% la población ocupada por cuenta propia: Cepal"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

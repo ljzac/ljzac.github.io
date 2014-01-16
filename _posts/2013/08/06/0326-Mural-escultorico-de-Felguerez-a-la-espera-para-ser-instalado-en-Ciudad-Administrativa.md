@@ -2,7 +2,7 @@
 published: "true"
 title: "Mural escultórico de Felguérez, a la espera para ser instalado en Ciudad Administrativa"
 twitt: "Mural escultórico de Felguérez, a la espera para ser instalado en Ciudad Administrativa"
-author: "ALMA RIOS"
+author: ALMA RIOS
 authorlink: "https://ljz.mx/autores/ALMA RIOS"
 category: "Cultura y Espectáculos"
 layout: "posts"

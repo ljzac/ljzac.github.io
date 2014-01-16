@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Realizan homenaje póstumo a Cuauhtémoc  Esparza Sánchez, historiador de Zacatecas"
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

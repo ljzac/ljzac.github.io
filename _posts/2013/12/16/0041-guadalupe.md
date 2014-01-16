@@ -2,7 +2,7 @@
 published: true
 title: "Concluye la Feria de la Virgen 2013, en Guadalupe; se registra saldo blanco"
 twitt: "■ Fueron reportados únicamente 50 arrestos por faltas administrativas, señala alcalde "
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Municipios
 layout: posts

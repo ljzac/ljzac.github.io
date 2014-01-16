@@ -1,7 +1,7 @@
 ---
 published: true
 title: Participan estudiantes zacatecanos en investigación acerca de la naturaleza de la materia y energía oscura
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

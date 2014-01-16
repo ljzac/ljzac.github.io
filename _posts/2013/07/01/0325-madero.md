@@ -1,7 +1,7 @@
 ---
 published: true
 title: "No sólo el Pacto por México se encuentra en juego, sino el país: Gustavo Madero"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

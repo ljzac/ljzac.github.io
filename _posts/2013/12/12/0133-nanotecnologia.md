@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Nanotecnologías podrían revolucionar la forma en la que vivimos: García Guerrero"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

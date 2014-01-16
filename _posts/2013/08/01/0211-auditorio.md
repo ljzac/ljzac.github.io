@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Dañado, el auditorio de la unidad de artes de la UAZ por el aguacero del 7 de julio"
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Educación
 layout: posts

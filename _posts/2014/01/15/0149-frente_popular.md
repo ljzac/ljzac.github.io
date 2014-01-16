@@ -2,7 +2,7 @@
 published: true
 title: "“Esto aún no termina”: Laura Rodríguez,  única mujer integrada al movimiento obrero"
 twitt: ■ La activista advierte la necesidad de reorganizarse para enfrentar ahora al neoliberalismo
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

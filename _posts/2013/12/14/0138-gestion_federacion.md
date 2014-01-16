@@ -2,7 +2,7 @@
 published: true
 title: "Gestiones de MAR ante la Federación, obtienen mil mdp adicionales para gastos de cierre de año"
 twitt: "■ El dinero será destinado a gasto educativo, comentó, donde hay un déficit de mil 850 mdp"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

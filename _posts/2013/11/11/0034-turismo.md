@@ -2,7 +2,7 @@
 published: true
 title: "Altos costos y precaria calidad, lastres del Centro Histórico: Margarita González"
 twitt: "■ Falso, que el turismo sea pivote de desarrollo para la capital del estado, afirma"
-author: Alma Rios
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Se reúnen autoridades a puerta cerrada para abordar estrategia de seguridad
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

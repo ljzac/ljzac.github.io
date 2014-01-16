@@ -2,7 +2,7 @@
 published: true
 title: "Detrás de la Reforma Energética se encuentra  la bursatilización de Pemex: académico"
 twitt: "■ Además de compartir sus ganancias con la IP, esto podría llevar a la quiebra: Roberto Soto"
-author: "ALMA RÍOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

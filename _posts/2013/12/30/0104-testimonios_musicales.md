@@ -2,7 +2,7 @@
 published: true
 title: Presentarán en 2014 dos nuevas producciones  de la serie Testimonios Musicales de Zacatecas
 twitt: ■ Uno de los proyectos conjuga disco y documental dirigido por el cineasta local Edín Alaín
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

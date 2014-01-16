@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Daremos seguimiento en estrategias de lectura y escritura: Raquel Duarte"
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

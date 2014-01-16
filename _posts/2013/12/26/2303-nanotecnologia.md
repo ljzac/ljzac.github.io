@@ -1,7 +1,7 @@
 ---
 published: true
 title: "México, sin una Iniciativa Nacional de\_ Nanotecnología: Edgar Záyago Lau"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: "Consulta popular sobre la Reforma Energética sólo tendría efectos políticos: Márquez Valerio"
 twitt: "■ Filtros para evitar echarla atrás jurídicamente, “construidos como mecanismo de relojería”"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

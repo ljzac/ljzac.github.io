@@ -2,7 +2,7 @@
 published: true
 title: "Druidas, agrupación de motociclistas,  realiza labores altruistas “sobre ruedas”"
 twitt: "■ El grupo ha encontrado en la labor humana de ayudar, una satisfacción, señalan integrantes"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

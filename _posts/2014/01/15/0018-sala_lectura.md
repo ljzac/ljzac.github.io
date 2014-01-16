@@ -1,7 +1,7 @@
 ---
 published: true
 title: Inician formalmente los miércoles de Sala de Lectura en la Biblioteca Mauricio Magdaleno
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Cultura y Espectáculos
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "A 20 años de “libre comercio”, Zacatecas sigue viviendo del presupuesto federal"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

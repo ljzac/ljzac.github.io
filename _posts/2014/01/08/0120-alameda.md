@@ -2,7 +2,7 @@
 published: true
 title: "Anteproyecto de la Alameda García de la Cadena  involucra la integración de esculturas: Icomos"
 twitt: "■ Felguérez manifestó que fue convocado para realizar una obra en este espacio: Olga Orive"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Refugio Reyes, uno de los personajes locales que merece ser retomado"
-author: Alma Rios
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

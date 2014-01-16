@@ -2,7 +2,7 @@
 published: true
 title: Celebran 20 años de la inscripción de  Zacatecas como Patrimonio Mundial
 twitt: ■ MAR firma la Ley de Protección y Conservación del Patrimonio Cultural del estado
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

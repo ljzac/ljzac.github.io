@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Contagiar pasión por la lectura para formar  lectores: la experiencia de Báez Zacarías"
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

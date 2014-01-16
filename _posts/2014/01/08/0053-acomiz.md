@@ -2,7 +2,7 @@
 published: true
 title: Solicita Acomiz comprensión a los usuarios del transporte ante incremento en las tarifas
 twitt: "■ “Ya nos veíamos ahogados”; mes a mes sube el precio de combustible e insumos: Reyes"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

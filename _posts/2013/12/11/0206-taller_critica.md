@@ -2,7 +2,7 @@
 published: true
 title: Celebran 20 años del Taller de Crítica y Creación Literaria de la Universidad
 twitt: "■ Reconocen la trayectoria de Juan José Macías, su coordinador durante este lapso"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: "La Nigüa, letras desafiantes; revista que busca generar reacción entre sus lectores"
 twitt: "■ Los poetas no son unos locos, sino sacerdotes que repitan un rito: Juan Manuel Bonilla"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: Aumenta cada día la detección de planetas con condiciones similares a las de la Tierra
 twitt: ■ Coinciden estudiosos en que deben existir algunas circunstancias para encontrar seres vivos
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Pide Acomiz comprensión de usuarios en torno a aumento de tarifa; “ya nos veíamos ahogados”, afirma"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

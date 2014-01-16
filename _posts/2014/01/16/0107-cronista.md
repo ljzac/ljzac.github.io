@@ -2,7 +2,7 @@
 published: true
 title: "La crónica, oficio que busca dar mayor beneficio cultural a la sociedad: González Ramírez"
 twitt: ■ El historiador comparte la importancia y experiencias dentro de esta vocación
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Cultura y Espectáculos
 layout: posts

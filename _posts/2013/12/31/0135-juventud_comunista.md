@@ -2,7 +2,7 @@
 published: true
 title: "Construir organización “desde abajo”, proponen jóvenes comunistas ante avance de neoliberalismo"
 twitt: "■ El colectivo se solidariza con los movimientos en contra de las reformas, como la energética"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

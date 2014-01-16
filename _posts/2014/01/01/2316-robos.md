@@ -2,7 +2,7 @@
 published: true
 title: "Víctimas de\_robo\_y asalto no le ven sentido  a denunciar hechos ante autoridades"
 twitt: "■ Se organizan vecinos de colonias como la Barrios Sierra para defenderse de\_actos ilícitos"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

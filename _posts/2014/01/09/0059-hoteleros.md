@@ -2,7 +2,7 @@
 published: true
 title: "Serán para promover el turismo, recursos obtenidos mediante impuesto de hospedaje"
 twitt: "■ Encabeza MAR fideicomiso; participan secretaría del ramo y de Economía, asi como hoteleros"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

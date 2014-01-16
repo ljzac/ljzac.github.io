@@ -2,7 +2,7 @@
 published: true
 title: Coordinan estrategia de seguridad en la capital  para temporada de fin de año; efectúan reunión
 twitt: "■ Por ahora no hay una zona que represente mayores conflictos, asevera el alcalde"
-author: "ALMA RÍOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

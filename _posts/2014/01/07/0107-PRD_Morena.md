@@ -2,7 +2,7 @@
 published: true
 title: "Necesaria, unificación del PRD y Morena; es el principal desafío a futuro: Ramírez Cuéllar"
 twitt: "■ De no ser así, el neoliberalismo puede imponerse en detrimento del pueblo, afirma"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

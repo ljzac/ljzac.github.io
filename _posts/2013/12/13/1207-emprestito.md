@@ -1,7 +1,7 @@
 ---
 published: true
 title: Obtiene Gobierno estatal empréstito de mil 700 mdp; asegura será destinado a educación
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

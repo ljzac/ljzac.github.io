@@ -2,7 +2,7 @@
 published: true
 title: Recibió Profeco mil 138 quejas relacionadas con los servicios digitales durante 2013
 twitt: "■ Servicios de telefonía celular, televisión vía satélite e Internet, entre los que encabezan la lista"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

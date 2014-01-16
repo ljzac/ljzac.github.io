@@ -2,7 +2,7 @@
 published: true
 title: Entregan el Premio Estatal de Periodismo  Cultural Juan Ignacio María Castorena
 twitt: "■ Competitivos, los reportajes participantes en la 11 emisión del galardón: Moreno Chávez"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

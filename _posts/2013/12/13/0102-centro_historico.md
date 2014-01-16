@@ -2,7 +2,7 @@
 published: true
 title: Presentan proyecto con miras a lograr la certificación del Centro Histórico como DUIS
 twitt: "■ Problema de la vivienda en la zona, central para su repoblamiento, señala Sánchez Preza"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

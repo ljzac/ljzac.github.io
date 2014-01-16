@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La 60 Legislatura del estado de Zacatecas, “la más productiva a la fecha”: Ramírez"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

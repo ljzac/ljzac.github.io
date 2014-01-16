@@ -2,7 +2,7 @@
 published: true
 title: "Satisfacer las necesidades de la gente, objetivo del FPZ desde hace 40 años: Leticia Torres Villa"
 twitt: "■ Unos llegan a recoger los pétalos de rosa; nosotros nos quedamos con las espinas, afirma"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

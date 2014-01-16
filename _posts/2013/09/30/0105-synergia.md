@@ -2,7 +2,7 @@
 published: true
 title: "Rendición de cuentas deficiente y ciudadanía poco activa, factores que propician corrupción"
 twitt: ■ Falta construir una población informada para que pueda solicitar datos
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

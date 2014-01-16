@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ex braceros que hoy reclaman fondo de ahorro confían en que sus hijos prosigan con la lucha
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

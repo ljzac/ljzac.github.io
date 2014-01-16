@@ -1,7 +1,7 @@
 ---
 published: true
 title: ‘Toma’ Movimiento Zacatecano en Defensa del Petróleo el Congreso local
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

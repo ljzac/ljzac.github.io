@@ -2,7 +2,7 @@
 published: true
 title: Por primera vez Zacatecas será sede  del festival internacional Ambulante
 twitt: ■ Las proyecciones fílmicas se realizarán entre el 13 y el 20 de febrero del próximo año
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

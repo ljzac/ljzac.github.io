@@ -2,7 +2,7 @@
 published: true
 title: Obtienen grandes logros niños integrados  al Club Infantil de las Ciencias de la UAZ
 twitt: "■ La responsable del Museo de Ciencias de la UAZ, Bertha Michel, destaca la labor de tres jóvenes"
-author: "ALMA RIOS"
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Llegará a Zacatecas el festival cinematográfico Ambulante en febrero próximo
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

@@ -2,7 +2,7 @@
 published: true
 title: "Zacatecas, entre las entidades en riesgo de acrecentar su clima de violencia: Monreal"
 twitt: "■ En el estado hay “una mala intención de ocultar movimientos en manejo del recurso”, dijo"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

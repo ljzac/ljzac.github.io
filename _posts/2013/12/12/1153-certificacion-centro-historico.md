@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presentan proyecto con miras a lograr la certificación del Centro Histórico y su repoblamiento
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

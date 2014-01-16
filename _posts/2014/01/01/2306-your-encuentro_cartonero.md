@@ -2,7 +2,7 @@
 published: true
 title: Realizan encuentro “cartonero” en torno a la obra Con un cuello de botella rota
 twitt: "■ Las cartoneras representan una alternativa de hacer y distribuir arte y literatura, sostienen"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

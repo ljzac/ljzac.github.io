@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Se buscará una primer reunión con la Secretaría del Estado para establecer trabajo conjunto y armonioso: Héctor Pastor"
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

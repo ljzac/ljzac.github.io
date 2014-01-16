@@ -2,7 +2,7 @@
 published: true
 title: "Necesaria, la creación de un sistema nacional de innovación: Delgado Wise"
 twitt: ■ 93 por ciento de la propiedad intelectual está en manos de empresas multinacionales
-author: Alma Ríos
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

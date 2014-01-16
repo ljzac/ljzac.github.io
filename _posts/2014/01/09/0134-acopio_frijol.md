@@ -2,7 +2,7 @@
 published: true
 title: Demandarán frijoleros a los gobiernos estatal y federal por incumplimiento en compra del grano
 twitt: "■ Se han concentrado sólo 20 mil de las 350 mil toneladas cosechadas en 2013, denuncian"
-author: ALMA RÍOS
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts
