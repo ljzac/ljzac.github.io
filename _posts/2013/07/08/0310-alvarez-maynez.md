@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Triunfos “pírricos” del PRI en Fresnillo,  Zacatecas y Guadalupe: Jorge Alvarez"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

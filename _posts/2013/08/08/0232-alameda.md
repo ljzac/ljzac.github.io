@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Prevén creación de monumentos de Felguérez y  Rafael Coronel en la Alameda: Salinas Iñiguez"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

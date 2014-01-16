@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Falta de voluntad política, causa de limitada transmisión de debate: Francisco Valerio"
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 ---

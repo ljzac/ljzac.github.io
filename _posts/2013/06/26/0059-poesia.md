@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Es irrenunciable la preservación de la  memoria de nuestro poeta mayor: Silva"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Educación
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "El poeta hasta parece loco, pero  por amor: Dolores Castro Varela"
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 ---

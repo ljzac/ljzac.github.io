@@ -2,7 +2,7 @@
 published: true
 title: Realizan talleres de danza una muestra artística en el Teatro Ramón López Velarde
 twitt: ■ La dirección general del evento estuvo a cargo de Silvia Barajas de Santiago
-author: Alma RIos
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

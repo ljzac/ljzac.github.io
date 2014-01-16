@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: "Falta de cuidados o abandono, principales  formas de maltrato a los adultos mayores"
-author: "ALMA rios "
+author: "ALMA RIOS"
 category: Portada
 layout: posts
 

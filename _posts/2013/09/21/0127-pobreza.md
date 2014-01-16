@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La pobreza está produciendo poblaciones con  un brutal resentimiento social: especialista"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "El Estado-nación es ya prácticamente  inexistente, afirma Eligio Meza Padilla"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

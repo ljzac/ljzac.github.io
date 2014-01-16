@@ -2,7 +2,7 @@
 published: true
 title: Procuraduría estatal califica como “complicado” caso de desaparición de Zoila Edith Márquez
 twitt: ■ Gremio periodístico se une en torno a la exigencia para que vuelva “sana y salva” a casa
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

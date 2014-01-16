@@ -1,7 +1,7 @@
 ---
 published: true
 title: Instala Congreso la Comisión Permanente;  abordan los comicios y el voto femenino
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

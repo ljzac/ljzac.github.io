@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: "Deben tipificarse como feminicidios los  recientes asesinatos de mujeres: especialistas"
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 

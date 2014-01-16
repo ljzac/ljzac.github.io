@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: El debate debió transmitirse por  medios abiertos
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 

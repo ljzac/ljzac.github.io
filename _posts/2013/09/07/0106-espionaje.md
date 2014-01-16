@@ -1,7 +1,7 @@
 ---
 published: true
 title: "No existe espionaje desde Gobierno del  Estado: Francisco Escobedo Villegas"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

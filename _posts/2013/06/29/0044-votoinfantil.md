@@ -1,7 +1,7 @@
 ---
 published: true
 title: Realizan la quinta edición de Jornada  Cívica Estatal Infantil y Juvenil 2013
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Cultura y Espectáculos
 layout: posts

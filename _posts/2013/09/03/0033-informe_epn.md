@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Gobierno de EPN se inserta en 30 años del modelo que  representa “la gran mentira neoliberal”: académico "
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

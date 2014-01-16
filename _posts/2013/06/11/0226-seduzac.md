@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: "Recursos del FAEB  fueron ejercidos con  legalidad: Huizar"
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 

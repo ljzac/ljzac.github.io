@@ -1,7 +1,7 @@
 ---
 published: true
 title: Problemas de tenencia afectan exploración  de la zona arqueológica Cruz de la Boca
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

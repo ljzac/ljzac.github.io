@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Criminal, actuación de las autoridades en el  asunto de Salaverna: Moctezuma Longoria"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Buscarán diputados volver a formato de informe  que permita los posicionamientos del Legislativo
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

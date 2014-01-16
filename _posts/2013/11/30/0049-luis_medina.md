@@ -2,7 +2,7 @@
 published: true
 title: "El Pacto nunca debió darse, jamás  tuvo justificación moral: Medina"
 twitt: "■ El PRD trata con su salida de recuperarse de una mala decisión, opina el líder de Morena"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

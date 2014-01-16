@@ -1,7 +1,7 @@
 ---
 published: true
 title: Contradicciones en torno a la transmisión del debate de aspirantes a alcalde de la capital
-author: "ALMA RIOS "
+author: ALMA RIOS
 category: Portada
 layout: posts
 ---

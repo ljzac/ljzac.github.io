@@ -2,7 +2,7 @@
 published: true
 title: "Más allá de “etiquetas”, necesario mejorar condiciones  de vida de los habitantes de las ciudades: investigadora"
 twitt: ■ Municipio capitalino desmiente versión sobre riesgo de perder título de Patrimonio Cultural
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

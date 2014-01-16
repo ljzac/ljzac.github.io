@@ -1,7 +1,7 @@
 ---
 published: true
 title: Acepta González Bueno los resultados de  la elección; señala que hubo irregularidades
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

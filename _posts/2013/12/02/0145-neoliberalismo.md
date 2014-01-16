@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Radicalización del neoliberalismo complica gravemente el futuro de México: Medina"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

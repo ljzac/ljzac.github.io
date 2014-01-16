@@ -2,7 +2,7 @@
 published: true
 title: "Celebran entre contrastes, el Día del Caminero;  reconocen su aportación a modernización del estado"
 twitt: ■ Este año se ejerció un presupuesto histórico de 2 mil mdp; se obtuvieron 680 mdp adicionales
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

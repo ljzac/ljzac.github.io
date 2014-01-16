@@ -1,7 +1,7 @@
 ---
 published: true
 title: Adecuarán espacios en la Legislatura  para personas con alguna discapacidad
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Política
 layout: posts

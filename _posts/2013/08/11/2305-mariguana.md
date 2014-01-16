@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tienen diputados locales posturas encontradas en el tema de las drogas
-author: ALMA ALEJANDRATAPIA
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Portada
 layout: posts

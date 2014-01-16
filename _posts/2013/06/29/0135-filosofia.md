@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La Filosofía permite la reflexión y la  actitud crítica ante el mundo: académico"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Educación
 layout: posts

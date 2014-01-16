@@ -1,7 +1,7 @@
 ---
 published: true
 title: "La abstención no tiene por qué llegar a 50%  para ser preocupante: Valerio Quintero"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

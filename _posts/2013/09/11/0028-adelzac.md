@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Sí creemos que hubo avances importantes,  opina Luis Rivera, director de Adelzac"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

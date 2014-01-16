@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Del 12 al 19 de octubre, 12 Festival Internacional de Teatro de Calle"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Destacadas
 layout: posts

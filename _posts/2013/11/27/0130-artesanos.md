@@ -2,7 +2,7 @@
 published: true
 title: Artesanos que desean apostarse en Centro  Histórico esperan respuesta de la alcaldía
 twitt: "■ Cada administración municipal tiene su manera muy objetiva de ver las cosas: Hernández"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Sociedad y Justicia
 layout: posts

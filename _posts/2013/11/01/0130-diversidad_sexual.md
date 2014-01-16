@@ -2,7 +2,7 @@
 published: true
 title: "Retrocede Festival Cultural de la Diversidad  Sexual por desinterés de actores sociales: Ortiz"
 twitt: "■ Para la emisión de este año se destinaron 100 mil pesos menos que en 2012, advierten"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

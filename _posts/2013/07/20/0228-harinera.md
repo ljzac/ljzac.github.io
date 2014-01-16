@@ -1,7 +1,7 @@
 ---
 published: true
 title: Busca grupo de artistas convertir la  ex harinera en un espacio cultural
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

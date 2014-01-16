@@ -1,7 +1,7 @@
 ---
 published: true
 title: "México, rumbo a la esclavitud y el fascismo,  alertan especialistas en derecho laboral"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts

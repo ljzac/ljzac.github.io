@@ -1,7 +1,7 @@
 ---
 published: true
 title: "No basta con el acceso a libros; hacen falta incentivos para leer: Campech"
-author: "ALMA RIOS "
+author: ALMA RIOS
 location: Local
 category: Cultura y Espectáculos
 layout: posts
