@@ -8,11 +8,13 @@ category: Portada
 layout: posts
 ---
 
-![El FPZ no es una empresa y no tenemos asalariados, señala Leticia Torres ■ FOTO: miguel ángel núñez](http://i.imgur.com/lGbz28rm.jpg)
+<div align ="center"><object width="400" height="300"><param name="movie" value="//www.youtube.com/v/BjC44sVQ1ig?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/BjC44sVQ1ig?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="400" height="300" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+
+
 ■ El surgimiento del Frente, entre represión, cárcel y desapariciones, afirma la luchadora social
 
 “Romo, ¡Increíble! Arturo Romo fue el gobierno que volteó a ver a la organización. No así Amalia (García) que nos cerró las puertas totalmente. No así Ricardo Monreal…que también. Genaro Borrego fue menos drástico porque fue el periodo (del programa) Solidaridad donde se dio la apertura de recursos para proyectos productivos”, recupera en recuento del devenir de los sexenios trascendidos por el Frente Popular de Zacatecas (FPZ) y subrayando la permanencia de esta organización más que los orígenes de la misma, Leticia Torres Villa, docente de la Unidad Académica de Derecho de la Universidad Autónoma de Zacatecas.
-
+![El FPZ no es una empresa y no tenemos asalariados, señala Leticia Torres ■ FOTO: miguel ángel núñez](http://i.imgur.com/lGbz28rm.jpg)
 Otro gobierno que destaca, es el de José Guadalupe Cervantes Corona, que llegó al poder, dice, con la consigna de destruir a la que se refiere como “la primera organización de izquierda real” en el estado.
 
 El gobernador “fue el elemento más nefasto para el movimiento social que ha tenido Zacatecas”, comenta, para luego recordar de su periodo a la cabeza del Poder Ejecutivo estatal el clima represivo: cárcel  y desaparición de activistas.
