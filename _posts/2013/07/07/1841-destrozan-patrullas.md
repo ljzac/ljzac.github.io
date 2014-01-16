@@ -1,7 +1,7 @@
 ---
 published: true
 title: Destrozan 13 patrullas a policías por matar a dos jóvenes en Tultepec
-author: "Javier Salinas Cesáreo, corresponsal "
+author: "Javier Salinas Cesáreo"
 location: Nacional
 category: Principales
 layout: posts

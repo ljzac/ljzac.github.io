@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Philomena: lágrimas en la proyección,  aplausos en la rueda de prensa"
-author: PAOLA MARIN DE VRIES /  LA GUALDRA
+author: PAOLA MARIN DE VRIES
 location: Local
 category: Cultura y Espectáculos
 layout: posts

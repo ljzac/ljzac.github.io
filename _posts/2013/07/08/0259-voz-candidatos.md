@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Voz de los candidatos y figuras públicas "
-author: "CESAR PEREZ, ALMA RIOS Y MARTIN CATALAN "
+author: "CESAR PEREZ, ALMA RIOS Y MARTIN CATALAN LERMA"
 location: Local
 category: Elecciones 2013
 layout: posts

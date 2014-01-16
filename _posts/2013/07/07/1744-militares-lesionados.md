@@ -1,7 +1,7 @@
 ---
 published: true
 title: Choque múltiple deja 13 militares lesionados en Jalisco
-author: "Javier Santos, corresponsal "
+author: "Javier Santos"
 location: Nacional
 category: Principales
 layout: posts

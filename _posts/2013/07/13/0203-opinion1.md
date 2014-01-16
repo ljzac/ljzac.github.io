@@ -1,7 +1,7 @@
 ---
 published: true
 title: Si de hábito y costumbre se trata
-author: "Por Abelardo, el de las cartas a Eloisa"
+author: "Por Abelardo El De Las Cartas A Eloisa"
 location: Local
 category: Opinión
 layout: posts

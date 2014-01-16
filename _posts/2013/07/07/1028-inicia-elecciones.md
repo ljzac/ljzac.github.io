@@ -1,7 +1,7 @@
 ---
 published: true
 title: Inicia jornada electoral; se reportan algunos retrasos
-author: "ARAZU TINANERO, CARLOS ALBERTO NAVARRETE, CESAR PEREZ, ALLMA RIOS Y RAFAEL DE SANTIAGO"
+author: "ARAZU Tinajero, CARLOS ALBERTO NAVARRETE, CESAR PEREZ, ALMA RIOS Y RAFAEL DE SANTIAGO"
 location: Local
 category: Elecciones 2013
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "William Friedkin, Leon de Oro a una vida de trabajo"
-author: Paola MarIn de Vries / La Gualdra
+author: Paola MarIn de Vries
 location: Internacional
 category: Cultura y Espectáculos
 layout: posts
