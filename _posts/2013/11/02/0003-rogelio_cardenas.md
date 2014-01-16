@@ -1,8 +1,8 @@
 ---
 published: true
 title: "Evidente, retroceso por ciudadanizar al  Instituto Electoral: Rogelio Cárdenas"
-twitt: "ALMA ALEJANDRA TAPIA "
-author: "■ Elección de consejeros evidencia que los partidos políticos cada vez son más cínicos, afirma"
+twitt: ""
+author: "ALMA ALEJANDRA TAPIA"
 location: Local
 category: Política
 layout: posts

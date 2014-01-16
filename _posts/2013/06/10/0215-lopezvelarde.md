@@ -1,7 +1,7 @@
 ---
 published: "true"
 title: Rinden homenaje al poeta Ramón  López Velarde en el Distrito Federal
-author: ■ Develan busto de bronce creado por artesanos zacatecanos
+author: ""
 category: Portada
 layout: posts
 

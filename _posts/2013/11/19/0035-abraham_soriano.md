@@ -1,8 +1,8 @@
 ---
 published: true
 title: Exhibe Abraham Soriano relación del ser humano y los objetos en Scanner Memory
-twitt: Redacción
-author: "■ Utensilios ordinarios vistos desde el aspecto estético, no funcional"
+twitt: 
+author: "Redacción"
 location: Local
 category: Sociedad y Justicia
 layout: posts

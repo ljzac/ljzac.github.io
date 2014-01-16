@@ -1,8 +1,8 @@
 ---
 published: true
 title: Analiza Figueroa Rangel posible denuncia  contra Marco Vinicio Flores por nepotismo
-twitt: ALMA ALEJANDRA TAPIA
-author: "■ Hay más familiares del funcionario que trabajan como maestros y no presentaron examen, acusa"
+twitt: 
+author: "ALMA ALEJANDRA TAPIA"
 location: Local
 category: Portada
 layout: posts

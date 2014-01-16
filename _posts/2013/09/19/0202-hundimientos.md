@@ -1,7 +1,7 @@
 ---
 published: true
 title: "En riesgo de hundimiento, varias zonas  del Centro Histórico capitalino: Sinfra"
-author: "En riesgo de hundimiento, varias zonas  del Centro Histórico capitalino: Sinfra"
+author: ""
 location: Local
 category: Portada
 layout: posts

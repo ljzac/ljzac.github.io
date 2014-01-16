@@ -1,8 +1,8 @@
 ---
 published: true
 title: "A Zacatecas le iría muy bien si se aprueban las reformas Energética y Hacendaria: MAR"
-twitt: RAQUEL OLLAQUINDIA
-author: "■ Hay un gran número de proyectos para el estado registrados ante la SHCP, dijo"
+twitt: 
+author: "RAQUEL OLLAQUINDIA"
 location: Local
 category: Portada
 layout: posts

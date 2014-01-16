@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Municipalización de Tránsito que se hizo en Tlaltenango, “un gasto innecesario”: alcalde"
-author: "■ Recursos podrían usarse en rubros prioritarios: Martín del Real"
+author: ""
 location: Local
 category: Portada
 layout: posts
