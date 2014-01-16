@@ -1,7 +1,7 @@
 ---
 published: true
 title: Anuncia Saúl Monreal el arranque  formal de Zacatecas en Unidad
-author: "ALMA RIOS  "
+author: "ALMA RIOS"
 location: Local
 category: Política
 layout: posts

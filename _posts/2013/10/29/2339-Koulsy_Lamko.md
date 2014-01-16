@@ -2,7 +2,7 @@
 published: true
 title: "Soy habitante momentáneo de distintos lugares, afirma el poeta Koulsy Lamko"
 twitt: "■ Poesía cantada, palabras poéticas y tradición oral, en Otoño Cultural"
-author: "ALMA RIOS \_"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

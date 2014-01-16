@@ -1,7 +1,7 @@
 ---
 published: true
 title: IZC recibe propuestas sobre compañías que  integrarán el programa de Teatro de Calle
-author: ARACELI SOLORZANO
+author: ARACELI RODARTE SOLORZANO
 location: Local
 category: Sociedad y Justicia
 layout: posts

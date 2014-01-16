@@ -2,7 +2,7 @@
 layout: autor
 title: "ALFREDO SANDOVAL ROMERO"
 twitt: Ex Secretario General y Secretario General Adjunto del CDE del PAN en Zacatecas.
-author: ALFREDO SANDOVAL ROMERO
+author: Alfredo Sandoval Romero
 categories: ['Autor']
 authorlink: 
 published: true

@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Talleres artísticos del Manuel Felguérez han  logrado producir un lazo, considera director"
-author: "ALMA RIOS \_"
+author: "ALMA RIOS"
 location: Local
 category: Sociedad y Justicia
 layout: posts

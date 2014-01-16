@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Edición de la Feria de Libro de Verano integra libros nuevos, viejos y antiguos"
-author: "ALMA RIOS  "
+author: "ALMA RIOS"
 location: Local
 category: Cultura y Espectáculos
 layout: posts

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Agenda cultural
-author: ARACELI SOLORZANO
+author: ARACELI RODARTE SOLORZANO
 location: Local
 category: Cultura y Espectáculos
 layout: posts

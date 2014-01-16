@@ -1,7 +1,7 @@
 ---
 published: true
 title: Presenta IFE reporte de sus actividades  en apoyo al proceso electoral zacatecano
-author: "ALMA RIOS \_"
+author: "ALMA RIOS"
 category: Política
 layout: posts
 ---

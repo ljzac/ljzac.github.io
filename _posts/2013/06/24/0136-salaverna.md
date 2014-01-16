@@ -1,7 +1,7 @@
 ---
 published: true
 title: Recomiendan evacuación de habitantes  de Salaverna ante riesgo de hundimiento
-author: Reacción
+author: Redacción
 location: Local
 category: Sociedad y Justicia
 layout: posts

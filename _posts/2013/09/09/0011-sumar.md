@@ -1,7 +1,7 @@
 ---
 published: true
 title: "El programa Sumar ha  funcionado: Alonso Reyes"
-author: "ALMA RIOS                                                                       "
+author: "ALMA RIOS                                                                     "
 location: Local
 category: Portada
 layout: posts

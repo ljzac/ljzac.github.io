@@ -1,7 +1,7 @@
 ---
 published: true
 title: Solicitan 6 diputados con licencia su reincorporación a la 60 Legislatura
-author: ALMA AEJANDRA TAPIA
+author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
 layout: posts

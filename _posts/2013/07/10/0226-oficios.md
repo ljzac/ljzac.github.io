@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Novedad “motivante” para los niños  actuales conocer oficios antiguos: IZC"
-author: ALMA RIO
+author: ALMA RIOS
 location: Local
 category: Portada
 layout: posts
