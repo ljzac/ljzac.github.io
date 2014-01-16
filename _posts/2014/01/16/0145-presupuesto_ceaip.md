@@ -9,6 +9,7 @@ layout: posts
 ---
 
 ![De 2009 a la fecha el presupuesto de la Comisión Estatal de Acceso a la Información Pública (CEAIP) ha presentado un crecimiento moderado, pese a que una queja recurrente de los ex comisionados, e incluso de los actuales, es la falta de subsidio para poder poner en práctica las facultades que tiene en materia de transparencia y rendición de cuentas de los organismos públicos](http://i.imgur.com/VtSgSgX.png)
+<br>
 
 
 ■ La reducción en 2014 fue considerada “una medida para limitar el derecho de la transparencia”
