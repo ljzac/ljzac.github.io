@@ -1,7 +1,7 @@
 ---
 published: true
 title: Nuevo sistema de justicia penal
-author: Nuevo sistema de justicia penal
+author: Socorro Martínez Ortíz
 location: Local
 category: Opinión
 layout: posts
