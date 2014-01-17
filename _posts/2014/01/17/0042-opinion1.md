@@ -1,6 +1,7 @@
 ---
 published: true
 title: Ignacio Montero y la instrucción primaria  en Zacatecas durante el Primer Imperio
+author: Leonel Contreras Betancourt
 location: Local
 category: Opinión
 layout: posts
@@ -35,4 +36,4 @@ Referencias.
 
 4 Ibid., fj. 2.
 
-5 Loc. cit. 
+5 Loc. cit.
