@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Vida cotidiana en municipio Río Grande
 author: RAFAEL DE SANTIAGO
 location: Local

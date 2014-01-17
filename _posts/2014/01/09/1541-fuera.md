@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "En Salaverna, comunidad del municipio Mazapil"
 author: ERNESTO MORENO
 location: Local

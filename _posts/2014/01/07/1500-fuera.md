@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mineros de Vetagrande
 author: RAFAEL DE SANTIAGO
 location: Local

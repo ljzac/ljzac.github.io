@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Carrera de San Silvestre en el Centro Histórico de Zacatecas
 author: ERNESTO MORENO
 location: Local
