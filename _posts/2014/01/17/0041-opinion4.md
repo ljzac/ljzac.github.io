@@ -1,7 +1,7 @@
 ---
 published: true
 title: Expropiar a los privatizadores
-author: Expropiar a los privatizadores
+author: Hector Arteaga Soto
 location: Local
 category: Opinión
 layout: posts
