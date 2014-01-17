@@ -76,5 +76,4 @@ El Movimiento Social Mayo 29 (M29), que integran entre otros, el propio Arturo R
 
 En él se ofrecerán testimonios, la presentación de un material bibliográfico, una exposición fotográfica y la intervención de miembros originales del emblemático Huayrapamushka de la UAZ, mismos que se encargarán de traer al presente el lenguaje musical que animó aquella lucha.
 
-<div align="center"><iframe src="http://www.infodem.com.mx/Entrevista%20Arturo%20Rivera/" frameborder="0" style="height:450px; width:600px;"></iframe></div>
-
+<div align="center"><iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/sPhsM/embed"></iframe></div>
