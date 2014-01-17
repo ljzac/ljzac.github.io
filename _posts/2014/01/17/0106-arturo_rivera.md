@@ -32,6 +32,8 @@ En la retención de un cadáver que no era entregado a sus deudos por cuestiones
 
 Todo esto, es señalado por Arturo Rivera como “una confluencia de un movimiento que hizo temblar a Zacatecas”, mismo que modificó fundamentalmente la estructura agraria del estado, al hacer productivas tierras, antes concentradas en pocas manos y que eran en muchos casos sólo nopaleras.
 
+<div align="center"><iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/sPhsM/embed"></iframe></div>
+
 
 **Los estudiantes universitarios de los 70**
 
@@ -76,4 +78,3 @@ El Movimiento Social Mayo 29 (M29), que integran entre otros, el propio Arturo R
 
 En él se ofrecerán testimonios, la presentación de un material bibliográfico, una exposición fotográfica y la intervención de miembros originales del emblemático Huayrapamushka de la UAZ, mismos que se encargarán de traer al presente el lenguaje musical que animó aquella lucha.
 
-<div align="center"><iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/sPhsM/embed"></iframe></div>
