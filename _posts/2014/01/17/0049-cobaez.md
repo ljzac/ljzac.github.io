@@ -4,7 +4,7 @@ title: Toman dirección del Supdacobaez debido a la falta en la entrega de estí
 twitt: "■ Podrían suspender actividades el próximo lunes en el sistema educativo "
 author: MARTÍN CATALÁN LERMA
 location: Local
-category: Portada
+category: Educación
 layout: posts
 ---
 
