@@ -1,6 +1,6 @@
 ---
 published: true
-title: "  Implementa municipio de Guadalupe programa salud al 100%   "
+title: "  Implementa municipio de Guadalupe programa Salud al 100%   "
 author: REDACCIÓN
 location: Local
 category: Destacadas
