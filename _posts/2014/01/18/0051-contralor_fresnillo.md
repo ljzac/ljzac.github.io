@@ -4,7 +4,7 @@ title: "No había motivos para destituir a contralor de Fresnillo,  opinan Migue
 twitt: ■ Razón para ello sería que no realice su trabajo de fiscalización
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
