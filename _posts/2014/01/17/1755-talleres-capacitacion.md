@@ -1,6 +1,6 @@
 ---
 published: true
-title: " Clausura Carlos Peña talleres de capacitación en colonia Felipe Ángeles"
+title: " Clausuran talleres de capacitación ofrecidos por Sedatu en Zacatecas"
 author: REDACCIÓN
 location: Local
 category: Destacadas
