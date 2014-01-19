@@ -3,7 +3,7 @@ published: true
 title: "Migrantes que no regresaron a EU se unieron a autodefensas: TWP"
 author: The Washington Post
 location: Internacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
