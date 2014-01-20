@@ -8,11 +8,13 @@ category: Portada
 layout: posts
 ---
 
-![Habrá mejor trabajo en seguridad pública, afirman autoridades ■ foto: la jornada zacatecas](http://i.imgur.com/MiSpRTdm.jpg)
+<object width="420" height="236"><param name="movie" value="//www.youtube.com/v/MDCZTxKvNHM?version=3&amp;hl=es_MX"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/MDCZTxKvNHM?version=3&amp;hl=es_MX" type="application/x-shockwave-flash" width="420" height="236" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
 Impulsar proyectos que consoliden una visión metropolitana entre Zacatecas y Guadalupe es uno de los enfoques fundamentales que se le dio al plan municipal de desarrollo del ayuntamiento capitalino. 
 
 El alcalde Carlos Peña Badillo aseguró que, entre las acciones que se llevarán a cabo durante su administración, en conjunto con el municipio conurbado de Guadalupe, estará un proyecto común de recaudación para evitar las molestias que se han venido generando en las zonas limítrofes entre ambas poblaciones.
-
+![Habrá mejor trabajo en seguridad pública, afirman autoridades ■ foto: la jornada zacatecas](http://i.imgur.com/MiSpRTdm.jpg)
 Además, también habrá una coordinación mayor en el caso de la seguridad pública con rondines permanentes entre todas las corporaciones policiacas que están presentes en este territorio, así como con el Ejército Mexicano.
 
 La importancia de este rubro, explicó, radica en que “anteriormente los reportes a seguridad pública, si se hacían a Zacatecas, no iban porque resulta que eran de una zona de Guadalupe, si avisabas a Guadalupe te decían que hablaras a Zacatecas y resulta que el delito a final de cuentas se cometía porque no había quien llegara a realizar el apoyo”.
