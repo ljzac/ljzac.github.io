@@ -4,7 +4,7 @@ title: "Potenciar la visión metropolitana e impulsar desarrollo de comunidades,
 twitt: "■ Habrá mayor coordinación en el caso de la seguridad pública con rondines constantes, afirma"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
