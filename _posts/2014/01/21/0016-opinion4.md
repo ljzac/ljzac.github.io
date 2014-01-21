@@ -3,7 +3,7 @@ published: true
 title: La corrupción nos condena a la pobreza y el atraso
 author: Raymundo Cárdenas Hernández
 location: Local
-category: Opinión
+category: Memoria
 layout: posts
 ---
 
