@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![El mandatario Miguel Alonso dialogó con funcionarios de su administración ■ foto: la jornada zacatecas](/http://i.imgur.com/k8NsdR5m.jpg)
+![El mandatario Miguel Alonso dialogó con funcionarios de su administración ■ foto: la jornada zacatecas](http://i.imgur.com/fAdL0ivm.jpg)
 El seguimiento de las obras y acciones que realizó la administración estatal permitió comprometer la totalidad de los recursos programados para el ejercicio 2013, informaron las autoridades mediante un comunicado. 
 
 Con ello se cumplió la instrucción del mandatario estatal para que no quedara ni un solo peso sin ejercer, a fin de cumplir con las metas establecidas y evitar caer en subejercicio presupuestal, señala el documento. 
