@@ -1,6 +1,6 @@
 ---
 published: true
-title: "ejará una derrama económica de 10 mdp el Congreso Nacional de Rodeo  "
+title: "Dejará una derrama económica de 10 mdp el Congreso Nacional de Rodeo  "
 author: REDACCIÓN
 location: Local
 category: Destacadas
