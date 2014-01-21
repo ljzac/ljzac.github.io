@@ -3,7 +3,7 @@ published: true
 title: "\"Aberración\", la inminente ejecución de Tamayo en Texas: Vivanco"
 author: La Jornada
 location: Internacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
