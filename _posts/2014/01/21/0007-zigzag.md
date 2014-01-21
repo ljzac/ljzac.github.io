@@ -14,6 +14,8 @@ layout: posts
 
 
 ■ Realizarán el programa 100 Comunidades a conciencia; llevarán tecnología a localidades
+
+
  
 “Lo nuestro es una cruzada por una transformación cultural a favor de la ciencia y el desarrollo, del mejor vivir”, sintetiza Gema Mercado Sánchez en entrevista, al hablar de los nueve años de existencia del Centro Interactivo de Ciencia y Tecnología Zig-zag, celebrados este lunes.
 
