@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Aprueban más de 24 mdp para proyectos de regeneración en el Centro Histórico
 author: REDACCIÓN
 location: Local
