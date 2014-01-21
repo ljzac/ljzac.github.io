@@ -8,7 +8,9 @@ category: Portada
 layout: posts
 ---
 
-<div align="center">object width="420" height="236"><param name="movie" value="//www.youtube.com/v/qUzz72WGfZQ?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/qUzz72WGfZQ?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="420" height="236" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<div align="center"><object width="420" height="236"><param name="movie" value="//www.youtube.com/v/qUzz72WGfZQ?hl=es_MX&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/qUzz72WGfZQ?hl=es_MX&amp;version=3" type="application/x-shockwave-flash" width="420" height="236" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+
+
 
 
 ■ Realizarán el programa 100 Comunidades a conciencia; llevarán tecnología a localidades
