@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Logra Gobierno del Estado ejercer la totalidad  del presupuesto 2013; se reúne gabinete
 twitt: ■ Revisan actividades para conmemorar el Centenario de la Toma de Zacatecas
 author: Redacción
