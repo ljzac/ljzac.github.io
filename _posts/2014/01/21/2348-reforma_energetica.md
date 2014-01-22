@@ -3,7 +3,7 @@ published: true
 title: Desechan recurso contra Reforma Energética  promovida por grupo de 23 intelectuales
 author: Redacción
 location: Local
-category: Portada
+category: Política
 layout: posts
 ---
 
