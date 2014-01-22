@@ -1,13 +1,13 @@
 ---
 published: true
-title: Toman protesta a Mesa Directiva de Junta de Monumentos; aprobará presupuesto de esta dependencia
+title: Toman protesta a Mesa Directiva de Junta de Monumentos; aprobará presupuestos de esta dependencia
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![Fotos: RAFAEL DE SANTIAGO](/http://i.imgur.com/rTM84n3m.jpg)La mesa directiva de la Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas realizó su primera sesión ordinaria en la que se tomó protesta a los integrantes del consejo, el cual preside el gobernador Miguel Alonso Reyes, así como los titulares de las secretarías de Finanzas, de Educación, de Infraestructura y de Desarrollo Social.
+![Fotos: RAFAEL DE SANTIAGO](http://i.imgur.com/fc00FE7m.jpg)La mesa directiva de la Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas realizó su primera sesión ordinaria en la que se tomó protesta a los integrantes del consejo, el cual preside el gobernador Miguel Alonso Reyes, así como los titulares de las secretarías de Finanzas, de Educación, de Infraestructura y de Desarrollo Social.
 
 Se analizaron las actividades a 49 años de la consolidación de esta dependencia. 
 
