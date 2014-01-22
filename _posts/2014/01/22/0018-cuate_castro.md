@@ -2,6 +2,7 @@
 published: true
 title: El Cuate Castro a través de su lente  ha captado la historia de una ciudad
 twitt: ■ Lleva 60 años dedicado a la profesión de fotógrafo; a los 12 tuvo su primera cámara
+author: Rafael de Santiago
 location: Local
 category: Portada
 layout: posts
