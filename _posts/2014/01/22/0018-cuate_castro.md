@@ -20,7 +20,7 @@ Francisco Castro del Río ha dedicado más de 60 años a captar momentos importa
 Nació en una vecindad en el centro de Zacatecas, su historia dentro de la fotografía inició a los 7 años, cuando su madre, por falta de recursos económicos para darles alimento y vestido, lo envió junto con su hermano al Internado Trinidad García de la Cadena, Hijos del Ejército, en el municipio de Guadalupe.
 
 En este lugar recibían comida, vestido y estudio, y una maestra a quien recuerda por el nombre de Carmelita, durante la hora del recreo enseñaba a los alumnos a revelar fotografías, con base en sobres de fijador y revelador.
-![](http://i.imgur.com/oNdDnbcm.jpg)
+![](http://i.imgur.com/j1W6kydm.jpg)
 De ahí nació la ilusión de captar imágenes y al concluir su educación primaria, a los 12 años, regresó a Zacatecas.
 
 Relata que su primera cámara la compró su madre en la calle Aguascalientes, en la llamada línea de fuego, donde se establecían los llamados “fierreros”.
@@ -56,13 +56,13 @@ Narra que el actor, conocido como el Ídolo de Guamúchil, era un hombre sencill
 Sin embargo, lamenta, su archivo fotográfico se perdió después de separarse de su primera esposa. “Yo tenía una caja grande de madera donde tenía mi archivo fotográfico, pero lo perdí cuando me divorcié de mi primera señora, y no me dejó sacar ni mi ropa, me fui nomás con la que traía puesta y vas pa’ fuera”. 
 
 Dice orgulloso que con su vieja camarita, de la época de la Segunda Guerra Mundial, llegó a tomar más de un millón de fotos.
-![](http://i.imgur.com/j1W6kydm.jpg)
-Y presume que ninguna cámara digital capta imágenes a la misma velocidad que su cámara, y que ningún laboratorio fotográfico actualmente llega a imprimar cientos de fotos en tan solo 3 minutos, como lo hacía con un método antiguo en una espiral de plata alemana.
 
+Y presume que ninguna cámara digital capta imágenes a la misma velocidad que su cámara, y que ningún laboratorio fotográfico actualmente llega a imprimar cientos de fotos en tan solo 3 minutos, como lo hacía con un método antiguo en una espiral de plata alemana.
+![](http://i.imgur.com/wNyEQNSm.jpg)
 Sin embargo, la tecnología vino a terminar las sesiones que se hacían en los estudios fotográficos, pues antes era una tradición que familias enteras acudieran a tomarse una foto, así como matrimonios y quinceañeras; aunque ahora se buscan museos o lugares en el exterior.
 
 Francisco Castro dejó el legado de la fotografía a cuatro hijas y 10 sobrinos que se dedican a esta profesión, a quienes dice, “dejo la semillita”.
-![](http://i.imgur.com/wNyEQNSm.jpg)
+
 Todavía sale desde temprana hora a trabajar en su motocicleta, continúa captando eventos sociales en iglesias y fiestas, pues es conocido por innumerables zacatecanos.
 
 “Aún me apasiona la fotografía, es un gusto que amanezca para salir a trabajar. La cámara me ha dado cosas materiales, pero son más las satisfacciones. Las imágenes en mi mente son lo único que me voy a llevar, porque todo aquí en la tierra es prestado”, asevera uno de los primeros fotógrafos de Zacatecas.
