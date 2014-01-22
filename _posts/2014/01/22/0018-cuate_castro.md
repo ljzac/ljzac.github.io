@@ -58,7 +58,7 @@ Sin embargo, lamenta, su archivo fotográfico se perdió después de separarse d
 Dice orgulloso que con su vieja camarita, de la época de la Segunda Guerra Mundial, llegó a tomar más de un millón de fotos.
 
 Y presume que ninguna cámara digital capta imágenes a la misma velocidad que su cámara, y que ningún laboratorio fotográfico actualmente llega a imprimar cientos de fotos en tan solo 3 minutos, como lo hacía con un método antiguo en una espiral de plata alemana.
-![](http://i.imgur.com/wNyEQNSm.jpg)
+
 Sin embargo, la tecnología vino a terminar las sesiones que se hacían en los estudios fotográficos, pues antes era una tradición que familias enteras acudieran a tomarse una foto, así como matrimonios y quinceañeras; aunque ahora se buscan museos o lugares en el exterior.
 
 Francisco Castro dejó el legado de la fotografía a cuatro hijas y 10 sobrinos que se dedican a esta profesión, a quienes dice, “dejo la semillita”.
