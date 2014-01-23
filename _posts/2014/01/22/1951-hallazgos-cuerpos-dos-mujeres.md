@@ -1,6 +1,6 @@
 ---
 published: true
-title: Investigan autoridades estatales y federales hallazgo de los cuerpos de dos mujeres en el cerro de las antenas
+title: Investigan autoridades estatales y federales hallazgo de los cuerpos de dos mujeres en el Cerro de las Antenas
 author: REDACCIÓN
 location: Local
 category: Destacadas
