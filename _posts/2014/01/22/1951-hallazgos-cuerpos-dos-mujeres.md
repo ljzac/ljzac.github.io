@@ -1,13 +1,13 @@
 ---
 published: true
-title: Investigan autoridades estatales y federales hallazgo de los cuerpos de dos mujeres en el Cerro de las Antenas
+title: Investigan autoridades estatales y federales hallazgo de los cuerpos de dos mujeres en el cerro de Las Antenas
 author: REDACCIÓN
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![Foto: Página oficial Zacatecas online](http://i.imgur.com/xpWDAKIm.jpg)Autoridades de la Secretaría de Seguridad Pública informaron que, alrededor de las 17:00 horas de este miércoles, fueron encontrados los cuerpos sin vida de dos mujeres en las faldas del Cerro de Las Antenas, en la capital del estado.
+![](http://i.imgur.com/xpWDAKIm.jpg)Autoridades de la Secretaría de Seguridad Pública informaron que, alrededor de las 17:00 horas de este miércoles, fueron encontrados los cuerpos sin vida de dos mujeres en las faldas del cerro de Las Antenas, en la capital del estado.
 
 El hallazgo fue reportado por uno de los pobladores de la colonia Carlos Hinojosa Petit, cuando se dirigía a tapar un pozo.
 
