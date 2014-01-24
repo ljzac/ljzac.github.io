@@ -2,8 +2,8 @@
 published: true
 title: Peso continúa tendencia devaluatoria frente al dólar; se vendió en 13.70 pesos
 author: La Jornada
-location: Local
-category: Destacadas
+location: Nacional
+category: Principales
 layout: posts
 ---
 
