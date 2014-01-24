@@ -1,6 +1,6 @@
 ---
 published: true
-title: Confirman autoridades desalojo de manifestantes en Peñasquito; aprehenden a 2 ejidatarios
+title: Confirman autoridades desalojo de manifestantes en Peñasquito; aprehenden a 2 de ellos
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
