@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Se prevé que en 2014 funcione nuevo sistema de justicia penal en todo el territorio zacatecano: Castañeda"
+title: "Se prevé que este año funcione nuevo sistema de justicia penal en todo el territorio zacatecano: Castañeda"
 author: ALMA ALEJANDRA TAPIA
 location: Local
 category: Destacadas
