@@ -1,6 +1,6 @@
 ---
 published: true
-title: Da a conocer Canacintra beneficios a quienes se afilien durante el presente mes
+title: Da a conocer Canacintra beneficios para quienes se afilien durante el presente mes
 author: RAFAEL DE SANTIAGO
 location: Local
 category: Destacadas
