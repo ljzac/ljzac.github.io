@@ -24,7 +24,7 @@ Tras el  concilio, los sacerdotes pudieron vestir de civil, dejar la sotana, y 
 “De repente se cambia esa misa (…) empiezan a surgir ejemplos de curas guerrilleros y curas obreros, que predican que hay que defenderse. Y que en esta vida es donde hay que hacer realidad  el paraíso. Donde hay que hacer realidad la igualdad…muchas cosas.  Fue un cambio brutal”.
 
 Lo anterior fue referido a la tesis general de la Teología de la Liberación, una corriente de pensamiento que surgió al interior de la Iglesia católica en Latinoamérica en aquella época y que tuvo como uno de sus iconos a Camilo Torres Restrepo, que se convirtiera en guerrillero participando en el Ejército de Liberación Nacional de Colombia.
-![](http://i.imgur.com/ewO2I54m.jpg)
+
 Todos estos cambios donde mejor se procesaron dice, fue en la Universidad Autónoma de Zacatecas. A esta “primera sacudida” de amplio impacto social vino a sumarse la que se desarrolló al interior de la Universidad Autónoma de Zacatecas mediante el Simposium de Reforma de 1971.
 
 “Se metió el marxismo como materia de estudio. No tiene la importancia que tiene el otro (hecho) porque la universidad todavía era muy pequeña. Ese despertar de la universidad y ese movimiento de base,  el cambio en la religión, fue en mi opinión lo que propició el  (surgimiento) del Frente, así lo veo yo”, abundó quien fuera uno de los integrantes de esta organización.
