@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ofrece Inadem convocatoria a microempresarios para fortalecer sus negocios
+title: Abre Inadem convocatoria a microempresarios para fortalecer sus negocios
 author: REDACCIÓN
 location: Local
 category: Destacadas
