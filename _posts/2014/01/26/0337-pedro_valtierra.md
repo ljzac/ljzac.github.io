@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ El fresnillense imparte conferencia que destaca el valor de la técnica en la preservación del legado histórico
+![](http://i.imgur.com/BRw8621m.png)■ El fresnillense imparte conferencia que destaca el valor de la técnica en la preservación del legado histórico
 
 ■ Comparte las experiencias en el oficio durante Diplomado en Periodismo Cultural
 
