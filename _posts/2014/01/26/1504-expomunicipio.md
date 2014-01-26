@@ -1,6 +1,6 @@
 ---
 published: true
-title: Convoca alcalde capitalino a participar en muestra colectiva ‘Expomunicipio’
+title: Convoca alcalde capitalino a participar en muestra colectiva ‘Expomunicipio 2014’
 author: REDACCIÓN
 location: Local
 category: Destacadas
