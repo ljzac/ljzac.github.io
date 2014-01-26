@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Deben aprovechar su experiencia para dar los resultados que los mexicanos esperan: De León
+![](http://i.imgur.com/98AsrCTm.png)■ Deben aprovechar su experiencia para dar los resultados que los mexicanos esperan: De León
 
 Este será el año de las transformaciones, en el que tiene que demostrarse en los hechos la nueva política social de nueva generación del gobierno de la República, afirmó Ramón Sosamontes Herreramoro, jefe de la Oficina de la Secretaría de la Secretaría de Desarrollo Social (Sedesol) al inaugurar el cuarto Taller Nacional de Delegados, en la Ciudad de México.
 
