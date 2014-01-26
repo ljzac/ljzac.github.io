@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/TPXjXRNm.png)■ Este año se dejaron de reportar ilícitos en carreteras, afirma el presidente de Canacintra
+![](http://i.imgur.com/XwU7B1jm.jpg)■ Este año se dejaron de reportar ilícitos en carreteras, afirma el presidente de Canacintra
 
 ■ En 2013 se tuvo conocimiento de tres secuestros de empresarios afiliados, expuso
 
