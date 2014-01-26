@@ -7,7 +7,7 @@ category: Política
 layout: posts
 ---
 
-■ Este año aplicarán 10 programas de beneficio social, informan
+![](http://i.imgur.com/DAapKGGm.png)■ Este año aplicarán 10 programas de beneficio social, informan
 
 El ayuntamiento de Zacatecas y la Secretaría de Desarrollo Territorial y Urbano (Sedatu) firmarán un convenio de colaboración para realizar acciones en materia de desarrollo urbano y vivienda en la capital, mediante 10 programas de beneficio social, según se informó en la reunión que tuvo el representante federal de esta dependencia con el alcalde Carlos Peña Badillo y la síndico María Concepción García Almeida. 
 
