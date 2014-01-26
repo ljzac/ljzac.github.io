@@ -1,7 +1,9 @@
 ---
 published: true
+title: Inician festejos por el centenario de la Batalla de Zacatecas en Guadalupe
+author: REDACCIÓN
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
