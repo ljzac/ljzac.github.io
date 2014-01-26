@@ -7,7 +7,7 @@ category: Educación
 layout: posts
 ---
 
-![](http://i.imgur.com/X0DV1m6m.png)■ Los estudios serán aplicados en estudiantes de educación básica
+![](http://i.imgur.com/yrWcD2Em.jpg)■ Los estudios serán aplicados en estudiantes de educación básica
 
 La Secretaría de Educación del estado (Seduzac) y los Servicios Coordinados de Salud de Zacatecas (SSZ) realizan una jornada conjunta de detección de sobrepeso, problemas visuales y dentales, en estudiantes de educación básica.
 
