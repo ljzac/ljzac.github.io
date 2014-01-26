@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Se revisarán las unidades motrices y choferes en las bases de las rutas del transporte público
+![](http://i.imgur.com/ZQASUmLm.png)■ Se revisarán las unidades motrices y choferes en las bases de las rutas del transporte público
 
 ■ Se trabaja en la integración de un padrón preciso de conductores de autobuses: Ortiz Arellano
 
