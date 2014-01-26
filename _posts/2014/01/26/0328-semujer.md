@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Cada una recibió un estímulo económico por 5 mil pesos
+![](http://i.imgur.com/GNThs4Vm.png)■ Cada una recibió un estímulo económico por 5 mil pesos
 
 La secretaria de las Mujeres, Angélica Náñez Rodríguez, premió a las 10 ganadoras del tercer  concurso Historias de vida de las mujeres zacatecanas, quienes fueron reconocidas por su esfuerzo para mejorar el entorno rural en el que viven.
 
