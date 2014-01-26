@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/pFOdYE7m.png)■ Los profesores de apoyo buscarán mejorar el aprovechamiento en Español y Matemáticas
+![](http://i.imgur.com/T7b7bysm.jpg)■ Los profesores de apoyo buscarán mejorar el aprovechamiento en Español y Matemáticas
 
 ■ Promoverán la participación de los padres de familia en las actividades escolares
 
