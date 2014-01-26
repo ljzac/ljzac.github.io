@@ -7,7 +7,7 @@ category: Municipios
 layout: posts
 ---
 
-■ Más de 70 parejas se han registrado, informa oficial de Registro Civil
+![](http://i.imgur.com/h9dV11Gm.jpg)■ Más de 70 parejas se han registrado, informa oficial de Registro Civil
 
 GUADALUPE. Con la realización de una ceremonia matrimonial colectiva, el gobierno municipal de Guadalupe, a través de la Oficialía del Registro Civil, celebrará el Día del Amor y la Amistad, este próximo viernes 14 de febrero. 
 
