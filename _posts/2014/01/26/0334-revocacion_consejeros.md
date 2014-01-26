@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Los diputados iniciarán una vez más el procedimiento de emitir una convocatoria pública, dice
+![](http://i.imgur.com/Em3E8bym.png)■ Los diputados iniciarán una vez más el procedimiento de emitir una convocatoria pública, dice
 
 ■ Con este precedente se tomarán medidas para que no a presenten lagunas jurídicas, expone
 
