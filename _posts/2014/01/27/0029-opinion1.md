@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Pemex: Venta de\_garage\_eclipsada"
+title: "Pemex: Venta de garage eclipsada"
 author: Jesusa Cervantes
 location: Local
 category: Opinión
