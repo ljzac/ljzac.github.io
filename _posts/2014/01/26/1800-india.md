@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-![Imagen de la India_Ap](http://i.imgur.com/HVC1RAcm.jpg)Nueva Delhi. Al menos 21 personas murieron hoy al zozobrar un barco con turistas ante las costas de las islas indias de Andamón y Nicobar, informa el diario The Hindu.
+![Imagen de India_Ap](http://i.imgur.com/HVC1RAcm.jpg)Nueva Delhi. Al menos 21 personas murieron hoy al zozobrar un barco con turistas ante las costas de las islas indias de Andamón y Nicobar, informa el diario The Hindu.
 
 Otras cuatro personas se encuentran en estado crítico y fueron trasladadas al hospital.
 
