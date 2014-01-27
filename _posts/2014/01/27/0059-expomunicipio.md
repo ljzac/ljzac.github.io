@@ -4,7 +4,7 @@ title: Invitan a creadores locales a participar en la muestra colectiva Expomuni
 twitt: "■ Habrá espacio para presentar pintura, dibujo, grabado, fotografía y escultura, informan"
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
