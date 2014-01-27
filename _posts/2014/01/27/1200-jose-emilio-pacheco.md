@@ -3,7 +3,7 @@ published: true
 title: Rinden homenaje a José Emilio Pacheco en el Colegio Nacional
 author: " Notimex"
 location: Nacional
-category: Principales
+category: Cultura y Espectáculos
 layout: posts
 ---
 
