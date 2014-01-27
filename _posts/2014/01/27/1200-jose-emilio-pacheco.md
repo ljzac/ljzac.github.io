@@ -1,14 +1,20 @@
 ---
 published: true
-title: Rinden homenaje a José Emilio Pacheco en el Colegio Nacional
-author: " Notimex"
+title: Los restos de JEP serán cremados y sus cenizas esparcidas en Veracruz
+author: La Jornada
 location: Nacional
 category: Cultura y Espectáculos
 layout: posts
 ---
 
-![Amigos, familiares y colegas rinden homenaje al poeta en el Colegio Nacional. Foto La Jornada](http://i.imgur.com/VkQ3qPom.jpg)México, DF. Poco antes de las 11 horas, el cuerpo del escritor mexicano José Emilio Pacheco (1939-2014) arribó al Colegio Nacional, donde es velado por amigos, familiares y colegas.
+![Amigos, familiares y colegas rinden homenaje al poeta en el Colegio Nacional. Foto La Jornada](http://i.imgur.com/VkQ3qPom.jpg)A las 11:30 horas el cuerpo de José Emilio Pacheco arribó a la sede de El Colegio Nacional, en el Centro Histórico, ‘‘un edificio que le gustaba mucho y al cual acudía siempre con gusto”, dijo su esposa Cristina Pacheco ante un tumulto de periodistas que acudieron a la despedida del poeta y traductor.
 
-Por la calle Luis González Obregón, situada en la parte trasera del Colegio, una carroza color negro, de una famosa funeraria, trasladó al autor de las "Batallas en el desierto", cuyo féretro ya se encuentra en el interior de la sede de la que fue miembro desde 1986.
+Amigos y colegas se han dado cita en el recinto ubicado en Donceles 104, el cual ha resultado insuficiente para recibir a los que llegan a ofrecer sus condolencias a la familia del ensayista y Premio Cervantes de Literatura.
 
-El autor perteneciente a la llamada Generación de los 50, junto con autores de la talla de Sergio Pitol (1933), Carlos Monsiváis (1938-2010), Salvador Elizondo (1932-2006), Vicente Leñero (1933) y Eduardo Lizalde (1929), entre otros, falleció ayer, en el Instituto Nacional de Ciencias Médicas y de Nutrición "Salvador Zubirán" a causa de un paro caro respiratorio a sus 74 años.
+La periodista dijo que el homenaje en el Palacio de Bellas Artes será en días posteriores y no de cuerpo presente.
+
+Los restos de José Emilio Pacheco serán cremados esta misma tarde y sus cenizas serán esparcidas en Veracruz, comentó la colaboradora de La Jornada.
+
+Entre los asistentes destacan el periodista Jacobo Zabludovsky, Fernando González Gortázar y funcionarios culturales.
+
+En representación del presidente Enrique Peña Nieto, la primera guardia de honor la montó Emilio Chuayffet, titular de la Secretaría de Educación Pública.
