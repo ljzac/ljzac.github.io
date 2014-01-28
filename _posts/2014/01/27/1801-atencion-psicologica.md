@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-GUADALUPE, ZAC.- El Sistema Municipal para el Desarrollo Integral de la Familia (SMDIF) Guadalupe, por medio de su departamento de Atención Psicológica, reanudó los talleres de atención psicológica integral implementados en las oficinas de la propia institución, así como cono en las instalaciones del Instituto Municipal de Cultura.
+![](http://i.imgur.com/hd7a33om.jpg)GUADALUPE, ZAC.- El Sistema Municipal para el Desarrollo Integral de la Familia (SMDIF) Guadalupe, por medio de su departamento de Atención Psicológica, reanudó los talleres de atención psicológica integral implementados en las oficinas de la propia institución, así como cono en las instalaciones del Instituto Municipal de Cultura.
  
 Así lo informó la responsable del Departamento de Psicología, Laura Elena Berumen Enríquez, quien indicó que por instrucciones de la presidenta de la institución, Ana Elena Rosas de Luévano, se restablecen a su totalidad los servicios de atención psicológica dirigida a niños, adolescentes y adultos, así como a personas de la tercera edad; todo ello de forma gratuita.
  
