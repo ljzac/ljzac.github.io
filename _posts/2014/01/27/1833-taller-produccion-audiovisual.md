@@ -1,6 +1,6 @@
 ---
 published: true
-title: " Entrega Instituto de Cultura reconocimientos a participantes del taller de Producción audiovisual"
+title: " Entrega Instituto de Cultura de Fresnillo reconocimientos a participantes del taller de Producción audiovisual"
 author: REDACCIÓN
 location: Local
 category: Destacadas
