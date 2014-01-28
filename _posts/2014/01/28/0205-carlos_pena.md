@@ -4,7 +4,7 @@ title: Acuerda Peña Badillo condiciones para que la capital obtenga el emprést
 twitt: ■ Dos calificadoras darán su valoración sobre el soporte financiero
 author: Redacción
 location: Local
-category: Portada
+category: Municipios
 layout: posts
 ---
 
@@ -24,7 +24,3 @@ Dijo que mientras dure el proceso, la administración no acudirá a algún prés
 Carlos Peña reiteró que está lista la documentación para obtener la valoración por parte de las calificadoras y una vez concluida esta parte, se verá con las instituciones bancarias, cuáles son sus mejores ofertas y condiciones crediticias para contratar, con la aclaración de que no hay ningún compromiso con banco alguno.
 
 El proceso, estimó terminará en marzo, es decir, ese mes tendrá disponible el recurso para resolver los pendientes más urgentes como el pago a proveedores locales y en cuanto a obras, parte de la inversión se empleará en obras de infraestructura y obra pública, entre las que destacan, la ampliación de la presidencia municipal y estacionamiento de la misma.
-
-
-
-
