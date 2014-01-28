@@ -1,6 +1,6 @@
 ---
 published: true
-title: Entregó bandera el ayuntamiento a secundaria Ricardo Flores Magón
+title: Entregó bandera ayuntamiento de Fresnillo a secundaria Ricardo Flores Magón
 author: REDACCIÓN
 location: Local
 category: Destacadas
