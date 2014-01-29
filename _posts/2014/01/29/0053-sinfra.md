@@ -3,7 +3,7 @@ published: true
 title: Exhortan a constructores  a terminar a tiempo obras  de distintos programas
 author: REDACCIÓN
 location: Local
-category: Opinión
+category: Sociedad y Justicia
 layout: posts
 ---
 
