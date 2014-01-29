@@ -3,7 +3,7 @@ published: true
 title: Pide Obama al Congreso dar los pasos necesarios para cerrar Guantánamo
 author: Redacción
 location: Internacional
-category: Portada
+category: Mundo
 layout: posts
 ---
 
