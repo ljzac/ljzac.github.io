@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Contarán bibliotecas del Conalep con el modelo Janium   "
+title: "Contarán Bibliotecas del Conalep con el modelo Janium   "
 author: REDACCIÓN
 location: Local
 category: Destacadas
