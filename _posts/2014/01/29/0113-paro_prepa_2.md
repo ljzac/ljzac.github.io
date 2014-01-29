@@ -16,7 +16,7 @@ Mientras se le niegan sus derechos laborales, dijo que otros docentes han sido b
 Afirmó que hay más maestros que enfrentan la misma situación, pero tienen miedo a las represalias que podrían aplicarse a través de la dirección general. Por ese motivo, indicó que él decidió manifestarse por cuenta propia.
 
 Antes de realizar su protesta, expuso que había acudido a la dirección del plantel, de la dirección general de la Unidad Académica de Preparatoria y del Sindicato de Personal Académico (Spauaz), pero no hubo ninguna respuesta.
-
+![](http://i.imgur.com/70aV3cAm.jpg)
 Ortega Ramírez comentó que el argumento que le dieron en esas instancias fue que no había condiciones para que se le otorgara la carga de trabajo que él solicitaba, pero en su caso no se está tomando en cuenta su antigüedad.
 
 En las unidades académicas de la UAZ, comentó, la carga de trabajo se hace pública a los docentes y cada uno la escoge de acuerdo a su antigüedad, pero en la preparatoria la asignación se hace a través de un departamento cuyos miembros no consideran ese factor. Por el contrario, “ha utilizado esa información para beneficiar a algunos maestros que son de su grupo político”.
