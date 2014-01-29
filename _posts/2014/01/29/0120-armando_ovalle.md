@@ -38,7 +38,7 @@ En los años 80 promovió su obra en ferias estatales como la de Tamaulipas, y s
 Incluso llegaban a su taller a buscarlo para encargarle series de obras, entre ellos, la figura del Quijote, pieza que elaboró de más de un metro y medio para una persona de Michoacán que le encargó la obra.
 
 “La gente ve un montón de fierros y los desecha, pero se les puede dar vida, un objeto como una aldaba es parte de la historia, y si no se utiliza, se funde y se olvida; yo me encargo de darle vida, darle forma y ensamblarla gracias al don que me otorgó Dios”, comenta Ovalle.
-![](http://i.imgur.com/Lp3BmkSm.jpg)
+![](http://i.imgur.com/eSZYY1om.jpg)
 En esa época, la mayoría de los turistas que llegaban a Guadalupe buscaban llevarse alguna de las piezas de Armando, convirtiéndose en una tradición.
 En el año de 1994 participó en un concurso de escultura creativa en Tlaquepaque, en la cual se llevó una mención honorifica y dio a conocer su trabajo a miles de artesanos y creadores de México.
 
