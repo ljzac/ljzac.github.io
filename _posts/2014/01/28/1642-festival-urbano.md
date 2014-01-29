@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/CNzj3p3m.jpg)GUADALUPE, ZAC.- Por medio del Instituto Municipal de Cultura, la administración de Guadalupe que encabeza Roberto Luévano Ruiz, lanzó la convocatoria a todos los artistas locales a participar en el Festival Urbano 2014 a realizarse del 12 al 20 de abril próximo.
+![](http://i.imgur.com/CNzj3p3m.jpg)GUADALUPE, ZAC.- Por medio del Instituto Municipal de Cultura, la administración de Guadalupe que encabeza Roberto Luévano Ruiz lanzó la convocatoria a todos los artistas locales a participar en el Festival Urbano 2014 a realizarse del 12 al 20 de abril próximo.
  
 En rueda de prensa, el director del Instituto Municipal de Cultura, Miguel Ángel Mier Delgado convocó a todos los creadores guadalupenses interesados a participar en este evento que se enmarcará  del Centenario por el Aniversario de la Batalla de Zacatecas.
  
