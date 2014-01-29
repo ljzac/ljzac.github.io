@@ -28,17 +28,17 @@ A la edad de 20 años aprendió el oficio de herrería, sin embargo, su talento 
 Narra que a esa edad, junto con su hermano, elaboraron con tornillos, alambrón y herraduras alrededor de 10 piezas como candelabros, servilleteros, ceniceros, para venderlos en los comercios de Guadalupe.
 
 “Es un orgullo poder darle vida a la chatarra, tener esa virtud de hacer cosas con fierro viejo y trozos de madera, convirtiéndolos en algo útil como mesas, barras y hasta marcos. Y lo mejor es que te paguen por divertirte, yo no me veo en una oficina sentado solamente esperando la hora de comer”, expresa el artesano.
-![](http://i.imgur.com/20Dv9qSm.jpg)
+
 Armando creó un Quijote de la Mancha elaborado con bujías y tornillos, el cual impactó a los clientes, quienes comenzaron a solicitar más piezas del llamado Caballero de la Triste Figura. Sus esculturas del Quijote y Sancho Panza han sido solicitadas en restaurantes y negocios, lo cual es un atractivo para cualquier lugar.
 
 “Inicié con figuras de mineros, pero a la gente le gustaba más el Quijote, dicen que todos tenemos una partícula del demonio, de Cristo, pero también del Quijote, todos somos andantes y queremos justicia en este mundo y mejorarlo”, menciona Armando.
-
+![](http://i.imgur.com/20Dv9qSm.jpg)
 En los años 80 promovió su obra en ferias estatales como la de Tamaulipas, y su trabajo llegó hasta Guadalajara y Monterrey, Michoacán, San Luis Potosí, Tlaxcala, la Ciudad de México, Durango, entre otros.
 
 Incluso llegaban a su taller a buscarlo para encargarle series de obras, entre ellos, la figura del Quijote, pieza que elaboró de más de un metro y medio para una persona de Michoacán que le encargó la obra.
 
 “La gente ve un montón de fierros y los desecha, pero se les puede dar vida, un objeto como una aldaba es parte de la historia, y si no se utiliza, se funde y se olvida; yo me encargo de darle vida, darle forma y ensamblarla gracias al don que me otorgó Dios”, comenta Ovalle.
-![](http://i.imgur.com/eSZYY1om.jpg)
+
 En esa época, la mayoría de los turistas que llegaban a Guadalupe buscaban llevarse alguna de las piezas de Armando, convirtiéndose en una tradición.
 En el año de 1994 participó en un concurso de escultura creativa en Tlaquepaque, en la cual se llevó una mención honorifica y dio a conocer su trabajo a miles de artesanos y creadores de México.
 
