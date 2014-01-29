@@ -1,6 +1,6 @@
 ---
 published: true
-title: Promueve ayuntamiento de Fresnillo visitas a salas museo del Ágora
+title: Promueve ayuntamiento de Fresnillo visitas a salas de museo del Ágora
 author: REDACCIÓN
 location: Local
 category: Destacadas
