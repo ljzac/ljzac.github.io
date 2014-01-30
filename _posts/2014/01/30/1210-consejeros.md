@@ -14,3 +14,5 @@ Armando Rivera Carlos y Juan Diego Chávez García fueron ratificados como conse
 Los diputados de la 61 Legislatura sesionaron esta mañana para elegir al Consejo Consultivo, y ahí, por unanimidad, decidieron que el ex consejero Alfonso Escobar no cumplió los requisitos para ser reelecto, mientras que Maricela Dimas solicitó ya no ser electa.
 
 Destaca que de los cuatro consejeros, sólo una es mujer, misma que fue directora del entonces Instituto de la Mujer Zacatecana (Inmuza) durante la administración de Amalia García.
+
+Cada consejero recibe un sueldo de 200 salarios mínimos.
