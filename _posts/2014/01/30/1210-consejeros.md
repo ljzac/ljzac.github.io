@@ -9,7 +9,7 @@ layout: posts
 
 •	Hilda Rivera, quien fue directora del entonces Inmuza, e Ismael Salas serán los otros dos y fueron electos dentro de los 20 inscritos
 
-Armando Rivera Carlos y Juan Diego Chávez García fueron ratificados como consejeros de la Comisión de Derechos Humanos del Estado de Zacatecas (CDHEZ), mientras que Ana Hilda Rivera Vázquez e Ismael Salas Luévano fueron electos dentro de los 20 que se inscribieron para participar. 
+![F oto: ALMA ALEJANDRA TAPIA](http://i.imgur.com/MSKDukQm.jpg)Armando Rivera Carlos y Juan Diego Chávez García fueron ratificados como consejeros de la Comisión de Derechos Humanos del Estado de Zacatecas (CDHEZ), mientras que Ana Hilda Rivera Vázquez e Ismael Salas Luévano fueron electos dentro de los 20 que se inscribieron para participar. 
 
 Los diputados de la 61 Legislatura sesionaron esta mañana para elegir al Consejo Consultivo, y ahí, por unanimidad, decidieron que el ex consejero Alfonso Escobar no cumplió los requisitos para ser reelecto, mientras que Maricela Dimas solicitó ya no ser electa.
 
