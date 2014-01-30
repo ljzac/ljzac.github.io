@@ -1,13 +1,13 @@
 ---
 published: true
-title: Entrega alcalde becas del programa Peso a peso a 370 estudiantes guadalupenses
+title: Entrega alcalde becas del programa Peso a Peso a 370 estudiantes guadalupenses
 author: REDACCIÓN
 location: Local
 category: Destacadas
 layout: posts
 ---
 
-![](http://i.imgur.com/QgYhLqdm.jpg)GUADALUPE, ZAC.-  El gobierno municipal de Guadalupe en coordinación con la Secretaría de Educación en el Estado (Seduzac), se entregaron becas educativas como parte del programa Peso a peso, a más de 370 alumnos de primaria y secundaria en el municipio.
+![](http://i.imgur.com/QgYhLqdm.jpg)GUADALUPE, ZAC.-  El gobierno municipal de Guadalupe en coordinación con la Secretaría de Educación en el Estado (Seduzac), se entregaron becas educativas como parte del programa Peso a Peso, a más de 370 alumnos de primaria y secundaria en el municipio.
  
 La entrega de estos estímulos de fomento educativo, primera en su tipo en desarrollarse en todo el estado, se realizó en el palacio municipal de Guadalupe, donde se dio muestra del trabajo de “coordinación entre los diferentes órdenes de gobierno, quienes privilegian la conjunción de esfuerzos a fin de buscar eficacia en obras, acciones y programas entre la ciudadanía, en este caso en materia educativa” advirtió el munícipe de Guadalupe.
  
