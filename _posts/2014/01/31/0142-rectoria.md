@@ -4,7 +4,7 @@ title: Toman Rectoría de la UAZ; exigen se revierta  la suspensión del pago a 
 twitt: "■ Esa medida no tiene justificación financiera ni administrativa: Marco Torres Inguanzo"
 author: MARTÍN CATALÁN LERMA
 location: Local
-category: Portada
+category: Educación
 layout: posts
 ---
 
