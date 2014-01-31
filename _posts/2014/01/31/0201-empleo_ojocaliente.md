@@ -16,13 +16,13 @@ Un total de 400 personas del municipio de Ojocaliente y sus alrededores tendrán
 Este jueves el gobernador Miguel Alonso Reyes inauguró esta tercera fase de expansión de la compañía japonesa, que abrió sus puertas en esta ubicación en el año 2006. Con estos nuevos puestos de trabajo, aseguró el mandatario estatal, ya son mil 400 las personas que laboran en la empresa nipona.
 
 En concreto, precisó que Tachi’s se dedica a la fabricación de “vestiduras para automóviles” y es proveedor de grandes compañías del sector, como Honda, Nissan y Renault.
-
+![](http://i.imgur.com/U75vJLlm.jpg)
 Alonso Reyes señaló que la inversión japonesa en el estado ha tenido un gran crecimiento en los últimos años en la entidad. Por ejemplo, mencionó que tan sólo en 2014 se espera la llegada de otras tres compañías provenientes del país asiático.
 
 Esta llegada de empresas extranjeras a la entidad, indicó, es muestra de que Zacatecas se ha convertido en un territorio atractivo para la industria y añadió que los beneficios que ahora se multiplicarán con la llegada del gas natural, a través del gasoducto que se inaugurará el próximo mes de junio. 
 
 También es una ventaja la preparación y el profesionalismo de la mano de obra en el estado, concluyó. “La mano de obra de Zacatecas hoy por hoy es reconocida por su excelente disposición, por la poca rotación; es lo que hemos logrado comunicar, que nuestro principal elemento es la fortaleza del capital humano”, aseveró.
-
+![](http://i.imgur.com/9kkHfdkm.jpg)
 En este sentido, el presidente de Tachi’s México, Gonzalo Esparza Pedrosa, subrayó que poco a poco la compañía japonesa instalada en Ojocaliente ha logrado involucrarse en la vida económica de esta región.
 
 Sostuvo que esto se refleja en que al inicio de sus operaciones en el año 2006 el promedio de rotación del personal era de 11 por ciento y en la actualidad esta cifra se coloca por debajo de 3 por ciento.
@@ -30,6 +30,8 @@ Sostuvo que esto se refleja en que al inicio de sus operaciones en el año 2006 
 Esparza Pedrosa añadió que en esta ampliación de la planta PIP en territorio zacatecano se invirtieron 3 millones de dólares y comentó que esta no es la única obra de expansión que se ha realizado en México, sino que recientemente también se hicieron más grandes las plantas que se ubican en el estado de Aguascalientes.
 
 Por ello, sostuvo, “de más de 2 mil empleados en el país a principios de 2013, tendremos casi 5 mil empleados a finales de 2014”.
+
+<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/mJg5J/embed"></iframe>
 
 
 
