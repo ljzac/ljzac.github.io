@@ -4,7 +4,7 @@ title: "Concluye hoy el apoyo de 100% en la  tenencia de vehículos, informa Sef
 twitt: "■ Brindarán servicio oficinas de recaudación el lunes, pese a ser día festivo"
 author: Redacción
 location: Local
-category: Portada
+category: Sociedad y Justicia
 layout: posts
 ---
 
