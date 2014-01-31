@@ -4,7 +4,7 @@ title: Marchan docentes para exigir inclusión de  sus propuestas en Ley Estatal
 twitt: "■ Legislatura ha postergado su posicionamiento sobre resultados de los foros regionales, señalan"
 author: "MARTÍN CATALÁN LERMA "
 location: Local
-category: Educación
+category: Portada
 layout: posts
 ---
 
