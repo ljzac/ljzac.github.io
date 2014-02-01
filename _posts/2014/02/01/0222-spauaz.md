@@ -4,7 +4,7 @@ title: "Spauaz, sin negociar el emplazamiento a huelga  hasta que se emita el pa
 twitt: "■ Sigue bloqueada la Rectoría; de continuar así la huelga sería inevitable: secretario"
 author: MARTÍN CATALÁN LERMA
 location: Local
-category: Educación
+category: Portada
 layout: posts
 ---
 
