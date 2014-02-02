@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Diversidad (Cuba)
 author: ODÍN SALINAS
 location: Local
