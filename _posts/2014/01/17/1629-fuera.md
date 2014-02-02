@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Fuera mineras
 author: RAFAEL DE SANTIAGO
 location: Local
