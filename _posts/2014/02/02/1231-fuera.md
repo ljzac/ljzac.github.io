@@ -1,6 +1,6 @@
 ---
 published: true
-title: "8"
+title: "Ocho"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco

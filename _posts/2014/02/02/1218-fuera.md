@@ -1,6 +1,6 @@
 ---
 published: true
-title: "3"
+title: "Tres"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco

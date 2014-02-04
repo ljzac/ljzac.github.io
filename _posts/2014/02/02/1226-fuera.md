@@ -1,6 +1,6 @@
 ---
 published: true
-title: "6"
+title: "Seis"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco

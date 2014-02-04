@@ -1,6 +1,6 @@
 ---
 published: true
-title: "2"
+title: "Dos"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco

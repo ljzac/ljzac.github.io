@@ -1,6 +1,6 @@
 ---
 published: true
-title: "4"
+title: "Cuatro"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
