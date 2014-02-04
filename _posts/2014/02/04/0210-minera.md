@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<div añign="center"><iframe width="420" height="236" src="//www.youtube.com/embed/HNGjifVvlF0" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/HNGjifVvlF0" frameborder="0" allowfullscreen></iframe></div>
 
 ■ Docente Octavio Vázquez, autor de Marginación y despojo en el ejido Cedros. Estudio del caso
 
