@@ -159,7 +159,7 @@ Para el investigador es necesario que se revise la forma en que en Canadá y Eur
 
 Calificó además como acuerdos válidos, aquellos en que ambas partes saben exactamente las implicaciones que tienen, cosa que no ocurrió señala, entre los ejidatarios de Mazapil y la Goldcorp.
 
-![](http://i.imgur.com/xRJNZ4Dm.jpg)
+![](http://i.imgur.com/lycIrKCm.jpg)
 **“Asuntos de visiones” y “lo razonable”**
 
 
@@ -184,3 +184,5 @@ Los ejidatarios de Las Mesas no confían en las autoridades ni en asesores, porq
 Refiere que por supuesto no están en contra del empleo y por el contrario, lo requieren pero “no siempre vamos a estar siempre agachados, tenemos que sacar la cara de vez en cuando”.
 
 “No queremos que nos den la luna ni las estrellas, nomás lo que es justo. Somos personas que no estamos preparadas esa es la verdad, pero tampoco somos dejados. Sí nos falta mucha asesoría. El gobierno a veces ni siquiera aquí se para, que mande alguien a asesorarnos para que sea tanto ganar-ganar como ellos dicen, pero nomás están ganando ellos. ¿Entonces qué es lo correcto?”, enfatiza.
+
+<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/tspTa/embed"></iframe>
