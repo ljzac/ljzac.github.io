@@ -1,5 +1,6 @@
 ---
 published: true
+title: "7"
 author: ERNESTO MORENO
 location: Local
 category: Fuera de Foco
