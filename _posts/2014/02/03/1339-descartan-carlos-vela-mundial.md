@@ -3,7 +3,7 @@ published: true
 title: "Descartan a Carlos Vela para Mundial de Brasil tras reunión con \"Piojo\""
 author: Notimex
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
