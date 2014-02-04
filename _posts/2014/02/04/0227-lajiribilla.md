@@ -1,7 +1,7 @@
 ---
 published: true
-title: La Jiribilla 04/02/2014
-twitt: "“Al amigo que en apuro está, no mañana, sino ya”"
+title: "La Jiribilla 04/02/2014"
+twitt: "Al amigo que en apuro está, no mañana, sino ya
 author: por El Refranero
 location: Local
 category: La Jiribilla
