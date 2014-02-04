@@ -8,7 +8,8 @@ category: Portada
 layout: posts
 ---
 
-![El ex procurador general de Justicia del estado, Aquiles González Navarro, participó en el programa Synergia, de La Jornada Zacatecas Tv ■ FOTO: miguel ángel núñez](http://i.imgur.com/2cuJQ2qm.jpg)
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/3tc_-sf66yo" frameborder="0" allowfullscreen></iframe></div>
+
 ■ Es necesario crear un observatorio ciudadano en el municipio de Fresnillo, comenta
 
 Ante el clima de inseguridad que se vive en la entidad y en el resto del país, uno de los cambios prioritarios que debe impulsarse en las políticas públicas es el de fomentar la seguridad humana y no el concepto de seguridad nacional que implica una militarización de las fuerzas policiacas, aseguró el ex procurador general de Justicia del estado, Aquiles González Navarro.
@@ -16,7 +17,7 @@ Ante el clima de inseguridad que se vive en la entidad y en el resto del país, 
 En este modelo, promovido por el Programa de las Naciones Unidas para el Desarrollo (PNUD), el eje central es la ciudadanía y es la propia sociedad civil la que participa en las actividades de salvaguarda de la seguridad y la tranquilidad.
 
 González Navarro comentó que, partiendo de esta base, lo más conveniente sería crear una “policía de proximidad” que generara confianza entre los habitantes, de forma que estos pudieran cooperar en las labores de inteligencia. 
-
+![El ex procurador general de Justicia del estado, Aquiles González Navarro, participó en el programa Synergia, de La Jornada Zacatecas Tv ■ FOTO: miguel ángel núñez](http://i.imgur.com/2cuJQ2qm.jpg)
 Para ejemplificar este tipo de corporaciones de seguridad, el ex funcionario mencionó el caso de las policías comunitarias de Michoacán. En este sentido, añadió que “conocen la zona, conocen a las personas, la gente les informa porque confía en ellos. Y lo podemos ver ahora, quienes van delante en los operativos son los michoacanos, son los ciudadanos, no la policía, la policía va detrás de ellos”.
 
 Tras narrar el funcionamiento de este mecanismo recientemente aplicado en este estado de la República de colaboración entre las fuerzas civiles y las policiacas y militares, puntualizó que “se tiene que crear en Zacatecas algo semejante, una policía de proximidad, una policía auténticamente investigadora, con otro nivel de inteligencia y de confianza con la gente y dejarde estar trayendo militares, eso no va a ayudar en nada”.
