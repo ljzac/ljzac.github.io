@@ -22,7 +22,6 @@ En contraste, 67.2 por ciento de los consultados mostró su rechazo a la entrada
 Otra de las preguntas formuladas en el estudio se refirió al escenario esperado ante la aprobación de la Reforma Energética, a lo que 64.8 por ciento de los zacatecanos opinó que “aumentará el precio de los combustibles”, mientras que 16.2 por ciento consideró que “todo seguirá igual” y tan sólo 12.6 por ciento piensa que “el precio de los combustibles bajará”.
 
 Recordemos que con la Reforma Energética se modificaron los artículos 25, 27 y 28 de la Carta Magna, para eliminar la prohibición de otorgar contratos y concesiones al sector privado en la industria energética.
-
+![](http://i.imgur.com/SBrh4bG.jpg)
 ![](http://i.imgur.com/M4l8HjS.jpg)
-![](http://i.imgur.com/PfBLhnd.jpg)
 ![](http://i.imgur.com/t427bEG.jpg)
