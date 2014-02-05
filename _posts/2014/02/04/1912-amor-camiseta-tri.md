@@ -3,7 +3,7 @@ published: true
 title: "Tras caso Vela, se inculcará a jugadores amor a camiseta del Tri desde sector amateur: Compeán"
 author: La Jornada
 location: Nacional
-category: Principales
+category: Deportes
 layout: posts
 ---
 
