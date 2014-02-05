@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Presenta AMLO denuncia en la PGR contra Peña Nieto
 author: La Jornada
 location: Nacional
