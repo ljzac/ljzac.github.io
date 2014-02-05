@@ -38,7 +38,7 @@ La carrera la cursó como otros, “para darle gusto a sus padres”. Tras cumpl
 A Correa tampoco le agradó seguir una carrera, la abogacía, que implicara la preocupación por acumular bienes que luego deriva en la preocupación por cuidarlos. Esa angustia hace que la gente “se olvide de ser feliz de estar bien con la vida”.
 
 La vocación parte “de lo que cada persona sienta. Cada persona siente lo que tiene que hacer, ni siquiera tienes que ir a la escuela para que te ubiquen en determinada actividad. 
-![](http://i.imgur.com/AntTcU4m.jpg)
+![](http://i.imgur.com/gtMPigxm.jpg)
 
 Las personas son. Y no es necesariamente un determinismo histórico como mucha gente dice. No, yo creo que la vida se siente”.
 
