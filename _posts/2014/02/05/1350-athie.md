@@ -3,7 +3,7 @@ published: true
 title: "Papa Francisco tiene oportunidad de reconocer encubrimiento de pederastia: Athié"
 author: La Jornada
 location: Internacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
