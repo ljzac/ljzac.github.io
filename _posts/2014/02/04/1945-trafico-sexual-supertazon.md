@@ -3,7 +3,7 @@ published: true
 title: Tráfico sexual de menores en Supertazón deja 45 detenidos y 16 menores liberadas
 author: Afp
 location: Internacional
-category: Mundo
+category: Deportes
 layout: posts
 ---
 
