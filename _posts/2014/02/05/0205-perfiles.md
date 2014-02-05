@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<iframe width="420" height="236" src="//www.youtube.com/embed/eFnTj8o1kHA" frameborder="0" allowfullscreen></iframe>
+<div align ="center"><iframe width="420" height="236" src="//www.youtube.com/embed/eFnTj8o1kHA" frameborder="0" allowfullscreen></iframe></div>
 
 ■ Ha compartido lo que sabe mediante clases y talleres en escuelas, comenta José Correa
 
