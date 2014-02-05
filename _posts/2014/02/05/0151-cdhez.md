@@ -4,7 +4,7 @@ title: "Rinden protesta consejeros de la CDHEZ;  primordial, tema de corporacion
 twitt: "■ Elementos de seguridad, los que más violaciones cometen contra los ciudadanos: Correa"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
