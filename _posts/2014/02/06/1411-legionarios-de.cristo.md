@@ -3,7 +3,7 @@ published: true
 title: "Antiguo colaborador de Maciel, nuevo director de los Legionarios de Cristo"
 author: La Jornada y Ap
 location: Internacional
-category: Mundo
+category: Principales
 layout: posts
 ---
 
