@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Entrega MAR patrullas y equipo a Policía Municipal de Guadalupe; estamos avanzando en seguridad, afirma "
+title: "Entrega MAR patrullas y equipo a Policía Municipal de Guadalupe; estamos avanzando en seguridad, afirma"
 author: RAQUEL OLLAQUINDIA
 location: Local
 category: Destacadas
