@@ -1,6 +1,6 @@
 ---
 published: true
-title: Invierten más de 2mdp en obras de reencarpetamiento y bacheo en Guadalupe
+title: Invierten más de 2 mdp en obras de reencarpetamiento y bacheo en Guadalupe
 author: REDACCIÓN
 location: Local
 category: Destacadas
