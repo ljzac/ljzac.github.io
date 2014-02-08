@@ -1,6 +1,6 @@
 ---
 published: true
-title: "\tInterpreta Banda Sinfónica del Estado ‘Pueblerina III’, única pieza de Candelario Huízar para banda  "
+title: "Interpreta Banda Sinfónica del Estado ‘Pueblerina III’, única pieza de Candelario Huízar para banda  "
 author: REDACCIÓN
 location: Local
 category: Destacadas
