@@ -1,7 +1,9 @@
 ---
 published: true
-location: Local
-category: Portada
+title: Entran autodefensas a Apatzingán; darán un mensaje al medio día
+author: La Jornada
+location: Nacional
+category: Principales
 layout: posts
 ---
 
