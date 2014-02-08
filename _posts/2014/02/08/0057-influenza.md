@@ -4,7 +4,7 @@ title: Ya suman 19 decesos por influenza; SSZ  reporta 172 casos de esta enferme
 twitt: ■ Han atendido a mil 19 pacientes con síntomas probables
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
