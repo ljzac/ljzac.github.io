@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "400 mil zacatecanos no tienen acceso a la salud; es  evidencia de que la pobreza no ha bajado: académico"
 author: "MARTÍN CATALÁN LERMA "
 location: Local
