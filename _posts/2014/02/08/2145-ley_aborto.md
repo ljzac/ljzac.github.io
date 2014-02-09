@@ -2,7 +2,7 @@
 published: true
 title: Miles se manifiestan en Madrid contra la reforma a la ley del aborto
 author: Redacción
-location: Local
+location: Internacional
 category: Mundo
 layout: posts
 ---
