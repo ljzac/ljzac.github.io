@@ -11,7 +11,7 @@ layout: posts
  
 Alma Fabiola Rivera Salinas, titular de SAMA dijo que el principal objetivo de esta acción es promover, de manera lúdica, entre la población infantil el mensaje de la responsabilidad y su participación en el cuidado del agua y medio ambiente.
  
-Así, se expusieron ante 335 niños de las primarias Miguel Hidalgo y Miguel Alemán de cuarto, quinto y sexto grado temas y dinámicas como una gota en la cubeta, aunque tú no lo veas, huella hidrológica, pintando una postal, y uso y reuso.
+Así, se expusieron ante 335 niños de las primarias Miguel Hidalgo y Miguel Alemán de cuarto, quinto y sexto grado temas y dinámicas como una gota en la cubeta, aunque tú no lo veas, huella hidrológica, pintando una postal, y uso y reúso.
  
 De igual manera, en esta primera Feria de Agua y Medio Ambiente también se realizó un tsikuri que quiere decir ojo de Dios artesanía de origen wixárika, que tiene como finalidad resalta el valor del agua.
  
