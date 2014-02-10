@@ -8,7 +8,8 @@ category: Portada
 layout: posts
 ---
 
-![Pepenadores del estado ■ fotoS: RAFAEL DE SANTIAGO](http://i.imgur.com/w2JAjMhm.jpg)
+<iframe width="420" height="236" src="//www.youtube.com/embed/0mjssh6DxZk" frameborder="0" allowfullscreen></iframe>
+
 ■ Advierten que diversos pepenadores locales siguen recolectando en condiciones adversas
 
 Ningún municipio en el estado cuenta con estación de transferencia de residuos sólidos y no se tienen reportados procesos de almacenamiento temporal, separación, compactación y trituración. 
@@ -22,6 +23,7 @@ Por ello es necesario que a nivel federal se impulse la elaboración del Program
 El problema de la basura ha rebasado a los municipios debido al crecimiento de la mancha urbana, y una opción que se tiene es concesionar el servicio de limpia a empresas privadas.
 
 Aunque se construyó el relleno sanitario intermunicipal, este no cuenta con un plan de manejo de los residuos sólidos “porque se sigue generando basura, y esta sólo se entierra y no disminuye su generación, y el tratamiento de reciclaje lo hacen los pepenadores por obtener un beneficio propio, arriesgándose a padecer problemas de salud”, dijo Paniagua.
+![Pepenadores del estado ■ fotoS: RAFAEL DE SANTIAGO](http://i.imgur.com/w2JAjMhm.jpg)
 
 Indicó que el estado genera un mayor volumen de residuos sólidos en comparación con Aguascalientes, debido a que en este estado se cuenta con un plan de manejo de basura, además de buscar la generación de energía eléctrica a través de la basura.
 
@@ -56,7 +58,7 @@ En el relleno también opera una empresa privada que maneja una máquina compact
 De acuerdo al diagnóstico básico para la gestión integral de residuos (Semarnat 2012), el Sistema de Información Nacional para la Gestión Integral de los residuos (Semarnat 2013) y el Sistema de Consulta de Estadísticas Ambientales (Inegi), el estado de Zacatecas genera aproximadamente 425 mil toneladas anuales de residuos sólidos. Esto representa 1 por ciento de la generación de residuos a nivel nacional, en comparación al estado de Aguascalientes, que genera 414 mil, Jalisco 3 millones 51 mil y Guanajuato un millón 981 mil.
 
 
-![](http://i.imgur.com/hxw4bRpm.jpg)
+
 **La situación en Guadalupe y Zacatecas**
 
 
@@ -88,7 +90,7 @@ Juan, quien también se dedica a la música, acondicionó una bicicleta para aco
 
 Dice que al día llega a sacar 80 pesos de la venta de material, pues así como él, muchos pepenadores que no trabajan en el relleno sanitario buscan en las colonias basura para vender.
 
-
+![](http://i.imgur.com/hxw4bRpm.jpg)
 **Gestión integral de residuos sólidos urbanos**
 
 
