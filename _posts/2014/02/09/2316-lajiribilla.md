@@ -1,6 +1,6 @@
 ---
 published: true
-title: La Jiribilla 09/02/2014
+title: La Jiribilla 10/02/2014
 twitt: “Besos y abrazos no hacen chiquillos pero tocan a vísperas”
 author: por El Refranero
 location: Local
