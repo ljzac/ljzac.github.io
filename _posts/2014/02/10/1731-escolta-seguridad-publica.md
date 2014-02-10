@@ -1,6 +1,6 @@
 ---
 published: true
-title: Entregan Bandera a la Escolta de Seguridad Pública de Fresnillo
+title: Entregan bandera a la escolta de Seguridad Pública de Fresnillo
 author: REDACCIÓN
 location: Local
 category: Destacadas
