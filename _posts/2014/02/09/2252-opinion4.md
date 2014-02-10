@@ -7,7 +7,7 @@ category: Opinión
 layout: posts
 ---
 
-La Secretaría de Gobernación presentó recientemente la nueva Estrategia Nacional Antisecuestro. En México Evalúa nos dimos a la tarea de reflexionar sobre la forma en la que podrían cuantificarse los resultados de esta estrategia y sobre aquellos problemas que dificultan esta tarea. 
+La Secretaría de Gobernación presentó recientemente la nueva Estrategia Nacional Antisecuestro. En México Evalúa nos dimos a la tarea de reflexionar sobre la forma en la que podrían cuantificarse los resultados de esta estrategia y sobre aquellos problemas que dificultan esta tarea.
 
 1. Fortalecimiento y ampliación de las capacidades operativas de las Unidades Antisecuestro de todas las entidades y de manera particular, las unidades de los diez estados que en los que en 2013 se concentró 74 por ciento de la incidencia de secuestros.
 
@@ -23,7 +23,7 @@ En primer lugar, no queda claro en qué consiste este Sistema Único de Análisi
 
 El secuestro es un delito notablemente difícil de cuantificar, dado que las víctimas tienen incentivos para no denunciarlo, aún después de liberada la víctima. Por lo tanto es natural esperar que un alto número de secuestros siga siendo desconocido para las autoridades. 
 
-¿A partir de qué información se piensa conformar este sistema único de datos? ¿Piensan unificar las bases de datos de los estados y las de la Federación? ¿Existen? ¿Hay algún diagnóstico sobre las coincidencias y discrepancias de las estadísticas por nivel de gobierno, las cuales pueden entonces servir para unificar la metodología del recuento de este delito? Si se planea crear una base de datos única con información de secuestradores y perfiles de las víctimas que sea útil para el análisis de inteligencia de la Policía Federal, el gobierno necesitará diseñar un sistema completamente nuevo y mucho más efectivo que los esfuerzos anteriores. 
+¿A partir de qué información se piensa conformar este sistema único de datos? ¿Piensan unificar las bases de datos de los estados y las de la Federación? ¿Existen? ¿Hay algún diagnóstico sobre las coincidencias y discrepancias de las estadísticas por nivel de gobierno, las cuales pueden entonces servir para unificar la metodología del recuento de este delito? Si se planea crear una base de datos única con información de secuestradores y perfiles de las víctimas que sea útil para el análisis de inteligencia de la Policía Federal, el gobierno necesitará diseñar un sistema completamente nuevo y mucho más efectivo que los esfuerzos anteriores.
 
 3. Vigilancia y evaluación permanentemente del comportamiento y actuación de todos los elementos que conforman las unidades antisecuestro del país.
 Creemos que va a ser muy costoso mantener la vigilancia y evaluación permanente de las unidades antisecuestro, y todo el tiempo que pasen en evaluación lo dejarán de pasar en sus labores de inteligencia u operativas. No obstante, es indispensable contar con elementos que al menos no se unan a los grupos delincuenciales y formen parte de los secuestradores desde las instituciones de seguridad. 
