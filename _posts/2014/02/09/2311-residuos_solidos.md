@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<iframe width="420" height="236" src="//www.youtube.com/embed/0mjssh6DxZk" frameborder="0" allowfullscreen></iframe>
+<div align ="center"><iframe width="420" height="236" src="//www.youtube.com/embed/0mjssh6DxZk" frameborder="0" allowfullscreen></iframe></div>
 
 ■ Advierten que diversos pepenadores locales siguen recolectando en condiciones adversas
 
