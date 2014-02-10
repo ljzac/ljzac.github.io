@@ -9,7 +9,7 @@ layout: posts
 
 La Secretaría de Gobernación presentó recientemente la nueva Estrategia Nacional Antisecuestro. En México Evalúa nos dimos a la tarea de reflexionar sobre la forma en la que podrían cuantificarse los resultados de esta estrategia y sobre aquellos problemas que dificultan esta tarea.
 
-1. Fortalecimiento y ampliación de las capacidades operativas de las Unidades Antisecuestro de todas las entidades y de manera particular, las unidades de los diez estados que en los que en 2013 se concentró 74 por ciento de la incidencia de secuestros.
+1) Fortalecimiento y ampliación de las capacidades operativas de las Unidades Antisecuestro de todas las entidades y de manera particular, las unidades de los diez estados que en los que en 2013 se concentró 74 por ciento de la incidencia de secuestros.
 
 El gobierno no ha sido completamente transparente respecto al avance de las evaluaciones policiales en el pasado, lo que dificultará particularmente valorar este objetivo. 
 
@@ -17,7 +17,7 @@ Se planea homologar los protocolos de actuación de las distintas instituciones 
 
 De hecho, no existe evidencia de que la creación de unidades antisecuestro haya tenido un impacto sustantivo en la incidencia de este delito. Durante la administración de Felipe Calderón se destinaron más de 400 millones de pesos a estas unidades, sin que se haya observado una reducción en la comisión de secuestros. La eficacia con la que se utilizan los presupuestos que se destinen a estas unidades antisecuestro será fundamental.
 
-2. Conformación de un Sistema Único de Análisis de Información que contenga la base nacional de datos criminales en materia de secuestro.
+2) Conformación de un Sistema Único de Análisis de Información que contenga la base nacional de datos criminales en materia de secuestro.
 
 En primer lugar, no queda claro en qué consiste este Sistema Único de Análisis de Información sobre secuestro. Esta no sería la primera vez que se intenta crear un sistema de información unificado. Plataforma México tenía un propósito muy similar, dando a los estados y a la Federación la capacidad de compartir información sobre seguridad para tener una base de datos completa, sin que haya dado resultados. En esta nueva propuesta, nada indica que se va a hacer algo distinto.
 
@@ -25,7 +25,7 @@ El secuestro es un delito notablemente difícil de cuantificar, dado que las ví
 
 ¿A partir de qué información se piensa conformar este sistema único de datos? ¿Piensan unificar las bases de datos de los estados y las de la Federación? ¿Existen? ¿Hay algún diagnóstico sobre las coincidencias y discrepancias de las estadísticas por nivel de gobierno, las cuales pueden entonces servir para unificar la metodología del recuento de este delito? Si se planea crear una base de datos única con información de secuestradores y perfiles de las víctimas que sea útil para el análisis de inteligencia de la Policía Federal, el gobierno necesitará diseñar un sistema completamente nuevo y mucho más efectivo que los esfuerzos anteriores.
 
-3. Vigilancia y evaluación permanentemente del comportamiento y actuación de todos los elementos que conforman las unidades antisecuestro del país.
+3) Vigilancia y evaluación permanentemente del comportamiento y actuación de todos los elementos que conforman las unidades antisecuestro del país.
 Creemos que va a ser muy costoso mantener la vigilancia y evaluación permanente de las unidades antisecuestro, y todo el tiempo que pasen en evaluación lo dejarán de pasar en sus labores de inteligencia u operativas. No obstante, es indispensable contar con elementos que al menos no se unan a los grupos delincuenciales y formen parte de los secuestradores desde las instituciones de seguridad. 
 
 Eso, entendemos, es el objetivo deseable detrás de este punto. Sin embargo, es paradójico que las autoridades propongan mayor evaluación cuando recientemente, Manuel Mondragón, Comisionado Nacional de Seguridad, reconoció que las pruebas como el polígrafo pueden ser engañadas. 
