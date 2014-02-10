@@ -4,7 +4,7 @@ title: "Conformará su programa el Festival Cultural con 75% de artistas locales
 twitt: "■ El que sólo sea 25% de figuras nacionales y del mundo no demerita la calidad, dice"
 author: ALMA ALEJANDRA TAPIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
