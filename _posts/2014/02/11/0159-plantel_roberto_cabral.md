@@ -8,6 +8,7 @@ category: Portada
 layout: posts
 ---
 
+![Los casi 740 alumnos del plantel asumieron el compromiso de fomentar el estilo de vida saludable ■ FOTO: ANDRÉS SÁNCHEZ](http://i.imgur.com/sc6KrXim.jpg)
 ■ Sinfra construyó boca de tormenta para evitar que aguas negras invadieran las canchas deportivas
 
 El gobernador Miguel Alonso Reyes entregó al Centro Educativo Integrado Roberto Cabral del Hoyo, la Certificación de Escuela Promotora de la Salud Entorno Saludable y Escuela Libre de Humo de Tabaco, mediante el programa Escuela y Salud. 
