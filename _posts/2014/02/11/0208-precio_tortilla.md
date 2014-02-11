@@ -8,6 +8,7 @@ category: Portada
 layout: posts
 ---
 
+![El gremio de tortilleros no ha manifestado incrementar el precio a este producto, señaló el delegado de la SE en Zacatecas ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/btVvhGym.jpg)
 ■ El aumento al gas y el pago de la renta, entre los argumentos que podría tener el gremio 
 
 El delegado de la Secretaría de Economía (SE) en Zacatecas, Eduardo López Carrillo, aseguró que todavía no hay un planteamiento formal del gremio de los tortilleros para incrementar el precio de este producto.
