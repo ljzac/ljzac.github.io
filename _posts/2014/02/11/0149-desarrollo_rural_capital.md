@@ -8,6 +8,7 @@ category: Municipios
 layout: posts
 ---
 
+![El sector agrícola y ganadero, importante para el Plan de Desarrollo del Ayuntamiento para el presente trienio, señala alcalde de la capital ■ FOTO: ERNESTO MORENO](http://i.imgur.com/EiZ9WfEm.jpg)
 ■ Productores, actores sociales y autoridades de los 3 niveles de gobierno conforman el organismo
 
 En muchas ocasiones existe la percepción equivocada de que en el municipio de Zacatecas “no hay comunidades y el sector agropecuario no figura como en otros municipios”, aseguró el alcalde Carlos Peña Badillo. 
