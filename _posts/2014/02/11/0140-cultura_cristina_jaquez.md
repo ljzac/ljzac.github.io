@@ -8,6 +8,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
+![Cristina Jáquez Méndez, encargada del consultorio de Medicina Tradicional de la UAZ ■ FOTOS: ANDRÉS SÁNCHEZ Y LA JORNADA ZACATECAS](http://i.imgur.com/agoYOq1m.jpg)
 ■ No se trata de que el médico tome el papel de un curandero ni viceversa, señala
 
 La medicina tradicional en México ha tenido que sortear una serie de circunstancias desfavorables para su uso y transmisión que inician con su proscripción en la época de la Conquista. En el siglo 18  hubo un intento por rescatarla, y otro más a finales del siglo 19, ambos fallidos debido a las políticas que desde temprana la consolidación de la nación dejaron una herencia cultural de desprecio por lo propio.
