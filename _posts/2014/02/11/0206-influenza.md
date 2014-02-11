@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-
+![Llaman a extremar medidas de higiene para evitar contagios ■ foto: andrés sánchez](http://i.imgur.com/oaLDSTam.jpg)
 ■ La gente bajó la guardia; en los casos de defunciones las personas no se habían vacunado, dice
 
 Raúl Estrada Day, titular de los Servicios de Salud de Zacatecas (SSZ), mencionó que no se puede considerar que haya una pandemia a causa del virus de la influenza A/H1N1 en el estado, como lo fue en 2009. 
