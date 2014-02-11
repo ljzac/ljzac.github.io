@@ -8,7 +8,7 @@ category: La Jiribilla
 layout: posts
 ---
 
-
+![](http://i.imgur.com/yD0KmBqm.jpg)
 UNO: Nueva delegada para el PRI: presencia mexiquense.
 
 
