@@ -8,6 +8,7 @@ category: Portada
 layout: posts
 ---
 
+![Al menos 50 personas de Las Mesas trabajan en Peñasquito, considerada la mina a tajo abierto más grande en Latinoamérica ■ foto: ernesto moreno](http://i.imgur.com/EiWcAECm.jpg)
 ■ El resto tiene entre 4 y 7 años de antigüedad laboral; piden los liquiden como marca la ley
 
 Después de que los ejidatarios de la comunidad de Las Mesas, en el municipio de Mazapil, tomaran las instalaciones de la minera Peñasquito el pasado mes de enero, para renegociar el precio por el que la empresa canadiense Goldcorp está explotando sus tierras, fueron despedidos 15 habitantes de esta localidad, quienes trabajaban en dicha compañía.
