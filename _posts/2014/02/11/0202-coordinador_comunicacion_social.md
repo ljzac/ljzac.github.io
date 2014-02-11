@@ -8,6 +8,7 @@ category: Portada
 layout: posts
 ---
 
+![Toma de protesta del nuevo coordinador de Comunicación Social ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/Wn0JUoxm.jpg)
 ■ Confía MAR en que el funcionario se sumará al trabajo que realiza su administración por la entidad
 
 El gobernador Miguel Alonso Reyes tomó protesta a José G. Soto Landeros como nuevo titular de la Coordinación de Comunicación Social de Gobierno del Estado, quien sustituye en el cargo a Patricia Mercado Sánchez.      
@@ -25,4 +26,4 @@ Soto Landeros es egresado de la Universidad Nacional Autónoma de México y se v
 
 Fue redactor del Departamento Editorial de la Presidencia de la República; subdirector de Prensa de Gobierno del Estado; coordinador de Comunicación Social de la Delegación Regional del IMSS; coordinador de Prensa del ayuntamiento de Fresnillo y asesor de Comunicación de la empresa Peñoles. 
 
-En Zacatecas inició como director del periódico Opinión; fue jefe de Información de Radio Sistema Zacatecas; jefe de Información del Periódico El Heraldo; corresponsal del periódico El Nacional, así como del periódico Cima. 
+En Zacatecas inició como director del periódico Opinión; fue jefe de Información de Radio Sistema Zacatecas; jefe de Información del Periódico El Heraldo; corresponsal del periódico El Nacional, así como del periódico Cima.
