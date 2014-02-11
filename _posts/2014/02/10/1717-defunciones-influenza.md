@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Van 24 defunciones por influenza: Informan SSZ  "
+title: "Van 24 defunciones por influenza, informan SSZ  "
 author: REDACCIÓN
 location: Local
 category: Destacadas
