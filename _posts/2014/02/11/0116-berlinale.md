@@ -7,6 +7,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
+![Michel Gondry, director francés ■ FOTO: carlos belmonte](http://i.imgur.com/F2Er2dvm.jpg)
 ■ Las entrevistas con Chomsky comenzaron como encuentros ocasionales, señala realizador
 
 ■ Las animaciones que aparecen en el documental fueron hechas a mano por el director
