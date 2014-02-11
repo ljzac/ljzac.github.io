@@ -8,6 +8,7 @@ category: Educación
 layout: posts
 ---
 
+![El programa en Historia no ha recibido apoyo por parte de la administración central de la Universidad, señalaron maestros ■ foto: andrés sánchez](http://i.imgur.com/dIN9yHHm.jpg)
 ■ La meta de Rectoría de ingresar 50 por ciento de cursos al PNPC no se ha logrado: Salas
 
 A la par de destacar la reacreditación del Doctorado en Historia de la Universidad Autónoma de Zacatecas  “como programa consolidado” por el Padrón Nacional de Posgrados de Calidad (PNPC) del Conacyt, su coordinador y  miembros de su cuerpo docente denunciaron la falta de apoyo para el mismo, tanto de la dirección de la Unidad Académica de Historia (UAH) como de la administración central de la Máxima Casa de Estudios en el estado.
