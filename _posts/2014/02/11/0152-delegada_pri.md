@@ -8,6 +8,7 @@ category: Política
 layout: posts
 ---
 
+![Delegada, “como San Judas Tadeo”, atenderá cuestiones complicadas, señala líder tricolor ■ FOTO: ERNESTO MORENO](http://i.imgur.com/cqWTOASm.jpg)
 ■ Se encargará de la conciliación y de fomentar la unidad de los priístas divididos en grupos, afirma
 
 La nueva delegada nacional del PRI, Paulina Alejandra del Moral -recién nombrada el pasado domingo- llegó a Zacatecas para “como San Judas Tadeo”, atender las causas difíciles del partido, entre ellas preparar la renovación del Consejo Político Estatal, renovación de los 58 comités municipales y en noviembre la elección de la nueva dirigencia estatal del tricolor, dijo Juan Carlos Lozano Martínez.
@@ -20,4 +21,4 @@ Lozano Martínez refirió que algunas de las causas difíciles del PRI son las r
 
 A nueve meses de que deje su cargo, el priísta consideró que no es correcto hacer un juicio propio de su trabajo, sin embargo, dijo, ha hecho su mayor esfuerzo para que le vaya bien al partido y los resultados hablan por sí solo. “Creo que hemos entregado buenas cuentas”.
 
-En el tiempo restante de su dirigencia, Lozano refirió que su meta es comprar terrenos para la construcción de algunos comités municipales, actualmente sólo en 20 se tienen oficinas propias pero la intención es llegar a los 58.  
+En el tiempo restante de su dirigencia, Lozano refirió que su meta es comprar terrenos para la construcción de algunos comités municipales, actualmente sólo en 20 se tienen oficinas propias pero la intención es llegar a los 58.
