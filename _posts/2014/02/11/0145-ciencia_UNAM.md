@@ -8,6 +8,7 @@ category: Ciencia y Tecnología
 layout: posts
 ---
 
+![Yacimiento de la empresa de extracción y procesado de petróleo y gas de Pemex ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/l3i8Urvm.jpg)
 ■ Preservar reservas y rescatar la producción, fundamental para la nación: Conacyt
 
 La Facultad de Química (FQ) de la Universidad Nacional Autónoma de México (UNAM), emprendió uno de los proyectos de investigación más relevantes de su historia, al desarrollar tecnología para recuperar petróleo en yacimientos maduros mediante el uso de sustancias o agentes químicos como álcalis, tensoactivos y polímeros (ASP, por sus siglas en inglés), en una estrategia de recuperación mejorada.
