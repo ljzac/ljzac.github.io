@@ -8,7 +8,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-
+![Joshua Mendoza Jasso y el embajador Carlos Liao ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/ENW5Dd6m.jpg)
 A menos de dos semanas de haber sido nombrado  como vicepresidente nacional de Desarrollo, Ciencia y Tecnología de la Cámara Nacional de la Industria de Transformación (Canacintra), Joshua Mendoza Jasso anunció que se incubarán a empresas zacatecanas en Asia, a través de la firma del convenio con el Instituto de Investigaciones sobre Tecnología Industrial de Taiwan.
 
 Durante la reunión que sostuvo el también presidente de Canacintra en Zacatecas con el embajador Carlos Liao y con el representante de  la Oficina Económica y Cultural de Taiwán en México, Víctor Lee,  en la antesala de la gira de los afiliados de Zacatecas  por Asia,  el diplomático  externó el interés de su país de incrementar su inversión en el país,  particularmente en Zacatecas.
