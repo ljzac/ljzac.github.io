@@ -8,6 +8,7 @@ category: Educación
 layout: posts
 ---
 
+![Julio César Ortiz Fuentes, secretario general de uno de los sindicatos de base del Cecytez, durante la conferencia de prensa ■ foto: andrés sánchez](http://i.imgur.com/QutsPbjm.jpg)
 La dirigencia sindical de trabajadores del Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas (Cecytez) anunció para este 11 de febrero un paro en este subsistema educativo que atiende a 8 mil alumnos en 51 planteles dispersos en todo el estado, así como la toma de la Dirección general del mismo, en respuesta a las arbitrariedades laborales que dice, ha realizado Renato Rodríguez Domínguez, su titular.
 
 Entre ellas, se citó como ilegal el despido de 10 profesores, de los municipios de Calera, Mazapil, Fresnillo, Pinos, Vetagrande y Tabasco, ocurrido bajo el argumento de no tener el perfil adecuado para impartir clases, hecho que objetaron, al señalar que los maestros han ejercido la docencia durante 16 años. Esto se comentó, se hizo en desapego de los procedimientos del contrato colectivo de trabajo.
