@@ -7,7 +7,7 @@ category: Municipios
 layout: posts
 ---
 
-
+![El edil Carlos Peña Badillo ■ foto: andrés sánchez](http://i.imgur.com/scJsjiVm.jpg)
 El alcalde Carlos Peña Badillo mencionó que este año se repartirán 150 millones de pesos entre las ciudades que tienen el nombramiento de Patrimonio Cultural de la Humanidad y el cual ostenta la capital de Zacatecas.
 
 Sin embargo, el edil dijo que se gestionará ante la Federación que se añadan 150 millones, pues la bolsa de recursos se debe repartir entre 100 ciudades y Xochimilco. Del total de recursos, podría destinarse 35 millones de pesos para la capital.
