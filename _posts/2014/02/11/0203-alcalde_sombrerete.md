@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-
+![](http://i.imgur.com/6uwAzwPm.jpg)
 SOMBRERETE. Fuentes policiacas reportaron un accidente carretero en el que perdió la vida el presidente municipal de Sombrerete, Juan Ángel Castañeda Lizardo.
 
 Se informó que en el choque participó el vehículo del alcalde y una camioneta particular; murieron siete personas, mientras que dos menores y una mujer adulta están heridas.
