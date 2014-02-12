@@ -1,6 +1,6 @@
 ---
 published: true
-title: Se espera recuperación de las temperaturas sobre el estado en los proximos días
+title: Se espera recuperación de las temperaturas sobre el estado en los próximos días
 author: REDACCIÓN
 location: Local
 category: Destacadas
