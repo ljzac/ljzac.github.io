@@ -1,7 +1,9 @@
 ---
 published: true
+title: Bloquean frijoleros carretera a Fresnillo
+author: RAQUEL OLLAQUINDIA
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
