@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![Rosario Robles Berlanga, secretaria de Desarrollo Social a nivel federal ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/dXVw13Im.jpg)
+![Rosario Robles Berlanga, secretaria de Desarrollo Social a nivel federal ■ FOTO: LA JORNADA ZACATECAS](http://i.imgur.com/Fedl4IFm.jpg)
 La secretaria de Desarrollo Social, Rosario Robles Berlanga, realizará hoy una gira de trabajo por el estado de Zacatecas para supervisar avances en la superación de la pobreza extrema y el hambre en el municipio de Fresnillo, donde tomará protesta a comités comunitarios en el marco de la Cruzada Nacional Contra el Hambre.
 
 En la ciudad de Zacatecas, la secretaria inaugurará el Foro Regional de Consulta para la Definición de la Política Social Nacional Zona Norte, que reunirá a organizaciones de la sociedad civil, expertos, académicos y funcionarios de diversas dependencias federales, para debatir sobre prioridades en la superación de la pobreza y con sus aportaciones fortalecer la agenda social.
