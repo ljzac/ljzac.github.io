@@ -1,13 +1,14 @@
 ---
 published: true
 title: "Inicia gira de documentales Ambulante 2014  con la proyección de ¿Quién es Dayani Cristal?"
+twitt: ■ La producción cinematográfica está dirigida por Marc Silver y estelarizada por Gael García
 author: ALMA RÍOS
 location: Local
-category: Cultura y Espectáculos
+category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/nGe5qYhm.jpg)■ La producción cinematográfica está dirigida por Marc Silver y estelarizada por Gael García
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/2L_h_UcGAhE" frameborder="0" allowfullscreen></iframe></d>
 
 ■ Serán realizados eventos como mesas redondas y proyecciones especiales, informan
  
@@ -16,6 +17,8 @@ Antes de su estreno mundial que se prevé para abril de este 2014, los zacatecan
 Para esta sesión inaugural de la gira de cortometrajes Ambulante 2014, en la que Zacatecas se estrena como sede, se colocaron 300 sillas, la mayoría de las cuales fueron ocupadas desde temprana hora.
 
 Aproximadamente a las 16 horas se instaló el equipo, las proyecciones de los trailers de esta muestra iniciaron en cuanto el declive de la luz solar permitió observar las diferentes propuestas que conforman esta festival, que en el estado podrá apreciarse del 13 al 20 de febrero, entre otros espacios, en la propia Plazuela Miguel Auza, el teatro Fernando Calderón, la Cineteca Zacatecas y en los municipios Fresnillo y Guadalupe, en la Rinconada de la Purificación y el Jardín Juárez, respectivamente.
+
+![](http://i.imgur.com/nGe5qYhm.jpg)
 
 A las 20:25 horas, Gustavo Salinas Íñiguez dio por inaugurado el festival de cine, del que recomendó a la concurrencia estar al pendiente de la programación “para no perderse una sola de las proyecciones”.
 
