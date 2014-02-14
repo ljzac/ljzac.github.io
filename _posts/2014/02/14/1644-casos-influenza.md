@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Van 234 casos positivos de influenza: Informan SSZ"
+title: "Van 234 casos positivos de influenza, informan SSZ"
 author: REDACCIÓN
 location: Local
 category: Destacadas
@@ -19,4 +19,4 @@ En 29 de los 58 municipios se han presentado casos positivos de influenza. El ma
  
 Asimismo, con cuatro casos se encuentran Jerez, Pinos y Río Grande; con tres casos, Morelos, Sombrerete, Valparaíso y Villa García; y con dos casos Juan Aldama, Nochistlán, Villa de Cos y Villanueva.
  
-Finalmente, el responsable de los SSZ apuntó que con un caso se encuentran Apulco, Calera, Jalpa, Luis Moya, Momax, Moyahua, Noria de Ángeles, Pánfilo Natera, Sain Alto, Tepechitlán, Trancoso y Vetagrande. 
+Finalmente, el responsable de los SSZ apuntó que con un caso se encuentran Apulco, Calera, Jalpa, Luis Moya, Momax, Moyahua, Noria de Ángeles, Pánfilo Natera, Sain Alto, Tepechitlán, Trancoso y Vetagrande.
