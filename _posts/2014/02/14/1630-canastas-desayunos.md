@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Entregan alcalde y presidenta del DIF, canastas para desayunos calientes en machines"
+title: "Entregan alcalde y presidenta del DIF, canastas para desayunos calientes en Machines"
 author: REDACCIÓN
 location: Local
 category: Destacadas
