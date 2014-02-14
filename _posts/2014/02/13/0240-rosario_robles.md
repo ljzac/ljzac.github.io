@@ -33,7 +33,7 @@ Enfatizó que abandonar la visión asistencialista es la meta de las políticas 
 
 Por su parte, el gobernador Miguel Alonso Reyes comentó que en esta actividad de consulta participaron representantes de diversos sectores, como el ámbito público y el académico, quienes llegaron a Zacatecas desde varios estados del país, como Baja California, Baja California Sur, Chihuahua, Durango, Aguascalientes, San Luis Potosí, entre otros.
 
-![](http://i.imgur.com/f4LLFj7m.jpg)
+![](http://i.imgur.com/jrOY1EJm.jpg)
 **Las reformas ayudarán a que disminuyan índices de marginación: Pedro de León**
 
 
