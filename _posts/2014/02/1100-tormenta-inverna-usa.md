@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Suman 21 muertos por tormenta invernal en EU; sin electricidad, más de 500 mil"
 author: La Jornada
 location: Internacional
