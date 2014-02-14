@@ -9,6 +9,7 @@ layout: posts
 
 ![](http://i.imgur.com/dmz7513m.jpg)
 
+
 Washington. Al menos 21 muertos, más de medio millón de hogares y negocios sin electricidad y comunidades cubiertas hasta por 58 centímetros de nieve es el saldo hasta hoy viernes de la tormenta invernal Pax en Estados Unidos.
 
 El sistema afectó igualmente el tráfico aéreo, forzando la cancelación de 7 mil 100 vuelos hasta el jueves, de acuerdo con el portal electrónico FlightAware.com, a los que se sumaron mil 300 en las primeras horas de este viernes.
