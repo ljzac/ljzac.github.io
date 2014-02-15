@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Vendedores (Cuba)
 author: ODÍN SALINAS
 location: Local

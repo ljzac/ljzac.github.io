@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Revolucionarios (Cuba)
 author: ODÍN SALINAS
 location: Local
