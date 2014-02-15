@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Observador (Cuba)
 author: ODÍN SALINAS
 location: Local

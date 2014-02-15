@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Mecánica y puros (Cuba)
 author: ODÍN SALINAS
 location: Local

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Ganándose el pan (Cuba)
 author: ODÍN SALINAS
 location: Local
