@@ -4,7 +4,7 @@ title: "La ley migratoria que ofreció Barack Obama representa \"un optimismo c�
 twitt: "■ Presenta el realizador norteamericano Las cintas mexicanas/estadounidenses, en Ambulante 2014"
 author: ALMA RÍOS
 location: Local
-category: Cultura y Espectáculos
+category: Portada
 layout: posts
 ---
 
