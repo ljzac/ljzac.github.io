@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Inicia ayuntamiento de Guadalupe campaña Juventud informada y responsable "
+author: "REDACCIÓN "
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
