@@ -1,6 +1,6 @@
 ---
 published: true
-title: " Disfrutaremos de cielos mayormente despejados y días templados a cálidos en el estado"
+title: Pronostica SMN cielos mayormente despejados y días templados a cálidos en el estado
 author: REDACCIÓN
 location: Local
 category: Destacadas
