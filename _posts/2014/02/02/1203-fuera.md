@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Paisaje de la nube de humo, en una quema de droga"
 author: ANDRÉS SÁNCHEZ
 location: Local
