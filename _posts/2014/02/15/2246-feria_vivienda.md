@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-La delegación estatal del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) inició ayer su primer Feria de Vivienda, en la cual 15 desarrolladores inmobiliarios presentan su oferta para trabajadores residentes de la zona conurbada de Zacatecas y Guadalupe.
+![](http://i.imgur.com/ws9yIv3m.jpg)La delegación estatal del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) inició ayer su primer Feria de Vivienda, en la cual 15 desarrolladores inmobiliarios presentan su oferta para trabajadores residentes de la zona conurbada de Zacatecas y Guadalupe.
 
 Isela Avila Chávez, encargada de despacho del Infonavit en el estado, informó que la feria, instalada en Plaza Bicentenario, concentra a todas las desarrolladoras que ofrecen viviendas que cumplen con los requisitos que ese instituto exige para sus derechohabientes.
 
