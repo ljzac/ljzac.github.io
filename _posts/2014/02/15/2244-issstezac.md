@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Elaborarán mural alusivo, además de realizar la edición de un libro de grabados y dibujos
+![](http://i.imgur.com/gtU7E3Zm.jpg)■ Elaborarán mural alusivo, además de realizar la edición de un libro de grabados y dibujos
 
 ■ La obra monumental será instalada en el estacionamiento de la Seduzac, informan
 REDACCIÓN
