@@ -7,7 +7,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
-Berlín. La "road movie" mexicana en blanco y negro Güeros de Alonso Ruizpalacios se alzó hoy sábado con el premio a la mejor ópera prima de la Berlinale.
+![](http://i.imgur.com/2fpwnF3m.jpg)Berlín. La "road movie" mexicana en blanco y negro Güeros de Alonso Ruizpalacios se alzó hoy sábado con el premio a la mejor ópera prima de la Berlinale.
 
 El filme, proyectado en la sección Panorama del festival, gira en torno a la búsqueda de un músico que pudo haber salvado el rock nacional y el miedo que surge cuando no se tiene nada que hacer, todo ello enmarcado dentro de la huelga estudiantil de la Universidad Nacional Autónoma de México (UNAM) en 1999.
 
