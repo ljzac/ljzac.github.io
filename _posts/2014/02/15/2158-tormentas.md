@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-Londres. Vientos fuertes han golpeado Gran Bretaña en los últimos dos días, matando a una conductora de taxi en el centro de Londres y a un anciano en un barco crucero después de que una "ola gigante" golpeó a la nave en el Canal de la Mancha, dijeron funcionarios este sábado. Otros 15 pasajeros del crucero resultaron heridos en el incidente.
+![](http://i.imgur.com/tywNJl7m.jpg)Londres. Vientos fuertes han golpeado Gran Bretaña en los últimos dos días, matando a una conductora de taxi en el centro de Londres y a un anciano en un barco crucero después de que una "ola gigante" golpeó a la nave en el Canal de la Mancha, dijeron funcionarios este sábado. Otros 15 pasajeros del crucero resultaron heridos en el incidente.
 
 La taxista murió la tarde del viernes cerca de la estación Holborn el tren subterráneo durante un fuerte vendaval, cuando su automóvil fue aplastado por trozos de mampostería que cayeron de un edificio, dijo la policía. Ella fue identificada como Julie Sillitoe, de 49 años y madre de tres hijos.
 
