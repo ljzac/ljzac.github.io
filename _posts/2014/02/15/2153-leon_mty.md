@@ -7,7 +7,7 @@ category: Deportes
 layout: posts
 ---
 
-Monterrey, NL. Esmeraldas de León tuvo una buena actuación y con ello derrotó 2-0 a Rayados de Monterrey, en el partido disputado hoy en el estadio Tecnológico y correspondiente a la séptima jornada del Torneo Clausura 2014.
+![](http://i.imgur.com/DDRFwwkm.jpg)Monterrey, NL. Esmeraldas de León tuvo una buena actuación y con ello derrotó 2-0 a Rayados de Monterrey, en el partido disputado hoy en el estadio Tecnológico y correspondiente a la séptima jornada del Torneo Clausura 2014.
 
 Los goles del encuentro fueron conseguidos por Elías Hernández, a los 43 minutos, y el argentino Mauro Boselli, a los 70. Con este resultado, el cuadro esmeralda llegó a ocho puntos y Rayados se quedó en seis.
 
