@@ -7,7 +7,7 @@ category: Principales
 layout: posts
 ---
 
-México, DF. El escritor Federico Campbell murió este sábado al filo de las 16 horas tras haber sufrido un derrame cerebral y su familia decidió desconectarlo, informó el periodista cultural Jaime Cháidez, residente en Tijuana y amigo de la familia.
+![](http://i.imgur.com/rHNr7sJm.jpg)México, DF. El escritor Federico Campbell murió este sábado al filo de las 16 horas tras haber sufrido un derrame cerebral y su familia decidió desconectarlo, informó el periodista cultural Jaime Cháidez, residente en Tijuana y amigo de la familia.
 
 Campbell permanecía en terapia intensiva en el hospital Mocel por contagio del virus de la influenza AH1N1, y fue desconectado tras sufrir un derrame masivo con muerte cerebral, reportó Jaime Cháidez Bonilla en las redes sociales.
 
