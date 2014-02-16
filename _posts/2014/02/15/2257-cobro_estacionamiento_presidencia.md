@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ Sólo pagarían quienes no hacen trámites oficiales, aclaran
+![](http://i.imgur.com/Ut4KKpmm.jpg)■ Sólo pagarían quienes no hacen trámites oficiales, aclaran
 
 A partir del mes de marzo, el estacionamiento de la presidencia municipal de Zacatecas podría dejar de ser gratuito para aquellos que no vayan a realizar trámite alguno a estas instalaciones gubernamentales.
 
