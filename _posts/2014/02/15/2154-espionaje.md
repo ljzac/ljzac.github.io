@@ -7,7 +7,7 @@ category: Mundo
 layout: posts
 ---
 
-La Agencia de Seguridad Nacional (NSA) espió a un bufete de abogados estadunidense que representó a un gobierno extranjero en disputas comerciales con Estados Unidos, reportó el diario The New York Times en un artículo basado en un documento secreto obtenido por Edward Snowden, ex analista de seguridad de la NSA.
+![](http://i.imgur.com/qHqedGVm.jpg)La Agencia de Seguridad Nacional (NSA) espió a un bufete de abogados estadunidense que representó a un gobierno extranjero en disputas comerciales con Estados Unidos, reportó el diario The New York Times en un artículo basado en un documento secreto obtenido por Edward Snowden, ex analista de seguridad de la NSA.
 
 El documento de febrero de 2013 muestra que el gobierno indonesio contrató los servicios del bufete de cara a las negociaciones comerciales con Estados Unidos, indicó el Times en un artículo publicado en su portal el sábado. El documento no identifica al bufete pero la firma de abogados Mayer Brown, de Chicago, estaba asesorando al gobierno indonesio sobre asuntos comerciales en ese momento, indica el diario.
 
