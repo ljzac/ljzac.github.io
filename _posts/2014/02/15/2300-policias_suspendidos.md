@@ -7,7 +7,7 @@ category: Portada
 layout: posts
 ---
 
-■ No se busca criticar los procedimientos para los exámenes de control y confianza, asevera
+![](http://i.imgur.com/0kYSlQOm.jpg)■ No se busca criticar los procedimientos para los exámenes de control y confianza, asevera
 
 ■ Otra vez todos los agentes serán evaluados, aprovechando la flexibilidad de la Federación, dice
 
