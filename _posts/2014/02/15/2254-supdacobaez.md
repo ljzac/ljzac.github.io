@@ -7,8 +7,7 @@ category: Portada
 layout: posts
 ---
 
-
-El Comité Ejecutivo del Sindicato Único de Personal Docente y Administrativo del Colegio de Bachilleres del Estado de Zacatecas (Supdacobaez) emitió un pronunciamiento de solidaridad, en defensa de los derechos laborales de los trabajadores de otras instituciones educativas que en este momento enfrenten diversos problemáticas.
+![](http://i.imgur.com/4z2Ceeqm.jpg)El Comité Ejecutivo del Sindicato Único de Personal Docente y Administrativo del Colegio de Bachilleres del Estado de Zacatecas (Supdacobaez) emitió un pronunciamiento de solidaridad, en defensa de los derechos laborales de los trabajadores de otras instituciones educativas que en este momento enfrenten diversos problemáticas.
 
 Gerardo García Murillo, secretario general de ese gremio, manifestó su apoyo a los sindicatos del Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas (Cecytez) y de la Universidad Autónoma de Zacatecas (UAZ), tanto al Sindicato de Trabajadores (Stuaz), como al Sindicato de Personal Académico (Spauaz).
 
