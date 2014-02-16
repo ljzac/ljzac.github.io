@@ -7,7 +7,7 @@ category: Cultura y Espectáculos
 layout: posts
 ---
 
-■ El mexicano Alonso Ruizpalacios con Güeros gana el premio al Mejor Primer Largometraje 
+![](http://i.imgur.com/fGGhn9Wm.jpg)■ El mexicano Alonso Ruizpalacios con Güeros gana el premio al Mejor Primer Largometraje 
 
 ■ El Oso de Plata Nuevas Perspectivas fue para Alains Resnais con Aimer, Boire et Chanter 
 
@@ -110,4 +110,4 @@ Mejor Documental: Der Kreis (The Circle) de Stefan Haupt, Suiza.
 Mejor Cortometraje: Mondial 2010 de Roy Dib, Libano.
 
 
-Premio Especial del Jurado: Pierrot Lunaire de Bruce LaBruce, Alemania/Canadá. 
+Premio Especial del Jurado: Pierrot Lunaire de Bruce LaBruce, Alemania/Canadá.
