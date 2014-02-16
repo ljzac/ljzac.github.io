@@ -1,6 +1,6 @@
 ---
 published: true
-title: Apertura de la enegmatica exposición fotografica Pinhole 3 en Fototeca Zacatecas
+title: Apertura de la enigmática exposición fotográfica Pinhole 3 en Fototeca Zacatecas
 author: REDACCIÓN
 location: Local
 category: Destacadas
