@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Abandera ayuntamiento de Jerez a delegación artística que irá a Paraguay "
 author: REDACCIÓN
 location: Local
