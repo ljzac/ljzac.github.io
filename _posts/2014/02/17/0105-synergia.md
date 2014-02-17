@@ -8,7 +8,8 @@ category: Portada
 layout: posts
 ---
 
-![Los asistentes al programa de Synergia ■ fotos: miguel ángel núñez](http://i.imgur.com/FJACWkkm.jpg)
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/RB5gCIk_5Zs" frameborder="0" allowfullscreen></iframe></div>
+
 ■ Deficiencia de infraestructura y la falta de capacitación laboral, entre los obstáculos
 
 Ante la desesperanza de la población zacatecana en su mejoramiento económico, expresada mediante los resultados del estudio realizado por el Laboratorio de Estadística y Matemática Aplicada (LEMA) de la Universidad Autónoma de Zacatecas (UAZ), que señala a 70 por ciento de los encuestados como convencidos de que su situación en este rubro empeorará o continuará igual los próximos 12 meses, se ofrecieron lecturas sobre uno de los factores determinantes de esta percepción, la realidad de la oferta laboral.
@@ -16,14 +17,14 @@ Ante la desesperanza de la población zacatecana en su mejoramiento económico, 
 El tema fue abordado en el programa Synergia de La Jornada Zacatecas TV, donde se  expusieron y analizaron las posibilidades para alcanzar las metas propuestas en el Plan Estatal de Desarrollo (2010-2016) de incrementar el empleo en 8 mil puestos anuales, el carácter precario de la mayoría de los mismos y las alternativas a la estrategia gubernamental sustentada en la inversión extranjera directa, así como las dificultades que enfrentan los pequeños y medianos empresarios, quienes generan 85 por ciento de las plazas de trabajo en el estado. 
 
 Marco Antonio Torres Inguanzo, conductor de la serie, expuso como dato que 68 por ciento de la población recibe menos de tres salarios mínimos y 44 por ciento menos de dos. De esta manera la remuneración por trabajador es 40 por ciento menor a la media nacional en números absolutos, dijo.
-
+![Los asistentes al programa de Synergia ■ fotos: miguel ángel núñez](http://i.imgur.com/FJACWkkm.jpg)
 La discusión sobre la generación de empleos y la situación de Zacatecas
 Cristopher Ávila Mier, subsecretario de Economía, sustentó la estrategia de la presente administración para solucionar esta problemática en las inversiones extranjeras que deberán desarrollar las vocaciones económicas de la entidad y generar en un futuro un mercado de oferta laboral competitiva que eleve los salarios. 
 
 Los empleos deben provenir pues de la minería, las industrias manufacturera de autopartes y aeroespacial, la agroindustria, el desarrollo de energías renovables como la fotovoltáica y eólica y las tecnologías de la información. Sin embargo, expuso como obstáculos la deficiencia de infraestructura y la falta de capacitación laboral.
 
 “Se está haciendo lo que se debió haber hecho antes”, y comentó sobre los avances para la industrialización que representan los sistemas carreteros, la puesta en operación del vuelo a Dallas y  la creación de los parques industriales Sumar 1  y 2, así como la construcción del gaseoducto Centenario y las alianzas estratégicas con centros educativos como Conalep, UAZ y la Universidad Tecnológica del Estado de Zacatecas (UTEZ). 
-
+![](http://i.imgur.com/7Mn2OJMm.jpg)
 En referencia a la cifra que apunta a que sólo se han generado 5 mil 500 empleos anuales en promedio desde 2011, Óscar Pérez Veyna, docente e investigador de la Unidad Académica en Estudios del Desarrollo (UAED) de la UAZ, aportó que es “una buena enseñanza” entender la dificultad del papel del Estado como  administrador y señaló se debe abonar a futuro, a una cultura de realidades y no de promesas. 
 
 Aportó en concordancia con lo dicho por la Secretaria de Desarrollo Social en su reciente visita a Zacatecas, que es necesaria una redistribución de la riqueza.
@@ -55,7 +56,7 @@ Ponderó también el apoyo de hasta 50 millones de pesos, que desde la Ley de Fo
 
 
 A modo de propuesta, al afirmar que la estrategia del gobierno del estado sustentada en la inversión extranjera es insuficiente para generar los empleos necesarios en Zacatecas, el docente e investigador dijo que es indispensable que desde la Federación se apoye a la entidad con “un gran proyecto, una central de abastos intermedia entre los productos del norte y el centro de consumo número uno del país”.
-
+![](http://i.imgur.com/TpqvS5Zm.jpg)
 Esta implicaría una gran demanda de empleos calificados, logística por aire y tierra y movimiento de mercancías que le dé vida al sistema carretero que vincula y cruza al territorio zacatecano. 
 
 Fue destacado también el proyecto Modelo Eurolatinoamericano de Gobernanza para el Desarrollo Productivo (Melgodepro) que en Valparaíso se respaldó con fondos procedentes del programa Urban de la Unión Económica Europea, con alrededor de 300 mil euros.
