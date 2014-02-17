@@ -24,13 +24,13 @@ Cristopher Ávila Mier, subsecretario de Economía, sustentó la estrategia de l
 Los empleos deben provenir pues de la minería, las industrias manufacturera de autopartes y aeroespacial, la agroindustria, el desarrollo de energías renovables como la fotovoltáica y eólica y las tecnologías de la información. Sin embargo, expuso como obstáculos la deficiencia de infraestructura y la falta de capacitación laboral.
 
 “Se está haciendo lo que se debió haber hecho antes”, y comentó sobre los avances para la industrialización que representan los sistemas carreteros, la puesta en operación del vuelo a Dallas y  la creación de los parques industriales Sumar 1  y 2, así como la construcción del gaseoducto Centenario y las alianzas estratégicas con centros educativos como Conalep, UAZ y la Universidad Tecnológica del Estado de Zacatecas (UTEZ). 
-![](http://i.imgur.com/7Mn2OJMm.jpg)
+
 En referencia a la cifra que apunta a que sólo se han generado 5 mil 500 empleos anuales en promedio desde 2011, Óscar Pérez Veyna, docente e investigador de la Unidad Académica en Estudios del Desarrollo (UAED) de la UAZ, aportó que es “una buena enseñanza” entender la dificultad del papel del Estado como  administrador y señaló se debe abonar a futuro, a una cultura de realidades y no de promesas. 
 
 Aportó en concordancia con lo dicho por la Secretaria de Desarrollo Social en su reciente visita a Zacatecas, que es necesaria una redistribución de la riqueza.
 
 Las empresas deben disminuir “su  hasta ahora insaciabilidad por la renta” y entender que necesitamos construir algo aproximado a lo que en los países escandinavos se conoce como el Estado de bienestar, “más o menos, es lo que trataba de decir la secretaría”.
-
+![](http://i.imgur.com/7Mn2OJMm.jpg)
 Pérez Veyna situó el problema de la estrategia propuesta tanto en el ámbito estatal como federal para la generación de empleos,  en su dependencia de “la voluntad” de los empresarios extranjeros que buscan ventajas competitivas que el país o en este caso el estado, no puede ofrecer. 
 
 Así recuperó que los gobiernos federales durante los últimos 14 años tampoco han podido generar el millón de empleos anuales propuestos. Dijo  que las alternativas señaladas por Ávila Mier para sustentar el empleo en la industrialización de Zacatecas mediante inversión extranjera están “siempre condicionadas”. 
