@@ -8,7 +8,9 @@ category: Portada
 layout: posts
 ---
 
-![En este sector se registran carencias alimenticias, educativas y de salud ■ foto: LA JORNADA ZACATECAS](http://i.imgur.com/6wnyQyMm.jpg)
+<div align="center"><iframe width="420" height="315" src="//www.youtube.com/embed/Mm2mEmfErbo" frameborder="0" allowfullscreen></iframe></div>
+
+
 ■ Cuatro de cada 10 familias rurales no satisfacen diariamente sus problemas de alimentación
 
 Un kilo de frijol pagado a 5 pesos frente a un costo de producción de 20, no sólo representa 15 pesos de pérdida en el bolsillo del productor a pequeña escala, sino que supone un nuevo golpe a la economía de las familias que subsisten de la actividad agropecuaria en el estado.
@@ -16,7 +18,7 @@ Un kilo de frijol pagado a 5 pesos frente a un costo de producción de 20, no s�
 El bajo precio de los productos del campo mexicano y el elevado costo de los insumos para su producción, se traduce en pobreza de la sociedad zacatecana. En concreto, ambos factores son dos de las causas principales que provocan que 76 por ciento de los hogares rurales de la entidad sean pobres en alguna de sus variantes.
 
 Esta cifra la arroja un estudio elaborado durante los dos últimos años por los académicos de la Universidad Autónoma de Zacatecas (UAZ), Juan Manuel Padilla y Mireya Torres Ramírez, cuyos resultados fueron expuestos por el docente de la Unidad Académica en Estudios del Desarrollo de la Máxima Casa de Estudios del estado, Rodolfo García Zamora. 
-
+![En este sector se registran carencias alimenticias, educativas y de salud ■ foto: LA JORNADA ZACATECAS](http://i.imgur.com/6wnyQyMm.jpg)
 El investigador aseguró que, tras aplicar una encuesta en mil 162 viviendas de todo el territorio zacatecano, obtuvieron que 32 por ciento de la población es pobre en alimentación; 42 por ciento en capacidades, lo cual quiere decir que tienen alimento insuficiente, educación y salud, y 68 por ciento es pobre en patrimonio, es decir, a todas las carencias anteriores se le suma la de la vivienda. No obstante, si los datos se aterrizan en el ámbito rural los resultados son aún más graves, comentó García Zamora.
 
 En este sentido, expuso que “40 por ciento de todas las familias del campo tienen pobreza alimentaria, es decir, cuatro de cada 10 familias rurales no satisfacen diariamente sus problemas de alimentación. En términos de capacidades, alimentación, educación y salud, 51 por ciento, y si eso lo vinculamos también con la vivienda, 76.9 de todos los hogares rurales son pobres en patrimonio. (…) Estamos viendo que 76 por ciento de todas las familias rurales de Zacatecas tienen alguna dimensión de pobreza”.
