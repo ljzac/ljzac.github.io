@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![](http://i.imgur.com/p3P2Sm1m.jpg)
+![](http://i.imgur.com/ENRmRcpm.jpg)
 ■ Esta semana serán entrevistados por legisladores; a más tardar se efectuará la votación el día 27
 
 Se registraron 64 aspirantes a ocupar uno de los seis cargos de consejeros  del Instituto Electoral del Estado de Zacatecas (IEEZ); el pasado viernes 14 de este mes la 61 Legislatura cerró la convocatoria pública que tuvo amplia recepción y en la que participan zacatecanos con diversos perfiles; algunos con simpatías partidistas y otros meramente ciudadanos entre ellos académicos incluso con grado de doctor.
