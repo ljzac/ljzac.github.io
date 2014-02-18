@@ -23,9 +23,9 @@ El lugar donde se encuentra una de las etnias más antiguas de la Tierra, fue di
 Por las connotaciones que implica, Bering fue abordado por la realizadora en su carácter simbólico, “si aceptamos esta hipótesis que de ahí nos llegó la civilización, es un punto de referencia muy importante para hacer un análisis de qué hemos hecho con esa civilización”. 
 
 Por ello uno de sus performances o acciones, implicaba realizar el cruce en sentido contrario a modo de “contracultura”, es decir, desde “occidente” a oriente, cosa que no le fue permitida por los controles migratorios.
-![](http://i.imgur.com/PVYEemGm.jpg)
-La reflexión a que convida Bering. Equilibrio y Resistencia, involucra también la pérdida de los valores humanos, “porque eso es lo que nos está fallando. Nos están destruyendo los valores esenciales como estar pegados a la tierra, saber comer de ella, este sentido comunitario que hemos perdido”.
 
+La reflexión a que convida Bering. Equilibrio y Resistencia, involucra también la pérdida de los valores humanos, “porque eso es lo que nos está fallando. Nos están destruyendo los valores esenciales como estar pegados a la tierra, saber comer de ella, este sentido comunitario que hemos perdido”.
+![](http://i.imgur.com/PVYEemGm.jpg)
 Justo es lo que muestra la película que tuvo detrás, dos visitas a Dómene menor, la isla donde habitan los esquimales ahora norteamericanos, mismos que buscan recuperar en medio de la modernidad que les ha ofrecido su absorción por la potencia mundial hegemónica, sus raíces culturales, entre ellas, su alimentación milenaria, su lengua, sus códigos de comportamiento colectivo y sus costumbres.
 
 Por ello comenta, se incluyeron en el título de la película exhibida ayer en la Cineteca Zacatecas dentro de la Gira de documentales Ambulante 2014,  los términos “equilibro y resistencia”, pues sin ellos asevera, “estamos perdidos” ante los grandes cambios que hoy enfrenta la humanidad.
@@ -37,7 +37,7 @@ Sin embargo señala, este poblado de 150 gentes, tiene un arraigo muy fuerte con
 Grobet recupera también el concepto ancestral de los esquimales vivir sin dinero, sustentado en su historia de cazadores recolectores, mismo que hoy se enfrenta a las usanzas del mercado.
 
 “Bueno todas estas cosas para mí son muy importantes en el sentido de ver esto que es una muestra que se puede generalizar, porque todas las culturas originarias de todo el mundo están sufriendo esos procesos”.
-![](http://i.imgur.com/akuHsZDm.jpg)
+![](http://i.imgur.com/FdoQV2wm.jpg)
 Sin embargo, se asume a sí misma como “no apocalíptica” y cree en la posibilidad de que justo la tecnología puede usarse con inteligencia. En este sentido señala que los habitantes de Bering acceden ahora mediante Internet a otras realidades que trascienden la aculturación que han recibido de los Estados Unidos.
 
 Agrega, “yo ahorita siento que nuestra única acción comunitaria está en las redes (sociales) yo creo que la solución está en las redes si las sabemos usar bien”.
