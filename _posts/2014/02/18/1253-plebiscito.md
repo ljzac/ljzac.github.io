@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ha votado la tercera parte del padrón de docentes en plebiscito que definirá huelga en la UAZ
+title: Ha votado la tercera parte del padrón docente en plebiscito que definirá huelga en la UAZ
 author: MARTÍN CATALÁN LERMA
 location: Local
 category: Destacadas
