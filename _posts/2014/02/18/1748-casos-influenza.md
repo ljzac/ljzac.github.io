@@ -17,4 +17,4 @@ En lo que se refiere a los casos acumulados en el presente año en todo el Secto
  
 Por otra parte, el titular de los SSZ abundó diciendo que en la semana epidemiológica número 7, se atendieron 22 mil 216 casos, lo que representa el uno por ciento menos que la semana anterior.
  
-"El grupo de edad que requirió mayor número de atenciones por IRAS fue el de 20 a 59 años con un 37.7 por ciento; seguido por los menores de cinco, con 22.4; mayores de 60 con un 7.2 y el 32.7 por ciento restante se distribuyó en diferentes tipo de de edad", dijo.
+"El grupo de edad que requirió mayor número de atenciones por IRAS fue el de 20 a 59 años con un 37.7 por ciento; seguido por los menores de cinco, con 22.4; mayores de 60 con un 7.2 y el 32.7 por ciento restante se distribuyó en diferentes tipo de edad", dijo.
