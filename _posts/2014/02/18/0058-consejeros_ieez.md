@@ -30,66 +30,128 @@ A lo largo de esta semana, las comisiones legislativas de Asuntos Electorales y 
 
 
 Luis Miguel Zapata Alvarado
+
 Hugo García Bañuelos
+
 José Enciso Sánchez
+
 Eleazar Quiroz Sánchez
+
 Gerardo Cervantes Ramírez 
+
 Francisco Javier Trejo Basurto
+
 Víctor Hugo Medina Elías 
+
 Jorge Eutimio Bañuelos Frías 
+
 Fabricio Alejandro Chávez Gutiérrez
+
 Elisa Flemate Ramírez
+
 Rodolfo Rodríguez
+
 Tarsicio Félix Meza
+
 Antonio Macías Chairez 
+
 Brenda Mora Aguilera 
+
 Mauricio Javier Vázquez
+
 José Roberto Íñiguez González
+
 Horacio Erik Silva Soriano
+
 José Manuel Carlos Sánchez
+
 Enriqueta Ivonne Juárez Sánchez
+
 Juan Pablo Torres Frausto 
+
 José Luis Guardado Pérez
+
 Rocío Posadas Ramírez
+
 Sergio Rafael García Escobedo
+
 Sergio García 
+
 Luis Gilberto Padilla Bernal
+
 Otilio Rivera Herrera
+
 Eladio Navarro Bañuelos
+
 Marco Antonio Martínez Casanova
+
 Javier Hugo Gutiérrez del Muro
+
 Juan Carlos Pino Acevedo
+
 Francisco Javier Muro González
 Javier Reyes Romo
+
 Juan José Mota Campos
-Alfredo Covarubias Montañez 
+
+Alfredo Covarubias Montañez
+
 José Antonio Venegas Méndez
+
 Miguel Jaquez Salazar
+
 Felipe Andrade Haro
+
 Silvia Palacios Rodríguez
+
 Antonio Martínez Escobedo
+
 Marco Antonio Ruelas Zavala
+
 Francisco Villagrana Rojas
+
 Juan Manuel García Rodríguez
+
 María Guadalupe Muro Robles
+
 Joel Arce Pantoja 
+
 Luis Gerardo Jaquez Robles
+
 Claudia Verónica Medina Duarte
+
 Lilia Dora Berenice Rivera Córdova 
+
 Soraya Aurora Mercado Escalera
+
 Verónica Gallardo Ortiz 
+
 Aldo Alberto de la Torre González
-Octavio Arteaga Arteag
+
+Octavio Arteaga Arteaga
+
  Carlos Ortega Cisneros
+ 
 Fabián Darío Martínez Casanova
+
 Víctor Hugo Flores Flores
+
 Rosa Elisa Acuña Martínez
+
 Luis Edmundo Zorrilla Hernández 
+
 Ricardo A. Aguilar Díaz
+
 Belia García Guillen
+
 Jesús López Zamora 
+
 Lázaro Ávila Cabrera
+
 Elia Olivia Castro Rosales
+
 Ricardo Martínez Arroyo
+
 Francisco Triana Ruiz
+
 Ivone Patricia Tejada Ortega
