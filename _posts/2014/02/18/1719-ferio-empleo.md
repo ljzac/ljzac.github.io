@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-Con el objetivo de insertar a más zacatecanos en una fuente de trabajo digna, el Gobierno del estado llevará a cabo la segunda Feria del Empleo del presente año, en el municipio de Calera de Víctor Rosales.
+![](http://i.imgur.com/lYaFHp0m.jpg)Con el objetivo de insertar a más zacatecanos en una fuente de trabajo digna, el Gobierno del estado llevará a cabo la segunda Feria del Empleo del presente año, en el municipio de Calera de Víctor Rosales.
  
 Gerardo Luna Tumoine, subsecretario del Servicio Nacional del Empleo (SNE) Zacatecas, explicó que los ciudadanos interesados deben pre registrarse en la dirección http://feriasdeempleo.stps.gob.mx/fe/ o comunicándose sin costo al 01 800 841 20 20.
  
@@ -17,4 +17,4 @@ El funcionario estatal señaló que la segunda Feria del Empleo contará la part
  
 La segunda Feria del Empleo se llevará a cabo este jueves 20 de febrero, en la plaza cívica de la presidencia municipal de Calera. Los interesados podrán presentarse con solicitud y currículum elaborado a partir de las 8:30 y hasta las 15:00 horas.
  
-Finalmente, el titular del SNE dijo que en lo que va de la administración del gobernador Miguel Alonso Reyes se han realizado 37 ferias del empleo, y el objetivo es realizar más, ya que la generación de fuentes de trabajo es prioridad para la actual administración. 
+Finalmente, el titular del SNE dijo que en lo que va de la administración del gobernador Miguel Alonso Reyes se han realizado 37 ferias del empleo, y el objetivo es realizar más, ya que la generación de fuentes de trabajo es prioridad para la actual administración.
