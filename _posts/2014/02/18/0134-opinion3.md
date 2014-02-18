@@ -1,7 +1,8 @@
 ---
 published: true
 title: "¿Se comunica, se informa o se publicita?"
-author: Agenda Política
+twitt: Agenda Política
+author: Gabriel Contreras Velázquez
 location: Local
 category: Opinión
 layout: posts
