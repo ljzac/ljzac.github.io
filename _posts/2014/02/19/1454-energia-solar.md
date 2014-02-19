@@ -9,9 +9,6 @@ layout: posts
 
 •	Los representantes de Ryffin Partener acudieron a la Legislatura para exponer el proyecto, pero fueron sólo tres los diputados que asistieron
 
-![Foto: ALMA ALEJANDRA TAPIA](http://i.imgur.com/JXzgRsMm.jpg)Diputados locales desairaron a empresarios mexicanos, quienes programaron una reunión con los integrantes de la Comisión de Ecología y Medio Ambiente, encabezada por el perredista Rafael Flores. Los únicos que acudieron fueron, con una hora de retardo, el secretario de dicha comisión, Rafael Gutiérrez, y a la mitad de la sesión, Susana Rodríguez e Iván de Santiago.
+![Foto: ALMA ALEJANDRA TAPIA](http://i.imgur.com/JXzgRsMm.jpg)Diputados locales desairaron a empresarios mexicanos, quienes programaron una reunión con los integrantes de las comisiones unidas de Ecología y Medio Ambiente, Fortalecimiento Municipal y Desarrollo Económico e Industria y Minería, que en conjunto se conforman por 15 diputados; sin embargo, con una hora y otros hasta dos de retraso, sólo llegaron tres: el priísta Rafael Gutiérrez Martínez, la ecologista Susana Rodríguez Márquez y el perredista Iván de Santiago.
 
-Los representantes de Ryffin Partener acudieron para exponer un proyecto de energía solar para el total de los municipios de Zacatecas. Plantearon la instalación de una granja solar que no tendría costo para los ayuntamientos, sino que la inversión completa seria de su parte, y el municipio sólo pagaría el recibo de luz del mes anterior, hasta que progresivamente la planta sea de su propiedad.
-
-Los empresarios requieren el aval de la Legislatura, para que los cabildos puedan firmar el convenio. Aseguraron que tres ya hicieron la solicitud y hay otros 15 interesados.
-
+Los representantes de Ryffin Partener solicitaron la audiencia con los legisladores para presentarles un proyecto de instalación de una granja solar que proveería de energía a los 58 municipios del estado, misma que fue agendada para ayer en las instalaciones del propio Congreso. Tampoco asistieron los presidentes de las tres comisiones convocantes: el perredista Rafael Flores Mendoza, César Deras Almodova, de Movimiento Ciudadano, y el petista José Luis Figueroa Rangel.
