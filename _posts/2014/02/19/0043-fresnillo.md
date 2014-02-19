@@ -4,7 +4,7 @@ title: Mueren tres hombres en Fresnillo al enfrentarse al Ejército y preventivo
 twitt: "■ Incautan 4 unidades, 3 armas largas y cargadores abastecidos"
 author: Redacción
 location: Local
-category: Municipios
+category: Portada
 layout: posts
 ---
 
