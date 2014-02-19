@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-![María Juana Nájar Hernández, mejor conocida como María la que cura ■ FOTO: MIGUEL ÁNGEL NÚÑEZ](http://i.imgur.com/yZWUs7Sm.jpg)
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/BJp9dzsZdjI" frameborder="0" allowfullscreen></iframe></div>
 
 
 ■ La mujer, actualmente de 81 años de edad, no ha registrado sus conocimientos, afirma
@@ -18,6 +18,7 @@ layout: posts
 María la que cura, como expresa le gustaría que le nombraran, responde así al preguntársele, por qué se ha ido perdiendo el conocimiento de la medicina tradicional que personas como ella aprendieron de generación en generación.
 
 El método al que se refiere se llama “embilmar” y era usado para inmovilizar y sanar las fracturas de huesos. Con harina, clara de huevo y trementina, dice, se hacía un “parche” que duraba 40 días colocado y cuando se retiraba, “aquello estaba bueno y sano. Pero el médico directamente lo prohibió”.
+![María Juana Nájar Hernández, mejor conocida como María la que cura ■ FOTO: MIGUEL ÁNGEL NÚÑEZ](http://i.imgur.com/yZWUs7Sm.jpg)
 
 La hegemonía de la medicina alópata, del conocimiento científico y el desarrollo farmacéutico aplicado a la curación, ha ido desplazando esa otra sabiduría humana recuperada de la experiencia de cientos, a veces miles de años, que sin embargo, países como China, han logrado conciliar en su sistema de salud para volverse un modelo que desde los años 70 impulsa a nivel internacional y basado en la experiencia del país asiático, la Organización Mundial de la Salud (OMS).
 
@@ -34,7 +35,7 @@ Vienen y vienen nombres de plantas y sus usos y de enfermedades que pueden trata
 Refiere de manera terminante que ella no cura “enfermedades sobrepuestas”. Y agrega, “cuando vienen y quieren que yo les diga que están embrujadas, que están hechizadas, que tienen enfermedades diabólicas. A eso yo le doy muy poco importe”.
 
 Por las confusiones a que se presta este tipo de interpretaciones, prefiere que no le llamen curandera, sino María la que cura. Las manos de doña María saben cómo “levantar la mollera de un niño”, masajear los órganos internos de una persona para quitar “el empacho”, ya sea provocado por comer algo o por efecto de emociones como el miedo. Saben palpar músculos y huesos y percibir cuando algo no está en su lugar o tiene tensión.
-
+![](http://i.imgur.com/CRG3tytm.png)
 Su memoria, que puede remontarse a cuando tenía cuatro años de edad, recuerda perfectamente cómo su abuela, quien ya practicaba la medicina tradicional en la Hacienda de Sauceda, procedía ante diferentes enfermedades y padecimientos. Pero sobre todo, lleva fijas las enseñanzas de su Nanita, doña Nieves.
 
 Mirando y luego participando en las curaciones de esta mujer que murió a la edad de 112 años y con la que convivió desde su niñez, aprendió a atender partos, dar seguimiento a embarazos,  sobar y masajear.  Conocer, seleccionar y recolectar hierbas. Elaborar jarabes, pomadas, ungüentos, aceites y tés. Ejecutar las “barridas” con pirul, a las cuales no les confiere poderes sobrenaturales, sino los beneficios de favorecer la circulación de la sangre y relajar, realizar “embilmes” y poner ventosas.
@@ -54,7 +55,7 @@ También sabe su experiencia, y espontáneamente lo dice sin chistar y de un hil
 Con los conocimientos transmitidos por “sus viejecitas” y cree firmemente, ayudada por “el  padre eterno y Jesús, María y José”, se ha dedicado a  “curar mi gente”, pacientes que ha atendido desde niños a veces, y que después han llevado a sus hijos y nietos.
 
 Casi nunca se le han muerto, comenta. “Nada más los de ya mucho tiempo, que ya no vinieron aquí conmigo”. Desde hace 55 años, practica sola la medicina tradicional, actualmente en la colonia Tierra y Libertad del municipio Guadalupe.
-
+![](http://i.imgur.com/vfL5bcrm.png)
 La muerte, les dice, “es muy natural y todos tenemos que acabarnos”. Aquí trae a colación el quinto mandamiento de la fe que profesa y habla de la obligación del autocuidado y el de los demás, para señalar que ese “no matarás, no nada más es matar a nuestro prójimo, sino no matarnos nuestra salud, nuestra tranquilidad, el bienestar de nuestro hermano, de nuestro hijo, de nuestro vecino”.
 
 Curar le produce a Mariquita, así le llaman en su lugar de origen, Casa de Cerros, en el municipio Pánuco, felicidad y tranquilidad. Uno de sus hijos le ha pedido que deje de curar, comenta a voz quebrada, pero “yo me siento muy triste que me quieran quitar de curar. Me ha costado lágrimas (…) Es muy lindo y muy hermoso ser servicial a todo mundo. Es muy lindo y muy hermoso vivir con nuestra gente”.
