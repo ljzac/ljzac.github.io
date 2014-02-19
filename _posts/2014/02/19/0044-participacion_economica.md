@@ -4,7 +4,7 @@ title: "Mujeres amplían su participación económica en los hogares, pero con m
 twitt: "■ Brecha salarial entre féminas y varones sigue manteniendo grandes diferencias, según Inegi"
 author: RAQUEL OLLAQUINDIA
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
@@ -30,4 +30,3 @@ Aparte de las discriminaciones que aún persisten fuera del hogar con los sueldo
 Al respecto se expone que, “en promedio, ellas dedican a los quehaceres domésticos entre diez y veinte horas semanales más que los hombres, y entre ocho y quince horas semanales más al cuidado de otros, condición que se ha incrementado en el periodo 2008 a 2012”. 
 
 El Inegi asevera que, a raíz de las cifras contenidas en sus bases de datos, “estas situaciones son comunes tanto para las mujeres que participan en el mercado laboral como para las que no lo hacen. En el primer caso, la sobrecarga de trabajo es aún más notable ya que deben dividir su tiempo entre labores extra domésticas y el trabajo doméstico no remunerado, es decir, realizar una doble jornada laboral”.
-
