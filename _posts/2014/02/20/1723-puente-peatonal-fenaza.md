@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-La Secretaría de Infraestructura (Sinfra) realiza trabajos de ampliación del puente peatonal de acceso a las instalaciones de la Feria Nacional de Zacatecas (FENAZA) sobre el bulevar metropolitano, en el tramo José López Portillo.
+![](http://i.imgur.com/v03f0WUm.jpg)La Secretaría de Infraestructura (Sinfra) realiza trabajos de ampliación del puente peatonal de acceso a las instalaciones de la Feria Nacional de Zacatecas (FENAZA) sobre el bulevar metropolitano, en el tramo José López Portillo.
  
 Mario Rodríguez Márquez, secretario de Infraestructura, dijo que la obra concluirá en un plazo de tres semanas a partir de la fecha, lapso durante el cual los peatones tendrán que utilizar los andadores del puente Luis Donaldo Colosio para cruzar.
  
