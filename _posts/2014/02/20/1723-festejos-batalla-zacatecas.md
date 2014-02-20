@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-GUADALUPE, ZAC.-  El gobierno municipal de Guadalupe, a través del Archivo Histórico, puso en marcha los festejos que se realizarán para conmemorar el centenario de la Batalla de Zacatecas.
+![](http://i.imgur.com/0yv7GVym.jpg)GUADALUPE, ZAC.-  El gobierno municipal de Guadalupe, a través del Archivo Histórico, puso en marcha los festejos que se realizarán para conmemorar el centenario de la Batalla de Zacatecas.
  
 Las actividades que se realizarán a partir de la fecha y hasta este próximo 23 de junio, donde se cumplirán los 100 años de este acontecimiento, se realizarán exposiciones, conferencias, eventos culturales y artísticos que se ceñirán a los festejos que desde la Comisión Especial para los Festejos del Centenario de la Batalla de Zacatecas.
  
