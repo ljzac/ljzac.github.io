@@ -8,7 +8,7 @@ category: Política
 layout: posts
 ---
 
-
+![](http://i.imgur.com/cZ4WpLWm.jpg)
 ■ Exhortan a limpiar proceso de selección como lo mandata el TEPJF; hay que enmendar rumbo, afirman
 
 Diputados de oposición acusaron al PRI en conferencia de prensa de querer imponer una vez más a su operador político, Otilio Rivera Herrera como consejero del Instituto Electoral del Estado de Zacatecas (IEEZ), y amagaron con que de concretarse el cometido, ellos harán lo propio y pondrán perfiles cercanos a sus partidos. 
