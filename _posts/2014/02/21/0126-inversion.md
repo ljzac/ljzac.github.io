@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-
+![](http://i.imgur.com/Gmz9oVDm.jpg)
 La visita del gobernador Miguel Alonso Reyes a países de Asia será para promover al estado a empresarios de China, Corea y Japón, y se pretende visitar al menos ocho empresas, la mayoría del sector automotriz, para dar a conocer la oferta de parques industriales que tiene la entidad, informó Patricia Salinas Alatorre, titular de la Secretaría de Desarrollo Económico (Sedezac).
 
 “La expectativa es poner a Zacatecas en el mapa y en la mente de los empresarios e inversionistas de Asia.  El gobernador traerá buenas noticias a los zacatecanos”, indicó Salinas.
