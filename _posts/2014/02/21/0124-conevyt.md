@@ -7,8 +7,7 @@ category: Educación
 layout: posts
 ---
 
-
-El Consejo Nacional de Educación para la Vida y el Trabajo (Conevyt) entregó al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issstezac) el reconocimiento que lo declara como institución libre de rezago educativo. 
+![](http://i.imgur.com/S6hJuPem.jpg)El Consejo Nacional de Educación para la Vida y el Trabajo (Conevyt) entregó al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issstezac) el reconocimiento que lo declara como institución libre de rezago educativo. 
 
 Víctor Rentería López, director general del Issstezac, expresó que se premió el fomento a la educación mediante la certificación de estudios de secundaria de 122 trabajadores del instituto.
 
