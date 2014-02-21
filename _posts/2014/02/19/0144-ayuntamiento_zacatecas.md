@@ -9,7 +9,7 @@ layout: posts
 ---
 
 ![Trabajadores del ayuntamiento son ciudadanos comprometidos con brindar un mejor servicio, afirma Carlos Peña ■ foto: la jornada zacatecas](http://i.imgur.com/K50jpq5m.jpg)
-El  presidente municipal de Zacatecas, Carlos Peña Badillo, firmó un convenio con el Instituto de Selección y Capacitación (Inselcap) de Gobierno estatal, para capacitar y certificar a 600 servidores públicos del ayuntamiento.
+El presidente municipal de Zacatecas, Carlos Peña Badillo, firmó un convenio con el Instituto de Selección y Capacitación (Inselcap) de Gobierno estatal, para capacitar y certificar a 600 servidores públicos del ayuntamiento.
 
 Los funcionarios de diversas áreas, principalmente las que dan una atención continua al público, se certificarán en atención al ciudadano mediante el programa Conocer, en Responsabilidad y Calidad en el Servicio, así como en Microsoft, Word, Excel, y Power Point, sin costo alguno para la administración.
 
