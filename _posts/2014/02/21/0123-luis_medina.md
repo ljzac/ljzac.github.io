@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-
+![](http://i.imgur.com/zFJdj8Wm.jpg)
 ■ Una manera de legitimarse como partido sería tomar decisiones conforme la ley, señala
 
 A consideración del dirigente estatal del Movimiento de Regeneración Nacional (Morena), Luis Medina Lizalde, es grotesca la intención de los grupos parlamentarios de oposición de imponer a consejeros del Instituto Electoral del Estado de Zacatecas (IEEZ) afines a su partido, únicamente en caso de que el PRI nombre a Otilio Rivera Herrera. 
@@ -21,4 +21,4 @@ En un contexto donde se vive una crisis del régimen de partidos políticos, el 
 
 Para los partidos es fundamental y decisivo ser congruentes, de lo contrario habrá más gente decidida a hacer las cosas de otro modo, de ahí que comentó, el reto de Morena justamente radica en ser distintos para lograr una cultura política renovada, donde la gente pueda valorar en ellos un auténtico instrumento para la realización de sus aspiraciones. 
 
-“Eso ya muy pronto lo deberemos mostrar en la práctica, en una etapa donde lo viejo y lo nuevo se entremezclen”. 
+“Eso ya muy pronto lo deberemos mostrar en la práctica, en una etapa donde lo viejo y lo nuevo se entremezclen”.
