@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-
+![](http://i.imgur.com/MHbovoim.jpg)
 El gobernador Miguel Alonso Reyes supervisó la obra del Gasoducto Centenario, a la altura de la localidad de Noria de Gringos, en el municipio de Morelos.
 
 Patricia Salinas, titular de la Secretaría de Economía, informó que se tiene 80 por ciento de avance en 119 kilómetros de los 174 que comprende, desde la ciudad de Aguascalientes hasta Calera, restando 55 kilómetros de diferentes tramos, además de que se instalaron 18 registros de un total de 28.
