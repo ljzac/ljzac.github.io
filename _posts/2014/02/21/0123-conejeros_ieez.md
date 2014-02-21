@@ -4,7 +4,7 @@ title: Acusan diputados de oposición al PRI de querer imponer a Otilio Rivera c
 twitt: "■ De concretarse el cometido, ellos harán lo propio y pondrán perfiles cercanos a sus partidos, dicen"
 author: ALMA AEJANDRA TAPIA
 location: Local
-category: Política
+category: Portada
 layout: posts
 ---
 
