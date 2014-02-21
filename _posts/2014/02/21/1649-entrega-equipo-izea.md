@@ -7,7 +7,7 @@ category: Destacadas
 layout: posts
 ---
 
-![Foto: RAFAEL DE SANTIAGO](http://i.imgur.com/YYmLqupm.jpg)En tres años, ha bajado ocho puntos porcentuales el rezago educativo en la entidad, destacó el gobernador Miguel Alonso Reyes durante la entrega de equipo a personal del Instituto Zacatecano de Educación para Adultos (IZEA).
+![Foto: ANDRÉS SÁNCHEZ](http://i.imgur.com/ABlcnJAm.jpg)En tres años, ha bajado ocho puntos porcentuales el rezago educativo en la entidad, destacó el gobernador Miguel Alonso Reyes durante la entrega de equipo a personal del Instituto Zacatecano de Educación para Adultos (IZEA).
 
 Mencionó que al inicio de su administración, existían en el estado un millón 400 mil 610 habitantes, de los cuales 996 mil 321 eran mayores de 15 años de edad, y 482 mil 672 personas estaban en situación de rezago educativo, lo que significaba 51.2 por ciento. De éstos, 60 mil 382 zacatecanos no estaban alfabetizados.
 
