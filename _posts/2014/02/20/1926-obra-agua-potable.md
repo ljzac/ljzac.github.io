@@ -1,6 +1,6 @@
 ---
 published: true
-title: Supervisan avance de obra para abasto de agua potable
+title: Supervisan avance de obra en Fresnillo para abasto de agua potable
 author: REDACCIÓN
 location: Local
 category: Destacadas
