@@ -7,7 +7,8 @@ category: Principales
 layout: posts
 ---
 
-![Integrantes del sindicato acusan al gobierno de ser omiso para dirimir un problema de interés nacional. Foto ](http://i.imgur.com/kqADmMLm.jpg)México, DF. La administración fraudulenta, encabezada por Gastón Azcárraga y su consejo de administración en Mexicana de Aviación, han ocasionado un daño patrimonial por 15 mil millones de pesos para la aerolínea y un incremento de tarifas de hasta 60 por ciento, afirmaron dirigentes sindicales de la aerolínea.
+![Integrantes del sindicato acusan al gobierno de ser omiso para dirimir un problema de interés nacional. Foto ](http://i.imgur.com/kqADmMLm.jpg) 
+México, DF. La administración fraudulenta, encabezada por Gastón Azcárraga y su consejo de administración en Mexicana de Aviación, han ocasionado un daño patrimonial por 15 mil millones de pesos para la aerolínea y un incremento de tarifas de hasta 60 por ciento, afirmaron dirigentes sindicales de la aerolínea.
 
 En conferencia de prensa, señalaron que el gobierno federal ha sido "omiso" para dirimir un conflicto "no entre particulares, sino de interés nacional, porque lo que está en juego es la soberanía del espacio aéreo", al destacar que en reiteradas ocasiones se ha solicitado que los bienes de la empresa, sometida a concurso mercantil, le sean asignados a los trabajadores para volver a operar.
 

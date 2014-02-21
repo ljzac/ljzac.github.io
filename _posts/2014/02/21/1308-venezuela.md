@@ -7,7 +7,8 @@ category: Mundo
 layout: posts
 ---
 
-![Estudiantes que apoyan al gobierno del presidente venezolano, Nicolás Maduro, pintan un mural para promover la paz en el país. Foto Xinhua](http://i.imgur.com/QqKMHwLm.jpg)Caracas. Las protestas que han sacudido a Venezuela en los últimos 10 días han dejado al menos ocho muertos y 134 heridos, informó hoy viernes la fiscal general, Luisa Ortega.
+![Estudiantes que apoyan al gobierno del presidente venezolano, Nicolás Maduro, pintan un mural para promover la paz en el país. Foto Xinhua](http://i.imgur.com/QqKMHwLm.jpg) 
+Caracas. Las protestas que han sacudido a Venezuela en los últimos 10 días han dejado al menos ocho muertos y 134 heridos, informó hoy viernes la fiscal general, Luisa Ortega.
 
 La funcionaria dijo que en Caracas se registraron cuatro muertos, tres de ellos en los sucesos del 12 de febrero, cuando una marcha opositora llegó a la Fiscalía y degeneró en violencia, con un saldo de tres víctimas mortales y 66 heridos, y que fue el punto de partida de la ola de manifestaciones contra el gobierno.
 
