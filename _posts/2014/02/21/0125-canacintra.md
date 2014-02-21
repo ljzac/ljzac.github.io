@@ -7,7 +7,7 @@ category: Sociedad y Justicia
 layout: posts
 ---
 
-■ Pide se garantice mayor número de empleadoras en la bolsa que tiene el Conacyt
+![](http://i.imgur.com/TPQQaZ3m.jpg)■ Pide se garantice mayor número de empleadoras en la bolsa que tiene el Conacyt
 
 ■ Mendoza Jasso toma protesta como vicepresidente nacional de Desarrollo, Ciencia y Tecnología
 
