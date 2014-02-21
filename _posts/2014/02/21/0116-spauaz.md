@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-
+![](http://i.imgur.com/FRZTeVdm.jpg)
 ■ Transcurre sin novedad segundo día de suspensión de actividades del personal docente
 
 Antonio Guzmán Fernández, secretario general del Sindicato de Personal Académico de la Universidad Autónoma de Zacatecas (Spauaz), informó que el segundo día de huelga en la institución transcurrió sin novedad alguna, pues no hubo información de Rectoría sobre el avance de sus gestiones. 
@@ -26,4 +26,4 @@ Coincidió en que la administración central cuenta con los recursos para realiz
 “Creo que la Rectoría tiene cierto margen de maniobra para pagar la Seguridad Social, además de todo el recurso extraordinario que se podría conseguir. Por eso veo que esto depende de voluntad”, dijo el secretario general del Spauaz. 
 
 Manifestó que la estrategia y la actitud de la Rectoría no son comprensibles para resolver el conflicto antes de estallar la huelga y después. Durante todo ese periodo, incluso, “no nos ha entregado información por escrito sobre el adeudo real con el ISSSTE ni el convenio financiero con la Federación y Gobierno estatal”. 
-Guzmán Fernández señaló que el Spauaz valorará la posibilidad de terminar la huelga día a día, aunque ello dependerá de la postura de los maestros, de acuerdo con la respuesta de Rectoría. 
+Guzmán Fernández señaló que el Spauaz valorará la posibilidad de terminar la huelga día a día, aunque ello dependerá de la postura de los maestros, de acuerdo con la respuesta de Rectoría.
