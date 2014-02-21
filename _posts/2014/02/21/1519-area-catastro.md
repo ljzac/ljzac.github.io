@@ -25,4 +25,4 @@ El munícipe tuvo especial interés en conocer las labores que realizan los empl
 
 Luego de establecer que Catastro se cambiará a las oficinas de Registro Civil, el alcalde Peña le reiteró a su personal que este año se hará una importante renovación de oficinas, además de equipamiento, que les permita realizar sus labores de manera digna.
 
-De igual manera supervisó los trabajos de remodelación de lo que fueron las oficinas del SMDIF, donde se ubicarán los cubículos para ocho regidores y la Sindicatura. Al final, y acompañado por la diputada federal, Judith Guerrero López, definió que también será modernizada la sala de juntas, contigua a la Sala de Cabildo, ya que tiene vitrinas vetustas que dan un mal aspecto.
+De igual manera supervisó los trabajos de remodelación de lo que fueron las oficinas del SMDIF, donde se ubicarán los cubículos para ocho regidores y la sindicatura. Al final, y acompañado por la diputada federal, Judith Guerrero López, definió que también será modernizada la sala de juntas, continua a la Sala de Cabildo, ya que tiene vitrinas que dan un mal aspecto.
