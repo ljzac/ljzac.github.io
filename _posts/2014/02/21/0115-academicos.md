@@ -8,7 +8,7 @@ category: Educación
 layout: posts
 ---
 
-
+![](http://i.imgur.com/xXSWIICm.jpg)
 La marcha realizada por docentes universitarios el pasado lunes y el resultado del plebiscito en el que la mayoría votó a favor de la huelga, demuestra que la correlación de fuerzas al interior de la Universidad Autónoma de Zacatecas (UAZ) ahora no respalda a la Rectoría que encabeza Armando Silva Cháirez.
 
 Así lo afirmaron Miguel Moctezuma Longoria, Eligio Meza Padilla, Ernesto Perales Núñez y Jorge Luis Chavira Sánchez, quienes, en representación de Universitarios por la Reestructuración Incluyente, presentaron una propuesta de reingeniería académica y económica en la institución, en el contexto de la huelga iniciada por el Sindicato de Personal Académico (Spauaz).
