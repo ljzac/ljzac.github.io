@@ -1,7 +1,9 @@
 ---
 published: true
+title: "Busca Seduzc implementar política pública en equidad de género "
+author: REDACCIÓN
 location: Local
-category: Portada
+category: Destacadas
 layout: posts
 ---
 
