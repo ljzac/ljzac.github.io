@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Participa alcalde capitalino en festejo por el Día de la Bandera’, en La Soledad"
+title: "Participa alcalde capitalino en festejo por el 'Día de la Bandera’, en La Soledad"
 author: REDACCIÓN
 location: Local
 category: Destacadas
