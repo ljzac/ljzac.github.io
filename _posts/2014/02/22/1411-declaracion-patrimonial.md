@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Listo, padrón de declarantes de situación patrimonial de Godezac la próxima semana"
+title: "Próxima semana, listo el padrón de declarantes de situación patrimonial de Godezac"
 author: REDACCIÓN
 location: Local
 category: Destacadas
