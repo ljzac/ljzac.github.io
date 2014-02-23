@@ -1,6 +1,6 @@
 ---
 published: true
-title: Instala SEDIF sistemas de riego por goteo en 41 comunidades de muy alta marginación en Pinos
+title: Instala SEDIF sistemas de riego por goteo en 41 comunidades de alta marginación en Pinos
 author: REDACCIÓN
 location: Local
 category: Destacadas
@@ -24,4 +24,3 @@ Asimismo, reconoció la participación del alcalde, lo felicitó también por el
 El programa de riego por goteo es operado por la Dirección de Alimentación y Desarrollo Comunitario del SEDIF y forma parte de las acciones de la Cruzada Nacional contra el Hambre.
  
 Cabe destacar que, además de entregarles la semilla para sembrar, se les brinda a las familias la capacitación que requieren para optimizar la cosecha de sus productos.
- 
