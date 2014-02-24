@@ -8,7 +8,8 @@ category: Portada
 layout: posts
 ---
 
-![Instalaciones de la Escuela Normal de San Marcos ■ fotos: MIGUEL ANGEL NUÑEZ](http://i.imgur.com/tCnV87Hm.jpg)
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/Rw0leMxCdkc" frameborder="0" allowfullscreen></iframe></div>
+
 ■ Para logar el desarrollo de estas escuelas se necesita redifinir nuevos paradigmas: Ibarra
 
 Marginado, olvidado y perseguido por el Estado, el normalismo rural es el último eslabón de la educación socialista promovida en México en la etapa posrevolucionaria. Después de 80 años es uno de los pocos y genuinos espacios de resistencia estudiantil contra la imposición de políticas neoliberales.
@@ -20,13 +21,13 @@ El normalismo rural es producto de la Revolución Mexicana y en su momento tuvo 
 Al respecto, el investigador Manuel Ibarra Santos afirma: “Creo que no podemos entender el México del siglo 20 sin la aportación pedagógica, política y cultural de las Normales Rurales, pues han cumplido con creces su función. Ahora son el último eslabón con la educación socialista en el país y se han constituido en un espacio de resistencia contra lo que han llamado la irrupción impositiva de las políticas neoliberales”.
 
 No obstante, afirma que las Normales Rurales deben repensar su modelo de gestión no sólo en el ámbito de la administración, sino también en el académico, y sin transgredir su esencia, debe plantearse su renovación a fin de evitar “la tentación de disminuirlas o desaparecerlas”, como ha ocurrido en momentos históricos determinados, por ejemplo durante el movimiento estudiantil de 1968, cuando cerraron 50 por ciento de esas Normales.
-
+![Instalaciones de la Escuela Normal de San Marcos ■ fotos: MIGUEL ANGEL NUÑEZ](http://i.imgur.com/tCnV87Hm.jpg)
 Raúl Parra Delgado, ex director de la Normal Rural de San Marcos General Matías Ramos Santos, ubicada en el municipio de Loreto, coincide en que la creación de esas instituciones fue una respuesta a los planteamientos de la Revolución Mexicana, pero con una mística que se ha mantenido.
 
 La formación de maestros en esas Normales, explica, es desfavorable para el modelo político y económico, porque hay la pretensión de controlar al magisterio “y tenernos al servicio exclusivamente de lo que imponga el sistema, sin contemplar que somos producto de la idea de generar mejores condiciones de vida para la sociedad y las clases más desprotegidas”.
 
 De acuerdo a ese argumento, para el sistema político y económico imperante es inadmisible que haya quienes busquen la reivindicación social de los sectores más vulnerables, motivo por el cual  el pensamiento marxista ha quedado arraigado en el normalismo rural y por tal motivo es rechazado en cierta medida en el sistema educativo.
-![](http://i.imgur.com/iIVnN72m.jpg)
+
 Por lo tanto, los maestros egresados de las Normales Rurales no se convertirán “en meros ejecutores de diseños educativos que en ocasiones se elaboran detrás de un escritorio sin el pleno conocimiento de las condiciones rurales”, indica Parra Delgado.
 
 Asimismo, menciona que dos de sus hijos son formados en la Normal Manuel Ávila Camacho, en la capital del estado, y otros dos en la Normal Rural General Matías Ramos Santos. Al comparar, “no me cabe ninguna duda que para el Estado, la formación de un maestro rural resulta más cara, porque su inversión en una escuela común es mínima, pero al padre de familia le resulta cuatro veces más barato educar a sus hijos en una Normal Rural”.
@@ -92,7 +93,7 @@ El tema “se trató con las autoridades pero no nos han dado una respuesta favo
 Otra de las exigencias que aún no son atendidas es la del servicio de Internet, lo cual preocupa a los estudiantes porque si el discurso oficial se habla de calidad, es inadmisible que no se otorguen las herramientas necesarias para ello.
 
 También se exigió la colocación de nuevos boilers, porque los que tenían dejaron de funcionar y los normalistas debían bañarse con agua fría. En ese aspecto se ha cumplido con la colocación de calentadores solares en cuatro plantas del internado, pero aún falta más de la mitad. Es decir, “las condiciones siguen siendo precarias. Aquí en San Marcos hacen falta muchas cosas”.
-
+![](http://i.imgur.com/iIVnN72m.jpg)
 El 13 de enero y el 2 de octubre de cada año, los normalistas sanmarqueños  se trasladan a la capital del estado para realizar marchas que ya son tradicionales. La primera se lleva a cabo para recordar la represión de que fueron objeto en el año 2000, cuando corporaciones policiacas impidieron el acceso de los estudiantes a la capital del estado durante una visita del entonces presidente Ernesto Zedillo. La segunda, para conmemorar la matanza estudiantil perpetrada por el gobierno mexicano en 1968.
 
 En ambas fechas, los normalistas aprovechan para reunirse con funcionarios de la Secretaría de Educación de Zacatecas para presentarles demandas y exigencias similares a las mencionadas arriba.
