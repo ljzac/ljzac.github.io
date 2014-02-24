@@ -1,6 +1,6 @@
 ---
 published: true
-title: La Jiribillam 24/02/2014
+title: La Jiribilla 24/02/2014
 twitt: “Ya acaecido el hecho llega tarde el consejo”
 author: por El Refranero
 location: Local
