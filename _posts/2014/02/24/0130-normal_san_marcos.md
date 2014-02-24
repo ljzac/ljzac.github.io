@@ -8,7 +8,7 @@ category: Portada
 layout: posts
 ---
 
-<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/Rw0leMxCdkc" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/faCFimuz1fg" frameborder="0" allowfullscreen></iframe></div>
 
 ■ Para logar el desarrollo de estas escuelas se necesita redifinir nuevos paradigmas: Ibarra
 
