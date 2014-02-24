@@ -8,7 +8,9 @@ category: Portada
 layout: posts
 ---
 
-![Meghan Monsour, coordinadora de programación de Ambulante, y Gabriela Marcial Reyes, directora de Cineteca Zacatecas, en el programa Acentos ■ fotoS: MIGUEL ÁNGEL NÚÑEZ](http://i.imgur.com/BCNL0rEm.jpg)
+<div align="center"><iframe width="420" height="236" src="//www.youtube.com/embed/Rw0leMxCdkc" frameborder="0" allowfullscreen></iframe></div>
+
+
 ■ Es claro su compromiso social, pero también hay referentes a la música y el arte: Meghan Monsour
 
 Los temas noticiosos no siempre pueden ser conocidos a profundidad, o bien,  se presentan de maneras que no logran afectar al espectador. La reflexión, atracción, provocación, reflejo e inspiración son parte de los poderes del documental, un medio que permite esta profundidad y aun, generar discusión sobre la problemática de México y el mundo, se dijo en Acentos, programa de La Jornada Zacatecas TV.
@@ -22,7 +24,8 @@ Ante las dificultades que el documental mexicano tenía para exhibirse en país 
 “Pero cuando empezaron a hacer el programa vieron que había otros documentales que también era importante ver”.
 
  De esta manera una primera iniciativa por mostrar el documental mexicano se hizo extensiva para incorporar una selección de trabajos internacionales. La primera experiencia involucró 15 películas y corrió por el circuito comercial Cinépolis a través de 16 estados del país.
- ![](http://i.imgur.com/zmU5mfum.jpg)
+ 
+ ![Meghan Monsour, coordinadora de programación de Ambulante, y Gabriela Marcial Reyes, directora de Cineteca Zacatecas, en el programa Acentos ■ fotoS: MIGUEL ÁNGEL NÚÑEZ](http://i.imgur.com/BCNL0rEm.jpg)
 Tras nueve años, los espacios de exhibición se han ampliado y se han sumado talleres, realizadores invitados y mesas redondas que se refieren no sólo a las películas sino a los temas que se tratan en ellas, como fue el caso de la problemática de abastecimiento de agua abordada en Cineteca Zacatecas el día del cierre del festival, propiciado por la exhibición de H2OMX, comentó.
 
 Carlos Navarrete, conductor de Acentos ubicó la conversación en torno al que denominó sello característico de los documentales mostrados en Ambulante, en los que se cuestiona el poder y se retrata “la realidad problemática del mundo y el México profundo”.
@@ -36,6 +39,7 @@ Todo esto se consolida en herramientas de transformación social y cultural que 
 No causa el mismo efecto la proyección de La Plaza, película de Jehane Noujaim (Estados Unidos-Egipto, 2013), que refiere la afectación de la vida de los jóvenes egipcios al involucrarse en la denominada Primavera Árabe, en los Estados Unidos o México, dijo la directora de programación de Ambulante a modo de ejemplo.
 
 En el primer caso, citó,  los espectadores pueden decir, “ah, interesante que esto esté pasando allá”.
+ ![](http://i.imgur.com/zmU5mfum.jpg)
 
 Mientras que para los mexicanos, con una “historia de revolución” previa, la reflexión puede ser: “ah, ellos están luchando por su país ¿Qué estamos haciendo nosotros?”.
 
