@@ -4,7 +4,7 @@ title: Felicita MAR a Peña Nieto por la captura de Joaquín Guzmán Loera
 twitt: "■ Se espera que el primer mandatario visite pronto el estado de Zacatecas, dicen"
 author: Redacción
 location: Local
-category: Sociedad y Justicia
+category: Portada
 layout: posts
 ---
 
